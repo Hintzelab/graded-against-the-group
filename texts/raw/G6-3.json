@@ -1,0 +1,425 @@
+{
+  "assignment_id": "G6-3",
+  "texts": [
+    {
+      "n": 1,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Ich habe mathe. Sport ist gut",
+      "rationale": "Only two very short fragments; names two subjects and hints at a liking but no favourite subject or dislike expressed. Too little text to meet E."
+    },
+    {
+      "n": 2,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Lieblingsfak musik.",
+      "rationale": "A single two-word fragment with a spelling error; only one content point and no list of subjects or dislike. Far below E."
+    },
+    {
+      "n": 3,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Ich habe Mathe, Englisch, Deutsch, Sport und NO. Und Musik und Bild.",
+      "rationale": "Only lists subjects; no favourite subject and no disliked subject, so only one of three points is covered. E requires at least two."
+    },
+    {
+      "n": 4,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Ich spiele fotboll. Das ist kul. Ich habe ein katze.",
+      "rationale": "Misses the task: writes about hobbies and a pet instead of school subjects. Swedish transfer (fotboll, kul) and article error (ein katze)."
+    },
+    {
+      "n": 5,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Isch hab sule fil. Libling is idrot ja. Ich nich mate fint shver",
+      "rationale": "Attempts all points but spelling by ear and broken syntax (sule, fil, fint shver) make it barely comprehensible even with a benevolent reading."
+    },
+    {
+      "n": 6,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Mein fak is gut hem kunsk. ich nicht gern matte tag. is dum ich",
+      "rationale": "Heavily garbled word order and mixed Swedish fragments (hem kunsk, matte); meaning of the last two fragments is unclear. Does not reach an understandable E-level text."
+    },
+    {
+      "n": 7,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Ich habe matte, engelska och svenska. Mitt favoritämne är idrott. Jag gillar inte SO.",
+      "rationale": "Only the first clause is German; favourite and disliked subject are written entirely in Swedish. Content is there but not in German."
+    },
+    {
+      "n": 8,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "My favourite subject is music. I don't like math. Ich habe Deutsch.",
+      "rationale": "Two of three sentences are in English; only one short German sentence. Does not meet E as a German text."
+    },
+    {
+      "n": 9,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Mathe. Englisch. Sport ja gut. Musik nein.",
+      "rationale": "Genuine attempt but only single words strung together; no phrases or sentences, preference only implied by ja/nein. Below the E requirement of simple phrases and short sentences."
+    },
+    {
+      "n": 10,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Montag mathe. Dienstag bild. bild ja.",
+      "rationale": "Word strings with weekdays and subjects; the preference is only a vague 'bild ja' and there is no dislike. Too fragmentary to meet E."
+    },
+    {
+      "n": 11,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich habe mathe, englisk und idrott. Idrott sehr gut. Mathe nich gut.",
+      "rationale": "Names subjects and gives a like and a dislike in simple fragments; subject names partly Swedish (idrott, englisk), verbs missing. Understandable, but no full sentences or Lieblingsfach/gern expressions, so C is not met."
+    },
+    {
+      "n": 12,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "In der shule ich habe mathe, deutsch, bild und slöjd. Mein libligsfach ist bild. Das ist kul.",
+      "rationale": "Covers subjects and favourite (two points), no disliked subject. Spelling errors, lowercase nouns, V2 error, Swedish words (slöjd, bild, kul). Meets E but not C."
+    },
+    {
+      "n": 13,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich habe fil fächer. Musik, mathe, englisch och NO. Ich habe musik gern. Mathe nicht gern.",
+      "rationale": "All points touched in very simple phrases; one list fragment and one verbless fragment. Spelling by ear (fil), Swedish 'och', lowercase nouns. Understandable but C-level clarity and full sentences are missing."
+    },
+    {
+      "n": 14,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Am Montag ich habe Deutsch und Mathe. Deutsch ist gut. Ich mag nich Geschichte, ist tråkig.",
+      "rationale": "Mentions subjects, a liked and a disliked subject, but no clear favourite. V2 error after time phrase, missing subject pronoun, Swedish 'tråkig'. Simple and understandable: E."
+    },
+    {
+      "n": 15,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein liblings fak is Englisch. Ich habt auch mathe und sport. Sport nicht gern.",
+      "rationale": "Favourite, subjects and dislike are there, but in short broken form: misspelt Lieblingsfach, wrong conjugation (ich habt), verbless last sentence. Understandable with goodwill; not relatively clear."
+    },
+    {
+      "n": 16,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich habe hemkunskap, das is gut. Wir koche pizza. Ich habe auch Mathe und Schwedisch.",
+      "rationale": "Subjects and a liked subject are named (two points), no dislike. Swedish subject name, 'is', verb ending error (wir koche). Simple but understandable."
+    },
+    {
+      "n": 17,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Schule: Mathe, Biologi, Englisch, Musik. Ich finde Biologi gut. Ich finde Musik nicht gut.",
+      "rationale": "List fragment plus two formulaic sentences with repetitive 'Ich finde ... gut'. All points loosely covered, Swedish spelling (Biologi). Very limited vocabulary keeps it at E."
+    },
+    {
+      "n": 18,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich habe Sport und Kunst und Mathe und Deutsch. Ich habe gern Kunst. Mathe is shwer.",
+      "rationale": "Subjects, a liked subject and a difficulty are expressed, but with overuse of 'und', spelling errors (is, shwer) and no explicit Lieblingsfach. Simple, understandable: E."
+    },
+    {
+      "n": 19,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mittwoch habe ich teknik. Teknik ist super. Ich habe nicht gern Englisch. Englisch ist schwer fur mich.",
+      "rationale": "Only two subjects named; like and dislike given in short sentences. Swedish spelling (teknik), lowercase noun, missing umlaut. Repetitive and thin on subjects, so C is not met."
+    },
+    {
+      "n": 20,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich habe mathe, NO, SO und sport. Ich finde sport gut und kul. Ich finde SO nich gut.",
+      "rationale": "Three simple patterned sentences covering subjects, a like and a dislike; Swedish subject abbreviations and 'kul', lowercase nouns. No Lieblingsfach phrase, very limited vocabulary: E."
+    },
+    {
+      "n": 21,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich habe Mathe, Deutsch, englisch und Musik. Mein Lieblingsfach is Musik. Mathe ich habe nicht gern, das is shwer.",
+      "rationale": "All three points in sentences; Lieblingsfach used correctly. Errors: 'is', V2 error (Mathe ich habe), spelling (shwer). Mostly but not fully at C."
+    },
+    {
+      "n": 22,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "In die Schule habe ich Sport, Bild, Schwedisch und Mathe. Mein Liblingsfach ist Sport, wir spielen fotboll. Schwedisch habe ich nicht so gern.",
+      "rationale": "All points covered in full sentences. Case error (in die Schule), misspelt Liblingsfach, Swedish words (Bild, fotboll). Relatively clear but vocabulary transfer keeps it just below C."
+    },
+    {
+      "n": 23,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Dienstag habe ich Biologie und Englisch. Ich habe Biologie sehr gern, das ist mein Lieblingsfach. Ich habe nich gern Werken. Es ist langweili.",
+      "rationale": "All points in sentences with correct Lieblingsfach and gern. Only three subjects named; spelling slips (nich, langweili). Mostly at C level."
+    },
+    {
+      "n": 24,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich habe fiele Fächer: Mathe, NO, Musik und Kunst. Mein Lieblingsfach ist Mathe. Ich finde Kunst nicht gut, ich kan nicht malen.",
+      "rationale": "Covers all three points clearly; attempts a reason. Spelling errors (fiele, kan) and Swedish NO. Understandable and fairly clear, but errors and simple structure keep it at D."
+    },
+    {
+      "n": 25,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Meine Fächer sind Deutsch, Englisch, Sport und Geschichte. Ich habe gern Englisch. Geschichte finde ich nicht so gut. Das ist tråkig.",
+      "rationale": "All points present; favourite given as 'gern' rather than a clear Lieblingsfach. Swedish 'tråkig' in the final sentence. Relatively clear but not fully C."
+    },
+    {
+      "n": 26,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich habe Hauswirtschaft am Freitag. Das ist mein Lieblingsfach, wir kochen Pfannkuchen. Ich habe auch Mathe und Deutsch. Deutsch habe ich nich gern.",
+      "rationale": "All three points in sentences; Lieblingsfach correct. Minor spelling (nich), rather list-like and repetitive 'Ich habe'. Mostly meets C."
+    },
+    {
+      "n": 27,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Lieblingsfach ist Technik. Ich habe auch Mathe, Musik und Schwedisch. Ich finde Musik nich so gut, ich singe nicht gern.",
+      "rationale": "All three points covered with correct Lieblingsfach phrase and a simple reason. Slight spelling slip (nich); short and limited in range, so C mostly but not fully met."
+    },
+    {
+      "n": 28,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich habe Englisch, Mathe, Sport und Bild in die Schule. Ich mag Bild, das ist mein Lieblingsfach. Ich habe nicht gern Sport, es ist so kalt draussen.",
+      "rationale": "All points covered. Case error (in die Schule), Swedish subject name Bild, ss for ß. Relatively clear; errors and transfer keep it at D."
+    },
+    {
+      "n": 29,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Montag ich habe Mathe und Physik. Physik ist mein Lieblingsfach. Mathe habe ich nicht so gern. Ich habe auch Deutsch und Musik.",
+      "rationale": "All points in full sentences, Lieblingsfach correct. V2 error after 'Am Montag'; ideas not ordered and no reasons. Mostly at C."
+    },
+    {
+      "n": 30,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich habe Schwedisch, Englisch, Deutsch und NO. Ich habe gern Deutsch, es ist lustik. Ich habe NO nicht gern. NO ist schwer fur mich.",
+      "rationale": "All points covered; favourite expressed with gern, not Lieblingsfach. Spelling (lustik, fur), repetitive structure. Understandable and fairly clear: D."
+    },
+    {
+      "n": 31,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich habe Mathe, Englisch, Sport und Musik. Mein Lieblingsfach ist Sport. Ich habe Musik nicht gern. Am Donnerstag habe ich Deutsch.",
+      "rationale": "All three points in correct full sentences; correct V2 after time phrase. No reasons and no linking, so A is clearly not met."
+    },
+    {
+      "n": 32,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Meine Fächer sind Schwedisch, Mathe, Biologie und Kunst. Mein Lieblingsfach ist Kunst. Ich male gern. Ich habe Biologie nicht so gern.",
+      "rationale": "All points clearly covered in correct sentences with some variation. Short separate sentences, no connectors and only a minimal reason: C."
+    },
+    {
+      "n": 33,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Am Montag habe ich Englisch und Werken. Englisch ist mein Lieblingsfach. Ich habe auch Mathe und Geschichte. Geschichte habe ich nicht gern.",
+      "rationale": "All points in correct sentences, varied word order (Geschichte habe ich), 'auch' used. No evaluative reasons: C criteria met, A not."
+    },
+    {
+      "n": 34,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich habe viele Fächer in der Schule. Ich habe Deutsch, Mathe, Physik und Sport. Mein Lieblingsfach ist Mathe. Ich habe nicht gern Physik.",
+      "rationale": "Clear and correct, covers all points. Repetitive 'Ich habe' openings, no reasons or connectors, so A is not met."
+    },
+    {
+      "n": 35,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "In der Schule habe ich Musik, Englisch, Erdkunde und Mathe. Ich habe Musik sehr gern. Das ist mein Lieblingsfach. Erdkunde finde ich nicht gut.",
+      "rationale": "All points covered with correct phrases and some variation (finde ich). Opinions are not justified and there is little linking: C."
+    },
+    {
+      "n": 36,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Am Mittwoch habe ich Geschichte. Das ist mein Lieblingsfach. Ich habe auch Schwedisch, NO und Sport. Sport habe ich nicht so gern.",
+      "rationale": "All three points in correct, relatively clear sentences; weekday used. Swedish abbreviation NO; no reasons for opinions, so not A."
+    },
+    {
+      "n": 37,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Meine Schulfächer sind Deutsch, Englisch, Mathe und Hauswirtschaft. Ich habe Hauswirtschaft gern. Mein Lieblingsfach ist aber Deutsch. Ich habe Mathe nicht gern.",
+      "rationale": "All points covered correctly with some variation and one 'aber'. Opinions are stated but never justified: C."
+    },
+    {
+      "n": 38,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich habe Biologie, Chemie, Mathe und Bild. Biologie ist mein Lieblingsfach, ich finde Tiere toll. Chemie habe ich nicht gern.",
+      "rationale": "All points in correct sentences, one simple reason. Swedish 'Bild' for Kunst; dislike unexplained and text is short with little linking, so A is clearly not met."
+    },
+    {
+      "n": 39,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Lieblingsfach ist Schwedisch. Ich lese gern Bücher. In der Schule habe ich auch Mathe, Englisch, Kunst und Sport. Ich habe Kunst nicht so gern.",
+      "rationale": "All points clearly covered with correct language and a hint of a reason. Sentences stand side by side without evaluative judgements or connectors: C."
+    },
+    {
+      "n": 40,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich habe Erdkunde, Deutsch, Musik und Mathe. Mein Lieblingsfach ist Erdkunde. Ich finde Karten gut. Ich habe Musik nich gern.",
+      "rationale": "All three points in full sentences, one minor slip (nich). Simple, relatively clear; no linking words and limited justification: C."
+    },
+    {
+      "n": 41,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich habe Mathe, Englisch, Sport und Musik. Mein Lieblingsfach ist Englisch, ich finde Englisch leicht. Ich habe Mathe nicht so gern. Am Montag habe ich auch Sport und das ist gut.",
+      "rationale": "C fully met; favourite justified and connectors und/auch used. Dislike not justified and last sentence somewhat loose, so A mostly but not fully met."
+    },
+    {
+      "n": 42,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "In der Schule habe ich Deutsch, Biologie, Kunst und Mathe. Mein Lieblingsfach ist Kunst, denn ich male gern. Biologie finde ich auch gut. Mathe habe ich nicht gern.",
+      "rationale": "Correct verbs and word order, favourite justified, 'auch' used. The dislike is left unmotivated, so A is not fully met."
+    },
+    {
+      "n": 43,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Am Dienstag habe ich Sport und Geschichte. Sport ist mein Lieblingsfach, es macht Spass. Ich habe auch Mathe und Schwedisch. Ich finde Geschichte nicht so intressant.",
+      "rationale": "All points with simple judgements (macht Spass, nicht so interessant). Minor slips (Spass, intressant from Swedish); little explicit linking between ideas, so A mostly met."
+    },
+    {
+      "n": 44,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich habe viele Fächer: Mathe, NO, Englisch und Werken. Mein Lieblingsfach ist Werken, wir machen ein Vogelhaus. NO finde ich schwer und ich habe es nicht gern.",
+      "rationale": "All points covered, dislike justified with 'schwer', 'und' links clauses. Favourite explained by activity rather than a judgement; Swedish NO. Close to A but not fully."
+    },
+    {
+      "n": 45,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Lieblingsfach ist Mathe. Ich finde Mathe leicht und lustig. Ich habe auch Deutsch, Musik und Sport. Musik habe ich nicht gern, ich singe nicht gut.",
+      "rationale": "Both opinions are motivated and language is correct. Repetition of 'Mathe' and only 'und/auch' as linking; somewhat list-like, so A mostly met."
+    },
+    {
+      "n": 46,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich habe Englisch, Deutsch, Chemie und Hauswirtschaft. Hauswirtschaft ist mein Lieblingsfach, wir backen Brot. Deutsch ist auch gut. Chemie habe ich nicht so gern, es ist schwer.",
+      "rationale": "C fully met with some reasons and 'auch'. Judgements are brief (gut, schwer) and the text lacks 'aber'-style contrast; A mostly but not fully met."
+    },
+    {
+      "n": 47,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Meine Fächer sind Schwedisch, Mathe, Physik und Musik. Ich habe Physik sehr gern, das ist spannend. Mein Lieblingsfach ist aber Musik. Schwedisch finde ich langweilig.",
+      "rationale": "Varied vocabulary (spannend, langweilig) and 'aber' used correctly. The actual favourite is not motivated, and the text is slightly jumpy, so A is not fully met."
+    },
+    {
+      "n": 48,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "In der Schule habe ich Erdkunde, Englisch, Sport und Mathe. Mein Lieblingsfach ist Technik, wir bauen kleine Roboter. Ich habe Englisch nicht gern, die Wörter sind schwer.",
+      "rationale": "Both opinions motivated with correct verbs. Favourite is not in the listed subjects (small coherence break) and there are few connectors; A mostly met."
+    },
+    {
+      "n": 49,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich habe Kunst am Donnerstag und Musik am Freitag. Musik ist mein Lieblingsfach, ich spiele Gitarre. Ich habe auch Deutsch und Mathe. Deutsch habe ich nicht gern, aber es ist wichtig.",
+      "rationale": "Weekdays, 'auch' and 'aber' used; all points covered correctly. Reasons are mostly activities rather than judgements and the dislike is not really explained: B."
+    },
+    {
+      "n": 50,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich habe Deutsch, Englisch, Mathe und Sport. Deutsch ist mein Lieblingsfach, ich finde es schön. Englisch ist auch gut. Sport habe ich nicht gern, ich bin nicht so schnell.",
+      "rationale": "All points with simple judgements and reasons; verbs correct. Vocabulary fairly basic (gut, schön) and linking limited to 'auch', so A is mostly but not fully met."
+    },
+    {
+      "n": 51,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "In der Schule habe ich Mathe, Englisch, Deutsch, Sport und Musik. Mein Lieblingsfach ist Sport, denn ich spiele gern Fussball und Basketball. Ich finde Deutsch interessant, aber manchmal ist es schwer. Mathe habe ich nicht so gern, es ist oft langweilig.",
+      "rationale": "All points with motivated judgements, und/aber/denn linking, correct verbs and V2 inversion. One minor slip (Fussball). Still simple A1 language."
+    },
+    {
+      "n": 52,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Am Montag habe ich Kunst und Biologie, und am Dienstag habe ich Mathe und Schwedisch. Mein Lieblingsfach ist Kunst, ich male und zeichne sehr gern. Biologie finde ich auch toll. Aber Mathe mag ich nicht so gern, die Aufgaben sind zu schwer für mich.",
+      "rationale": "Weekdays, all points, motivated opinions, connectors und/auch/aber; correct verbs and word order throughout. Relatively varied vocabulary for A1."
+    },
+    {
+      "n": 53,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich habe viele Fächer, zum Beispiel Englisch, Geschichte, Werken und Chemie. Englisch ist mein Lieblingsfach, weil es leicht und lustig ist. Geschichte finde ich auch spannend. Chemie habe ich aber nicht gern, das ist kompliziert.",
+      "rationale": "All points justified with simple judgements, correct verb-final 'weil' clause, auch/aber used. Coherent and correct; no slips."
+    },
+    {
+      "n": 54,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Meine Schulfächer sind Deutsch, Mathe, Musik, Sport und Hauswirtschaft. Ich habe Hauswirtschaft sehr gern, denn wir kochen Pasta und backen Kuchen. Mathe ist auch gut, und die Lehrerin ist nett. Sport mag ich nicht so gern, es ist immer sehr laut in der Halle.",
+      "rationale": "All points motivated, varied vocabulary (backen, Halle, laut), connectors denn/und/auch. Favourite given via 'sehr gern' rather than Lieblingsfach, but clearly signalled. Correct throughout."
+    },
+    {
+      "n": 55,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Lieblingsfach ist Mathe, denn ich finde Zahlen toll und Mathe ist logisch. Ich habe auch Englisch, Schwedisch und Kunst. Englisch finde ich gut, aber Kunst mag ich nicht so gern. Ich kann nicht so gut malen.",
+      "rationale": "All points with judgements and reasons, denn/und/auch/aber linking, modal verb used correctly. Coherent, error-free A1 text."
+    },
+    {
+      "n": 56,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Am Mittwoch habe ich Physik, Deutsch und Sport. Physik finde ich super interessant, das ist mein Lieblingsfach. Deutsch ist auch schön, aber die Grammatik ist schwer. Ich habe Musik nicht gern, denn ich singe nicht gern vor der Klasse.",
+      "rationale": "All points motivated, weekday, auch/aber/denn, correct verbs and word order. Varied vocabulary (Grammatik, vor der Klasse) within A1."
+    },
+    {
+      "n": 57,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "In der Schule habe ich Erdkunde, Mathe, Englisch und Werken. Werken ist mein Lieblingsfach, weil ich gern mit Holz arbeite. Erdkunde finde ich auch interessant. Aber Englisch mag ich nicht so gern, wir haben immer so viele Hausaufgabe.",
+      "rationale": "All points with reasons, correct 'weil' clause, auch/aber linking. One minor slip (Hausaufgabe for Hausaufgaben)."
+    },
+    {
+      "n": 58,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich habe Schwedisch, Biologie, Technik und Sport. Biologie ist mein Lieblingsfach, ich lerne gern über Tiere und Pflanzen. Technik finde ich auch toll, aber manchmal ist es schwer. Schwedisch mag ich nicht so gern, wir schreiben so viel.",
+      "rationale": "All points motivated, connectors auch/aber, correct inversion (manchmal ist es). Relatively varied vocabulary; no errors."
+    },
+    {
+      "n": 59,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Lieblingsfach ist Geschichte, denn ich finde alte Burgen spannend. Ich habe auch Musik, Mathe und Deutsch. Musik ist lustig, und Deutsch finde ich auch gut. Aber Mathe habe ich nicht gern, es ist so schwer für mich.",
+      "rationale": "All points with simple judgements (spannend, lustig, schwer), denn/und/auch/aber create coherence. Correct verbs and word order."
+    },
+    {
+      "n": 60,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich habe jeden Tag Mathe, und am Freitag habe ich Chemie und Kunst. Chemie ist mein Lieblingsfach, die Experimente sind cool. Kunst finde ich auch schön. Mathe mag ich nicht so gern, weil ich die Aufgaben langweilig finde.",
+      "rationale": "All points motivated, weekday, correct verb-final 'weil' clause, auch/und linking. Informal 'cool' is the only mild blemish; otherwise correct."
+    }
+  ]
+}

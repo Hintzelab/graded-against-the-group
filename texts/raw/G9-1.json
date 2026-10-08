@@ -1,0 +1,425 @@
+{
+  "assignment_id": "G9-1",
+  "texts": [
+    {
+      "n": 1,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "handy ist gut. ich will handy in schule",
+      "rationale": "Two short fragments; a vague stance but no reason given. Lowercase nouns, missing articles and punctuation."
+    },
+    {
+      "n": 2,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Nein. Verboten ist dumm",
+      "rationale": "One-word answer plus a fragment; an opinion can be guessed but no reason is given. Far too short to meet E."
+    },
+    {
+      "n": 3,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Ich habe ein Handy. Mein Handy ist schwarz und ich spiele viel. Ich habe das Handy seit zwei Jahre.",
+      "rationale": "Misses the task: describes own phone and gives no opinion on a ban and no reason. Simple but mostly understandable German (seit zwei Jahre)."
+    },
+    {
+      "n": 4,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "In meine Schule wir haben ein Handykasten. Die Lehrer nimmt die Handys in die Morgen. Wir bekommen sie nach die Schule zurück.",
+      "rationale": "Describes the school's phone rule but expresses no opinion and gives no reason, so the core of the task is missing. Case, agreement and word-order errors (In meine Schule wir haben, die Lehrer nimmt)."
+    },
+    {
+      "n": 5,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Ich finden handy nich verbot weil sie ist han mit ich shule. Es gut fur kompis och mit spil de rast wen ist.",
+      "rationale": "Intended opinion (against a ban) is hard to reconstruct; sentences largely incomprehensible, spelling by ear (shule, spil), Swedish words (och, rast, kompis)."
+    },
+    {
+      "n": 6,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Handys ist verbieten schule weil das ist nich lernen gut ich ist tyck nein. den handy macht dich mit ist schlecht fur.",
+      "rationale": "Word salad: impossible to tell whether the writer is for or against a ban. Verb forms, word order and Swedish interference (tyck) make the text incomprehensible."
+    },
+    {
+      "n": 7,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Ich finde att mobiler inte ska vara förbjudna. Because we need them for music and to chatta med kompisar. Sehr gut.",
+      "rationale": "Opinion and reason are expressed almost entirely in Swedish and English; only a few German words. E not met in the target language."
+    },
+    {
+      "n": 8,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Handy in der Schule, no! Man kan inte koncentrera sig och det finns mycket mobbning på nätet. Ich finde schlecht.",
+      "rationale": "The reasons (concentration, online bullying) are written in Swedish; the German parts are fragments. Does not meet E in German."
+    },
+    {
+      "n": 9,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Handy. Schule. Nein verboten. Musik, spielen, freunde. gut.",
+      "rationale": "Genuine attempt made of single words strung together; a stance against a ban can be guessed, but there are no sentences and no clearly expressed reason."
+    },
+    {
+      "n": 10,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "ich handy ja. schule handy schlecht lernen. lehrer arg. nicht gut nicht schlecht.",
+      "rationale": "Keyword fragments without verbs; the opinion is contradictory and unclear and no reason is formulated. Swedish arg for angry; lowercase throughout."
+    },
+    {
+      "n": 11,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich finde Handys soll verboten in der Schule sein. Weil man kann nicht lernen mit Handy. Viele spielen spiele in die Lektion. Das ist nicht gut.",
+      "rationale": "Clear opinion and one reason (distraction/games); simple and understandable. Weil-clause with main-clause order as a separate sentence, agreement errors (Handys soll), in die Lektion, spiele lowercase; C not met."
+    },
+    {
+      "n": 12,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich denke Handys soll nicht verboten sein. Ich brauche mein Handy für die bus. Ich sehe wann die bus kommt. Das ist wichtig für mich.",
+      "rationale": "Opinion plus one reason (bus times), understandable. Repetitive ich-sentences, gender/capitalisation errors (die bus), no correct subordinate clause; vocabulary very simple."
+    },
+    {
+      "n": 13,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Meine Meinung ist nein. Handys ist gut in der schule weil man kann Musik hören in die Pause. Ich liebe Musik. Ohne Musik die Pause ist langweilig.",
+      "rationale": "Opinion against a ban with one reason (music in breaks). Weil-clause and inversion wrong (weil man kann, Ohne Musik die Pause ist), agreement error, schule lowercase. Simple but comprehensible."
+    },
+    {
+      "n": 14,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich finde Handys ist schlecht in Schule. Man redet nicht mit Freunde in die Pause, alle sehen nur auf die Handy. Das ist traurig. Ja, verboten.",
+      "rationale": "Opinion for a ban with one reason (less talking in breaks). Understandable but simple; article/case errors (mit Freunde, in die Pause, auf die Handy), no subordinate clauses."
+    },
+    {
+      "n": 15,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich denke das Handy ist gut für lernen. Wir kann Wörter suchen auf Google. Und wir kann Bilder machen von der Tafel. Nein, nicht verboten!",
+      "rationale": "Opinion against a ban with simple reasons (looking up words, photos of the board) listed rather than explained. Conjugation errors (wir kann), Swedish word order in the object phrase, no subordinate clause; C not met."
+    },
+    {
+      "n": 16,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Handys sollen verboten sein, ich finde. Es gibt viel Mobbing auf Snapchat und so. Das ist nicht schön für die Schüler.",
+      "rationale": "Opinion for a ban and one reason (cyberbullying). Very simple vocabulary, awkward word order (ich finde at the end), no linking or subordinate clauses."
+    },
+    {
+      "n": 17,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich finde ja, Handys soll verboten sein. Weil in die Test man kann schummeln mit Handy. Das ist nicht fair.",
+      "rationale": "Opinion and one reason (cheating on tests), understandable. Weil-clause as a fragment with main-clause order, case/gender errors (in die Test), missing article; only one reason."
+    },
+    {
+      "n": 18,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich will mein Handy haben in der Schule. Wenn es gibt ein Problem ich kann meine Familie anrufen. Das ist sehr wichtig. Handy verboten ist nicht gut.",
+      "rationale": "Opinion against a ban with one reason (contact family in emergencies). Wenn-clause and following main clause have wrong word order; simple vocabulary; understandable overall."
+    },
+    {
+      "n": 19,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich denke Handys sind nicht gut für Schule. Man ist müde weil man spielt Handy in die Nacht und dann in die Schule auch. Ich finde verboten ist ok.",
+      "rationale": "Opinion (a ban is ok) and one reason (tiredness from phone use). Weil-clause with main-clause order, case errors, the reasoning is somewhat muddled; E met but not C."
+    },
+    {
+      "n": 20,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Nein, ich finde nicht dass Handys soll verboten sein. Wir ist 15 Jahre und nicht Kinder. Wir kann selbst entscheiden.",
+      "rationale": "Opinion against a ban and one reason (old enough to decide). Dass-clause with wrong verb position, conjugation errors (wir ist, wir kann), missing comma; simple and short."
+    },
+    {
+      "n": 21,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich finde, dass Handys in der Schule verboten sein sollen. Erstens man kann sich nicht konzentrieren, weil das Handy immer piept. Zweitens viele Schüler spielen in der Pause und reden nicht zusammen. Deshalb ich finde ein Verbot gut.",
+      "rationale": "Clear opinion and two reasons with some structure (Erstens/Zweitens/Deshalb). Dass- and weil-clauses correct, but inversion after Erstens/Zweitens/Deshalb is consistently wrong; C mostly met."
+    },
+    {
+      "n": 22,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich denke Handys soll nicht verboten sein, weil wir brauchen sie für die Hausaufgaben. Wir haben alle Bücher digital. Auch ich höre gern Musik, wenn ich arbeite. Das hilft mir mit Konzentration.",
+      "rationale": "Opinion and two reasons (digital books, music helps focus). One subordinate clause correct (wenn ich arbeite), the weil-clause wrong; agreement error (Handys soll), Swedish-influenced hilft mir mit."
+    },
+    {
+      "n": 23,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Meiner Meinung nach Handys sind nicht gut im Klassenzimmer. Man macht nur Snapchat und TikTok und lernt nichts. Es gibt auch viel Stress, weil man immer die Nachrichten lesen will. Ich finde ein Verbot ist gut.",
+      "rationale": "Opinion and two reasons (distraction, stress). Weil-clause correct, but no inversion after Meiner Meinung nach; vocabulary fairly simple and repetitive (gut)."
+    },
+    {
+      "n": 24,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich finde, dass Handys erlaubt sein sollen. Man kann schnell Wörter übersetzen, wenn man etwas nicht versteht. Und in der Pause ist es langweilig ohne Handy, weil wir haben nicht viel zu machen. Ein Verbot ist nicht gut.",
+      "rationale": "Opinion against a ban with two reasons (translation, boring breaks). Dass- and wenn-clauses correct, weil-clause with main-clause order; relatively clear but loosely connected with und."
+    },
+    {
+      "n": 25,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich bin für ein Verbot. Wenn man das Handy hat, man denkt nur an das Handy und nicht an die Schule. Und es gibt Mobbing, weil manche Leute machen Fotos von anderen. Das ist gemein.",
+      "rationale": "Clear opinion, two reasons (distraction, bullying via photos). Wenn-clause right but the following main clause is not inverted; weil-clause with main-clause order. Understandable, some variety (gemein)."
+    },
+    {
+      "n": 26,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Handys sollen nicht verboten sein, finde ich. Viele Schüler fahren mit dem Bus nach Hause und sie müssen sehen, wann der Bus fährt. Man kann auch die Familie anrufen, wenn etwas passiert. Das ist wichtig für die Sicherheit.",
+      "rationale": "Opinion and two reasons (bus times, emergencies), with correct indirect question and wenn-clause. Fairly clear, but no weil/dass and little linking beyond und/auch; C mostly met."
+    },
+    {
+      "n": 27,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich denke, dass ein Handyverbot gut ist, weil die Schüler mehr draußen spielen dann. In meiner Schule wir haben ein Handykasten und das funktioniert gut. Wir reden mehr zusammen und die Lehrer sind glücklich.",
+      "rationale": "Opinion for a ban with two reasons (more outdoor play, more talking). Dass-clause correct, weil-clause has misplaced dann; inversion error (In meiner Schule wir haben) and accusative error (ein Handykasten)."
+    },
+    {
+      "n": 28,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich finde ein Verbot doof. Man kann mit dem Handy Mathe rechnen und im Internet Informationen suchen für Projekte. Und wenn man in der Pause Musik hört, man ist nicht so gestresst. Die Schule soll uns vertrauen.",
+      "rationale": "Opinion against a ban with two reasons (school work, less stress). Wenn-clause verb-final but the main clause after it not inverted; word order of für Projekte Swedish-like; some varied words (vertrauen, gestresst)."
+    },
+    {
+      "n": 29,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich finde, dass Handys verboten sein sollen, weil man schläft zu wenig. Viele Jugendliche sitzen jeden Abend lange mit dem Handy und in der Schule sie sind müde. Ohne Handy in der Schule man macht eine Pause von Handy. Das ist gesund.",
+      "rationale": "Opinion for a ban and reasons (sleep, a healthy break) that are partly overlapping. Dass-clause right, weil-clause wrong, repeated missing inversion (in der Schule sie sind, Ohne Handy ... man macht)."
+    },
+    {
+      "n": 30,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich denke nicht, dass Handys verboten sein sollen. Mit dem Handy kann man ein Foto von der Tafel machen, dann man muss nicht alles schreiben. Aber man soll nicht spielen im Unterricht, das ist klar. Vielleicht nur in der Pause erlaubt?",
+      "rationale": "Opinion against a total ban, a clear reason and a suggested compromise, but the second reason is only implied. Inversion error (dann man muss), Swedish-like verb placement (spielen im Unterricht)."
+    },
+    {
+      "n": 31,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich finde, dass Handys in der Schule verboten sein sollen. Viele Schüler können sich nicht konzentrieren, weil sie immer auf ihre Handy schauen. Außerdem gibt es viel Mobbing in die sozialen Medien. Ich glaube, dass ein Verbot uns hilft.",
+      "rationale": "Clear opinion and two reasons (concentration, social-media bullying), linked with außerdem. Dass/weil-clauses verb-final; errors in endings and case (ihre Handy, in die sozialen Medien). No counterargument."
+    },
+    {
+      "n": 32,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Meiner Meinung nach sollen Handys nicht verboten sein. Wir brauchen sie oft in Unterricht, weil wir damit Wörter suchen und Filme sehen. Ich finde auch, dass Musik in der Pause entspannend ist. Man hat dann mehr Energie für den nächste Stunde.",
+      "rationale": "Opinion with correct inversion after Meiner Meinung nach; two reasons with correct weil/dass clauses. Minor case/gender errors (in Unterricht, für den nächste Stunde); no counterargument or conclusion."
+    },
+    {
+      "n": 33,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich denke, Handys sind nicht gut in der Schule. Wenn man ein Handy hat, will man immer die Nachrichten lesen. Man spricht auch weniger mit seine Freunde in der Pause, weil alle nur spielen. Ich bin für ein Verbot.",
+      "rationale": "Opinion and two reasons (constant messages, less talking). Wenn-clause and following inversion correct, weil-clause correct; case error (mit seine Freunde). Relatively clear, no counterargument."
+    },
+    {
+      "n": 34,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich finde nicht, dass man Handys verbieten soll. Viele Schüler haben einen lange Weg nach Hause und sie brauchen das Handy für den Bus. Es ist auch gut, dass man seine Familie anrufen kann, wenn man krank ist. Handys sind heute wichtig.",
+      "rationale": "Opinion against a ban with two reasons (long way home, contacting family when ill). Dass/wenn-clauses correct; adjective ending error (einen lange Weg). Somewhat coherent, no counterargument."
+    },
+    {
+      "n": 35,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich bin für ein Handyverbot, weil man beim Test schummeln kann. Manche Schüler suchen die Antworten im Internet und das ist nicht fair. Ein andere Grund ist, dass man zu viel Zeit am Handy verbringt. Wir sitzen schon zu Hause genug.",
+      "rationale": "Opinion and two reasons (cheating, screen time), explicitly signposted. Weil- and dass-clauses verb-final; ending error (Ein andere Grund). Varied vocabulary (schummeln, verbringt); A features absent."
+    },
+    {
+      "n": 36,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich denke, dass Handys erlaubt sein sollen. Mit dem Handy kann man schnell etwas nachschauen, wenn man etwas nicht weiß. Es gibt auch gute Apps für Sprachen, zum Beispiel für Deutsch. Ich lerne viel mit diese Apps.",
+      "rationale": "Opinion against a ban with two reasons (looking things up, language apps). Correct inversion after Mit dem Handy, verb-final dass/wenn; case error (mit diese Apps). No counterargument or conclusion."
+    },
+    {
+      "n": 37,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Meiner Meinung nach sollen Handys in der Pause verboten sein. Die Schüler sollen lieber draußen Fußball oder Basketball spielen, weil Bewegung gesund ist. Wenn alle nur am Handy sitzen, ist die Pause sehr ruhig und langweilig. Ich finde, dass wir mehr zusammen machen sollen.",
+      "rationale": "Opinion and two reasons (movement, livelier breaks), weil/wenn/dass mostly correct. Relatively clear and somewhat connected; reasons repeat a bit and there is no counterargument; minor stylistic unevenness."
+    },
+    {
+      "n": 38,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich finde ein Verbot schlecht. Wir sind fast erwachsen und wir muss lernen, wie man das Handy richtig benutzt. Wenn die Schule alles verbietet, lernen wir das nie. Außerdem kann man mit dem Handy ein Foto von die Hausaufgaben machen.",
+      "rationale": "Opinion against a ban and two reasons (learning responsibility, practical use). Wenn-clause with correct inversion, indirect question correct; errors wir muss, von die Hausaufgaben. No counterargument."
+    },
+    {
+      "n": 39,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich glaube, dass Handys im Klassenzimmer stören. Es ist sehr laut, wenn ein Handy klingelt und alle lachen. Die Lehrer müssen dann warten und wir verlieren viel Zeit. Und viele Schüler schläft schlecht, weil sie spät am Abend chatten.",
+      "rationale": "Opinion for a ban implied via dass-clause, two reasons (disturbance, sleep). Subordinate clauses correct; agreement error (viele Schüler schläft); third reason loosely added with und rather than connected."
+    },
+    {
+      "n": 40,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich finde, dass Handys nicht verboten sein sollen, aber man darf sie nicht im Unterricht benutzen. In der Pause ist es schön, wenn man Musik hören oder mit Freunde chatten kann. Und man braucht das Handy für den Schulplan, weil alles in einer App steht.",
+      "rationale": "Nuanced opinion with dürfen and two reasons (breaks, schedule app); subordinate clauses verb-final. Case error (mit Freunde), anglicism chatten, repetitive und-linking; no real counterargument or conclusion."
+    },
+    {
+      "n": 41,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Meiner Meinung nach sollten Handys im Unterricht verboten sein. Wenn das Handy auf dem Tisch liegt, kann man sich nicht richtig konzentrieren. Außerdem gibt es in der Klasse oft Streit wegen die Fotos und Nachrichten. Natürlich braucht man manchmal das Handy, aber es kann in der Tasche bleiben. Deshalb ich bin für ein Verbot.",
+      "rationale": "Opinion, two reasons, a counterargument and a conclusion; relatively coherent. Mostly correct inversion and clauses, but an inversion slip in the conclusion (Deshalb ich bin) and a case error (wegen die Fotos)."
+    },
+    {
+      "n": 42,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich finde nicht, dass Handys verboten sein sollen. Erstens benutzen wir das Handy oft im Unterricht, zum Beispiel für Quiz oder um Wörter zu suchen. Zweitens es ist wichtig, dass man die Familie erreichen kann, wenn etwas passiert. Es stimmt, dass manche zu viel spielen, aber das ist ein Problem von den Schülern und nicht vom Handy.",
+      "rationale": "Two well-developed reasons and a counterargument that is answered; relatively coherent. One inversion error (Zweitens es ist), somewhat clumsy von den Schülern; otherwise correct complex sentences."
+    },
+    {
+      "n": 43,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich denke, dass ein Handyverbot eine gute Idee ist. Viele Jugendliche sind heute süchtig nach ihre Handys, und in der Schule können sie eine Pause davon machen. Ohne Handys reden die Schüler auch mehr miteinander. Manche sagen, dass man das Handy für Notfälle braucht, aber man kann ja im Sekretariat anrufen.",
+      "rationale": "Opinion, two reasons (addiction, social contact) and a rebutted counterargument; inversion correct. Case error (nach ihre Handys) and opinion expressed with fairly standard phrases; conclusion missing."
+    },
+    {
+      "n": 44,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Meiner Meinung nach darf man Handys in der Schule haben, aber nur in der Pause. In der Pause kann man Musik hören und sich entspannen, weil der Schultag ist lang. Im Unterricht soll das Handy aber in der Tasche sein, denn sonst stört es alle. So hat man beide Vorteile.",
+      "rationale": "Nuanced opinion with dürfen/sollen, two reasons and a short conclusion; relatively coherent. One weil-clause word-order error; vocabulary somewhat varied (sich entspannen, Vorteile)."
+    },
+    {
+      "n": 45,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich bin gegen ein Verbot, weil Handys heute ein wichtiges Werkzeug sind. Man kann damit schnell Informationen finden und Aufgaben in Gruppen machen. Außerdem wir lernen nicht, das Handy vernünftig zu benutzen, wenn es immer verboten ist. Es gibt natürlich Probleme wie Mobbing, aber die kann man anders lösen.",
+      "rationale": "Opinion, two reasons and an acknowledged counterargument; relatively coherent with varied vocabulary (Werkzeug, vernünftig). One inversion error after Außerdem; otherwise accurate clauses and zu-infinitive."
+    },
+    {
+      "n": 46,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich finde, dass Handys in der Schule verboten sein sollen. Das wichtigste Grund ist, dass man beim Lernen ständig gestört wird. Außerdem gibt es weniger Streit, wenn niemand heimlich Fotos machen kann. Man sagt oft, dass Handys praktisch sind, aber für die Schule haben wir ja Computer.",
+      "rationale": "Opinion, two reasons (constant distraction, fewer conflicts over photos) and a rebutted counterargument; coherent. Clauses and inversion correct; gender error (Das wichtigste Grund); opinion phrasing not very varied and no conclusion."
+    },
+    {
+      "n": 47,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich denke nicht, dass man Handys verbieten muss. Viele Schüler haben einen langen Schulweg und brauchen das Handy, um die Busse zu checken. Außerdem kann das Handy im Unterricht helfen, zum Beispiel als Taschenrechner oder Wörterbuch. Ein Verbot finde ich deshalb zu streng, aber die Lehrer soll klare Regeln machen.",
+      "rationale": "Opinion, two reasons and a conclusion with a concession; good inversion (Ein Verbot finde ich deshalb). Agreement error (die Lehrer soll), anglicism checken, Swedish-like Regeln machen."
+    },
+    {
+      "n": 48,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Meiner Meinung nach ist es besser ohne Handys in der Schule. Seit wir einen Handyschrank in die Klasse haben, spielen mehr Schüler draußen in der Pause. Ich habe auch bessere Noten bekommen, weil ich kann mich besser konzentrieren. Am Anfang war ich dagegen, aber jetzt finde ich das Verbot gut.",
+      "rationale": "Opinion, two reasons from experience and a reflective conclusion; relatively coherent and varied. Case error (in die Klasse) and one weil-clause word-order error keep it below A."
+    },
+    {
+      "n": 49,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich finde, dass Handys nicht verboten sein sollen, weil sie für viele Sachen nützlich sind. Man kann zum Beispiel Fotos von der Tafel machen oder einen Timer fur die Arbeit benutzen. Außerdem fühlen sich viele sicherer, wenn sie ihr Handy dabei haben. Aber man muss es im Unterricht auf lautlos machen.",
+      "rationale": "Opinion, two reasons (practical use, feeling safe) and a limiting condition; clauses and inversion correct. Missing umlaut (fur), Swedish-influenced auf lautlos machen; the final point is a condition rather than a developed counterargument."
+    },
+    {
+      "n": 50,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich bin für ein Handyverbot in der Schule. Ein Grund ist Cybermobbing, weil viele gemeine Nachrichten während der Schultag geschickt werden. Ein anderer Grund ist, dass wir zu viel Zeit vor dem Bildschirm verbringen. Deshalb finde ich, dass die Schule eine handyfreie Zone sein soll.",
+      "rationale": "Opinion, two clearly signposted reasons and a conclusion with correct inversion; coherent. Case error (während der Schultag); no counterargument and the structure is somewhat formulaic."
+    },
+    {
+      "n": 51,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Meiner Meinung nach sollten Handys im Unterricht verboten sein, aber nicht in den Pausen. Im Unterricht lenkt das Handy zu sehr ab, weil man ständig Nachrichten bekommt. In der Pause dagegen möchten viele Musik hören oder sich kurz ausruhen, und das finde ich okay. Deshalb ist ein totales Verbot zu streng, aber klare Regeln sind wichtig.",
+      "rationale": "Nuanced opinion, two reasons, contrast (dagegen) and a conclusion with Deshalb; relatively coherent. Inversion and subordinate clauses correct throughout; varied expression of opinion."
+    },
+    {
+      "n": 52,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich finde, dass Handys in der Schule nicht verboten sein sollten. Wir sind fast erwachsen und müssen lernen, selbst Verantwortung zu nehmen. Außerdem benutzen wir das Handy oft als Kalender, damit wir keine Hausaufgaben vergessen. Man könnte zwar sagen, dass Handys ablenken, aber wer nicht lernen will, findet immer etwas anderes.",
+      "rationale": "Opinion, two reasons and a counterargument that is rebutted; relatively coherent. Correct dass/damit/wer-clauses and inversion; one minor lexical slip (Verantwortung nehmen)."
+    },
+    {
+      "n": 53,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Meiner Meinung nach ist ein Handyverbot eine gute Idee. Leider machen manche heimlich Fotos von anderen und stellen sie ins Internet, und das kann sehr wehtun. Außerdem ist es bei Tests viel zu leicht zu schummeln, wenn alle ihr Handy dabeihaben. Einige meinen, dass man das Handy für Notfälle braucht, aber dafür gibt es ja das Telefon im Sekretariat.",
+      "rationale": "Opinion, two developed reasons (bullying, cheating) and a rebutted counterargument; coherent. Inversion, subordinate clauses and separable verbs correct; varied vocabulary (heimlich, wehtun)."
+    },
+    {
+      "n": 54,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich denke nicht, dass man Handys ganz verbieten sollte. Nach einer langen Stunde tut es gut, in der Pause Musik zu hören und ein bisschen abzuschalten. Viele wohnen auch weit weg und müssen auf dem Handy nachsehen, ob der Bus pünktlich ist. Trotzdem finde ich, dass Handys im Unterricht in der Tasche bleiben müssen.",
+      "rationale": "Opinion, two reasons and a concession with Trotzdem; relatively coherent. Correct zu-infinitives, ob-clause and inversion; varied phrasing of opinion."
+    },
+    {
+      "n": 55,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich bin für ein Handyverbot, vor allem in den Pausen. Früher haben alle nur auf ihre Bildschirme gestarrt, aber seit dem Verbot spielen wir wieder Tischtennis und reden mehr miteinander. Bewegung ist außerdem gut für den Kopf, weil man danach besser lernen kann. Deshalb glaube ich, dass die Schule ohne Handys ein besserer Ort ist.",
+      "rationale": "Opinion, two reasons (social contact, movement) and a conclusion with Deshalb; coherent with a before/after contrast. Perfekt, inversion and subordinate clauses correct."
+    },
+    {
+      "n": 56,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Meiner Meinung nach wäre ein Verbot ein Fehler. Mit dem Handy können wir schnell Wörter nachschlagen, Videos zum Thema ansehen oder Fotos von der Tafel machen. Außerdem gibt es gute Apps, mit denen man Vokabeln üben kann. Es stimmt zwar, dass einige im Unterricht chatten, aber die Lehrer können ja klare Regeln aufstellen. So lernen wir, das Handy sinnvoll zu benutzen.",
+      "rationale": "Opinion, two reasons, a rebutted counterargument and a conclusion; relatively coherent. Correct inversion, relative clause and zu-infinitive; varied vocabulary. Anglicism chatten is the only informal touch."
+    },
+    {
+      "n": 57,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich finde, dass Handys in der Schule verboten sein sollten. Viele Jugendliche verbringen schon zu Hause mehrere Stunden am Handy, und deshalb ist eine Pause in der Schule gesund. Außerdem fühlt man sich gestresst, wenn ständig neue Nachrichten kommt. Natürlich ist das Handy praktisch, aber in der Schule sollten wir uns auf das Lernen konzentrieren.",
+      "rationale": "Opinion, two reasons (screen time, stress) and a counterargument answered; coherent. Inversion correct throughout; one minor agreement slip (Nachrichten kommt)."
+    },
+    {
+      "n": 58,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich bin gegen ein Handyverbot, weil das Handy für die Sicherheit wichtig ist. Wenn zum Beispiel auf dem Schulweg etwas passiert, kann man sofort Hilfe holen oder die Familie anrufen. Außerdem stehen der Stundenplan und die Hausaufgaben in einer App, die wir jeden Tag brauchen. Ich verstehe aber, dass Handys im Unterricht stören können, deshalb sollten sie dort ausgeschaltet sein.",
+      "rationale": "Opinion, two reasons (safety, school app) and a concession leading to a conclusion; coherent. Correct wenn/weil/relative clauses and inversion; varied opinion phrasing (Ich verstehe aber)."
+    },
+    {
+      "n": 59,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Meiner Meinung nach haben Handys im Klassenzimmer nichts zu suchen. Wenn ein Handy klingelt oder vibriert, verlieren alle die Konzentration, und die Lehrer müssen die Stunde unterbrechen. Ich merke auch selbst, dass ich viel mehr schaffe, wenn mein Handy im Schrank liegt. Deshalb unterstütze ich ein Verbot, auch wenn es am Anfang schwer ist.",
+      "rationale": "Idiomatic opinion, two reasons (disruption, own productivity) and a conclusion with a concession; coherent. Subordinate clauses and inversion correct; no notable errors."
+    },
+    {
+      "n": 60,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich finde, man sollte Handys nicht verbieten, sondern klare Regeln haben. Das Handy ist ein wichtiges Werkzeug, weil wir damit Informationen für Projekte suchen und Texte übersetzen können. Andererseits ist es bei Prüfungen leicht zu schummeln. Deshalb sollten alle ihr Handy vor einem Test in eine Kiste legen, damit es fair bleibt.",
+      "rationale": "Nuanced opinion (nicht ... sondern), reasons, counterargument (Andererseits) and a practical conclusion; coherent. Correct weil/damit clauses and inversion; varied connectors."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "assignment_id": "G7-2",
+  "texts": [
+    {
+      "n": 1,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Hi!\nGeburtstag party. Samstag.",
+      "rationale": "Two fragments only; no real sentence, no place, no activity, no request. Too little text to count as an understandable invitation (E not met)."
+    },
+    {
+      "n": 2,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "hallo\nich habe geburstag komm",
+      "rationale": "A single run-on fragment without punctuation; birthday is mentioned but neither time nor place is given, so the E minimum (when or where) is not met."
+    },
+    {
+      "n": 3,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Hallo!\nWir essen Pizza und spielen Videospiele. Das ist sehr lecker und kul.\nTschüss",
+      "rationale": "Only describes activities; there is no mention of a party, birthday, time or place, so it cannot be read as an invitation. Swedish spelling 'kul'."
+    },
+    {
+      "n": 4,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Hallo!\nIch habe Geburtstag im Mai. Ich bin 13 jahre alt. Ich mag Kuchen und Eis.\nTschüss",
+      "rationale": "Misses the task: talks about the own birthday and likes but never invites the friend or mentions a party. Language itself is simple and mostly correct."
+    },
+    {
+      "n": 5,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Hallo\nIch bin feier mit du. Geburstag ist zu hausen wo dir. Kome esst Tort und spilt.",
+      "rationale": "Heavily broken German (wrong verbs, cases, invented forms 'zu hausen wo dir'); place and time cannot be understood, so the message fails as an invitation."
+    },
+    {
+      "n": 6,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Hi!\nMeine partie is in den sechs. Du kann mit bowling machen? Ich ist gros fest und alle komt essen!!",
+      "rationale": "Some key words (partie, bowling) but the sentences are not understandable: 'in den sechs' is unclear as time or place, verb forms are wrong throughout. E not met."
+    },
+    {
+      "n": 7,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Hallo!\nI have a party on Saturday at my house. Du kommst? We will eat pizza and play games.\nBye",
+      "rationale": "Almost entirely in English; only 'Hallo' and 'Du kommst?' are German. Content would be complete, but it is not produced in the target language."
+    },
+    {
+      "n": 8,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Hallo!\nIch habe kalas på fredag klockan sex. Vi ska titta på film och äta godis. Kan du komma?\nTschüss",
+      "rationale": "Starts in German but switches to Swedish for the substance of the message (time, activity, question). Not an invitation in German."
+    },
+    {
+      "n": 9,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Hallo\nParty ich Samstag, Pizza, Kino. Du kommen?\nTschüss",
+      "rationale": "Genuine attempt made of isolated words strung together; no phrases or sentences, so the text does not reach the E level 'enkla fraser'."
+    },
+    {
+      "n": 10,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "hallo\ngeburtstag ich fest, mir haus. spielen essen musik ja?",
+      "rationale": "Word list rather than phrases; the idea of a party can be guessed but no clear time, and 'mir haus' is only a guess at place. Below E."
+    },
+    {
+      "n": 11,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo!\nIch habe Geburtstag und ich habe ein party. Die party ist am samstag. Du komst?\nTschüss",
+      "rationale": "Understandable invitation with 'when' (Saturday); no place and no activity, so C is clearly not met. Errors: article/gender 'ein party', lower-case nouns, question word order and spelling 'Du komst?'."
+    },
+    {
+      "n": 12,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hi\ndu kommen zu mein geburtstag party? Es ist in mein haus am freitag. Ich habe fil essen.",
+      "rationale": "Gives when and where in simple phrases; no closing, activity only vague ('fil essen'). Wrong verb form and question order 'du kommen', case errors 'zu mein', spelling by ear 'fil'."
+    },
+    {
+      "n": 13,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo!\nMein geburtstag ist am 12 april. Ich habe party im park. Es ist sehr kul. Du kann komme?\nBis bald",
+      "rationale": "States date and place, but no activity; very simple phrases. Errors: lower-case nouns, missing article, Swedish 'kul', modal conjugation and infinitive 'Du kann komme?'."
+    },
+    {
+      "n": 14,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hej!\nIch habt eine Party am Sonntag um drei. Wir spielen fußball. Du komst ja?",
+      "rationale": "When and activity are given but no place and no closing; Swedish greeting 'Hej'. Conjugation error 'ich habt', declarative question 'Du komst ja?'. E met, C not."
+    },
+    {
+      "n": 15,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo\nich wird 13 jahre. Party ist bei mir haus. Wir schauen film und essen popcorn. kommst du?\nTschüss",
+      "rationale": "Place and activity, but no time at all, so C (when and where) is not met. Errors: 'ich wird', 'bei mir haus', missing articles, lower-case nouns."
+    },
+    {
+      "n": 16,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo!\nIch habe Geburtstag party in bowling. Es ist samstag. du komm?",
+      "rationale": "Understandable: birthday party, bowling, Saturday. Very simple and repetitive, no closing, wrong question 'du komm?', wrong preposition phrase 'in bowling'."
+    },
+    {
+      "n": 17,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo!\nIch habe geburtstag! Party ist am Freitag klokan sieben. Wir tanzen und hören musik. Bitte komm!\nTschüss",
+      "rationale": "Time and activity are given, but no place, so C not met. Swedish transfer 'klokan', missing article, lower-case nouns; phrases are simple but understandable."
+    },
+    {
+      "n": 18,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hi!\nIch mache ein Party im Juni. Ich habe Geburtstag. Party ist im schwimbad. Du schwimmen mit mir?",
+      "rationale": "Place (swimming pool) and only a vague time (June); no closing. Errors: 'ein Party', missing article, 'schwimbad', infinitive in question 'Du schwimmen'."
+    },
+    {
+      "n": 19,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo\nIch habe geburtstag am 3 mai. Du kommst zu mir? Wir esse kuchen und eis. Das ist gut.\nTschüss",
+      "rationale": "Date given and 'zu mir' hints at home, but place is not clearly stated; activity simple. Errors: 'wir esse', declarative question, lower-case nouns. Short repetitive phrases."
+    },
+    {
+      "n": 20,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo!\nWillst du kommen zu mein party? Die party ist im Jugendzentrum. Ich habe gebutstag am mittwoch. Es ist gros.\nHej då",
+      "rationale": "When and where are given, but nothing about what they will do; Swedish closing 'Hej då'. Word order 'kommen zu mein party', case and spelling errors ('gebutstag', 'gros')."
+    },
+    {
+      "n": 21,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nIch habe am Samstag Geburtstag und ich mache eine party. Die Party ist bei mir zu hause um 14 uhr. Wir essen Pizza und spielen spiele. Kommen du?\nViele Grüße",
+      "rationale": "Greeting, closing, when, where and activity are all there (E fully met), but the question 'Kommen du?' is wrong and capitalisation is inconsistent; vocabulary is basic. C mostly met."
+    },
+    {
+      "n": 22,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hi!\nIch werde 13 und ich will eine Party haben. Die Party ist am 20. Mai im Park. Wir grillen und spielen fussball. Du kannst komme?\nTschüss",
+      "rationale": "All C content points present with greeting and closing; question is formed as a statement with wrong infinitive ('Du kannst komme?'), 'fussball' lower case. Otherwise fairly clear."
+    },
+    {
+      "n": 23,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nKommst du zu meine Geburtstagsparty? Sie ist am Freitag um sechs uhr in die Bowlinghalle. Wir spielen Bowling und dann wir essen Pommes. Es ist sehr roligt!\nBis bald",
+      "rationale": "Content complete for C and the opening question is correct, but case errors ('zu meine', 'in die'), word order 'dann wir essen' and Swedish 'roligt' reduce clarity. D."
+    },
+    {
+      "n": 24,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nMein Geburtstag ist am 8. März. Ich habe eine Party im Kino. Wir sehen ein film und essen popcorn och trinken Limo. Hast du zeit?\nViele Grüsse",
+      "rationale": "When, where, activity, greeting and closing present; correct question 'Hast du zeit?'. Swedish 'och', lower-case nouns and 'ein film' show that clarity is not quite C level throughout."
+    },
+    {
+      "n": 25,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hi!\nIch lade dich zu meine Party ein. Die party ist am Sonntag um zwei im Schwimmbad. Wir schwimmen und dann essen wir Kuchen. Du kommst?\nTschüss",
+      "rationale": "Complete content with a correctly split separable verb, but the question is only a statement with a question mark and there are case errors ('zu meine'). Vocabulary fairly simple. C mostly met."
+    },
+    {
+      "n": 26,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nNächste samstag habe ich Geburtstag. Die Party ist in mein Haus um 16 Uhr. Wir spielen Videospiele und hören Musik. Kann du komme? Bitte schreib mir.\nBis bald",
+      "rationale": "All points including a reply request, but the modal question is wrong ('Kann du komme?') and there are case errors ('Nächste samstag', 'in mein Haus'). Structure is list-like."
+    },
+    {
+      "n": 27,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nIch habe eine Geburtstagsparty am 2. Juni. Wir sind im Trampolinpark um drei Uhr. Wir springen und essen eis. Es ist sehr fun! Kommst du?\nTschüss",
+      "rationale": "Content complete, question correct, but English transfer 'sehr fun', lower-case 'eis' and repetitive 'Wir ...' sentences. Relatively clear but vocabulary limited. D."
+    },
+    {
+      "n": 28,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hi!\nIch feiere mein Geburtstag am Freitag. Die Party ist im Jugendzentrum um sieben. Wir tanzen und machen Karaoke. Ich hoffe du komst.\nViele grüße",
+      "rationale": "Greeting, closing, when, where, what are there; no direct question and 'du komst' is misspelt, 'mein Geburtstag' has a case error. Fairly clear, but du-form not secure."
+    },
+    {
+      "n": 29,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nWillst du zu meine Party kommen? Es ist am Samstag den 15. Juni am See. Wir baden und grillen. Es ist schön wetter hoffentlich.\nTschüss",
+      "rationale": "Correct modal question and all C content, but no time of day, case error 'zu meine', and the last sentence has Swedish-like word order and lower-case 'wetter'. C mostly met."
+    },
+    {
+      "n": 30,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nIch habe Geburtstag am Dienstag aber die Party ist am Samstag. Wir gehen zu Minigolf um 13 Uhr. Dann wir essen Pizza bei mir. Du kommen mit?\nBis Samstag",
+      "rationale": "All content points and a nice contrast with 'aber', but word order 'Dann wir essen', preposition 'zu Minigolf' and the infinitive question 'Du kommen mit?' keep it below C."
+    },
+    {
+      "n": 31,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nIch habe bald Geburtstag und mache eine Party. Die Party ist am Samstag, den 10. Mai, bei mir zu Hause. Wir essen Pizza und spielen Brettspiele. Kommst du?\nViele Grüße",
+      "rationale": "When, where, what, greeting and closing; correct question 'Kommst du?' and dates. Clear but simple and list-like, no explicit request to reply or personal touch, so A clearly not met."
+    },
+    {
+      "n": 32,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hi!\nMeine Geburtstagsparty ist am Freitag um 18 Uhr. Wir sind im Bowlinghalle in der Stadt. Wir spielen Bowling und essen danach Pommes. Hast du Lust?\nTschüss",
+      "rationale": "All C points with a correct question and 'danach'; one gender error 'im Bowlinghalle'. No reply request and little adaptation to the reader."
+    },
+    {
+      "n": 33,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nAm Sonntag werde ich dreizehn. Ich mache eine Party im Park um 14 Uhr. Wir spielen fussball und essen Kuchen und Eis. Kannst du kommen?\nBis bald",
+      "rationale": "Relatively clear, correct modal question and inversion 'Am Sonntag werde ich'. Minor slips ('fussball'), 'und ... und' repetition; no explicit reply request."
+    },
+    {
+      "n": 34,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nIch lade dich zu meiner Geburtstagsparty ein. Sie ist am 21. März im Kino. Wir sehen einen lustigen Film und essen Popcorn. Die Film beginnt um fünf Uhr.\nViele Grüße",
+      "rationale": "Complete when/where/what with a correct separable verb and varied vocabulary; one gender slip 'Die Film'. No question or request to reply, so A not met."
+    },
+    {
+      "n": 35,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hi!\nIch feiere meinen Geburtstag am Samstag im Schwimmbad. Wir treffen uns um elf Uhr vor die Eingang. Wir schwimmen und springen vom Sprungturm. Kommst du mit?\nTschüss",
+      "rationale": "Clear and fairly varied ('treffen uns', 'Sprungturm'), correct question. Case/gender error 'vor die Eingang'; no request to reply and little personal address."
+    },
+    {
+      "n": 36,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nNächsten Freitag habe ich Geburtstag. Die Party ist im Jugendzentrum von 19 bis 22 Uhr. Wir hören Musik, tanzen und machen Karaoke. Das wird lustig!\nBis bald",
+      "rationale": "All C content, correct time expressions and a comment 'Das wird lustig!'. No question or request to reply, so the A criteria are clearly not met."
+    },
+    {
+      "n": 37,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nIch habe am 4. Juni Geburtstag. Wir machen ein Picknick am See um 13 Uhr. Wir baden und essen Brote und Obst. Kommst du auch?\nViele Grüße",
+      "rationale": "Relatively clear with correct date and question; slightly unusual word order for time. Sentences are simple and parallel, no reply request."
+    },
+    {
+      "n": 38,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hi!\nMeine Party ist am Samstag im Trampolinpark. Sie beginnt um 15 Uhr. Wir springen Trampolin und danach gibt es Pizza. Möchtest du kommen?\nTschüss",
+      "rationale": "Accurate and clear, with 'danach gibt es' and a correct modal question. Short and not very personal; no explicit request to answer. C."
+    },
+    {
+      "n": 39,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nIch habe Geburtstag und mache eine Übernachtungsparty bei mir zu Hause. Sie ist am Freitag um 17 Uhr. Wir sehen Filme und essen Chips und Süssigkeiten. Du kannst bei mir schlafen.\nBis bald",
+      "rationale": "When, where, what with a correct modal statement; slight spelling slip 'Süssigkeiten'. No question or reply request, so it does not reach A."
+    },
+    {
+      "n": 40,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nAm 12. Oktober habe ich Geburtstag. Wir gehen zum Minigolf in der Stadt um zwei Uhr. Danach essen wir Kuchen bei mir. Kommst du?\nViele Grüße",
+      "rationale": "Clear, correct date and inversion after 'Danach'; time placed awkwardly at the end. Content complete for C but no reply request or personal adaptation."
+    },
+    {
+      "n": 41,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nWie geht es dir? Ich habe am Samstag, den 18. Mai, Geburtstag und mache eine Party bei mir zu Hause. Wir essen Pizza und dann spielen wir Spiele. Kannst du kommen? Bitte antwort mir bis Donnerstag.\nViele Grüße",
+      "rationale": "All points including a reply request and a personal opening; date correct. Missing time of day, imperative slip 'antwort', and fairly plain vocabulary keep it just below A."
+    },
+    {
+      "n": 42,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hi!\nIch werde bald dreizehn und mache eine Party! Sie ist am Freitag um 18 Uhr im Jugendzentrum. Wir hören Musik, tanzen und essen Pizza. Kannst du kommen? Schreib mir bitte schnell!\nBis bald",
+      "rationale": "Complete and correct, with modal question and reply request. Little personal address and no linking beyond lists, so A mostly but not fully met."
+    },
+    {
+      "n": 43,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nIch möchte dich zu meiner Geburtstagsparty einladen. Die Party ist am 3. Juni um 14 Uhr in der Bowlinghalle. Zuerst spielen wir Bowling und dann essen wir Kuchen. Kommst du? Bitte antworte mir bald.\nViele Grüsse",
+      "rationale": "All points, correct modal and date, sequencing with 'Zuerst ... dann'. Somewhat formulaic and not very personal; 'Grüsse' spelling. B."
+    },
+    {
+      "n": 44,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nWie geht's? Am Sonntag habe ich Geburtstag und wir gehen ins Kino um vier Uhr. Nach dem Film essen wir Eis in der Stadt. Kannst du mitkommen? Schreib mir bis Freitag!\nTschüss",
+      "rationale": "Personal, cohesive ('Nach dem Film'), correct questions and reply request. No date, only weekday, and word order 'ins Kino um vier Uhr' is slightly off. A mostly met."
+    },
+    {
+      "n": 45,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hi!\nIch habe am 25. April Geburtstag und ich mache eine Party im Park. Sie beginnt um 13 Uhr. Wir spielen Fußball und Frisbee und wir picknicken. Ich hoffe, du kannst kommen! Bitte schreib mir.\nBis bald",
+      "rationale": "All content points with a reply request and a correct modal. Repetitive 'und ich/und wir' and limited linking keep it below A."
+    },
+    {
+      "n": 46,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nIch lade dich zu meine Geburtstagsparty ein! Wir feiern am Samstag, den 7. September, im Schwimmbad. Wir treffen uns um 12 Uhr, schwimmen zusammen und essen danach Pfannkuchen. Kannst du kommen? Antworte bitte bald!\nLiebe Grüße",
+      "rationale": "Complete, fairly varied and correct dates and questions; one case error 'zu meine'. Adapted closing, but little personal address. B."
+    },
+    {
+      "n": 47,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nWie geht es dir? Ich habe nächste Woche Geburtstag! Die Party ist am Freitag um 17 Uhr bei mir. Wir machen Karaoke und backen Muffins. Kannst du kommen und mir bis Mittwoch antworten?\nViele Grüße",
+      "rationale": "Personal opening, reply request combined with correct modal, all content points. Sentences are short and fairly unconnected; 'nächste Woche' plus 'Freitag' is slightly vague. B."
+    },
+    {
+      "n": 48,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hi!\nAm Samstag feiere ich mein Geburtstag im Trampolinpark. Wir treffen uns um 11 Uhr am Eingang. Zuerst springen wir Trampolin und dann gibt es Pizza und Eis. Möchtest du mitkommen? Bitte schreib mir bis Donnerstag.\nTschüss",
+      "rationale": "Clear, sequenced and correct questions and reply request. One case error 'mein Geburtstag' and no personal greeting beyond 'Hi!'. A mostly met."
+    },
+    {
+      "n": 49,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nIch hoffe, es geht dir gut. Mein Geburtstag ist am 20. Februar und ich mache eine Party am See um 14 Uhr. Wir gehen Schlittschuh laufen und trinken heiße Schokolade. Kommst du? Schreib mir bitte!\nBis bald",
+      "rationale": "Personal opening, varied vocabulary ('Schlittschuh laufen', 'heiße Schokolade'), reply request. Slightly awkward placement of time, and the text is additive rather than connected. B."
+    },
+    {
+      "n": 50,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nNächsten Samstag werde ich vierzehn und ich möchte das feiern. Wir gehen um drei Uhr ins Technikmuseum und danach essen wir Kuchen im Café. Das Museum ist sehr interessant. Hast du Zeit? Bitte antworte mir schnell!\nViele Grüße",
+      "rationale": "All points with correct time expressions, modal and reply request; cohesive 'danach'. No personal address to the friend and a somewhat flat comment sentence. B."
+    },
+    {
+      "n": 51,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo!\nAm Samstag, den 16. Mai, werde ich dreizehn, und ich möchte unbedingt mit dir feiern! Die Party beginnt um 15 Uhr bei mir zu Hause. Zuerst spielen wir draussen Volleyball, und später essen wir Pizza und schauen einen lustigen Film. Kannst du kommen? Bitte schreib mir bis Mittwoch, dann kann ich alles planen.\nViele Grüße und bis bald",
+      "rationale": "All points, personal ('unbedingt mit dir'), sequenced and connected ('Zuerst ... später', 'dann kann ich'). Correct date, modal question and reply request; one minor slip 'draussen'."
+    },
+    {
+      "n": 52,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hi!\nWie geht's dir? Ich habe am Freitag, den 8. März, Geburtstag und lade dich herzlich zu meiner Party ein. Wir treffen uns um 18 Uhr im Jugendzentrum in der Stadt, dort hören wir Musik, spielen Tischtennis und tanzen. Es gibt auch Pizza und einen großen Schokoladenkuchen. Kannst du mir bis Dienstag antworten?\nLiebe Grüße",
+      "rationale": "Personal address and warm invitation, all content points, correct date/time and modal request to answer. Relatively varied and connected for A1.2 ('dort', 'auch')."
+    },
+    {
+      "n": 53,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo!\nIch hoffe, es geht dir gut! Nächsten Sonntag, am 2. Juni, feiere ich meinen Geburtstag am See. Um 12 Uhr fahren wir mit dem Bus dahin, und dann können wir schwimmen und grillen. Möchtest du mitkommen? Schreib mir bitte bis Freitag!\nBis bald",
+      "rationale": "Adapted to the reader, all points, correct date expression, inversion and modals ('können wir', 'Möchtest du'). Coherent sequence; no significant errors."
+    },
+    {
+      "n": 54,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo!\nIch werde bald vierzehn und möchte dich zu meiner Geburtstagsparty einladen. Sie ist am Samstag, den 12. Oktober, von 14 bis 17 Uhr in der Bowlinghalle. Nach dem Bowling essen wir Pommes und Eis, das wird bestimmt lustig! Kannst du kommen? Bitte antworte mir bis Mittwoch, ich freue mich schon!\nViele Grüße",
+      "rationale": "Complete, personal ('ich freue mich schon'), accurate date and time span, correct modal question and reply request. Connected with 'Nach dem Bowling'. A."
+    },
+    {
+      "n": 55,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hi!\nWie geht's? Am Freitag, den 22. November, habe ich Geburtstag, und ich möchte mit dir und ein paar Freunden ins Kino gehen. Der Film beginnt um 19 Uhr, aber wir treffen uns schon um halb sieben vor dem Kino. Danach können wir noch Eis essen. Sag mir bitte bis Mittwoch, ob du mitkommen kannst!\nBis dann",
+      "rationale": "All points with a personal tone, precise time ('um halb sieben'), cohesive links ('aber', 'schon', 'Danach'). Modals and reply request correct. A."
+    },
+    {
+      "n": 56,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo!\nIch hoffe, du hast am Samstag, den 20. April, Zeit, denn dann feiere ich meinen Geburtstag! Die Party ist bei mir zu Hause und fängt um 17 Uhr an. Wir machen zusammen Pizza, und später spielen wir Brettspiele und Videospiele. Kannst du vielleicht auch bei mir übernachten? Bitte schreib mir bald eine Antwort.\nViele Grüße",
+      "rationale": "Personally framed invitation with 'denn', correctly split separable verb ('fängt ... an'), correct modal question and reply request. Relatively varied and coherent."
+    },
+    {
+      "n": 57,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo!\nWie geht es dir? Ich habe eine tolle Idee für meinen Geburtstag: Wir spielen Minigolf im Park! Wir treffen uns am Sonntag, den 9. Juni, um 13 Uhr am Eingang. Danach gibt es Kuchen und Limonade bei mir, das ist nicht weit. Kannst du kommen und mir bis Freitag schreiben?\nTschüss und bis bald",
+      "rationale": "Engaging and personal, all points with correct date/time, cohesive 'Danach' and added detail. Modal question combined with reply request. A."
+    },
+    {
+      "n": 58,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hi!\nIch habe am 28. August Geburtstag und mache am Samstag danach ein Picknick im Park. Wir treffen uns um zwei Uhr beim großen Spielplatz. Dort können wir Frisbee spielen, und ich bringe Pfannkuchen und Obst mit. Hast du Zeit? Schreib mir doch bis Donnerstag, ich freue mich sehr!\nViele Grüße",
+      "rationale": "All points, personal tone, correct separable verb ('bringe ... mit'), modal and date. Relatively varied and connected ('Dort', 'danach'). A."
+    },
+    {
+      "n": 59,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo!\nIch habe eine Frage an dich: Möchtest du zu meiner Geburtstagsparty kommen? Sie ist am Samstag, den 5. Juli, um 10 Uhr im Schwimmbad. Dort können wir rutschen und schwimmen, und danach essen wir Eis. Vergiss deine Badesachen nicht! Bitte antworte mir bis Montag.\nBis bald",
+      "rationale": "Directly addressed to the friend, all points, correct date/time, modals and imperatives ('Vergiss ... nicht'). Coherent and varied for the level. A."
+    },
+    {
+      "n": 60,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo!\nNächsten Samstag, am 14. September, habe ich Geburtstag, und ich möchte eine kleine Party bei mir im Garten machen. Sie beginnt um 16 Uhr, und wir können zusammen grillen, Musik hören und Fußball spielen. Wenn es regnet, feiern wir drinnen. Kannst du kommen? Schreib mir bitte bis Mittwoch, ich freue mich auf dich!\nViele Grüße",
+      "rationale": "All points, personal closing sentence, correct date/time and modals, and a simple 'Wenn'-clause with correct verb position. Coherent and relatively varied. A."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "assignment_id": "G9-2",
+  "texts": [
+    {
+      "n": 1,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Hej Lukas\nich weis nicht. tschüss",
+      "rationale": "Too short; no advice given, Swedish greeting and misspelling (weis)."
+    },
+    {
+      "n": 2,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Hallo Lukas! müde nicht gut.",
+      "rationale": "Too short; a single fragment with no advice, so the E criterion is not met."
+    },
+    {
+      "n": 3,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Hallo Lukas!\nIch bin auch immer müde. Ich habe auch schlecht Noten in Mathe. Die Schule ist langweilig.\nTschüss",
+      "rationale": "Reacts to the message but gives no advice at all, so it misses the task; adjective ending error (schlecht Noten)."
+    },
+    {
+      "n": 4,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Hallo Lukas\nwarum bist du müde? Was fur Noten hast du? Ich habe gut Noten in Englisch.\nBis bald",
+      "rationale": "Only asks questions and talks about the writer; no advice, task missed. Missing umlaut, adjective ending."
+    },
+    {
+      "n": 5,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "hallo lukas\ndu machen shlafen fil mehr kan nich muda warum. noten slekt du lernen haben ist. tchüs",
+      "rationale": "Attempted advice but word order, verb forms and spelling are so broken that no advice is clearly understandable."
+    },
+    {
+      "n": 6,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Hallo Lukas\nIch dir sagen tips. Du nich telefon kvell sein ist müde ja. Und lära sich schule mit machen ist gut noten. Tschüss",
+      "rationale": "Heavy Swedish-influenced mixing and chaotic syntax; the intended tips cannot be reliably understood."
+    },
+    {
+      "n": 7,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Hej Lukas!\nDu måste sova mer och inte spela så mycket dator. You should also do your homework.\nViele Grüße",
+      "rationale": "Advice is given only in Swedish and English; almost no German apart from the closing."
+    },
+    {
+      "n": 8,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Hallo Lukas\nI think you should go to bed earlier. Och ät frukost varje dag, det hjälper. Ich hoffe es geht dir gut.\nTschüss",
+      "rationale": "Both tips are written in English and Swedish; the only German sentence contains no advice."
+    },
+    {
+      "n": 9,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Hallo Lukas\nschlafen. handy nein. lernen. sport gut\nTschüss",
+      "rationale": "Genuine attempt, but only isolated words without sentences; no understandable simple sentence with advice."
+    },
+    {
+      "n": 10,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Hallo Lukas!\nMüde - Bett früh. Noten schlecht - Hausaufgaben, Lehrer. Wasser!\nBis bald",
+      "rationale": "Keyword list with some relevant ideas, but no sentences or verbs; falls below the E level of simple comprehensible sentences."
+    },
+    {
+      "n": 11,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo Lukas\nDu soll gehen in Bett früher. Ich gehe in Bett um zehn och ich bin nicht müde. Das ist gut.",
+      "rationale": "One understandable tip (go to bed earlier). No closing; modal conjugation and infinitive position wrong, Swedish 'och', missing article."
+    },
+    {
+      "n": 12,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hej Lukas!\nIch denke du musst essen Frühstuck jeden morgen. Frühstuck ist wichtig for dich. Ich esse jeden Tag Brot und Joghurt.",
+      "rationale": "One comprehensible tip (breakfast). No closing, only one tip; infinitive not final, missing umlaut, English 'for', lowercase noun."
+    },
+    {
+      "n": 13,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo Lukas,\ndu spielen zu fil Handy. Legen der Handy weg in der Nacht! Dann du bist nicht so mude.\nBis bald",
+      "rationale": "One understandable tip (put the phone away). Wrong verb forms, wrong article, word order errors, spelling by ear (fil, mude)."
+    },
+    {
+      "n": 14,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Lukas, du muss lernen mehr für die Tests. Ich lerne zwei Stunde vor ein Test und dann ich habe gute Noten. Es ist langweilig aber gut.",
+      "rationale": "One tip (study more) that is understandable; no greeting or closing. Modal ending, word order, plural and case errors."
+    },
+    {
+      "n": 15,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo!\nDu kannst Sport machen. Sport ist gut fur die Körper und du bist nicht mude. Ich spiele Basketball jede Woche.",
+      "rationale": "One simple, correct modal tip (sport) with a basic reason; only one tip, no closing, article and umlaut errors."
+    },
+    {
+      "n": 16,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo Lukas\nDas ist nicht so gut. Du sollst frage die Lehrer wenn du nicht verstehen. Die Lehrer helfen dich.\nViele Grusse",
+      "rationale": "One understandable tip (ask the teacher). Infinitive form wrong, verb in wenn-clause unconjugated, dative error, ss for ß."
+    },
+    {
+      "n": 17,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hi Lukas!\nDu muss nicht trinken Energy Drinks. Die ist nicht gut und du schlafen nicht. Ich trinke nur Wasser.",
+      "rationale": "One understandable tip (avoid energy drinks). Modal word order and conjugation errors, wrong pronoun; no closing."
+    },
+    {
+      "n": 18,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo Lukas\nIch bin auch müde manchmal. Du kann gehen raus und spazieren, frische Luft ist gut. Du bist dann mehr pigg.",
+      "rationale": "One tip (go outside) understandable; modal conjugation and word order wrong, Swedish 'pigg', no closing."
+    },
+    {
+      "n": 19,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo Lukas!\nMach die Hausaufgaben nicht so spät. Du machst die Hausaufgaben nach Schule, dann du hast Zeit für schlafen. Ich machen das auch.\nTschüss",
+      "rationale": "One tip (do homework earlier) repeated; very limited vocabulary, word order error after dann, missing article."
+    },
+    {
+      "n": 20,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hej Lukas\nDu musst schlafen acht Stunde. Ich schlafe neun Stunde und das ist gut. Die Noten bekommen besser wenn du bist nicht müde.\nBis bald",
+      "rationale": "One comprehensible tip (sleep eight hours); false friend 'bekommen', subordinate word order and plural errors, infinitive not final."
+    },
+    {
+      "n": 21,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo Lukas!\nDu solltest früher ins Bett gehen, vielleicht um zehn Uhr. Und du musst nicht so viel spielen mit dem Handy am Abend. Dann du bist nicht so müde in der Schule.\nViele Grüße",
+      "rationale": "Two tips with greeting and closing, relatively clear. First modal correct, second has infinitive in the wrong place; V2 error after 'dann'."
+    },
+    {
+      "n": 22,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hi Lukas,\ndu kannst jeden Tag eine Stunde lernen, nicht nur vor dem Test. Ich mache das auch und meine Noten sind besser jetzt. Du musst auch essen Frühstück, das gibt Energie.\nBis bald!",
+      "rationale": "Two tips, greeting and closing; one modal correct, one with infinitive misplaced. Vocabulary fairly basic."
+    },
+    {
+      "n": 23,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo Lukas\nIch habe zwei Tipps für dich. Erstens du sollst Sport machen, zum Beispiel joggen oder schwimmen. Zweitens du kannst mit Freunden zusammen lernen, das ist mehr lustig.\nTschüss",
+      "rationale": "Two tips with a clear structure, modals mostly correct; V2 errors after Erstens/Zweitens and 'mehr lustig' comparative error."
+    },
+    {
+      "n": 24,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo Lukas!\nDu musst mehr Wasser trinken und nicht so viel Cola. Frag auch deine Lehrer wenn du etwas nicht verstehst. Die Lehrer kann dir helfen.\nLiebe Grüße",
+      "rationale": "Two tips, greeting and closing, modals correct; agreement error (Die Lehrer kann), missing comma, limited vocabulary variation."
+    },
+    {
+      "n": 25,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo Lukas,\nschlecht Noten ist nicht schön. Du solltest ein Plan machen für die Hausaufgaben. Und geh nicht so spät schlafen, weil dann bist du müde.\nViele Grüße",
+      "rationale": "Two tips, one with an imperative and a weil-attempt; case and adjective ending errors, infinitive not final, main-clause order in weil-clause."
+    },
+    {
+      "n": 26,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hey Lukas!\nDu kannst eine kleine Pause machen wenn du lernst, zum Beispiel zehn Minuten. Du musst auch mehr raus gehen und frische Luft haben. Ich glaube das hilft.\nTschüss",
+      "rationale": "Two understandable tips with correct modal structures; slightly awkward phrasing (frische Luft haben), punctuation missing, little development."
+    },
+    {
+      "n": 27,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo Lukas\nDu sollst nicht Computer spielen bis Mitternacht. Du kannst lieber ein Buch lesen im Bett, dann du schläfst schneller. Und du musst die Hausaufgaben früher machen.\nBis bald",
+      "rationale": "Three tips with greeting and closing; infinitive often not final, V2 error after 'dann'. Meaning clear."
+    },
+    {
+      "n": 28,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo Lukas!\nIch bin auch manchmal müde. Du solltest am Wochenende nicht so lange schlafen, weil dann du kannst nicht schlafen am Abend. Du kannst auch Karteikarten machen für Vokabeln.\nMach's gut!",
+      "rationale": "Two tips, one motivated with weil, but subordinate clause order wrong and infinitives misplaced; relatively clear overall."
+    },
+    {
+      "n": 29,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo Lukas,\nvielleicht du musst mehr Obst und Gemüse essen, nicht nur Pommes. Und du solltest dein Handy ausmachen um neun Uhr. Dann hast du bessere Noten, glaube ich.\nViele Grüße",
+      "rationale": "Two tips with greeting and closing and some varied vocabulary; V2 error after 'vielleicht', separable infinitive not final."
+    },
+    {
+      "n": 30,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hi Lukas!\nDu kannst in der Bibliothek lernen, da ist es ruhig. Du musst auch mehr fragen in der Klasse. Dann die Lehrer wissen, dass du willst lernen.\nTschüss",
+      "rationale": "Two tips, relatively clear; modal placement errors, V2 error after 'dann' and main-clause order in dass-clause."
+    },
+    {
+      "n": 31,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo Lukas!\nDu solltest jeden Abend zur gleichen Zeit ins Bett gehen. Außerdem kannst du am Morgen ein gutes Frühstück essen. Dann hast du mehr Energie in der Schule.\nViele Grüße",
+      "rationale": "Two tips with greeting and closing, modals and word order correct, some connectors. No real motivation of each tip or reaction to Lukas' feelings."
+    },
+    {
+      "n": 32,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo Lukas,\nich habe ein paar Tipps für dich. Du musst nicht alles am letzten Tag lernen. Lern lieber jeden Tag ein bisschen, zum Beispiel zwanzig Minuten. Und du kannst deinen Lehrer um Hilfe fragen.\nBis bald!",
+      "rationale": "Two to three clear tips using modals and an imperative correctly; vocabulary somewhat varied. Tips are listed rather than motivated."
+    },
+    {
+      "n": 33,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hi Lukas!\nDu solltest weniger Zeit am Handy verbringen, besonders am Abend. Du kannst auch Sport machen, zum Beispiel Radfahren oder Schwimmen. Sport ist gut für den Kopf und man schläft besser.\nTschüss",
+      "rationale": "Two tips, modals correct, simple reason given for sport. Relatively clear; no subordinate clauses and no empathy."
+    },
+    {
+      "n": 34,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo Lukas,\nmüde sein ist wirklich blöd. Du kannst zum Beispiel einen Plan für die Woche schreiben. Dann weißt du, wann du lernen musst. Du solltest auch nicht so viele Energy Drinks trinken.\nLiebe Grüße",
+      "rationale": "Two tips with greeting and closing, correct modals and a correct wann-clause; short reaction to Lukas, but tips are not really motivated."
+    },
+    {
+      "n": 35,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo Lukas!\nGeh nicht so spät ins Bett und mach am Abend den Computer aus. Du kannst auch mit einem Freund zusammen für die Tests lernen, das macht mehr Spaß. Ich hoffe, das hilft dir.\nViele Grüße",
+      "rationale": "Imperatives and modals used correctly, two tips, relatively clear. Limited motivation and coherence beyond listing."
+    },
+    {
+      "n": 36,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo Lukas,\ndu musst mehr Wasser trinken, weil der Körper braucht Wasser. Und du solltest jeden Tag ein bisschen spazieren gehen. Frische Luft ist gut gegen Müdigkeit.\nTschüss!",
+      "rationale": "Two tips with simple reasons; modals correct but the weil-clause keeps main-clause order. Relatively clear."
+    },
+    {
+      "n": 37,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hey Lukas!\nIch glaube, du solltest deine Hausaufgaben direkt nach der Schule machen. Dann hast du am Abend frei und kannst früher schlafen. Du kannst auch in der Pause etwas essen, nicht nur Süßigkeiten.\nBis bald",
+      "rationale": "Two tips, correct modals and V2, one tip is followed by a consequence. No empathy, fairly simple sentence patterns."
+    },
+    {
+      "n": 38,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo Lukas!\nDu kannst nach dem Unterricht eine kurze Pause machen und dann lernen. Schreib die wichtigen Wörter auf kleine Zettel. So lernst du Vokabeln schneller. Du solltest auch acht Stunden schlafen.\nViele Grüße",
+      "rationale": "Three practical tips with modals and imperative correct, varied vocabulary; tips are loosely connected and not adapted to Lukas."
+    },
+    {
+      "n": 39,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo Lukas,\ndas klingt nicht gut. Du solltest in der Nacht dein Handy in ein anderes Zimmer legen. Und du musst im Unterricht mehr Fragen stellen, wenn du etwas nicht verstehst.\nMach's gut",
+      "rationale": "Two tips, modals and wenn-clause correct, short reaction. Tips are not motivated, text is short and fairly list-like."
+    },
+    {
+      "n": 40,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hi Lukas!\nIch habe zwei Tipps. Du solltest am Wochenende nicht so lange aufbleiben, sonst bist du am Montag müde. Du sollst auch eine Lerngruppe mit Klassenkameraden machen.\nTschüss",
+      "rationale": "Two tips with a short consequence, modals correct though 'sollst' is slightly off in register. Relatively clear, no empathy."
+    },
+    {
+      "n": 41,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo Lukas!\nDas kenne ich, im Winter bin ich auch oft müde. Du solltest früher schlafen gehen, weil man braucht mindestens acht Stunden Schlaf. Außerdem kannst du jeden Tag ein bisschen lernen, dann ist der Stress vor den Tests nicht so groß.\nViele Grüße",
+      "rationale": "Two motivated tips and empathy, coherent with connectors. One weil-clause with main-clause word order keeps it below A."
+    },
+    {
+      "n": 42,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo Lukas,\nes tut mir leid, dass du so müde bist. Mach am Abend dein Handy aus, denn das Licht vom Bildschirm macht dich wach. Wenn du Probleme in Mathe hast, kannst du deinen Lehrer fragen, weil er hilft dir bestimmt.\nBis bald!",
+      "rationale": "Empathy, imperative and wenn-clause correct, both tips motivated; weil-clause word order error."
+    },
+    {
+      "n": 43,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hi Lukas!\nIch verstehe dich gut, die neunte Klasse ist echt anstrengend. Du musst nicht jeden Abend bis Mitternacht Videos schauen. Geh lieber früher ins Bett, dann kannst du dich in der Schule besser konzentrieren. Du kannst auch einen Lernplan machen.\nLiebe Grüße",
+      "rationale": "Empathetic, coherent, good vocabulary; 'musst nicht' used for 'solltest nicht' and the last tip is not motivated."
+    },
+    {
+      "n": 44,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo Lukas,\nschlechte Noten sind nicht das Ende der Welt! Du solltest mehr Sport treiben, weil Bewegung gibt dir Energie. Und wenn du lernst, mach alle zwanzig Minuten eine kurze Pause. So kannst du dir mehr merken.\nViele Grüße",
+      "rationale": "Encouraging, two motivated tips, correct wenn-clause and imperative, varied vocabulary; weil-clause word order error."
+    },
+    {
+      "n": 45,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo Lukas!\nOh nein, das klingt stressig. Ich denke, du solltest gesünder essen, zum Beispiel Obst statt Chips. Du kannst auch mit Freunden eine Lerngruppe machen, weil zusammen ist das Lernen nicht so langweilig.\nBis bald",
+      "rationale": "Reacts to Lukas, two tips, one motivated; weil-clause order wrong and first tip not connected to the tiredness."
+    },
+    {
+      "n": 46,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hey Lukas,\nich hatte letztes Jahr das gleiche Problem. Trink nicht so viel Cola am Abend, weil Koffein macht, dass man nicht schlafen kann. Du solltest auch deine Hausaufgaben gleich nach der Schule machen, dann hast du später mehr Freizeit.\nTschüss!",
+      "rationale": "Shows understanding, both tips motivated, imperative and modal correct; awkward weil-clause order."
+    },
+    {
+      "n": 47,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo Lukas!\nDu bist bestimmt müde, weil du zu wenig schläfst. Deshalb solltest du jeden Tag zur gleichen Zeit aufstehen, auch am Wochenende. Wenn du etwas im Unterricht nicht verstehen, frag einfach nach.\nViele Grüße",
+      "rationale": "Coherent with deshalb and correct weil-clause, two tips; verb in wenn-clause not conjugated and little real empathy."
+    },
+    {
+      "n": 48,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo Lukas,\nich hoffe, es geht dir bald besser. Du kannst morgens zehn Minuten spazieren gehen, dann bist du wacher in der Schule. Außerdem solltest du dein Zimmer aufräumen, weil an einem ordentlichen Schreibtisch kann man besser lernen.\nLiebe Grüße",
+      "rationale": "Friendly, two motivated tips, varied vocabulary; weil-clause keeps main-clause order."
+    },
+    {
+      "n": 49,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hi Lukas!\nDas ist echt blöd, aber du schaffst das. Leg dein Handy in der Nacht weg, weil sonst du schaust immer nur Videos. Und du solltest vor einem Test die wichtigsten Sachen zusammenfassen, das hilft mir sehr.\nBis bald!",
+      "rationale": "Encouraging tone, imperative and modal correct, two tips; weil-clause word order error, second tip motivated only by own experience."
+    },
+    {
+      "n": 50,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo Lukas,\nich glaube, du hast zu viel Stress. Du solltest nicht so viele Hobbys neben der Schule haben, wenn du immer müde bist. Du kannst auch mit deiner Klassenlehrerin reden, sie kann dir bestimmt Tipps geben, wie du kannst besser lernen.\nViele Grüße",
+      "rationale": "Adapted to Lukas, two tips, correct wenn-clause; word order error in the wie-clause and a slightly run-on final sentence."
+    },
+    {
+      "n": 51,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo Lukas!\nDas tut mir echt leid, das kenne ich auch. Du solltest jeden Abend spätestens um zehn Uhr ins Bett gehen, weil dein Körper genug Schlaf braucht. Wenn du morgens fit bist, kannst du im Unterricht besser aufpassen. Außerdem würde ich an deiner Stelle einen Lernplan für die Woche machen.\nViele Grüße und bis bald!",
+      "rationale": "Empathy, two tips with weil/wenn motivation, correct subordinate clauses and modals, coherent and varied."
+    },
+    {
+      "n": 52,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo Lukas,\nkeine Sorge, das passiert vielen in der neunten Klasse. Leg dein Handy am Abend in die Küche, denn sonst schaust du bestimmt noch stundenlang Videos. Und wenn du Hausaufgaben machst, dann mach alle halbe Stunde eine kurze Pause. So bleibst du konzentriert und lernst mehr.\nLiebe Grüße",
+      "rationale": "Reassuring, two motivated tips with imperatives and wenn...dann, coherent and varied; one minor slip (alle halbe Stunde)."
+    },
+    {
+      "n": 53,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hi Lukas!\nIch kann gut verstehen, dass du gestresst bist. Mein Tipp: Treib mehr Sport, zum Beispiel Joggen oder Radfahren, weil Bewegung gegen Müdigkeit hilft. Du solltest auch deine Lehrer fragen, was du für bessere Noten machen kannst. Die meisten helfen gern, wenn man fragt.\nTschüss und viel Glück!",
+      "rationale": "Shows understanding, two motivated tips, correct dass/weil/wenn/indirect question, relatively varied vocabulary."
+    },
+    {
+      "n": 54,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo Lukas,\nschlechte Noten sind frustrierend, aber das kann man ändern. Wenn du immer müde bist, solltest du vielleicht weniger Energy Drinks trinken und mehr Wasser. Außerdem kannst du mit Klassenkameraden zusammen lernen, weil man sich gegenseitig Sachen erklären kann. Ich bin sicher, dass es bald besser wird!\nViele Grüße",
+      "rationale": "Empathetic and encouraging, two motivated tips, correct subordinate clauses and modals, coherent."
+    },
+    {
+      "n": 55,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo Lukas!\nOh je, das klingt anstrengend. Ich glaube, du bist müde, weil du zu spät schlafen gehst. Mach deshalb eine Stunde vor dem Schlafen den Bildschirm aus und lies lieber ein Buch. Und lern nicht alles am Abend vor dem Test, sondern jeden Tag ein bisschen.\nMach's gut!",
+      "rationale": "Diagnoses the problem, motivates tips with weil/deshalb, correct imperatives including 'lies', coherent."
+    },
+    {
+      "n": 56,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hey Lukas,\nmach dir keine Sorgen, du bist nicht allein! Du könntest morgens ein richtiges Frühstück essen, denn ohne Essen kann man sich nicht konzentrieren. Wenn du im Unterricht etwas nicht verstehst, schreib dir die Frage auf und frag danach. So hast du vor dem Test keine Lücken mehr.\nBis bald!",
+      "rationale": "Supportive tone, two motivated tips, correct modal, wenn-clause and imperatives, varied vocabulary."
+    },
+    {
+      "n": 57,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo Lukas,\nich hatte im Frühling genau das gleiche Problem. Damals hat mir geholfen, dass ich jeden Tag zur gleichen Zeit aufgestanden bin. Du solltest das auch probieren, weil dein Körper dann einen Rhythmus bekommt. Außerdem kannst du deine Hausaufgaben in der Bibliothek machen, da gibt es keine Ablenkung.\nViele Grüße",
+      "rationale": "Relates to Lukas through own experience, two motivated tips, correct Perfekt and subordinate clauses, coherent."
+    },
+    {
+      "n": 58,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo Lukas!\nEs ist ganz normal, dass man manchmal müde ist, aber du musst etwas ändern. Geh jeden Tag mindestens eine halbe Stunde nach draußen, weil frische Luft wach macht. Und wenn du Vokabeln lernen musst, probier doch mal eine Lern-App aus. Das macht mehr Spaß als nur im Buch zu lesen.\nLiebe Grüße",
+      "rationale": "Understanding tone, two motivated tips, correct dass/weil/wenn clauses and imperatives; one minor slip in the comparison."
+    },
+    {
+      "n": 59,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hi Lukas,\ndas tut mir leid, dass es gerade so schwer ist. Vielleicht spielst du am Abend zu lange am Computer? Dann solltest du dir eine feste Zeit setzen, zum Beispiel bis neun Uhr. Außerdem hilft es, wenn du vor Tests Karteikarten schreibst, weil du beim Schreiben schon lernst.\nViel Erfolg und bis bald!",
+      "rationale": "Empathy, tips adapted to a likely cause, both motivated with wenn/weil, coherent; minor collocation slip (eine feste Zeit setzen)."
+    },
+    {
+      "n": 60,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo Lukas,\nich verstehe dich total, die Schule ist gerade echt stressig. Du solltest versuchen, am Abend nicht so viel Zeit am Handy zu verbringen, denn dann schläfst du besser. Ein zweiter Tipp: Frag deine Mitschüler, ob sie mit dir lernen wollen. Zusammen ist es einfacher und du bekommst bestimmt bald bessere Noten.\nTschüss!",
+      "rationale": "Understanding tone, two motivated tips, correct zu-infinitive, ob-clause and imperative, coherent and varied."
+    }
+  ]
+}

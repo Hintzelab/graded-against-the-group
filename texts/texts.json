@@ -1,0 +1,2906 @@
+{
+  "G6-1": [
+    {
+      "text_id": "G6-1-T01",
+      "text": "Ich mag Delfine. Ein Delfin ist grau und sehr schlau. Er hat ein lange Nase. Er schwimmt schnell im Meer und isst fisch."
+    },
+    {
+      "text_id": "G6-1-T02",
+      "text": "Mein lieblingstier ist Löwe. Er ist gelb und stark. Er ist die king. Er essen fleisch."
+    },
+    {
+      "text_id": "G6-1-T03",
+      "text": "Ich habe ein tiger"
+    },
+    {
+      "text_id": "G6-1-T04",
+      "text": "Ich mag Katze. Die katze ist svart und klein. Die katze essen fisch."
+    },
+    {
+      "text_id": "G6-1-T05",
+      "text": "Mein Lieblingstier ist der Fuchs. Er ist rot und hat einen buschigen Schwanz und spitze Ohren. Er wohnt im Wald und ist sehr schlau. Er frisst Mäuse und auch Beeren. Ich finde Füchse schön, aber ich sehe sie nicht oft."
+    },
+    {
+      "text_id": "G6-1-T06",
+      "text": "Ich spiele fotboll und ich bin zwölf jahre. Ich mag pizza und mein tier."
+    },
+    {
+      "text_id": "G6-1-T07",
+      "text": "Mein Lieblingstier ist der Bär. Der Bär ist braun und sehr stark. Im Winter schläft er lange. Er isst Beeren, Fisch und Honig. Ich finde Bären toll, aber sie sind gefährlich."
+    },
+    {
+      "text_id": "G6-1-T08",
+      "text": "Mein Lieblingstier ist die Schildkröte. Sie ist klein und grün und hat einen harten Panzer. Sie ist sehr langsam, aber sie lebt lange. Sie frisst Salat und Löwenzahn. Ich finde Schildkröten süß und ruhig."
+    },
+    {
+      "text_id": "G6-1-T09",
+      "text": "Mein Lieblingstier ist die Kuh. Die Kuh ist schwarz und weiß und sehr groß. Sie steht auf dem Feld und frisst Gras. Sie gibt uns Milch. Ich mag Kühe, sie sind ruhig."
+    },
+    {
+      "text_id": "G6-1-T10",
+      "text": "Mein Lieblingstier ist der Affe. Der Affe ist braun und lustig. Er klettern auf Bäume. Er isst Bananen."
+    },
+    {
+      "text_id": "G6-1-T11",
+      "text": "Mein Lieblingstier ist der Hund. Ein Hund ist oft braun oder schwarz. Er hat vier Beine und einen langen Schwanz. Er spielt gern und frisst Fleisch."
+    },
+    {
+      "text_id": "G6-1-T12",
+      "text": "Mein Lieblingstier ist das Kaninchen. Es ist klein und hat weiches, graues Fell und lange Ohren. Es springt gern im Garten herum. Es frisst Heu, Salat und Karotten. Kaninchen sind auch sehr neugierig."
+    },
+    {
+      "text_id": "G6-1-T13",
+      "text": "Mein Lieblingstier ist ein Hai. Der Hai ist grau und sehr groß. Er hat viele Zähne. Er schwimmt im Meer und frisst Fische."
+    },
+    {
+      "text_id": "G6-1-T14",
+      "text": "Main tir is kaz. es is swats und hat esen fis mag."
+    },
+    {
+      "text_id": "G6-1-T15",
+      "text": "Ich habe ein Meerschweinchen. Es ist klein und weiss und braun. Es essen gurka und salat. Es ist süß."
+    },
+    {
+      "text_id": "G6-1-T16",
+      "text": "Mein Lieblingstier ist der Tiger. Der Tiger ist orange und schwarz. Er ist groß und stark. Er frisst fleisch und er schlaft viel."
+    },
+    {
+      "text_id": "G6-1-T17",
+      "text": "Ich tier maus klein grau käse ich mag."
+    },
+    {
+      "text_id": "G6-1-T18",
+      "text": "Mein Lieblingstier ist die Katze. Meine Katze ist weiß und hat blaue Augen. Sie ist klein und weich. Sie schlaft viel und spielt mit einem Ball."
+    },
+    {
+      "text_id": "G6-1-T19",
+      "text": "Mein Lieblingstier ist ein Pferd. Ich mag Pferd. Pferd ist gut."
+    },
+    {
+      "text_id": "G6-1-T20",
+      "text": "Mein Lieblingstier ist der Elch. Der Elch ist sehr groß und braun. Er hat lange Beine und große Ohren. Er wohnt im Wald und frisst Blätter."
+    },
+    {
+      "text_id": "G6-1-T21",
+      "text": "Mein Lieblingstier ist der Elefant. Er ist sehr groß und grau, und er hat große Ohren und einen langen Rüssel. Mit dem Rüssel trinkt er Wasser. Er frisst Gras, Blätter und auch Obst. Ich finde Elefanten klug und ein bisschen lustig."
+    },
+    {
+      "text_id": "G6-1-T22",
+      "text": "Mein Lieblingstier ist das Schwein. Das Schwein ist rosa und dick. Es hat kleine Augen und eine große Nase. Es isst fast alles."
+    },
+    {
+      "text_id": "G6-1-T23",
+      "text": "Mein Lieblingstier ist die Schildkröte. Sie ist grün und langsam. Sie hat ein harter Panzer. Sie esst Salat."
+    },
+    {
+      "text_id": "G6-1-T24",
+      "text": "Mein Lieblingstier ist ein Kaninchen. Das Kaninchen ist weiß und klein. Es hat lange ohren. Es isst Karotten und springt im garten."
+    },
+    {
+      "text_id": "G6-1-T25",
+      "text": "Mein Lieblingstier ist der Otter. Er ist braun und hat ein kleinen Kopf. Er schwimmt im Fluss und spielt mit Steinen. Er frisst Fisch. Ich finde Otter sehr süß."
+    },
+    {
+      "text_id": "G6-1-T26",
+      "text": "Mein Lieblingstier ist ein Papagei. Er ist rot, grün und blau. Er kann sprechen und er fliegt viel. Er isst Nüsse und Obst. Papageien sind sehr lustig!"
+    },
+    {
+      "text_id": "G6-1-T27",
+      "text": "Mitt favoritdjur är en panda. It is black and white. Er isst bambu."
+    },
+    {
+      "text_id": "G6-1-T28",
+      "text": "Mein lieblingstier ist ein hund. Der hund ist groß und brun. Er spielen mit ein boll."
+    },
+    {
+      "text_id": "G6-1-T29",
+      "text": "Mein Tier ist ein Hamster. Er ist klein und braun. Er essen morötter och er schlafen fil."
+    },
+    {
+      "text_id": "G6-1-T30",
+      "text": "Mein Lieblingstier ist die Giraffe. Sie ist sehr groß und hat einen langen Hals. Sie ist gelb mit braunen Flecken. Sie frisst Blätter von hohen Bäume. Ich finde Giraffen schön."
+    },
+    {
+      "text_id": "G6-1-T31",
+      "text": "Mein Lieblingstier ist ein Panda. Der Panda ist schwarz und weiss. Er ist dick und süss. Er essen Bambus den ganzen Tag."
+    },
+    {
+      "text_id": "G6-1-T32",
+      "text": "Mein Lieblingstier ist der Hund. Hunde sind freundlich und lustig. Unser Hund ist groß und hat braunes Fell und kurze Ohren. Er läuft gern im Wald und frisst Fleisch. Er ist auch mein bester Freund!"
+    },
+    {
+      "text_id": "G6-1-T33",
+      "text": "Mein lieblingstier ist die Elefant. Er ist gros und grau. Er hat ein lang nase."
+    },
+    {
+      "text_id": "G6-1-T34",
+      "text": "Mein Lieblingstier ist der Tiger. Er ist orange mit schwarzen Streifen und sehr stark. Am Tag schläft er oft, aber in der Nacht jagt er. Er frisst Fleisch. Ich finde Tiger schön, aber auch ein bisschen gefährlich."
+    },
+    {
+      "text_id": "G6-1-T35",
+      "text": "Mein Lieblingstier ist der Affe. Affen sind braun und haben lange Arme. Sie klettern auf Bäume und springen von Ast zu Ast. Sie fressen Bananen und Blätter. Ich finde Affen lustig, weil sie wie Menschen spielen."
+    },
+    {
+      "text_id": "G6-1-T36",
+      "text": "Mein Lieblingstier ist ein Fuchs. Der Fuchs ist rot und weiß. Er wohnt im wald. Er fresst Mäuse."
+    },
+    {
+      "text_id": "G6-1-T37",
+      "text": "Ich finde Pinguin ist gut. Pinguin ist schwarz und weis. Er schwimmen im wasser und esst fisch."
+    },
+    {
+      "text_id": "G6-1-T38",
+      "text": "Mein Lieblingstier ist der Koala. Der Koala ist grau und hat große, runde Ohren. Er schläft sehr viel auf einem Baum. Er frisst nur Blätter. Ich mag Koalas, weil sie sind so ruhig."
+    },
+    {
+      "text_id": "G6-1-T39",
+      "text": "Mein Lieblingstier ist der Hamster. Mein Hamster ist klein und rund und hat goldbraunes Fell. Am Tag schläft er, aber am Abend läuft er im Rad. Er frisst Körner und ein bisschen Gemüse. Ich finde ihn sehr süß."
+    },
+    {
+      "text_id": "G6-1-T40",
+      "text": "Mein Lieblingstier ist das Meerschweinchen. Es ist klein und hat weiches Fell. Mein Meerschweinchen ist braun und weiß. Es frisst Gurke und Salat. Ich finde es sehr süß."
+    },
+    {
+      "text_id": "G6-1-T41",
+      "text": "Mein lieblingstier ist ein Frosch. Der Frosch ist grun. Er springen und er essen fligen."
+    },
+    {
+      "text_id": "G6-1-T42",
+      "text": "Hund. brun"
+    },
+    {
+      "text_id": "G6-1-T43",
+      "text": "Mein lieblings tier ist Giraffe. Die Giraffe ist gelb und braun. Sie hat eine lang hals. Sie ist sehr groß."
+    },
+    {
+      "text_id": "G6-1-T44",
+      "text": "Mein Lieblingstier ist das Zebra. Das Zebra ist schwarz und weiß. Es ist groß und schnell. Es lebt auf der Savanne und frisst Gras."
+    },
+    {
+      "text_id": "G6-1-T45",
+      "text": "Ich lieblings tir sein fogel is gron und flig bum hoch esse korn in das."
+    },
+    {
+      "text_id": "G6-1-T46",
+      "text": "Mein lieblingstier ist ein Pferd. Es ist braun und hat eine schwarze schwanz. Es läuft schnell. Es frisst Gras und Äpfel."
+    },
+    {
+      "text_id": "G6-1-T47",
+      "text": "Mein Lieblingstier ist die Eule. Die Eule ist braun und weiß. Sie hat große gelbe Augen. In der Nacht fliegt sie und frisst Mäuse."
+    },
+    {
+      "text_id": "G6-1-T48",
+      "text": "Mein Lieblingstier ist der Pinguin. Pinguine sind schwarz und weiß und haben orange Füße. Sie können nicht fliegen, aber sie schwimmen sehr schnell. Sie fressen Fisch. Ich finde Pinguine lustig, denn sie laufen so komisch."
+    },
+    {
+      "text_id": "G6-1-T49",
+      "text": "Mein lieblingstier ist ein Pferd. Das pferd ist weiß. Es laufen snabb. Ich mag das pferd."
+    },
+    {
+      "text_id": "G6-1-T50",
+      "text": "Mein Lieblingstier ist der Igel. Er ist klein und braun. Er hat viele Stacheln. Er schläft am Tag und frisst gern Würmer."
+    },
+    {
+      "text_id": "G6-1-T51",
+      "text": "Mein Lieblingstier ist der Wolf. Der Wolf ist grau und stark. Er hat gelbe Augen und große Zahne. Er lebt im Wald und frisst Fleisch. Ich finde Wölfe cool."
+    },
+    {
+      "text_id": "G6-1-T52",
+      "text": "Mein Lieblingstier ist die Katze. Katzen sind klein und weich, und sie haben lange Schnurrhaare. Meine Katze ist schwarz mit weiße Pfoten. Sie schläft viel, aber in der Nacht spielt sie gern. Ich finde Katzen sehr süß."
+    },
+    {
+      "text_id": "G6-1-T53",
+      "text": "Mein Lieblingstier ist eine Maus. Die Maus ist grau und sehr klein. Sie hat einen langen Schwanz und kleine Ohren. Sie frisst Käse und Brot. Ich finde Mäuse süß und lustig."
+    },
+    {
+      "text_id": "G6-1-T54",
+      "text": "Mein Lieblingstier ist ein Pinguin. Der Pinguin ist schwarz, weiß und ein bisschen gelb. Er ist klein und dick. Er schwimmt sehr gut und frisst Fisch."
+    },
+    {
+      "text_id": "G6-1-T55",
+      "text": "Mein Lieblingstier ist ein Wellensittich. Er ist blau und gelb und sehr klein. Er singt und fliegt in die Zimmer. Er isst Körner."
+    },
+    {
+      "text_id": "G6-1-T56",
+      "text": "Ich habe en kanin. Den är vit och liten och den äter morötter."
+    },
+    {
+      "text_id": "G6-1-T57",
+      "text": "Mein Lieblingstier ist ein Hamster. Er ist klein, rund und hellbraun. Er hat kurze Beine. In der Nacht läuft er im Rad und er frisst Körner."
+    },
+    {
+      "text_id": "G6-1-T58",
+      "text": "Mein Lieblingstier ist das Lama. Es ist weiß und hat ein langer Hals. Es hat auch weiches Fell. Das Lama frisst Gras und Heu. Manchmal spuckt es!"
+    },
+    {
+      "text_id": "G6-1-T59",
+      "text": "Delfin blau, gross. wasser schwimmen fisch."
+    },
+    {
+      "text_id": "G6-1-T60",
+      "text": "Mein Lieblingstier ist eine Katze. Sie ist grau und hat grüne augen. Sie spielt gern mit ein Ball. Sie isst fisch und milch."
+    }
+  ],
+  "G6-2": [
+    {
+      "text_id": "G6-2-T01",
+      "text": "Mein Zimmer ist nicht groß, aber es ist schön. Ich habe ein Sofa und einen Fernseher. Das Sofa ist grün und die Wände sind grau. Ich mag das Sofa, denn ich sehe dort Filme mit meine Freunde."
+    },
+    {
+      "text_id": "G6-2-T02",
+      "text": "Mein Zimmer ist klein, aber ich finde es gemütlich. Ich habe ein Sofa, einen Teppich und eine Lampe. Das Sofa ist grau und der Teppich ist orange. Neben dem Sofa steht die Lampe. Ich mag das Sofa, denn da lese ich gern Comics."
+    },
+    {
+      "text_id": "G6-2-T03",
+      "text": "Mein Zimmer hat ein grosses Fenster. Der Teppich ist grün und das Bett ist grau. Ich mag die Fenster, ich sehe die Bäume."
+    },
+    {
+      "text_id": "G6-2-T04",
+      "text": "Bett. Tisch blau."
+    },
+    {
+      "text_id": "G6-2-T05",
+      "text": "In meinem Zimmer gibt es viele Pflanzen. Sie sind grün, natürlich. Ich habe auch ein Sitzsack, der ist lila. Ich mag die Pflanzen, sie sind schön."
+    },
+    {
+      "text_id": "G6-2-T06",
+      "text": "Es gibt ein Bett, ein Tisch und fil Bucher. Ich mag lesen in mein bett. Die wand ist grau."
+    },
+    {
+      "text_id": "G6-2-T07",
+      "text": "Mein Zimmer hat ein großes Fenster, und am Fenster stehen drei Pflanzen. Die Pflanzen sind grün und die Vorhänge sind gelb. Ich habe auch ein Bett und ein Regal mit vielen Büchern. Ich mag das Fenster, denn ich sehe den Himmel und die Bäume."
+    },
+    {
+      "text_id": "G6-2-T08",
+      "text": "Mein Zimmer ist gelb. Ich habe ein Bett, ein Stuhl und ein Spiegel. Der Stuhl ist schwarz. Ich mag den Spiegel, er ist groß und rund."
+    },
+    {
+      "text_id": "G6-2-T09",
+      "text": "In meinem Zimmer gibt es ein Bett, einen Schreibtisch und einen Schrank. Das Bett steht an der Wand und ist dunkelblau. Der Schreibtisch ist weiß, und dort mache ich meine Hausaufgaben. Ich mag mein Bett am meisten, denn es ist groß und sehr bequem."
+    },
+    {
+      "text_id": "G6-2-T10",
+      "text": "Zimmer: Bett, Tisch, Stuhl. blau, weis, gut."
+    },
+    {
+      "text_id": "G6-2-T11",
+      "text": "Mein Zimmer ist klein. Ich habe ein Sofa und ein Fernseher. Das sofa ist grün och grau."
+    },
+    {
+      "text_id": "G6-2-T12",
+      "text": "Mein Zimmer ist blau und weiss. Ich habe ein Computer und ein Kissen. Ich mag mein computer, ich spielt Spiele."
+    },
+    {
+      "text_id": "G6-2-T13",
+      "text": "Ich habe eine Uhr, ein Tisch und ein Kissen in meinem Zimmer. Das Kissen ist rot und die Uhr ist schwarz. Ich mag das Kissen, es ist weich."
+    },
+    {
+      "text_id": "G6-2-T14",
+      "text": "Ich habe viele Pflanzen im Zimmer. Sie stehen am Fenster und sind grün. Es gibt auch ein Bett und einen Stuhl, sie sind braun. Ich mag die Pflanzen am meisten, sie sind so schön."
+    },
+    {
+      "text_id": "G6-2-T15",
+      "text": "Ich habe ein Aquarium und ein Stuhl. Die Fische sind gelb und blau. Die Stuhl ist lila. Ich mag die Fische sehr, sie ist schön."
+    },
+    {
+      "text_id": "G6-2-T16",
+      "text": "Ich habe einen Schreibtisch unter dem Fenster. Er ist schwarz und ich mache dort Hausaufgaben. Es gibt auch ein Regal mit Spiele. Mein Lieblingsding ist mein Kissen, es ist gelb wie die Sonne."
+    },
+    {
+      "text_id": "G6-2-T17",
+      "text": "Ich mag Fussball. Ich spiele Fussball mit freunde. Es ist toll."
+    },
+    {
+      "text_id": "G6-2-T18",
+      "text": "Es gibt ein Bett, ein Sitzsack und ein Poster in mein Zimmer. Der Sitzsack ist orange. Ich mag die Poster, es ist ein Hund."
+    },
+    {
+      "text_id": "G6-2-T19",
+      "text": "Mein Zimmer hat grüne Wände und einen weißen Teppich. Ich habe ein Bett, ein Regal und ein Gitarre. Die Gitarre steht in die Ecke. Ich mag sie, denn ich spiele gern Musik."
+    },
+    {
+      "text_id": "G6-2-T20",
+      "text": "In meinem Zimmer gibt es ein Bett, einen Tisch und eine Uhr. Die Uhr hängt an der Wand, sie ist blau. Ich mag mein Zimmer, es ist ruhig und gemütlich. Aber die Stuhl ist alt."
+    },
+    {
+      "text_id": "G6-2-T21",
+      "text": "Ich habe eine Gitarre, einen Stuhl und ein Poster in meinem Zimmer. Die Gitarre ist braun und steht neben dem Bett. Auf dem Poster ist eine Katze, sie ist lustig. Ich mag die Gitarre am meisten, aber ich spiele noch nicht so gut."
+    },
+    {
+      "text_id": "G6-2-T22",
+      "text": "mein simmer. ich mag"
+    },
+    {
+      "text_id": "G6-2-T23",
+      "text": "In mein zimmer es gibt ein Schrank und ein Stuhl. Der Schrank is weiss. Ich mag die Stuhl."
+    },
+    {
+      "text_id": "G6-2-T24",
+      "text": "Ich habe ein Regal mit fiele Bücher. Das Regal ist grau. Es gibt auch ein Pflanze am Fenster. Ich mag mein Bücher, ich lese gern."
+    },
+    {
+      "text_id": "G6-2-T25",
+      "text": "ich zimmer bett. Lampe gelb gelb. mag ja."
+    },
+    {
+      "text_id": "G6-2-T26",
+      "text": "Mitt rum är blått. Ich habe ein bed and a desk. I like my rum."
+    },
+    {
+      "text_id": "G6-2-T27",
+      "text": "Ich habe ein Regal und ein Pflanze. Die Pflanze is grun. Ich mag mein Pflanze."
+    },
+    {
+      "text_id": "G6-2-T28",
+      "text": "Ich habe ein Sofa, ein Fernseher und ein Teppich in mein Zimmer. Die Wände ist hellgrün. Ich mag die Sofa, ich sitze und gucke Filme."
+    },
+    {
+      "text_id": "G6-2-T29",
+      "text": "In meinem Zimmer gibt es ein Bett, einen Schreibtisch und ein Regal. Das Bett steht am Fenster und ist blau. Der Schreibtisch ist weiß, aber der Stuhl ist schwarz. Ich mag mein Bett, weil es ist sehr bequem."
+    },
+    {
+      "text_id": "G6-2-T30",
+      "text": "Mein Zimmer ist gelb und weiss. Ich habe ein Gitarre und ein Stuhl. Ich spiel Gitarre in mein zimmer."
+    },
+    {
+      "text_id": "G6-2-T31",
+      "text": "In meinem Zimmer gibt es ein Aquarium. Die Fische sind orange und gelb. Ich habe auch ein Bett und ein Schrank, sie sind braun. Ich mag die Fische, sie sind lustig."
+    },
+    {
+      "text_id": "G6-2-T32",
+      "text": "In mein Zimmer gibt es ein Bett und ein Schreibtisch. Das Bett ist blau und der Schreibtisch ist weiss. Ich mag mein bett, es ist gross. Ich habe auch ein lampe."
+    },
+    {
+      "text_id": "G6-2-T33",
+      "text": "In mein Zimmer gibt es ein Uhr, ein Bett und ein Tisch. Die Uhr ist rot und die Tisch ist schwarz. Ich mag die Uhr, sie ist kul."
+    },
+    {
+      "text_id": "G6-2-T34",
+      "text": "Mein Zimmer ist klein aber schön. Ich habe ein Schreibtisch und ein Computer. Die Wände sind hellblau. Ich mag den Computer, ich spiele gern Spiele."
+    },
+    {
+      "text_id": "G6-2-T35",
+      "text": "Ich habe einen großen Schreibtisch und einen Stuhl in meinem Zimmer. Der Stuhl ist blau und dreht sich. Es gibt auch ein Regal mit Spiele und Büchern. Ich mag mein Zimmer, weil es ruhig ist."
+    },
+    {
+      "text_id": "G6-2-T36",
+      "text": "In mein Zimmer gibt es ein Bett, ein Tisch und zwei Stühle. Das Bett ist grün und die Stühle sind weiß. Ich mag mein Bett, es ist sehr bequem. Ich habe auch eine Lampe."
+    },
+    {
+      "text_id": "G6-2-T37",
+      "text": "Mein Zimmer habe ein Fenster und ein Teppich. Teppich is rot. Ich mag die Teppich sehr."
+    },
+    {
+      "text_id": "G6-2-T38",
+      "text": "Mein Zimmer ist hell. Es gibt einen Schrank, ein Bett und einen Spiegel. Der Spiegel hängt an die Tür und ist rund. Ich mag das Bett, es hat viele Kissen, rot und weiß."
+    },
+    {
+      "text_id": "G6-2-T39",
+      "text": "Ich bin zimer har bed grun unt ich lik stul es is."
+    },
+    {
+      "text_id": "G6-2-T40",
+      "text": "Ich habe einen großen Schrank und eine Lampe in meinem Zimmer. Die Lampe steht auf den Tisch und ist gelb. Ich mag die Lampe, sie ist hell und schön. Mein Teppich ist auch gelb."
+    },
+    {
+      "text_id": "G6-2-T41",
+      "text": "Mine simer is en blo und fenster ich gerne bet ist mit."
+    },
+    {
+      "text_id": "G6-2-T42",
+      "text": "Mein Zimmer ist nicht groß, aber es ist hell und schön. Es gibt ein Bett, einen Spiegel und eine Uhr. Die Uhr hängt über dem Bett und ist grün. Ich mag auch meinen Teppich, er ist blau und weich."
+    },
+    {
+      "text_id": "G6-2-T43",
+      "text": "In mein Zimmer ist ein Aquarium. Die Fische ist orange. Ich mag die Fische. Und ein Bett."
+    },
+    {
+      "text_id": "G6-2-T44",
+      "text": "Es gibt ein Aquarium in meinem Zimmer. Es steht neben das Bett. Die Fische sind rot und orange. Ich mag die Fische sehr, sie schwimmen immer und sind lustig."
+    },
+    {
+      "text_id": "G6-2-T45",
+      "text": "Ich habe ein Gitarre, sie ist rot. In mein Zimmer ist auch ein Bett und ein Schrank. Ich mag spielen Gitarre in mein Zimmer."
+    },
+    {
+      "text_id": "G6-2-T46",
+      "text": "Ich habe ein Computer in mein zimmer. Ich mag die Computer, ich spiele. Es gibt ein lampe. Die lampe ist gelb."
+    },
+    {
+      "text_id": "G6-2-T47",
+      "text": "Ich habe ein Sitzsack, es ist schwarz. Ich mag Sitzsack, es ist gut. Mein Zimmer habe auch ein Schrank."
+    },
+    {
+      "text_id": "G6-2-T48",
+      "text": "Mein Zimmer ist nicht gross. Es gibt ein Schrank, ein Bett und ein Spiegel. Der Schrank ist braun und die Bett ist weiss. Ich mag die Spiegel, er ist rund."
+    },
+    {
+      "text_id": "G6-2-T49",
+      "text": "In meinem Zimmer habe ich einen Computer und einen Sitzsack. Der Sitzsack ist grau und sehr weich. Ich mag meinen Computer, aber ich spiele nicht so viel. Das Fenster ist groß und ich sehe den Wald."
+    },
+    {
+      "text_id": "G6-2-T50",
+      "text": "In meinem Zimmer sind die Wände hellgrün und die Tür ist weiß. Ich habe einen Schreibtisch, einen Computer und eine Lampe. Der Computer steht auf dem Schreibtisch. Ich mag meinen Computer, denn ich spiele gern und höre auch Musik."
+    },
+    {
+      "text_id": "G6-2-T51",
+      "text": "In meinem Zimmer habe ich einen Schrank, ein Bett und einen kleinen Tisch. Alles ist weiß, aber die Kissen sind lila und gelb. Auf dem Tisch steht eine Lampe. Ich mag die Kissen, denn sie sind bunt und sehr weich."
+    },
+    {
+      "text_id": "G6-2-T52",
+      "text": "Ich habe ein bett und ein tish in mein Zimmer. Die bett ist blau. Ich mag mein Zimmer, es ist schon."
+    },
+    {
+      "text_id": "G6-2-T53",
+      "text": "Ich habe eine Gitarre in meinem Zimmer. Sie ist blau. Es gibt auch ein Bett und ein Poster mit ein Katze. Ich mag die Gitarre, ich spiele jeden Tag."
+    },
+    {
+      "text_id": "G6-2-T54",
+      "text": "In my room there is a Bett. Det är grönt och fint. Ich mag."
+    },
+    {
+      "text_id": "G6-2-T55",
+      "text": "Es gibt ein großes Regal in mein Zimmer. Das Regal ist weiß und hat viele Bücher. Ich habe auch ein Bett und eine Lampe. Ich mag die Bücher, ich lese jeden Abend."
+    },
+    {
+      "text_id": "G6-2-T56",
+      "text": "Es gibt einen Sitzsack, ein Bett und einen Fernseher in meinem Zimmer. Der Sitzsack ist rot und liegt vor dem Fernseher. Das Bett ist schwarz und weiß. Ich mag den Sitzsack sehr, er ist weich und ich sitze dort jeden Abend."
+    },
+    {
+      "text_id": "G6-2-T57",
+      "text": "Mein Zimmer hat ein Bett, ein Schrank und ein Teppich. Der Teppich ist blau und weiß. Ich mag mein Bett, ich schlafe gern. Das Fenster ist auch groß."
+    },
+    {
+      "text_id": "G6-2-T58",
+      "text": "Ich habe ein Sofa und ein Fernseher in meinem Zimmer. Das Sofa ist grau und der Teppich ist rot. Ich mag das Sofa, es ist weich. Ich sehe Filme dort."
+    },
+    {
+      "text_id": "G6-2-T59",
+      "text": "Ich habe ein Bett, ein Tisch und ein Stuhl. Ich habe ein Lampe."
+    },
+    {
+      "text_id": "G6-2-T60",
+      "text": "Ich habe ein Aquarium in meinem Zimmer, und es steht auf einem Regal. Im Aquarium schwimmen fünf kleine Fische, sie sind rot und silber. Es gibt auch ein Bett und einen Stuhl. Ich mag das Aquarium sehr, aber es ist viel Arbeit."
+    }
+  ],
+  "G6-3": [
+    {
+      "text_id": "G6-3-T01",
+      "text": "Ich habe viele Fächer in der Schule. Ich habe Deutsch, Mathe, Physik und Sport. Mein Lieblingsfach ist Mathe. Ich habe nicht gern Physik."
+    },
+    {
+      "text_id": "G6-3-T02",
+      "text": "Ich habe Schwedisch, Biologie, Technik und Sport. Biologie ist mein Lieblingsfach, ich lerne gern über Tiere und Pflanzen. Technik finde ich auch toll, aber manchmal ist es schwer. Schwedisch mag ich nicht so gern, wir schreiben so viel."
+    },
+    {
+      "text_id": "G6-3-T03",
+      "text": "Ich habe Mathe, Deutsch, englisch und Musik. Mein Lieblingsfach is Musik. Mathe ich habe nicht gern, das is shwer."
+    },
+    {
+      "text_id": "G6-3-T04",
+      "text": "Ich habe mathe. Sport ist gut"
+    },
+    {
+      "text_id": "G6-3-T05",
+      "text": "Ich habe Mathe, Englisch, Deutsch, Sport und NO. Und Musik und Bild."
+    },
+    {
+      "text_id": "G6-3-T06",
+      "text": "Meine Fächer sind Deutsch, Englisch, Sport und Geschichte. Ich habe gern Englisch. Geschichte finde ich nicht so gut. Das ist tråkig."
+    },
+    {
+      "text_id": "G6-3-T07",
+      "text": "Mittwoch habe ich teknik. Teknik ist super. Ich habe nicht gern Englisch. Englisch ist schwer fur mich."
+    },
+    {
+      "text_id": "G6-3-T08",
+      "text": "In der Schule habe ich Erdkunde, Mathe, Englisch und Werken. Werken ist mein Lieblingsfach, weil ich gern mit Holz arbeite. Erdkunde finde ich auch interessant. Aber Englisch mag ich nicht so gern, wir haben immer so viele Hausaufgabe."
+    },
+    {
+      "text_id": "G6-3-T09",
+      "text": "Ich habe Mathe, Englisch, Sport und Musik. Mein Lieblingsfach ist Sport. Ich habe Musik nicht gern. Am Donnerstag habe ich Deutsch."
+    },
+    {
+      "text_id": "G6-3-T10",
+      "text": "Ich habe viele Fächer, zum Beispiel Englisch, Geschichte, Werken und Chemie. Englisch ist mein Lieblingsfach, weil es leicht und lustig ist. Geschichte finde ich auch spannend. Chemie habe ich aber nicht gern, das ist kompliziert."
+    },
+    {
+      "text_id": "G6-3-T11",
+      "text": "Am Montag ich habe Mathe und Physik. Physik ist mein Lieblingsfach. Mathe habe ich nicht so gern. Ich habe auch Deutsch und Musik."
+    },
+    {
+      "text_id": "G6-3-T12",
+      "text": "Ich habe matte, engelska och svenska. Mitt favoritämne är idrott. Jag gillar inte SO."
+    },
+    {
+      "text_id": "G6-3-T13",
+      "text": "Ich habe Sport und Kunst und Mathe und Deutsch. Ich habe gern Kunst. Mathe is shwer."
+    },
+    {
+      "text_id": "G6-3-T14",
+      "text": "Ich habe Englisch, Deutsch, Chemie und Hauswirtschaft. Hauswirtschaft ist mein Lieblingsfach, wir backen Brot. Deutsch ist auch gut. Chemie habe ich nicht so gern, es ist schwer."
+    },
+    {
+      "text_id": "G6-3-T15",
+      "text": "Ich habe Mathe, Englisch, Sport und Musik. Mein Lieblingsfach ist Englisch, ich finde Englisch leicht. Ich habe Mathe nicht so gern. Am Montag habe ich auch Sport und das ist gut."
+    },
+    {
+      "text_id": "G6-3-T16",
+      "text": "Schule: Mathe, Biologi, Englisch, Musik. Ich finde Biologi gut. Ich finde Musik nicht gut."
+    },
+    {
+      "text_id": "G6-3-T17",
+      "text": "Am Mittwoch habe ich Physik, Deutsch und Sport. Physik finde ich super interessant, das ist mein Lieblingsfach. Deutsch ist auch schön, aber die Grammatik ist schwer. Ich habe Musik nicht gern, denn ich singe nicht gern vor der Klasse."
+    },
+    {
+      "text_id": "G6-3-T18",
+      "text": "Am Montag habe ich Englisch und Werken. Englisch ist mein Lieblingsfach. Ich habe auch Mathe und Geschichte. Geschichte habe ich nicht gern."
+    },
+    {
+      "text_id": "G6-3-T19",
+      "text": "Meine Schulfächer sind Deutsch, Englisch, Mathe und Hauswirtschaft. Ich habe Hauswirtschaft gern. Mein Lieblingsfach ist aber Deutsch. Ich habe Mathe nicht gern."
+    },
+    {
+      "text_id": "G6-3-T20",
+      "text": "Ich habe Biologie, Chemie, Mathe und Bild. Biologie ist mein Lieblingsfach, ich finde Tiere toll. Chemie habe ich nicht gern."
+    },
+    {
+      "text_id": "G6-3-T21",
+      "text": "Isch hab sule fil. Libling is idrot ja. Ich nich mate fint shver"
+    },
+    {
+      "text_id": "G6-3-T22",
+      "text": "Mathe. Englisch. Sport ja gut. Musik nein."
+    },
+    {
+      "text_id": "G6-3-T23",
+      "text": "Ich habe Hauswirtschaft am Freitag. Das ist mein Lieblingsfach, wir kochen Pfannkuchen. Ich habe auch Mathe und Deutsch. Deutsch habe ich nich gern."
+    },
+    {
+      "text_id": "G6-3-T24",
+      "text": "In der shule ich habe mathe, deutsch, bild und slöjd. Mein libligsfach ist bild. Das ist kul."
+    },
+    {
+      "text_id": "G6-3-T25",
+      "text": "Am Montag ich habe Deutsch und Mathe. Deutsch ist gut. Ich mag nich Geschichte, ist tråkig."
+    },
+    {
+      "text_id": "G6-3-T26",
+      "text": "Meine Schulfächer sind Deutsch, Mathe, Musik, Sport und Hauswirtschaft. Ich habe Hauswirtschaft sehr gern, denn wir kochen Pasta und backen Kuchen. Mathe ist auch gut, und die Lehrerin ist nett. Sport mag ich nicht so gern, es ist immer sehr laut in der Halle."
+    },
+    {
+      "text_id": "G6-3-T27",
+      "text": "Ich habe mathe, NO, SO und sport. Ich finde sport gut und kul. Ich finde SO nich gut."
+    },
+    {
+      "text_id": "G6-3-T28",
+      "text": "Ich habe fiele Fächer: Mathe, NO, Musik und Kunst. Mein Lieblingsfach ist Mathe. Ich finde Kunst nicht gut, ich kan nicht malen."
+    },
+    {
+      "text_id": "G6-3-T29",
+      "text": "In der Schule habe ich Mathe, Englisch, Deutsch, Sport und Musik. Mein Lieblingsfach ist Sport, denn ich spiele gern Fussball und Basketball. Ich finde Deutsch interessant, aber manchmal ist es schwer. Mathe habe ich nicht so gern, es ist oft langweilig."
+    },
+    {
+      "text_id": "G6-3-T30",
+      "text": "Am Mittwoch habe ich Geschichte. Das ist mein Lieblingsfach. Ich habe auch Schwedisch, NO und Sport. Sport habe ich nicht so gern."
+    },
+    {
+      "text_id": "G6-3-T31",
+      "text": "Ich habe Schwedisch, Englisch, Deutsch und NO. Ich habe gern Deutsch, es ist lustik. Ich habe NO nicht gern. NO ist schwer fur mich."
+    },
+    {
+      "text_id": "G6-3-T32",
+      "text": "Ich habe Kunst am Donnerstag und Musik am Freitag. Musik ist mein Lieblingsfach, ich spiele Gitarre. Ich habe auch Deutsch und Mathe. Deutsch habe ich nicht gern, aber es ist wichtig."
+    },
+    {
+      "text_id": "G6-3-T33",
+      "text": "In der Schule habe ich Musik, Englisch, Erdkunde und Mathe. Ich habe Musik sehr gern. Das ist mein Lieblingsfach. Erdkunde finde ich nicht gut."
+    },
+    {
+      "text_id": "G6-3-T34",
+      "text": "Meine Fächer sind Schwedisch, Mathe, Biologie und Kunst. Mein Lieblingsfach ist Kunst. Ich male gern. Ich habe Biologie nicht so gern."
+    },
+    {
+      "text_id": "G6-3-T35",
+      "text": "Mein fak is gut hem kunsk. ich nicht gern matte tag. is dum ich"
+    },
+    {
+      "text_id": "G6-3-T36",
+      "text": "Meine Fächer sind Schwedisch, Mathe, Physik und Musik. Ich habe Physik sehr gern, das ist spannend. Mein Lieblingsfach ist aber Musik. Schwedisch finde ich langweilig."
+    },
+    {
+      "text_id": "G6-3-T37",
+      "text": "Ich habe hemkunskap, das is gut. Wir koche pizza. Ich habe auch Mathe und Schwedisch."
+    },
+    {
+      "text_id": "G6-3-T38",
+      "text": "Mein Lieblingsfach ist Mathe. Ich finde Mathe leicht und lustig. Ich habe auch Deutsch, Musik und Sport. Musik habe ich nicht gern, ich singe nicht gut."
+    },
+    {
+      "text_id": "G6-3-T39",
+      "text": "Lieblingsfak musik."
+    },
+    {
+      "text_id": "G6-3-T40",
+      "text": "Mein Lieblingsfach ist Schwedisch. Ich lese gern Bücher. In der Schule habe ich auch Mathe, Englisch, Kunst und Sport. Ich habe Kunst nicht so gern."
+    },
+    {
+      "text_id": "G6-3-T41",
+      "text": "Mein Lieblingsfach ist Technik. Ich habe auch Mathe, Musik und Schwedisch. Ich finde Musik nich so gut, ich singe nicht gern."
+    },
+    {
+      "text_id": "G6-3-T42",
+      "text": "Ich habe viele Fächer: Mathe, NO, Englisch und Werken. Mein Lieblingsfach ist Werken, wir machen ein Vogelhaus. NO finde ich schwer und ich habe es nicht gern."
+    },
+    {
+      "text_id": "G6-3-T43",
+      "text": "Am Dienstag habe ich Sport und Geschichte. Sport ist mein Lieblingsfach, es macht Spass. Ich habe auch Mathe und Schwedisch. Ich finde Geschichte nicht so intressant."
+    },
+    {
+      "text_id": "G6-3-T44",
+      "text": "Mein liblings fak is Englisch. Ich habt auch mathe und sport. Sport nicht gern."
+    },
+    {
+      "text_id": "G6-3-T45",
+      "text": "In der Schule habe ich Erdkunde, Englisch, Sport und Mathe. Mein Lieblingsfach ist Technik, wir bauen kleine Roboter. Ich habe Englisch nicht gern, die Wörter sind schwer."
+    },
+    {
+      "text_id": "G6-3-T46",
+      "text": "Ich habe fil fächer. Musik, mathe, englisch och NO. Ich habe musik gern. Mathe nicht gern."
+    },
+    {
+      "text_id": "G6-3-T47",
+      "text": "Ich habe mathe, englisk und idrott. Idrott sehr gut. Mathe nich gut."
+    },
+    {
+      "text_id": "G6-3-T48",
+      "text": "Am Montag habe ich Kunst und Biologie, und am Dienstag habe ich Mathe und Schwedisch. Mein Lieblingsfach ist Kunst, ich male und zeichne sehr gern. Biologie finde ich auch toll. Aber Mathe mag ich nicht so gern, die Aufgaben sind zu schwer für mich."
+    },
+    {
+      "text_id": "G6-3-T49",
+      "text": "Mein Lieblingsfach ist Mathe, denn ich finde Zahlen toll und Mathe ist logisch. Ich habe auch Englisch, Schwedisch und Kunst. Englisch finde ich gut, aber Kunst mag ich nicht so gern. Ich kann nicht so gut malen."
+    },
+    {
+      "text_id": "G6-3-T50",
+      "text": "Mein Lieblingsfach ist Geschichte, denn ich finde alte Burgen spannend. Ich habe auch Musik, Mathe und Deutsch. Musik ist lustig, und Deutsch finde ich auch gut. Aber Mathe habe ich nicht gern, es ist so schwer für mich."
+    },
+    {
+      "text_id": "G6-3-T51",
+      "text": "Ich habe Erdkunde, Deutsch, Musik und Mathe. Mein Lieblingsfach ist Erdkunde. Ich finde Karten gut. Ich habe Musik nich gern."
+    },
+    {
+      "text_id": "G6-3-T52",
+      "text": "In der Schule habe ich Deutsch, Biologie, Kunst und Mathe. Mein Lieblingsfach ist Kunst, denn ich male gern. Biologie finde ich auch gut. Mathe habe ich nicht gern."
+    },
+    {
+      "text_id": "G6-3-T53",
+      "text": "Montag mathe. Dienstag bild. bild ja."
+    },
+    {
+      "text_id": "G6-3-T54",
+      "text": "Ich habe Englisch, Mathe, Sport und Bild in die Schule. Ich mag Bild, das ist mein Lieblingsfach. Ich habe nicht gern Sport, es ist so kalt draussen."
+    },
+    {
+      "text_id": "G6-3-T55",
+      "text": "Ich habe jeden Tag Mathe, und am Freitag habe ich Chemie und Kunst. Chemie ist mein Lieblingsfach, die Experimente sind cool. Kunst finde ich auch schön. Mathe mag ich nicht so gern, weil ich die Aufgaben langweilig finde."
+    },
+    {
+      "text_id": "G6-3-T56",
+      "text": "Ich spiele fotboll. Das ist kul. Ich habe ein katze."
+    },
+    {
+      "text_id": "G6-3-T57",
+      "text": "Am Dienstag habe ich Biologie und Englisch. Ich habe Biologie sehr gern, das ist mein Lieblingsfach. Ich habe nich gern Werken. Es ist langweili."
+    },
+    {
+      "text_id": "G6-3-T58",
+      "text": "Ich habe Deutsch, Englisch, Mathe und Sport. Deutsch ist mein Lieblingsfach, ich finde es schön. Englisch ist auch gut. Sport habe ich nicht gern, ich bin nicht so schnell."
+    },
+    {
+      "text_id": "G6-3-T59",
+      "text": "In die Schule habe ich Sport, Bild, Schwedisch und Mathe. Mein Liblingsfach ist Sport, wir spielen fotboll. Schwedisch habe ich nicht so gern."
+    },
+    {
+      "text_id": "G6-3-T60",
+      "text": "My favourite subject is music. I don't like math. Ich habe Deutsch."
+    }
+  ],
+  "G7-1": [
+    {
+      "text_id": "G7-1-T01",
+      "text": "Ein normaler Schultag beginnt für mich um sieben Uhr. Zuerst stehe ich auf, dusche und ziehe mich an, dann esse ich Pfannkuchen oder Brot. Um Viertel vor acht gehe ich zu Fuß zur Schule, das dauert nur zehn Minuten. Nach der Schule um halb drei gehe ich zum Chor. Am Abend koche ich manchmal Pasta und danach sehe ich einen Film."
+    },
+    {
+      "text_id": "G7-1-T02",
+      "text": "ich Schule. acht Uhr. Mittag essen Pizza. dann Hause spielen. Hund."
+    },
+    {
+      "text_id": "G7-1-T03",
+      "text": "An einem normalen Schultag stehe ich um halb sieben auf. Zuerst dusche ich, dann frühstücke ich schnell, meistens Müsli mit Joghurt. Um halb acht fahre ich mit dem Fahrrad zur Schule, und um acht Uhr beginnt die erste Stunde. Nach der Schule gehe ich zum Fußballtraining, weil ich Fußball sehr gern spiele. Am Abend mache ich meine Hausaufgaben und um zehn Uhr gehe ich ins Bett."
+    },
+    {
+      "text_id": "G7-1-T04",
+      "text": "Uhr sieben ich aufsteh. Frustuck brot ess habe. Dan schule ist aht bis drei gemacht haus haben Fernseh."
+    },
+    {
+      "text_id": "G7-1-T05",
+      "text": "Um sieben Uhr stehe ich auf und gehe zuerst mit unserem Hund spazieren. Danach frühstücke ich, meistens Toast und einen Apfel. Die Schule fängt um Viertel nach acht an, und am Dienstag haben wir zuerst Deutsch und dann Sport. Um drei Uhr komme ich nach Hause und ruhe mich ein bisschen aus. Am Abend sehe ich fern oder spiele Karten mit meiner Familie."
+    },
+    {
+      "text_id": "G7-1-T06",
+      "text": "Ich stehe um sechs Uhr auf, weil ich habe Training. Um halb sieben gehe ich joggen. Dann esse ich Frühstück und gehe zur Schule um acht Uhr. In der Schule ist es heute langweilig, wir haben nur Mathe und Schwedisch. Am Abend höre ich Musik und chatte mit Freunden."
+    },
+    {
+      "text_id": "G7-1-T07",
+      "text": "Ich aufstehe um halb sieben und ich dusche. Um halb acht gehe ich zu Schule, es ist nicht weit. In der Pause ich spiele Fussball mit Freunde. Nach der Schule ich gehe zum Schwimmen um fünf Uhr."
+    },
+    {
+      "text_id": "G7-1-T08",
+      "text": "Um sieben Uhr stehe ich auf, aber ich bin noch sehr müde. Danach frühstücke ich, meistens Toast mit Marmelade. Die Schule fängt um acht Uhr an und hört um halb drei auf. Nach der Schule gehe ich joggen oder ich backe ein Kuchen. Am Abend sehe ich fern und gehe um halb zehn ins Bett."
+    },
+    {
+      "text_id": "G7-1-T09",
+      "text": "Mein Schultag fängt früh an, denn ich stehe schon um sechs Uhr auf. Zuerst füttere ich meine Katze, dann dusche ich und esse ein Brot. Um sieben Uhr fahre ich mit dem Bus, und die Fahrt dauert eine halbe Stunde. In der Schule haben wir heute Englisch und Kunst, Kunst finde ich toll. Nach der Schule mache ich schnell meine Hausaufgaben, danach treffe ich Freunde, und um zehn Uhr schlafe ich."
+    },
+    {
+      "text_id": "G7-1-T10",
+      "text": "Ich stehe um sieben auf und dusche. Dann ich gehe zu die Bushaltestelle. Die Schule ist fertig um zwei Uhr. Dann ich habe Handball Training und dann ich esse und schlafe."
+    },
+    {
+      "text_id": "G7-1-T11",
+      "text": "Ich aufstehe um sieben Uhr und dusche schnell. Dann esse ich Joghurt und trinke Kakao. Die erste Stunde beginnt um acht Uhr, wir haben Deutsch. Nach der Schule spiele ich Basketball von vier bis fünf Uhr. Dann mache ich Hausaufgaben und gehe ins Bett."
+    },
+    {
+      "text_id": "G7-1-T12",
+      "text": "Um sieben Uhr stehe ich auf und ziehe mich schnell an. Danach frühstücke ich mit meiner Familie, meistens gibt es Brot und Obst. Um halb acht gehe ich los, weil die Schule um acht Uhr anfängt. Am Nachmittag haben wir Musik, und nach der Schule übe ich zu Hause Schlagzeug. Später sehe ich fern und um zehn Uhr gehe ich ins Bett."
+    },
+    {
+      "text_id": "G7-1-T13",
+      "text": "Ich habe Schule um acht Uhr. Vorher ich esse Frühstück und ich putze Zähne. In Schule ich habe Deutsch, Mathe und Idrott. Nach Schule ich gehe zu schwimmen. Am Abend ich spiele mit meine Katze."
+    },
+    {
+      "text_id": "G7-1-T14",
+      "text": "Um sechs Uhr stehe ich auf, denn ich gehe vor der Schule schwimmen. Danach fahre ich mit dem Bus zur Schule, und um acht Uhr fängt der Unterricht an. In der Pause reden wir oft oder spielen Basketball, das macht viel Spaß. Am Nachmittag habe ich Biologie, mein Lieblingsfach. Um halb neun esse ich noch etwas und dann gehe ich schlafen."
+    },
+    {
+      "text_id": "G7-1-T15",
+      "text": "Ich stehe upp klockan sju. Then I go to school and have matte och engelska. Efter skolan jag spelar datorspel."
+    },
+    {
+      "text_id": "G7-1-T16",
+      "text": "Um halb sieben klingelt der Wecker, aber ich bin müde. Ich aufstehe um sieben Uhr und dusche. In der Schule wir haben Mathe und Chemie, Chemie ist schwer. Nach die Schule um drei Uhr ich gehe zum Klettern."
+    },
+    {
+      "text_id": "G7-1-T17",
+      "text": "Ich stehe jeden Tag um sieben Uhr auf. Zuerst ziehe ich mich an und dann frühstücke ich, meistens Brot mit Käse. Um halb acht fahre ich mit der Fahrrad zur Schule. Die Schule ist um drei Uhr aus, danach ich treffe Freunde in der Stadt. Am Abend lese ich oder höre Musik."
+    },
+    {
+      "text_id": "G7-1-T18",
+      "text": "Um Viertel vor sieben mein Wecker klingelt. Ich stehe auf und esse Müsli. Dann ich fahre mit Fahrrad zu Schule, die Schule beginnt um acht. Wir essen Mittag um elf Uhr dreißig, heute gibt es Pizza. Am Nachmittag ich habe Kunst, das ist kul."
+    },
+    {
+      "text_id": "G7-1-T19",
+      "text": "Mein Tag fängt um halb sieben an. Zuerst dusche ich, dann frühstücke ich. Um Viertel vor acht fahre ich mit dem Bus zur Schule und treffe meine Freunde. Wir haben heute Mathe, Chemie und Sport. Nach der Schule mache ich Hausaufgaben und am Abend ich spiele Videospiele bis neun Uhr."
+    },
+    {
+      "text_id": "G7-1-T20",
+      "text": "Um sieben Uhr wache ich auf, aber ich stehe um zehn nach sieben auf. Ich fahre mit dem Fahrrad zur Schule, das dauert zehn Minuten. Um elf Uhr essen wir Mittag in der Kantine, oft gibt es Suppe. Am Nachmittag ich habe Sport und dann fahre ich nach Hause. Am Abend sehe ich fern."
+    },
+    {
+      "text_id": "G7-1-T21",
+      "text": "Um halb sieben klingelt mein Wecker, aber ich bin immer sehr müde. Deshalb bleibe ich noch zehn Minuten im Bett und stehe erst um zwanzig vor sieben auf. Zuerst frühstücke ich, dann fahre ich mit dem Fahrrad zur Schule. Von acht bis drei Uhr habe ich Unterricht, heute Mathe, Werken und Geschichte. Am Abend spiele ich Computerspiele und um halb zehn gehe ich ins Bett."
+    },
+    {
+      "text_id": "G7-1-T22",
+      "text": "Mein Wecker klingelt um sieben Uhr. Ich stehe auf, ziehe mich an und esse ein Brot. Um halb acht gehe ich los, die Schule ist nah. In der Schule haben wir heute Biologie und Englisch, es ist interessant. Nach der Schule um vier Uhr ich gehe zum Klettern, das mache ich gern."
+    },
+    {
+      "text_id": "G7-1-T23",
+      "text": "Mein Schultag beginnt früh, um sechs Uhr fünfundvierzig. Zuerst gehe ich ins Bad, dann esse ich Joghurt und trinke Tee. Um Viertel vor acht nehme ich den Bus zur Schule. Wir haben heute Sport und Geschichte, Sport gefällt mir sehr. Nach der Schule ich spiele Volleyball und am Abend sehe ich bis neun Uhr fern."
+    },
+    {
+      "text_id": "G7-1-T24",
+      "text": "Normalerweise stehe ich um zwanzig nach sieben auf, weil ich nicht weit von der Schule wohne. Zuerst esse ich ein Brot, dann gehe ich zu Fuß zur Schule. Um acht Uhr beginnt der Unterricht, und in der Mittagspause spielen wir Fussball auf dem Schulhof. Um drei Uhr ist die Schule aus, danach lerne ich in der Bibliothek für den Mathetest. Am Abend esse ich mit meiner Familie und sehe fern."
+    },
+    {
+      "text_id": "G7-1-T25",
+      "text": "Am Wochenende ich spiele Fußball. Ich habe ein Katze, sie ist schwarz. Sie ist klein und sehr lieb."
+    },
+    {
+      "text_id": "G7-1-T26",
+      "text": "Jeden Morgen stehe ich um Viertel vor sieben auf und trinke zuerst ein Glas Wasser. Danach esse ich Haferbrei mit Beeren. Die Schule beginnt um halb neun, deshalb habe ich morgens viel Zeit. Nach dem Unterricht gehe ich zum Volleyballtraining, das um vier Uhr anfängt. Am Abend lese ich im Bett, bis ich müde bin."
+    },
+    {
+      "text_id": "G7-1-T27",
+      "text": "Um sechs Uhr steht ich auf, das ist früh! Danach dusche ich und frühstücke, ich esse Eier und trinke Saft. Um acht Uhr beginnt die erste Stunde, heute Kunst. Am Nachmittag spiele ich Schach im Club und um sieben Uhr esse ich Abendessen."
+    },
+    {
+      "text_id": "G7-1-T28",
+      "text": "Um sieben Uhr ich aufstehe. Dann ich esse und dann ich gehe Schule. Ich habe Lunch um elf Uhr, es gibt Pasta. Dann ich habe Englisch und Geschichte. Dann ich gehe hause."
+    },
+    {
+      "text_id": "G7-1-T29",
+      "text": "Um sieben Uhr stehe ich auf und putze meine Zähne. Danach frühstücke ich schnell, weil ich spät bin. Die erste Stunde beginnt um acht Uhr, wir haben Deutsch. In der Mittagspause um elf Uhr essen wir Pasta in der Kantine. Am Nachmittag habe ich Musik und am Abend übe ich Klavier."
+    },
+    {
+      "text_id": "G7-1-T30",
+      "text": "Um Viertel vor acht fahre ich mit dem Bus. Die Schule beginnt um halb neun, das ist gut, ich kann lange schlafen. Heute haben wir Geschichte und Biologie. Um zwei Uhr ist die Schule aus und dann ich gehe zum Schwimmen. Am Abend esse ich Pasta und lese ein Buch."
+    },
+    {
+      "text_id": "G7-1-T31",
+      "text": "Ich stehe um sechs Uhr auf und gehe mit der Hund raus. Dann ich esse Toast mit Marmelade. Um Viertel nach acht fängt die Schule an. Wir haben heute Bio und Englisch. Um drei Uhr ich gehe nach Hause und mache mein Hausaufgaben."
+    },
+    {
+      "text_id": "G7-1-T32",
+      "text": "Am Morgen wache ich um halb sieben auf und höre ein bisschen Radio. Dann stehe ich auf und esse Pfannkuchen, das ist mein Lieblingsfrühstück. Um acht Uhr beginnt die Schule. Nach der Schule um drei Uhr fahre ich nach Hause und spiele mit meiner Katze. Später ich sehe fern und gehe um zehn ins Bett."
+    },
+    {
+      "text_id": "G7-1-T33",
+      "text": "Um sieben Uhr ich dusche. Dann ich fahre mit Bus. Die Schule beginnt um acht Uhr, ich habe Mathe und Musik. Nach die Schule ich spiele Gitarre. Am Abend ich schlafe."
+    },
+    {
+      "text_id": "G7-1-T34",
+      "text": "ich morgen stehen sibben uhr und dan ich gehe skola bus. ich ist shule mit fil lesen unt dann hause ich sein spiele"
+    },
+    {
+      "text_id": "G7-1-T35",
+      "text": "Mein Tag beginnt um sechs Uhr dreißig. Dann ich duschen und esse Frühstück. Um acht Uhr bis zwei Uhr bin ich in der Schule. Danach ich gehe zu meine Freunde und wir spielen Videospiele. Am Abend ich lese und schlafe um halb zehn."
+    },
+    {
+      "text_id": "G7-1-T36",
+      "text": "Ich stehe um Viertel nach sechs auf. Um sieben Uhr fahre ich mit dem Bus zur Schule. In der Schule habe ich heute Englisch und Musik, Musik ist mein Lieblingsfach. Nach der Schule gehe ich zum Fussballtraining. Um neun Uhr gehe ich ins Bett."
+    },
+    {
+      "text_id": "G7-1-T37",
+      "text": "Um sieben Uhr ich äter frukost. Sen jag går till skolan med bussen. På kvällen ich schaue TV."
+    },
+    {
+      "text_id": "G7-1-T38",
+      "text": "Morgen. Sieben Uhr. Frühstück, Brot. Schule, Mathe, Deutsch. Abend Fernseher."
+    },
+    {
+      "text_id": "G7-1-T39",
+      "text": "Ich aufwache um sechs Uhr. Ich esse ein Toast und dann ich gehe zu Fuss. In der Schule ist Englisch und Bild, ich mag Bild. Dann ich esse Pasta und ich sehe fern."
+    },
+    {
+      "text_id": "G7-1-T40",
+      "text": "Um halb sieben klingelt mein Wecker und ich stehe sofort auf. Zuerst dusche ich und danach ich esse Müsli mit Banane. Um acht Uhr fängt die Schule an, heute haben wir Mathe und Englisch. Nach der Schule gehe ich zum Handballtraining. Am Abend mache ich meine Hausaufgaben und um zehn Uhr schlafe ich."
+    },
+    {
+      "text_id": "G7-1-T41",
+      "text": "Ich stehe um sechs Uhr dreißig auf und ziehe mich an. Um sieben Uhr frühstücke ich, ich esse Pfannkuchen oder Brot. Dann gehe ich zu Fuß zur Schule. In der Schule haben wir Werken und Mathe, Werken macht Spaß. Um vier Uhr ich treffe meine Freunde im Park."
+    },
+    {
+      "text_id": "G7-1-T42",
+      "text": "Mein Wecker klingelt jeden Morgen um Viertel nach sechs, aber ich stehe erst um halb sieben auf. Danach ziehe ich mich an und esse ein Brot mit Käse. Um halb acht nehme ich den Bus, und in der Schule haben wir heute Englisch, Mathe und Musik. In der Mittagspause um elf Uhr esse ich mit meinen Freunden in der Kantine. Am Nachmittag treffe ich Freunde im Jugendzentrum, und am Abend lese ich noch ein bisschen."
+    },
+    {
+      "text_id": "G7-1-T43",
+      "text": "Am Morgen um sieben Uhr ich esse Frühstück, Eier und Brot. Dann fahre ich mit dem Bus, es dauert zwanzig Minuten. Die Schule ist von acht bis halb drei. Am Abend ich sehe fern und ich spiele Schach mit meine Familie."
+    },
+    {
+      "text_id": "G7-1-T44",
+      "text": "Um sieben Uhr stehe ich auf. Dann ich esse Frühstück und fahre mit dem Bus zur Schule. Die Schule beginnt um acht Uhr, wir haben Mathe und Englisch. Um drei Uhr ich komme nach Hause und mache Hausaufgaben. Am Abend ich spiele Computerspiele."
+    },
+    {
+      "text_id": "G7-1-T45",
+      "text": "Um sieben Uhr ich aufstehe und ziehe mich an. Ich frühstücke schnell und dann gehe ich zu Fuß zur Schule. Die erste Stunde ist Geschichte um acht Uhr, sie ist ein bisschen langweilig. Um vier Uhr habe ich Klavierunterricht und am Abend esse ich Pasta."
+    },
+    {
+      "text_id": "G7-1-T46",
+      "text": "Ich stehe um Viertel nach sechs auf, weil der Bus um sieben Uhr kommt. Im Bus höre ich Musik und schlafe ein bisschen. Die Schule dauert von acht bis zwei Uhr, am Montag haben wir Mathe und Werken. Danach gehe ich schwimmen und am Abend ich esse mit meiner Familie."
+    },
+    {
+      "text_id": "G7-1-T47",
+      "text": "Ich wache um sieben Uhr auf aber ich aufstehe um Viertel nach sieben. Ich esse eine Banane und gehe zur Bushaltestelle. In der Schule haben wir Mathe, Sport und Werken. Um zwei Uhr ist die Schule aus und ich spiele Unihockey."
+    },
+    {
+      "text_id": "G7-1-T48",
+      "text": "Am Morgen stehe ich um sechs Uhr auf, das ist sehr früh. Ich esse Brot mit Käse und trinke Saft. Um acht Uhr habe ich Deutsch, das mag ich. Nach die Schule ich gehe nach Hause und ich fernsehe. Ich schlafe um zehn Uhr."
+    },
+    {
+      "text_id": "G7-1-T49",
+      "text": "Mein Wecker klingelt um halb sieben. Dann stehe ich auf und esse ein Brot mit Käse. Die Schule beginnt um acht Uhr und endet um drei Uhr. Dann ich gehe mit dem Hund spazieren und mache Hausaufgaben."
+    },
+    {
+      "text_id": "G7-1-T50",
+      "text": "Am Morgen ich stehe um halb sieben auf. Ich trinke Milch und esse Müsli. Dann ich habe Schule bis drei Uhr. Dann ich mache Hausaufgabe und ich fernsehe."
+    },
+    {
+      "text_id": "G7-1-T51",
+      "text": "Um sieben Uhr klingelt mein Wecker. Ich stehe auf und esse ein Toast. Die Schule fängt um acht an und wir haben Englisch, Musik und Chemie. In der Mittagspause spiele ich Tischtennis mit Freunden. Um halb vier gehe ich nach Hause und sehe fern."
+    },
+    {
+      "text_id": "G7-1-T52",
+      "text": "In die Schule ich habe Mathe und Englisch. Mathe ist langweilig. Ich mag Sport und Musik."
+    },
+    {
+      "text_id": "G7-1-T53",
+      "text": "Mein Schultag ist lang. Ich aufstehe um sechs Uhr dreissig. Dann Schule, ich habe Deutsch und Kunst. Um vier Uhr ich gehe mit dem Hund spazieren. Dann ich lesen ein Buch."
+    },
+    {
+      "text_id": "G7-1-T54",
+      "text": "Am Morgen stehe ich um halb sieben auf. Ich frühstücke mit meiner Familie und dann fahre ich mit dem Fahrrad. Um Viertel nach acht haben wir Mathe, das finde ich schwer. Nach der Schule zeichne ich oder spiele Computer. Um zehn Uhr schlafe ich."
+    },
+    {
+      "text_id": "G7-1-T55",
+      "text": "Um acht Uhr Schule. Mathe."
+    },
+    {
+      "text_id": "G7-1-T56",
+      "text": "Ich aufstehe um sieben Uhr und ich esse Brot. Dann ich gehe zu Schule mit meine Fahrrad. In die Schule wir haben Deutsch und Sport, Sport ist kul. Dann ich gehe nach Hause und spiele Computer."
+    },
+    {
+      "text_id": "G7-1-T57",
+      "text": "Am Morgen ich esse Joghurt und ich trinke Tee. Die Schule anfangt um Viertel nach acht. Wir haben Musik und Schwedisch. Dann ich spiele Klavier und ich esse Suppe."
+    },
+    {
+      "text_id": "G7-1-T58",
+      "text": "Ich stehe auf um halb acht, das ist spät! Ich fahre mit Fahrrad zu Schule. In Schule ich lerne Mathe och Biologie. Am Nachmittag ich treffe Freunde und wir spielen Basketball."
+    },
+    {
+      "text_id": "G7-1-T59",
+      "text": "ich aufstehe sieben. shule"
+    },
+    {
+      "text_id": "G7-1-T60",
+      "text": "Um sieben Uhr stehe ich auf und dusche. Dann esse ich Frühstück, meistens Müsli mit Milch. Die Schule fängt um acht Uhr an. Wir haben Mathe, Deutsch und Sport. Um halb vier ich komme nach Hause und dann spiele ich Gitarre."
+    }
+  ],
+  "G7-2": [
+    {
+      "text_id": "G7-2-T01",
+      "text": "Hallo\nParty ich Samstag, Pizza, Kino. Du kommen?\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T02",
+      "text": "Hallo!\nNächste samstag habe ich Geburtstag. Die Party ist in mein Haus um 16 Uhr. Wir spielen Videospiele und hören Musik. Kann du komme? Bitte schreib mir.\nBis bald"
+    },
+    {
+      "text_id": "G7-2-T03",
+      "text": "Hi!\nIch habe am 28. August Geburtstag und mache am Samstag danach ein Picknick im Park. Wir treffen uns um zwei Uhr beim großen Spielplatz. Dort können wir Frisbee spielen, und ich bringe Pfannkuchen und Obst mit. Hast du Zeit? Schreib mir doch bis Donnerstag, ich freue mich sehr!\nViele Grüße"
+    },
+    {
+      "text_id": "G7-2-T04",
+      "text": "Hallo!\nIch hoffe, du hast am Samstag, den 20. April, Zeit, denn dann feiere ich meinen Geburtstag! Die Party ist bei mir zu Hause und fängt um 17 Uhr an. Wir machen zusammen Pizza, und später spielen wir Brettspiele und Videospiele. Kannst du vielleicht auch bei mir übernachten? Bitte schreib mir bald eine Antwort.\nViele Grüße"
+    },
+    {
+      "text_id": "G7-2-T05",
+      "text": "Hi!\nMeine Party ist am Samstag im Trampolinpark. Sie beginnt um 15 Uhr. Wir springen Trampolin und danach gibt es Pizza. Möchtest du kommen?\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T06",
+      "text": "Hallo!\nIch habe Geburtstag party in bowling. Es ist samstag. du komm?"
+    },
+    {
+      "text_id": "G7-2-T07",
+      "text": "Hallo!\nAm Samstag, den 16. Mai, werde ich dreizehn, und ich möchte unbedingt mit dir feiern! Die Party beginnt um 15 Uhr bei mir zu Hause. Zuerst spielen wir draussen Volleyball, und später essen wir Pizza und schauen einen lustigen Film. Kannst du kommen? Bitte schreib mir bis Mittwoch, dann kann ich alles planen.\nViele Grüße und bis bald"
+    },
+    {
+      "text_id": "G7-2-T08",
+      "text": "Hi!\nIch lade dich zu meine Party ein. Die party ist am Sonntag um zwei im Schwimmbad. Wir schwimmen und dann essen wir Kuchen. Du kommst?\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T09",
+      "text": "Hi!\nAm Samstag feiere ich mein Geburtstag im Trampolinpark. Wir treffen uns um 11 Uhr am Eingang. Zuerst springen wir Trampolin und dann gibt es Pizza und Eis. Möchtest du mitkommen? Bitte schreib mir bis Donnerstag.\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T10",
+      "text": "Hi!\nIch feiere mein Geburtstag am Freitag. Die Party ist im Jugendzentrum um sieben. Wir tanzen und machen Karaoke. Ich hoffe du komst.\nViele grüße"
+    },
+    {
+      "text_id": "G7-2-T11",
+      "text": "Hi!\nIch habe am 25. April Geburtstag und ich mache eine Party im Park. Sie beginnt um 13 Uhr. Wir spielen Fußball und Frisbee und wir picknicken. Ich hoffe, du kannst kommen! Bitte schreib mir.\nBis bald"
+    },
+    {
+      "text_id": "G7-2-T12",
+      "text": "Hallo!\nIch lade dich zu meiner Geburtstagsparty ein. Sie ist am 21. März im Kino. Wir sehen einen lustigen Film und essen Popcorn. Die Film beginnt um fünf Uhr.\nViele Grüße"
+    },
+    {
+      "text_id": "G7-2-T13",
+      "text": "Hi!\nIch feiere meinen Geburtstag am Samstag im Schwimmbad. Wir treffen uns um elf Uhr vor die Eingang. Wir schwimmen und springen vom Sprungturm. Kommst du mit?\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T14",
+      "text": "Hallo\nich wird 13 jahre. Party ist bei mir haus. Wir schauen film und essen popcorn. kommst du?\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T15",
+      "text": "Hi!\nIch werde bald dreizehn und mache eine Party! Sie ist am Freitag um 18 Uhr im Jugendzentrum. Wir hören Musik, tanzen und essen Pizza. Kannst du kommen? Schreib mir bitte schnell!\nBis bald"
+    },
+    {
+      "text_id": "G7-2-T16",
+      "text": "Hallo!\nIch habe geburtstag! Party ist am Freitag klokan sieben. Wir tanzen und hören musik. Bitte komm!\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T17",
+      "text": "Hi!\nGeburtstag party. Samstag."
+    },
+    {
+      "text_id": "G7-2-T18",
+      "text": "Hi!\nWie geht's dir? Ich habe am Freitag, den 8. März, Geburtstag und lade dich herzlich zu meiner Party ein. Wir treffen uns um 18 Uhr im Jugendzentrum in der Stadt, dort hören wir Musik, spielen Tischtennis und tanzen. Es gibt auch Pizza und einen großen Schokoladenkuchen. Kannst du mir bis Dienstag antworten?\nLiebe Grüße"
+    },
+    {
+      "text_id": "G7-2-T19",
+      "text": "Hallo!\nMein Geburtstag ist am 8. März. Ich habe eine Party im Kino. Wir sehen ein film und essen popcorn och trinken Limo. Hast du zeit?\nViele Grüsse"
+    },
+    {
+      "text_id": "G7-2-T20",
+      "text": "Hallo!\nWir essen Pizza und spielen Videospiele. Das ist sehr lecker und kul.\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T21",
+      "text": "Hallo!\nIch habe kalas på fredag klockan sex. Vi ska titta på film och äta godis. Kan du komma?\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T22",
+      "text": "Hallo!\nWie geht's? Am Sonntag habe ich Geburtstag und wir gehen ins Kino um vier Uhr. Nach dem Film essen wir Eis in der Stadt. Kannst du mitkommen? Schreib mir bis Freitag!\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T23",
+      "text": "Hallo!\nIch hoffe, es geht dir gut. Mein Geburtstag ist am 20. Februar und ich mache eine Party am See um 14 Uhr. Wir gehen Schlittschuh laufen und trinken heiße Schokolade. Kommst du? Schreib mir bitte!\nBis bald"
+    },
+    {
+      "text_id": "G7-2-T24",
+      "text": "Hallo!\nIch möchte dich zu meiner Geburtstagsparty einladen. Die Party ist am 3. Juni um 14 Uhr in der Bowlinghalle. Zuerst spielen wir Bowling und dann essen wir Kuchen. Kommst du? Bitte antworte mir bald.\nViele Grüsse"
+    },
+    {
+      "text_id": "G7-2-T25",
+      "text": "Hallo!\nIch werde bald vierzehn und möchte dich zu meiner Geburtstagsparty einladen. Sie ist am Samstag, den 12. Oktober, von 14 bis 17 Uhr in der Bowlinghalle. Nach dem Bowling essen wir Pommes und Eis, das wird bestimmt lustig! Kannst du kommen? Bitte antworte mir bis Mittwoch, ich freue mich schon!\nViele Grüße"
+    },
+    {
+      "text_id": "G7-2-T26",
+      "text": "Hi\ndu kommen zu mein geburtstag party? Es ist in mein haus am freitag. Ich habe fil essen."
+    },
+    {
+      "text_id": "G7-2-T27",
+      "text": "Hi!\nMeine partie is in den sechs. Du kann mit bowling machen? Ich ist gros fest und alle komt essen!!"
+    },
+    {
+      "text_id": "G7-2-T28",
+      "text": "Hallo\nIch habe geburtstag am 3 mai. Du kommst zu mir? Wir esse kuchen und eis. Das ist gut.\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T29",
+      "text": "hallo\nich habe geburstag komm"
+    },
+    {
+      "text_id": "G7-2-T30",
+      "text": "Hallo!\nIch habe eine Frage an dich: Möchtest du zu meiner Geburtstagsparty kommen? Sie ist am Samstag, den 5. Juli, um 10 Uhr im Schwimmbad. Dort können wir rutschen und schwimmen, und danach essen wir Eis. Vergiss deine Badesachen nicht! Bitte antworte mir bis Montag.\nBis bald"
+    },
+    {
+      "text_id": "G7-2-T31",
+      "text": "Hallo!\nIch habe am 4. Juni Geburtstag. Wir machen ein Picknick am See um 13 Uhr. Wir baden und essen Brote und Obst. Kommst du auch?\nViele Grüße"
+    },
+    {
+      "text_id": "G7-2-T32",
+      "text": "Hallo!\nKommst du zu meine Geburtstagsparty? Sie ist am Freitag um sechs uhr in die Bowlinghalle. Wir spielen Bowling und dann wir essen Pommes. Es ist sehr roligt!\nBis bald"
+    },
+    {
+      "text_id": "G7-2-T33",
+      "text": "Hallo!\nWillst du kommen zu mein party? Die party ist im Jugendzentrum. Ich habe gebutstag am mittwoch. Es ist gros.\nHej då"
+    },
+    {
+      "text_id": "G7-2-T34",
+      "text": "Hallo!\nIch hoffe, es geht dir gut! Nächsten Sonntag, am 2. Juni, feiere ich meinen Geburtstag am See. Um 12 Uhr fahren wir mit dem Bus dahin, und dann können wir schwimmen und grillen. Möchtest du mitkommen? Schreib mir bitte bis Freitag!\nBis bald"
+    },
+    {
+      "text_id": "G7-2-T35",
+      "text": "Hallo!\nIch habe Geburtstag am Dienstag aber die Party ist am Samstag. Wir gehen zu Minigolf um 13 Uhr. Dann wir essen Pizza bei mir. Du kommen mit?\nBis Samstag"
+    },
+    {
+      "text_id": "G7-2-T36",
+      "text": "Hallo!\nWillst du zu meine Party kommen? Es ist am Samstag den 15. Juni am See. Wir baden und grillen. Es ist schön wetter hoffentlich.\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T37",
+      "text": "Hallo!\nIch habe Geburtstag und ich habe ein party. Die party ist am samstag. Du komst?\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T38",
+      "text": "Hallo!\nIch habe Geburtstag im Mai. Ich bin 13 jahre alt. Ich mag Kuchen und Eis.\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T39",
+      "text": "Hi!\nWie geht's? Am Freitag, den 22. November, habe ich Geburtstag, und ich möchte mit dir und ein paar Freunden ins Kino gehen. Der Film beginnt um 19 Uhr, aber wir treffen uns schon um halb sieben vor dem Kino. Danach können wir noch Eis essen. Sag mir bitte bis Mittwoch, ob du mitkommen kannst!\nBis dann"
+    },
+    {
+      "text_id": "G7-2-T40",
+      "text": "Hi!\nIch mache ein Party im Juni. Ich habe Geburtstag. Party ist im schwimbad. Du schwimmen mit mir?"
+    },
+    {
+      "text_id": "G7-2-T41",
+      "text": "Hallo!\nNächsten Samstag, am 14. September, habe ich Geburtstag, und ich möchte eine kleine Party bei mir im Garten machen. Sie beginnt um 16 Uhr, und wir können zusammen grillen, Musik hören und Fußball spielen. Wenn es regnet, feiern wir drinnen. Kannst du kommen? Schreib mir bitte bis Mittwoch, ich freue mich auf dich!\nViele Grüße"
+    },
+    {
+      "text_id": "G7-2-T42",
+      "text": "Hallo!\nMein geburtstag ist am 12 april. Ich habe party im park. Es ist sehr kul. Du kann komme?\nBis bald"
+    },
+    {
+      "text_id": "G7-2-T43",
+      "text": "Hallo!\nWie geht es dir? Ich habe am Samstag, den 18. Mai, Geburtstag und mache eine Party bei mir zu Hause. Wir essen Pizza und dann spielen wir Spiele. Kannst du kommen? Bitte antwort mir bis Donnerstag.\nViele Grüße"
+    },
+    {
+      "text_id": "G7-2-T44",
+      "text": "Hallo!\nAm Sonntag werde ich dreizehn. Ich mache eine Party im Park um 14 Uhr. Wir spielen fussball und essen Kuchen und Eis. Kannst du kommen?\nBis bald"
+    },
+    {
+      "text_id": "G7-2-T45",
+      "text": "Hallo!\nWie geht es dir? Ich habe nächste Woche Geburtstag! Die Party ist am Freitag um 17 Uhr bei mir. Wir machen Karaoke und backen Muffins. Kannst du kommen und mir bis Mittwoch antworten?\nViele Grüße"
+    },
+    {
+      "text_id": "G7-2-T46",
+      "text": "Hej!\nIch habt eine Party am Sonntag um drei. Wir spielen fußball. Du komst ja?"
+    },
+    {
+      "text_id": "G7-2-T47",
+      "text": "Hallo!\nAm 12. Oktober habe ich Geburtstag. Wir gehen zum Minigolf in der Stadt um zwei Uhr. Danach essen wir Kuchen bei mir. Kommst du?\nViele Grüße"
+    },
+    {
+      "text_id": "G7-2-T48",
+      "text": "Hallo!\nIch habe eine Geburtstagsparty am 2. Juni. Wir sind im Trampolinpark um drei Uhr. Wir springen und essen eis. Es ist sehr fun! Kommst du?\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T49",
+      "text": "Hallo!\nIch habe Geburtstag und mache eine Übernachtungsparty bei mir zu Hause. Sie ist am Freitag um 17 Uhr. Wir sehen Filme und essen Chips und Süssigkeiten. Du kannst bei mir schlafen.\nBis bald"
+    },
+    {
+      "text_id": "G7-2-T50",
+      "text": "Hallo\nIch bin feier mit du. Geburstag ist zu hausen wo dir. Kome esst Tort und spilt."
+    },
+    {
+      "text_id": "G7-2-T51",
+      "text": "Hallo!\nIch habe am Samstag Geburtstag und ich mache eine party. Die Party ist bei mir zu hause um 14 uhr. Wir essen Pizza und spielen spiele. Kommen du?\nViele Grüße"
+    },
+    {
+      "text_id": "G7-2-T52",
+      "text": "Hallo!\nNächsten Samstag werde ich vierzehn und ich möchte das feiern. Wir gehen um drei Uhr ins Technikmuseum und danach essen wir Kuchen im Café. Das Museum ist sehr interessant. Hast du Zeit? Bitte antworte mir schnell!\nViele Grüße"
+    },
+    {
+      "text_id": "G7-2-T53",
+      "text": "Hallo!\nI have a party on Saturday at my house. Du kommst? We will eat pizza and play games.\nBye"
+    },
+    {
+      "text_id": "G7-2-T54",
+      "text": "Hallo!\nIch lade dich zu meine Geburtstagsparty ein! Wir feiern am Samstag, den 7. September, im Schwimmbad. Wir treffen uns um 12 Uhr, schwimmen zusammen und essen danach Pfannkuchen. Kannst du kommen? Antworte bitte bald!\nLiebe Grüße"
+    },
+    {
+      "text_id": "G7-2-T55",
+      "text": "Hallo!\nNächsten Freitag habe ich Geburtstag. Die Party ist im Jugendzentrum von 19 bis 22 Uhr. Wir hören Musik, tanzen und machen Karaoke. Das wird lustig!\nBis bald"
+    },
+    {
+      "text_id": "G7-2-T56",
+      "text": "Hallo!\nIch habe bald Geburtstag und mache eine Party. Die Party ist am Samstag, den 10. Mai, bei mir zu Hause. Wir essen Pizza und spielen Brettspiele. Kommst du?\nViele Grüße"
+    },
+    {
+      "text_id": "G7-2-T57",
+      "text": "Hi!\nIch werde 13 und ich will eine Party haben. Die Party ist am 20. Mai im Park. Wir grillen und spielen fussball. Du kannst komme?\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T58",
+      "text": "Hallo!\nWie geht es dir? Ich habe eine tolle Idee für meinen Geburtstag: Wir spielen Minigolf im Park! Wir treffen uns am Sonntag, den 9. Juni, um 13 Uhr am Eingang. Danach gibt es Kuchen und Limonade bei mir, das ist nicht weit. Kannst du kommen und mir bis Freitag schreiben?\nTschüss und bis bald"
+    },
+    {
+      "text_id": "G7-2-T59",
+      "text": "Hi!\nMeine Geburtstagsparty ist am Freitag um 18 Uhr. Wir sind im Bowlinghalle in der Stadt. Wir spielen Bowling und essen danach Pommes. Hast du Lust?\nTschüss"
+    },
+    {
+      "text_id": "G7-2-T60",
+      "text": "hallo\ngeburtstag ich fest, mir haus. spielen essen musik ja?"
+    }
+  ],
+  "G7-3": [
+    {
+      "text_id": "G7-3-T01",
+      "text": "Im Winter ist es kalt und es schneit viel, aber ich mag das. Winter ist meine Lieblingsjahreszeit, denn man kann Ski fahren. Wir fahren im Februar in die Berge. Abends trinke ich Tee und schaue Filme, das ist sehr gemütlich."
+    },
+    {
+      "text_id": "G7-3-T02",
+      "text": "Herbst ich bin regen machen und gehen shule ja bläter fallt gut mir"
+    },
+    {
+      "text_id": "G7-3-T03",
+      "text": "Ich mag den Herbst, denn es ist nicht zu warm und nicht zu kalt. Die Blätter fallen und der Wind ist stark. In den Herbstferien gehe ich oft ins Kino oder ich lese ein Buch. Man kann auch Drachen steigen lassen, das ist lustig."
+    },
+    {
+      "text_id": "G7-3-T04",
+      "text": "Mein Lieblingsjahreszeit ist Sommer, denn wir haben Sommerferien. Es ist warm. Ich spiele fussball und ich gehe schwimmen mit meine freunde."
+    },
+    {
+      "text_id": "G7-3-T05",
+      "text": "Ich finde Winter am besten. Es ist kalt und weiss. Ich spielen eishockey und ich mache schneeballschlacht. Das macht spass."
+    },
+    {
+      "text_id": "G7-3-T06",
+      "text": "Der Winter ist meine Lieblingsjahreszeit. Es ist kalt und dunkel, aber der Schnee ist weiß und schön. Im Winter kann man Ski fahren, Schlittschuh laufen oder einen Schneemann bauen. Am liebsten fahre ich Schlitten mit meinen Freunden, denn das macht total Spaß. Danach trinken wir heißen Kakao."
+    },
+    {
+      "text_id": "G7-3-T07",
+      "text": "Winter ist meine lieblingsjahreszeit. Es ist kalt und es schneit. Ich habe kalt."
+    },
+    {
+      "text_id": "G7-3-T08",
+      "text": "Meine lieblings jahreszeit ist Sommer. Es ist warm und sonne. Ich mag sommer fil."
+    },
+    {
+      "text_id": "G7-3-T09",
+      "text": "Der Sommer ist meine Lieblingsjahreszeit, denn ich liebe die Wärme. Normalerweise ist es sonnig, aber es gibt auch manchmal Gewitter. Im Juli fahren wir oft aufs Land, und dort kann man angeln oder Kanu fahren. Abends spielen wir draußen Karten, das finde ich super."
+    },
+    {
+      "text_id": "G7-3-T10",
+      "text": "Ich mag Frühling. Im Frühling es ist wärmer und die Blumen kommen. Ich gehe in den Park und spiele Basketball. Ich mag Frühling weil alles ist grün."
+    },
+    {
+      "text_id": "G7-3-T11",
+      "text": "Herbst regen. ich fussball. blätter gelb rot. mag"
+    },
+    {
+      "text_id": "G7-3-T12",
+      "text": "Ich mag den Winter am liebsten. Es ist kalt und es schneit oft, aber ich finde das schön. Im Winter kann man Ski fahren und Schlittschu laufen. Ich fahre auch gern Schlitten mit meinen Freunden, denn es macht viel Spaß."
+    },
+    {
+      "text_id": "G7-3-T13",
+      "text": "Ich mag den Herbst. Im Herbst ist es kühl und oft grau. Ich sammle Äpfel und backe Apfelkuchen. Herbst ist toll, denn es ist nicht so heiss wie im Sommer."
+    },
+    {
+      "text_id": "G7-3-T14",
+      "text": "Sommer ist meine Lieblingsjahreszeit. Es ist heiß und sonnig. Ich spiele Tennis und ich gehe an den See. Ich mag Sommer, denn ich habe keine Schule."
+    },
+    {
+      "text_id": "G7-3-T15",
+      "text": "Meine Lieblingsjahreszeit ist Winter. Im Winter ist es kalt und es schneit. Ich baue einen Schneemann und am Abend trinke ich heiße Schokolade. Ich mag Winter, weil es ist gemütlich."
+    },
+    {
+      "text_id": "G7-3-T16",
+      "text": "Ich mag den Frühling am meisten, denn alles wird wieder grün und bunt. Das Wetter ist oft schön, aber es kann auch windig sein. Am Wochenende gehe ich gern joggen, und man kann auch wieder im Garten sitzen und draußen essen. Das finde ich toll, weil der Winter so lang und dunkel ist."
+    },
+    {
+      "text_id": "G7-3-T17",
+      "text": "Meine Lieblingsjahreszeit ist Herbst. Es ist oft windig und es regnet manchmal. Ich gehe mit meine Hund im Wald spazieren. Ich mag Herbst, weil die Blätter so bunt sind."
+    },
+    {
+      "text_id": "G7-3-T18",
+      "text": "Sommer ist bäst. Ich spielen tennis und ich bade. Wir hat ferien."
+    },
+    {
+      "text_id": "G7-3-T19",
+      "text": "Ich liebe den Sommer. Im Sommer ist es warm und sonnig, aber manchmal gibt es Gewitter. Wir fahren oft an den See und dort kann man baden und angeln. Ich mag den Sommer, denn ich kann lange schlafen."
+    },
+    {
+      "text_id": "G7-3-T20",
+      "text": "Meine lieblingjahreszeit ist Frühling. Die blumen kommt und die vögel singen. Es ist nicht kalt."
+    },
+    {
+      "text_id": "G7-3-T21",
+      "text": "Meine Lieblingsjahreszeit ist der Sommer. Im Sommer ist es warm und die Sonne scheint oft. Ich gehe schwimmen und esse viel Eis. Ich mag den Sommer, weil wir haben Ferien."
+    },
+    {
+      "text_id": "G7-3-T22",
+      "text": "Frühling ist mein Lieblingsjahreszeit. Es ist nicht so kalt und die sonne scheint mehr. Ich fahre mit dem Fahrrad zu die Schule. Ich mag das."
+    },
+    {
+      "text_id": "G7-3-T23",
+      "text": "Meine Lieblingsjahreszeit ist der Herbst. Es ist oft windig und es regnet viel, aber die Bäume sind rot und gelb. Man kann im Wald Pilze sammeln und das mache ich gern. Ich mag den Herbst auch, denn es ist gemütlich zu Hause mit Kerzen."
+    },
+    {
+      "text_id": "G7-3-T24",
+      "text": "Winter. Ich liebe."
+    },
+    {
+      "text_id": "G7-3-T25",
+      "text": "Sommer ist bra. warm"
+    },
+    {
+      "text_id": "G7-3-T26",
+      "text": "Meine Lieblingsjahreszeit ist der Sommer, denn dann ist es warm und hell. Die Sonne scheint oft bis zehn Uhr am abend, aber manchmal regnet es auch. Im Sommer kann man im See schwimmen, Fahrrad fahren und draußen grillen. Ich mag den Sommer auch, weil ich dann viel Zeit für meine Freunde habe."
+    },
+    {
+      "text_id": "G7-3-T27",
+      "text": "Ich liebe herbst. In herbst ich gehe in wald. Ich finde pilze und es ist kul."
+    },
+    {
+      "text_id": "G7-3-T28",
+      "text": "Winter ist meine Lieblingsjahreszeit. Es ist dunkel und kalt aber es schneit. Ich fahre schlitten mit meine Freunde. Ich liebe schnee."
+    },
+    {
+      "text_id": "G7-3-T29",
+      "text": "Meine Lieblingsjahreszeit ist Winter, denn ich liebe Schnee. Im Januar ist es sehr kalt, manchmal minus zwanzig Grad. Man kann Schneemänner bauen oder Eishockey auf dem See spielen. Es ist aber auch sehr dunkel, und das mag ich nicht so."
+    },
+    {
+      "text_id": "G7-3-T30",
+      "text": "Ich mag Sommer. Die sonne scheinen och es ist heiss. Ich esse eis. Ich esse eis jeden tag."
+    },
+    {
+      "text_id": "G7-3-T31",
+      "text": "Meine Lieblingsjahreszeit ist Sommer. Es ist heiss und manchmal es regnet. Ich fahre aufs Land und ich angeln im See. Es ist ruhig und schön."
+    },
+    {
+      "text_id": "G7-3-T32",
+      "text": "Ich liebe den Sommer. Das Wetter ist schön und warm. Ich fahre oft Fahrrad und im Juli fahren wir ans Meer. Das ist toll, weil ich mag baden."
+    },
+    {
+      "text_id": "G7-3-T33",
+      "text": "Meine Lieblingsjahreszeit ist der Winter. Draußen ist es kalt und es schneit oft, aber drinnen ist es warm und gemütlich. Man kann im Schnee spielen und danach Brettspiele spielen oder Tee trinken. Ich mag den Winter auch, denn ich fahre gern Langlauf im Wald, und das ist ein guter Sport."
+    },
+    {
+      "text_id": "G7-3-T34",
+      "text": "Meine Lieblingsjahreszeit ist der Sommer, denn dann haben wir lange Ferien. Das Wetter ist meistens warm und die Sonne scheint bis spät am Abend. Man kann schwimmen, Eis essen und draussen schlafen. Manchmal regnet es aber, und dann spiele ich Karten mit meine Familie."
+    },
+    {
+      "text_id": "G7-3-T35",
+      "text": "Ich mag Winter. Im winter ich fahre ski. Ich spiele mit freunde im schnee."
+    },
+    {
+      "text_id": "G7-3-T36",
+      "text": "Der Frühling ist meine Lieblingsjahreszeit. Es wird wärmer und die Sonne scheint mehr. Ich spiele Fussball draussen nach der Schule. Ich finde Frühling toll, denn die Vögel singen."
+    },
+    {
+      "text_id": "G7-3-T37",
+      "text": "Sommer ist meine Lieblingsjahreszeit. Es ist heiß und die Sonne scheint fast jeden Tag. Man kann am Strand liegen, Volleyball spielen oder Pommes essen. Ich mag den Sommer, denn ich habe viel Zeit für mein Hobbys."
+    },
+    {
+      "text_id": "G7-3-T38",
+      "text": "Meine Lieblingsjahreszeit ist der Frühling. Das Wetter ist oft schön, aber manchmal regnet es noch. Nach der Schule spiele ich Basketball mit meinen Freunden im Park. Ich mag Frühling, denn die Tage werden länger und man kann lange draussen sein."
+    },
+    {
+      "text_id": "G7-3-T39",
+      "text": "Meine Lieblingsjahreszeit ist der Herbst. Es ist kühl und es gibt viel wind. Ich habe herbstferien und ich spiele computerspiele. Die Bäume ist so schön."
+    },
+    {
+      "text_id": "G7-3-T40",
+      "text": "Der Frühling ist meine Lieblingsjahreszeit, denn alles wird wieder grün. Es ist nicht mehr so kalt und die Sonne scheint öfter. Man kann wieder draußen Fahrrad fahren und Fussball spielen. Ich finde auch die Vögel schön, sie singen jeden Morgen."
+    },
+    {
+      "text_id": "G7-3-T41",
+      "text": "Meine Lieblingsjahreszeit ist Herbst. Es regnet oft und es ist windig. Ich lesen bücher und trinke tee zu hause. Das ist gemütlich."
+    },
+    {
+      "text_id": "G7-3-T42",
+      "text": "Meine Lieblingsjahreszeit ist der Herbst. Es ist oft grau und es regnet viel, aber ich mag das Geräusch vom Regen. Im Herbst kann man Äpfel pflücken und Kuchen backen. Ich spiele auch Handball in eine Mannschaft, denn im Herbst beginnt die Saison wieder."
+    },
+    {
+      "text_id": "G7-3-T43",
+      "text": "Winter. Kalt. Schnee. Ski. gut."
+    },
+    {
+      "text_id": "G7-3-T44",
+      "text": "Ich habe eine katze und sie ist schwarz. Ich mag katze."
+    },
+    {
+      "text_id": "G7-3-T45",
+      "text": "Ich mag Winter. Im Winter es schneit viel und es ist kalt. Ich fahre ski in die Berge. Ich mag Winter weil es ist schön."
+    },
+    {
+      "text_id": "G7-3-T46",
+      "text": "Ich mag den Herbst am liebsten, denn die Bäume sind dann rot, gelb und orange. Das Wetter ist oft kühl und windig, und manchmal regnet es den ganzen Tag. Man kann im Wald spazieren gehen und Pilze oder Beeren sammeln. Ich finde den Herbst auch gemütlich, denn ich kann drinnen mit einer Decke sitzen und lesen."
+    },
+    {
+      "text_id": "G7-3-T47",
+      "text": "Meine Lieblingsjahreszeit ist der Sommer. Im Sommer ist es warm und die sonne scheint. Ich schwimme im meer und spiele volleyball. Es ist sehr kul."
+    },
+    {
+      "text_id": "G7-3-T48",
+      "text": "Frühling. Frühling ist mein lieblingsjahreszeit. Ich mag frühling fil."
+    },
+    {
+      "text_id": "G7-3-T49",
+      "text": "Min favorit årstid är sommar. Es ist warm och jag badar i sjön. It is very fun."
+    },
+    {
+      "text_id": "G7-3-T50",
+      "text": "Ich mag den Winter am liebsten. Es ist kalt und es schneit viel. Im Winter fahre ich Ski und gehe Schlittschuh laufen. Ich mag Winter denn Schnee ist so schön."
+    },
+    {
+      "text_id": "G7-3-T51",
+      "text": "Meine Lieblingsjahreszeit ist der Winter, denn ich liebe Schnee und Eis. Oft ist es minus zehn Grad, aber die Sonne scheint auch manchmal und dann glitzert der Schnee. Man kann auf dem See Schlittschuh laufen oder Eishockey spielen. In den Winterferien fahren wir auch in die Berge, und dort lerne ich Snowboard fahren."
+    },
+    {
+      "text_id": "G7-3-T52",
+      "text": "Mein lieblings jahreszeit ist winter. Ich fahre schlittschu auf der see. Es ist sehr kalt men ok."
+    },
+    {
+      "text_id": "G7-3-T53",
+      "text": "Meine Lieblingsjahreszeit ist Frühling. Im April und Mai scheint die Sonne mehr und es ist nicht so kalt. Ich fahre Skateboard und treffe meine Freunde. Ich mag Frühling, weil die Tage lang sind."
+    },
+    {
+      "text_id": "G7-3-T54",
+      "text": "My favourite season is winter because snow. Ich fahre skidor och åker pulka. Kalt."
+    },
+    {
+      "text_id": "G7-3-T55",
+      "text": "Sommer ich ist baden hat sonne das mir gut spielt see sehr fiel"
+    },
+    {
+      "text_id": "G7-3-T56",
+      "text": "Mein lieblingsjahreszeit ist Herbst. Es regnet fil und es ist kalt. Die bläter ist rot und gelb."
+    },
+    {
+      "text_id": "G7-3-T57",
+      "text": "Meine Lieblingsjahreszeit ist der Frühling. Nach dem langen Winter wird es endlich wärmer, und die Sonne scheint wieder mehr. Man kann draußen Fussball spielen oder mit dem Fahrrad zur Schule fahren. Ich mag den Frühling, denn die Blumen kommen und die Vögel singen, aber manchmal ist es noch ein bisschen kalt."
+    },
+    {
+      "text_id": "G7-3-T58",
+      "text": "Frühling ist mein lieblingsjahreszeit. Ich spiele fussball draussen. Ich spiele mit mein freunde. Es ist gut."
+    },
+    {
+      "text_id": "G7-3-T59",
+      "text": "Sommer ist meine Lieblingsjahreszeit, denn die Tage sind lang und warm. Meistens scheint die Sonne, aber am Meer ist es manchmal windig. Man kann dort schwimmen, Muscheln sammeln und Beachvolleyball spielen. Ich mag den Sommer auch, weil ich morgens nicht früh aufstehen muss."
+    },
+    {
+      "text_id": "G7-3-T60",
+      "text": "Ich finde den Winter am besten. Es ist kalt und manchmal gibt es viel Schnee. In den Winterferien fahren wir in die Berge und ich fahre Snowboard. Das macht sehr Spaß."
+    }
+  ],
+  "G8-1": [
+    {
+      "text_id": "G8-1-T01",
+      "text": "Am Freitag habe ich mit Freunden einen Film im Kino gesehen. Am Samstag hatte ich ein Fussballspiel und wir haben 3:1 gewonnen. Am Sonntag habe ich ein bisschen Gitarre gespielt und Mathe gelernt. Ich fand das Wochenende toll, aber zu kurz."
+    },
+    {
+      "text_id": "G8-1-T02",
+      "text": "Am Samstagmorgen bin ich früh aufgestanden, weil ich hatte ein Fussballspiel. Leider haben wir 1:2 verloren. Danach bin ich mit ein paar Freunden in die Stadt gegangen und wir haben Pizza gegessen. Am Sonntag habe ich nur gelesen und mich ausgeruht. Das Wochenende war trotzdem gut, weil ich viel Zeit mit meinen Freunden hatte."
+    },
+    {
+      "text_id": "G8-1-T03",
+      "text": "Wochenende. Samstag fussball, Sonntag Hund spazieren. Gut."
+    },
+    {
+      "text_id": "G8-1-T04",
+      "text": "Ich habe am Samstag Gitarre spielt. Am Sonntag ich fahre Fahrrad zu der See mit Freunde. Das Wasser war sehr kalt. Ich finde das Wochenende gut."
+    },
+    {
+      "text_id": "G8-1-T05",
+      "text": "Am Samstag habe ich nach Göteborg gefahren. Dort habe ich den Freizeitpark besucht und bin Achterbahn gefahren. Es war sehr spannend. Am Sonntag habe ich nur geschlafen und Musik gehört. Das Wochenende war super, aber am Sonntag war ich sehr müde."
+    },
+    {
+      "text_id": "G8-1-T06",
+      "text": "Am Samstag bin ich mit Freunden im Wald gewandert. Zuerst sind wir zu einem kleinen See gegangen, wo wir unsere Brote gegessen haben. Danach haben wir ein Reh gesehen, das war echt spannend. Am Sonntag war ich so müde, dass ich fast den ganzen Tag im Bett gelegen habe. Trotzdem fand ich das Wochenende super, weil ich viel draussen war."
+    },
+    {
+      "text_id": "G8-1-T07",
+      "text": "Am Freitag war ich auf eine Party bei ein Freund. Wir haben getanzt und viel Pizza gegessen. Am Samstag ich habe lange geschlaft. Am Sonntag habe ich meine Hausaufgaben gemacht, das war langweilig. Das Wochenende war schön."
+    },
+    {
+      "text_id": "G8-1-T08",
+      "text": "Am Freitag bin ich mit Freunden auf ein Konzert in der Stadt gegangen. Die Band hat sehr laut gespielt und wir haben die ganze Zeit getanzt. Deshalb habe ich am Samstag bis Mittag geschlafen. Am Nachmittag habe ich dann Klavier geübt, weil ich am Montag habe eine Prüfung. Das Wochenende war super, aber ich hatte zu wenig Zeit für die Hausaufgaben."
+    },
+    {
+      "text_id": "G8-1-T09",
+      "text": "Am Samstag habe ich mit mein Freunde Basketball gespielt. Dann wir sind nach Hause gegangen und habe Pommes essen. Am Sonntag ist ich müde und schlafe. Es war ein gut Wochenende."
+    },
+    {
+      "text_id": "G8-1-T10",
+      "text": "Am Samstag habe ich mit Freunde in der Stadt gewesen. Wir haben Schuhe gekauft und Kakao getrinkt. Am Sonntag habe ich Schach gespielt mit meine Nachbar. Das Wochenende war lustig weil ich hatte viel Zeit mit meine Freunde."
+    },
+    {
+      "text_id": "G8-1-T11",
+      "text": "Am Samstag ich habe mit Freunde in den Park gehen und wir spielen Frisbee. Am Sonntag habe ich Brot backen. Es war lecker. Das Wochenende war schon."
+    },
+    {
+      "text_id": "G8-1-T12",
+      "text": "Am Samstag habe ich mit Freunden auf einem Flohmarkt alte Spiele und Bücher verkauft. Wir haben fast dreihundert Kronen verdient! Danach sind wir in ein Café gegangen und haben heiße Schokolade getrunken. Am Sonntag bin ich mit dem Hund an den See gegangen und habe Fotos vom Sonnenuntergang gemacht. Ich war sehr zufrieden mit dem Wochenende, weil alles so gut geklappt hat."
+    },
+    {
+      "text_id": "G8-1-T13",
+      "text": "Am Samstag bin ich mit dem Zug nach Stockholm gefahrt. Dort habe ich ein Museum besuchen, es war interessant. Dann ich habe Eis gegessen. Am Sonntag war ich zu Hause und lese. Das Wochenende war toll."
+    },
+    {
+      "text_id": "G8-1-T14",
+      "text": "Am Samstag habe ich Handball gespielt, und danach habe ich mit meinem Team Burger gegessen. Am Sonntag bin ich joggen und habe ein Podcast gehört. Am Abend habe ich meine Tasche für die Schule gepackt. Das Wochenende war okay, nicht super."
+    },
+    {
+      "text_id": "G8-1-T15",
+      "text": "Am Samstag war ich auf einer Geburtstagsparty. Wir haben Karaoke gesingt und viel gelacht. Am Sonntag bin ich spater aufgestanden und habe mit dem Hund einen langen Spaziergang gemacht. Danach habe ich meine Hausaufgaben für Deutsch gemacht, das war nicht so lustig. Insgesamt war es ein schönes Wochenende, weil die Party so toll war."
+    },
+    {
+      "text_id": "G8-1-T16",
+      "text": "Am Samstag habe ich im Garten gearbeitet. Es war viel Arbeit. Dann bin ich joggen gegangen. Am Sonntag ich habe eine Serie gesehen und Popcorn essen. Das Wochenende war gut aber ein bisschen kurz."
+    },
+    {
+      "text_id": "G8-1-T17",
+      "text": "Am Samstagmorgen bin ich ins Schwimmbad gegangen und einen Kilometer geschwommen. Am Nachmittag haben zwei Freunde bei mir übernachtet. Wir haben Pizza gemacht und bis Mitternacht Karten gespielt. Am Sonntag waren wir alle sehr müde, deshalb haben wir nur gefrühstückt und ferngesehen. Das war das beste Wochenende seit langem, weil wir so viel gelacht haben."
+    },
+    {
+      "text_id": "G8-1-T18",
+      "text": "Zuerst habe ich am Samstag Klavier geübt. Dann habe ich mit Freunde Minigolf spielen, das hat viel Spass gemacht. Am Sonntag ich habe Kuchen gebacken aber er war nicht so gut. Das Wochenende war okay."
+    },
+    {
+      "text_id": "G8-1-T19",
+      "text": "Am Samstag ich spiele Handball mit mein Mannschaft. Wir haben gewinnt. Handball ist mein lieblings sport, ich spiele seit fünf jahre."
+    },
+    {
+      "text_id": "G8-1-T20",
+      "text": "Am Samstag habe ich Bowling spielen mit meine Klasse. Ich habe gewinnt! Am Sonntag ich bin zu hause und esse Eis und sehe fern. Das war super."
+    },
+    {
+      "text_id": "G8-1-T21",
+      "text": "Am Samstag habe ich Handball gespielt. Wir haben verloren, das war nicht so gut. Danach ich bin nach Hause gegangen und habe Pasta gekocht. Am Sonntag habe ich mit Freunde ins Kino gehen. Das Wochenende war gut aber ich war sehr müde."
+    },
+    {
+      "text_id": "G8-1-T22",
+      "text": "Am Samstag bin ich mit dem Fahrrad zum See gefahrt. Ich habe dort gebadet, aber das Wasser war kalt. Am Nachmittag habe ich Eis gegessen. Am Sonntag habe ich ein Brettspiel mit meiner Familie gespielt. Das Wochenende war schön und lustig."
+    },
+    {
+      "text_id": "G8-1-T23",
+      "text": "Am Samstagvormittag bin ich in die Bibliothek gegangen und habe zwei Bücher ausgeleiht. Am Nachmittag habe ich Muffins gebacken, weil wir Besuch bekommen haben. Am Sonntag bin ich mit dem Fahrrad um den See gefahren, das waren fast zwanzig Kilometer. Das Wochenende war gut, aber meine Beine tun heute noch weh."
+    },
+    {
+      "text_id": "G8-1-T24",
+      "text": "Am Samstag habe ich mein Fahrrad geputzt und repariert, weil die Bremsen kaputt waren. Danach bin ich damit zum Sportplatz gefahren und habe mit ein paar Leuten Basketball gespielt. Am Abend haben wir draußen gegessen, weil es noch so warm war. Am Sonntag habe ich eine neue Serie angefangen und gleich fünf Folgen gesehen. Das Wochenende war entspannt und sonnig, also genau richtig für mich."
+    },
+    {
+      "text_id": "G8-1-T25",
+      "text": "In Samstag war ich gegangt schwimen hale und dan wir ist Kuken bakke. Sontag ich lese Buk sie war nich lange er gut ist."
+    },
+    {
+      "text_id": "G8-1-T26",
+      "text": "Wokende ich gehabt in stad und kaufe mit Fround viel kleder, dann Pizze hat es. Sontag isch nur schlaffen haben war schöne gemacht."
+    },
+    {
+      "text_id": "G8-1-T27",
+      "text": "Freitag abend habe ich ein film sehen. Samstag ich habe schwimmen in die Schwimmhalle. Das war sehr gut. Sonntag ich habe nichts machen."
+    },
+    {
+      "text_id": "G8-1-T28",
+      "text": "Am Samstag habe ich in der Stadt eine neue Hose gekauft. Dann habe ich einen Freund getroffen und wir haben Pommes gegessen. Am Sonntag habe ich Tennis gespielt. Das Wochenende war gut, aber das Wetter war nicht so schön."
+    },
+    {
+      "text_id": "G8-1-T29",
+      "text": "Am Samstag habe ich zuerst Unihockey trainiert, und danach bin ich mit dem Bus zu einem Freund gefahren. Wir haben zusammen ein kurzes Video für den Englischunterricht gedreht, und das hat viel Spass gemacht. Am Sonntag bin ich spazieren gegangen und habe danach Pfannkuchen gebacken. Das Wochenende war gut, aber ein bisschen zu kurz, denn ich hatte keine Zeit zum Lesen."
+    },
+    {
+      "text_id": "G8-1-T30",
+      "text": "Ich habe schlafen lange. Das ist bra."
+    },
+    {
+      "text_id": "G8-1-T31",
+      "text": "Am Samstag habe ich Unihockey Training gehabt. Nach dem Training wir haben Burger gegessen. Am Sonntag habe ich geschlafen bis zwölf Uhr und dann ein Film gesehen. Es war ein schön Wochenende."
+    },
+    {
+      "text_id": "G8-1-T32",
+      "text": "Am Samstag bin ich mit dem Zug nach Göteborg gefahren, um das Aquarium zu besuchen. Dort habe ich Haie und bunte Fische gesehen und viele Fotos gemacht. Danach habe ich in einem kleinem Restaurant Pasta gegessen. Am Sonntag bin ich zu Hause geblieben, weil es geregnet hat. Ich fand das Wochenende sehr schön, weil ich etwas Neues gesehen habe."
+    },
+    {
+      "text_id": "G8-1-T33",
+      "text": "Wochenende war gut. Ich kino."
+    },
+    {
+      "text_id": "G8-1-T34",
+      "text": "Am Samstag hatte unsere Schulband ein Konzert in der Bibliothek, und ich habe Schlagzeug gespielt. Vorher war ich sehr nervös, aber am Ende ist alles gut gegangen. Nach dem Konzert sind wir zusammen Burger essen gegangen. Am Sonntag habe ich lange geschlafen und dann mit dem Hund gespielt. Es war ein aufregendes Wochenende, und ich bin stolz, dass wir so gut gespielt haben."
+    },
+    {
+      "text_id": "G8-1-T35",
+      "text": "Ich Samstag Kino, Popcorn. Sonntag ich Hausaufgaben. Mathe schwer. Nicht gut."
+    },
+    {
+      "text_id": "G8-1-T36",
+      "text": "Am Samstag habe ich für meine Familie gekocht. Zuerst bin ich in den Supermarkt gegangen und habe Gemüse und Nudeln gekauft. Dann habe ich eine Gemüselasagne gemacht, sie war sehr lecker, nur ein bisschen zu salzig. Am Sonntag habe ich Unihockey gespielt und bin danach mit dem Bus nach Hause gefahrt. Das Wochenende war gut, weil alle mein Essen gemocht haben."
+    },
+    {
+      "text_id": "G8-1-T37",
+      "text": "Am Wochenende ich habe mein zimmer aufraumen. Das ist langweilig. Dann ich spiele Tennis mit Freunde. Am Abend ich sehe eine Serie."
+    },
+    {
+      "text_id": "G8-1-T38",
+      "text": "Am Samstag habe ich mit Freunde fussball spielen. Es war kalt aber roligt. Am Sonntag ich habe lange schlafen und dann Hausaufgabe machen."
+    },
+    {
+      "text_id": "G8-1-T39",
+      "text": "Samstag ich bin in der Bibliotek gehen und habe ein Buch leihen. Ich lese das Buch im Bett. Sonntag habe ich Mathe lernen fur ein Test. Wochenende war nicht so gut, zu viel Schule."
+    },
+    {
+      "text_id": "G8-1-T40",
+      "text": "Mein Wochenende war langweilig. Es regnet die ganze zeit und ich war müde. Ich mag nicht regen."
+    },
+    {
+      "text_id": "G8-1-T41",
+      "text": "Am Samstag hat es viel geschneit, deshalb habe ich mit den Nachbarskindern einen großen Schneeman gebaut. Danach sind wir Schlitten gefahren, bis wir ganz nass waren. Am Sonntag habe ich warmen Kakao getrunken und ein spannendes Buch zu Ende gelesen. Es war ein gemütliches Wochenende, weil ich viel draussen war und mich danach ausruhen konnte."
+    },
+    {
+      "text_id": "G8-1-T42",
+      "text": "På lördagen jag var på bio med kompisar. Sen vi äter pizza. Sunday I played video games the whole day. Es war gut."
+    },
+    {
+      "text_id": "G8-1-T43",
+      "text": "Am Samstag habe ich im Wald Pilze gesucht. Wir haben viele gefunden! Am Abend habe ich Pasta mit Pilzen gekocht. Am Sonntag habe ich zu Hause gebleibt und Fotos bearbeitet. Das Wochenende war ruhig aber gut."
+    },
+    {
+      "text_id": "G8-1-T44",
+      "text": "Am Samstag bin ich früh aufgestanden und mit dem Fahrrad zum Sportplatz gefahren, weil wir ein wichtiges Fußballspiel hatten. Wir haben 2:0 gewonnen, und ich habe sogar ein Tor geschossen! Danach sind wir alle zusammen Eis essen gegangen. Am Sonntag habe ich lange geschlafen und dann für den Englischtest gelernt. Es war ein tolles Wochenende, weil wir endlich gewonnen haben."
+    },
+    {
+      "text_id": "G8-1-T45",
+      "text": "Am Samstag bin ich mit meine Hund in den Wald gegeht. Dann habe ich Fussball im Fernsehen gesehen. Am Sonntag habe ich mein Fahrrad repariert und habe zu ein Freund gefahren. Es war ein gutes Wochenende weil es war sonnig."
+    },
+    {
+      "text_id": "G8-1-T46",
+      "text": "Zuerst habe ich am Samstag mein Zimmer aufgeräumt. Dann habe ich mit dem Hund einen langen Spaziergang gemacht. Am Abend habe ich Pfannkuchen gekocht, sie waren lecker. Am Sonntag habe ich schwimmen gegangen. Das war ein gutes Wochenende."
+    },
+    {
+      "text_id": "G8-1-T47",
+      "text": "Am Freitagabend sind wir an einen See gefahren und haben dort gezeltet. Am Samstag bin ich zuerst geschwommen, obwohl das Wasser sehr kalt war. Danach haben wir Holz gesammelt und über das Feuer Stockbrot gebacken. Am Sonntag sind wir nach Hause gefahren und ich habe den ganzen Nachmittag geschlafen. Es war ein tolles Wochenende, aber das Zelt war ein bisschen zu klein fur uns."
+    },
+    {
+      "text_id": "G8-1-T48",
+      "text": "Am Wochenende ich bin mit meine Familie an den See gefahren. Wir haben geangelt aber wir haben keine Fische bekommen. Am Abend haben wir Karten gespielt. Das war lustig. Ich finde das Wochenende sehr gut."
+    },
+    {
+      "text_id": "G8-1-T49",
+      "text": "Am Samstag ich spiele Computerspiele den ganzen Tag. Am Sonntag ich gehe mit der Hund in Wald. Es ist schön wetter. Wochenende war ok."
+    },
+    {
+      "text_id": "G8-1-T50",
+      "text": "Am Freitagabend haben wir zu Hause einen Spieleabend gemacht, und ich habe zweimal gewonnen. Am Samstag bin ich in die Stadt gefahren und habe ein Geschenk für einen Freund gekauft, weil er Geburtstag hatte. Am Abend war ich dann auf seiner Party, wo wir viel getanzt und gesungen haben. Am Sonntag habe ich mich ausgeruht und ein Buch gelesen. Das Wochenende war anstrengend, aber sehr lustig, weil ich so viel erlebt habe."
+    },
+    {
+      "text_id": "G8-1-T51",
+      "text": "Am Samstag habe ich mit meinen Freunden Basketball gespielt. Danach haben wir in ein Café Kuchen gegessen. Am Sonntag habe ich zuerst meine Hausaufgaben gemacht und dann habe ich ein Buch gelesen. Das Wochenende war sehr schön und entspannt."
+    },
+    {
+      "text_id": "G8-1-T52",
+      "text": "Am Samstag habe ich Klettern gemacht in einer Halle. Danach habe ich Pizza mit Freunden gegessen. Am Sonntag habe ich ein Kuchen gebacken und ein Film gesehen. Das war ein tolles Wochenende, weil ich hatte viel Spass."
+    },
+    {
+      "text_id": "G8-1-T53",
+      "text": "Am Samstag ich habe... I don't know how to say. Jag åkte till sjön och badade med mina kompisar och det var kul. Das Wochenende war sehr gut."
+    },
+    {
+      "text_id": "G8-1-T54",
+      "text": "Am Samstag habe ich mit meinem Handballteam ein Turnier gespielt. Wir sind am Morgen mit dem Bus nach eine andere Stadt gefahren. Wir haben drei Spiele gewonnen und nur eins verloren! Am Sonntag war ich total kaputt, deshalb habe ich nur ferngesehen. Das Wochenende war anstrengend aber sehr schön."
+    },
+    {
+      "text_id": "G8-1-T55",
+      "text": "Am Freitag habe ich ein Konzert in der Schule gesehen. Am Samstag habe ich Schlittschuh gelauft auf dem Eis. Am Sonntag habe ich nur zu Hause gebleiben und Musik gehört. Es war ein ruhig Wochenende und ich mag das."
+    },
+    {
+      "text_id": "G8-1-T56",
+      "text": "Am Samstag habe ich lange geschlafen, bis elf Uhr. Dann habe ich mit meinen Freunden Computerspiele gespielt. Am Sonntag sind wir ins Museum gegangen und haben alte Autos gesehen. Das Wochenende war interessant und ich war glücklich."
+    },
+    {
+      "text_id": "G8-1-T57",
+      "text": "Am Samstag hat es den ganzen Tag geregnet. Deshalb bin ich mit einem Freund ins Technikmuseum gegangen, und wir haben dort kleine Roboter programmiert. Am Abend haben wir Pizza bestellt und einen Horrorfilm gesehen. Am Sonntag bin ich joggen gegangen, weil das Wetter besser war. Das Wochenende war lustig, aber der Film war ein bisschen zu gruselig fur mich."
+    },
+    {
+      "text_id": "G8-1-T58",
+      "text": "Letztes Wochenende hat es fast die ganze Zeit geregnet. Am Samstag bin ich deshalb mit zwei Freunden ins Kino gegangen, und wir haben einen lustigen Film gesehen. Danach haben wir bei mir Pfannkuchen gebacken, aber der erste ist leider verbrannt. Am Sonntag habe ich mein Zimmer aufgeräumt und Musik gehört. Obwohl das Wetter schlecht war, hatte ich ein schönes Wochenende."
+    },
+    {
+      "text_id": "G8-1-T59",
+      "text": "Am Wochenende ich bin in die Stadt gehen. Ich kaufe eine neue Jacke, sie ist blau. Am Sonntag habe ich ein Kuchen gebackt. Das Wochenende war gut."
+    },
+    {
+      "text_id": "G8-1-T60",
+      "text": "Am Samstag habe ich zuerst meinem Nachbar im Garten geholfen und dafür hundert Kronen bekommen. Danach bin ich mit dem Fahrrad in die Stadt gefahren und habe mir ein neues Spiel gekauft. Am Sonntag habe ich das Spiel mit Freunden gespielt, bis es dunkel war. Das Wochenende hat mir gut gefallen, weil ich mein eigenes Geld verdient habe."
+    }
+  ],
+  "G8-2": [
+    {
+      "text_id": "G8-2-T01",
+      "text": "Hallo\nMeine schule ist gross. Die schule anfangen um acht uhr und ende um drei. Ich mag Sport, es ist kul. Das essen ist gut."
+    },
+    {
+      "text_id": "G8-2-T02",
+      "text": "Hallo!\nIch schreibe dir über unsere Schule. Wir haben jeden Tag fünf oder sechs Stunden und die Pausen sind kurz. Es gibt ein Café, dort kann man Brot und Saft kaufen. Sport ist mein Lieblingsfach, denn ich bewege mich gern, aber Mathe ist schwieriger für mich. Tschüss!"
+    },
+    {
+      "text_id": "G8-2-T03",
+      "text": "Hallo!\nMin skola är ganska stor. We start at eight o'clock and we have lunch at eleven. Ich finde Sport gut aber matte är tråkigt. Hej då!"
+    },
+    {
+      "text_id": "G8-2-T04",
+      "text": "Hallo!\nUnsere schule hat ein großes Sporthall. Ich spiele Basketball in die Pause. Wir haben viel test und das ist nicht gut. Bis bald"
+    },
+    {
+      "text_id": "G8-2-T05",
+      "text": "Hallo!\nUnsere Schule ist groß und es gibt viele Klassen. Am Morgen haben wir oft Englisch oder Deutsch und nach dem Mittagessen haben wir Sport oder Kunst. Sport ist mein Lieblingsfach. Nicht so gut ist, dass wir haben so viele Tests. Tschüss!"
+    },
+    {
+      "text_id": "G8-2-T06",
+      "text": "Hallo!\nMeine Klasse hat 25 Schüler und wir sind meistens in den gleichen Raum. Am Freitag haben wir nur vier Stunden, das ist super. Geschichte ist interessant, aber Erdkunde ist langweiliger. Das Essen ist leider nicht so lecker. Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T07",
+      "text": "Liebe Austauschschülerin,\nschön, dass du bald hier bist! Unsere Schule ist nicht sehr groß, deshalb kennt man fast alle. Der Unterricht beginnt um 8.20 Uhr, und in der Mittagspause kann man draußen Basketball spielen oder in der Bibliothek lesen. Mathe ist schwerer als die anderen Fächer, aber die Lehrerin ist sehr geduldig. Das Schlechteste sind die Stühle, denn sie sind total unbequem! Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T08",
+      "text": "Hallo!\nDie Schule beginnt früh, schon um 8 Uhr, und ich bin oft müde. Wir haben viele Fächer, zum Beispiel Kunst, Musik und Textil. Textil ist leichter als Werken. Gut ist, dass die Lehrer helfen viel. Tschüss!"
+    },
+    {
+      "text_id": "G8-2-T09",
+      "text": "Hej!\nIn meine shula wir haben lekse fil und den lerare sind snell spreken. es gibts matsal essen gut nich. ich tycker Sport besser als."
+    },
+    {
+      "text_id": "G8-2-T10",
+      "text": "Hi!\nHier ist ein bisschen Info über unsere Schule. Man hat Mathe fast jeden Tag, und es ist schwerer als in der siebten Klasse. Der Unterricht endet meistens um drei, dann kann man nach Hause gehen. Die Lehrer sind freundlich, aber die Schule ist alt und im Winter kalt. Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T11",
+      "text": "Die Schule ist neu und schön. Wir haben Computer, alle schuler hat eine. Deutsch ist ganz ok aber die Grammatik ist svår. Das essen wir in Mensa um elf."
+    },
+    {
+      "text_id": "G8-2-T12",
+      "text": "Hallo\nSchule acht uhr, Mathe, Englisch. Essen gut, Sport gut. Hausaufgaben nein. tschüss"
+    },
+    {
+      "text_id": "G8-2-T13",
+      "text": "Hallo!\nIn unserer Schule gibt es ungefähr 400 Schüler und viele nette Lehrer. Der Tag beginnt um 8 Uhr und wir essen um halb zwölf. Ich mag Musik lieber als Mathe, denn in Musik können wir Instrumente spielen. Aber es gibt manchmal zu viele Tests in einer Woche. Tschüss!"
+    },
+    {
+      "text_id": "G8-2-T14",
+      "text": "Hallo!\nIch habe Mathe, Englisch, Deutsch, Sport und Bild. Und Musik och Bio."
+    },
+    {
+      "text_id": "G8-2-T15",
+      "text": "Hallo!\nDer Schultag beginnt um 8.30 und endet um 15 Uhr. Zu Mittag wir essen in der Mensa, das Essen ist gratis. Das ist gut. Nicht so gut ist die Pausen, sie sind zu kurz. Bis bald"
+    },
+    {
+      "text_id": "G8-2-T16",
+      "text": "Hallo!\nJeden Morgen ich fahre mit dem Rad zur Schule. Wir haben Mathe, Schwedisch, Bio und so weiter. Bio ist interessanter als Physik. Aber die Schultag ist zu lang, am Dienstag bis 16 Uhr."
+    },
+    {
+      "text_id": "G8-2-T17",
+      "text": "Liebe Austauschschülerin,\nwir freuen uns schon, dass du bald kommst! Bei uns hat man jeden Tag fünf oder sechs Stunden, und am Freitag ist man schon um eins fertig. Mathe ist schwerer als Englisch, aber unser Mathelehrer erklärt alles sehr gut. Nicht so gut ist das Essen in der Mensa, denn es gibt oft Suppe. Mach dir keine Sorgen, du findest hier schnell Freunde! Bis bald"
+    },
+    {
+      "text_id": "G8-2-T18",
+      "text": "Hallo!\nSchön, dass du in unsere Klasse kommst! Unser Tag beginnt um 8.30 Uhr, und wir haben Unterricht bis drei. In der Schule gibt es eine große Bibliothek, dort kann man in Ruhe lernen. Kunst macht mir mehr Spaß als Musik, weil ich lieber male als singe. Das einzige Problem ist, dass es in den Pausen sehr laut ist. Tschüss und bis bald!"
+    },
+    {
+      "text_id": "G8-2-T19",
+      "text": "Hallo!\nDer Schultag bei uns ist nicht so lang, wir sind meistens um zwei fertig. Man kann in der Pause in die Bibliothek gehen oder Basketball spielen. Bio ist interessanter als Chemie, weil wir mit Tiere arbeiten. Nicht gut ist, dass der Bus immer voll ist am Morgen. Bis bald!"
+    },
+    {
+      "text_id": "G8-2-T20",
+      "text": "Hallo!\nHerzlich willkommen in unserer Klasse! Der Schultag beginnt um 8.15 Uhr und endet meistens um 15 Uhr, und es gibt eine lange Mittagspause. Ich finde Bio interessanter als Physik, weil wir oft draußen arbeiten. Leider haben wir viele Tests, aber die Lehrer helfen uns gern. Mein Tipp: Nimm eine warme Jacke mit, denn im Winter ist es kalt auf dem Schulhof! Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T21",
+      "text": "Hallo!\nUnser Schultag hat viele Lektionen und eine lange Mittagspause. In die Pause wir spielen Fußball oder sitzen in der Aula. Das beste ist Kunst, das schlechteste ist Chemie weil es ist schwer. Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T22",
+      "text": "Hallo!\nToll, dass du zu uns kommst! Bei uns gibt es viele Fächer, aber am meisten mag ich Musik, weil wir oft zusammen in einer Band spielen. Chemie finde ich schwieriger als Physik, denn man muss so viel auswendig lernen. Ein Schultag dauert von 8 bis 15 Uhr, und manchmal ist das ein bisschen zu lang. Nimm am besten Sportsachen mit, wir haben am Montag Sport! Liebe Grüße"
+    },
+    {
+      "text_id": "G8-2-T23",
+      "text": "Hallo!\nWir haben Hausaufgaben jeden Tag, das ist nicht so gut. Aber die Schule hat eine gute Bibliothek mit fiel Bücher. Deutsch ist lustig, aber Englisch ist leichter für mich. Tschüss"
+    },
+    {
+      "text_id": "G8-2-T24",
+      "text": "Hallo!\nIch bin in der klasse 8. Wir haben lunch um halv zwölf. Das essen ist nicht so gut, es ist immer suppe. Die lehrer ist nett. Tschüss"
+    },
+    {
+      "text_id": "G8-2-T25",
+      "text": "Hallo!\nIn unserer Schule man bekommt ein Laptop. Am Montag haben wir Deutsch, Mathe, Sport und Bio. Sport ist am besten, weil wir oft draußen sind. Die Hausaufgaben in Mathe sind zu viel. Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T26",
+      "text": "hallo\nich schule 8 uhr. tschüs"
+    },
+    {
+      "text_id": "G8-2-T27",
+      "text": "hallo\nmein schule ist sie gros und wir habe den leran fiel. ich finde is nich gut der mat weil ich bin langst. schule ist geht zu ende tree uhr och das ist lang"
+    },
+    {
+      "text_id": "G8-2-T28",
+      "text": "Hallo!\nDie Schule ist nicht so groß, wir sind 22 in meine Klasse. Wir beginnen um 8.10 Uhr. Die Lehrerin in Englisch ist sehr gut und nett. Mathe ist langweilig und schwer för mich. Bis bald"
+    },
+    {
+      "text_id": "G8-2-T29",
+      "text": "Hi!\nMan hat in meine Schule viele Fächer. Ich finde Musik gut, wir singen und spielen Gitarre. Chemie ist schwerer. Es ist kalt in der Klassenzimmer im Winter, das ist nicht gut. Tschüss"
+    },
+    {
+      "text_id": "G8-2-T30",
+      "text": "Hallo!\nDer Schultag ist lang, wir haben Unterricht bis 15.40 Uhr. Das Mittagessen ist kostenlos und es gibt immer Salat. Englisch ist einfacher als Deutsch, aber Deutsch macht mehr Spaß. Es gibt nicht viel Platz in der Schulhof. Bis bald!"
+    },
+    {
+      "text_id": "G8-2-T31",
+      "text": "Hi!\nJeden Tag fahre ich mit dem Bus zur Schule, der Unterricht beginnt um halb neun. In der Pause spielen wir Tischtennis, das finde ich besser als Fußball. Nicht so gut ist das WLAN, es funktioniert oft nicht. Tschüss"
+    },
+    {
+      "text_id": "G8-2-T32",
+      "text": "Hallo!\nSchön dass du kommst in unsere Klasse! Der Schultag beginnt um 8.15 Uhr und wir haben meistens fünf Stunden. Ich finde Englisch leichter als Deutsch, denn ich höre viel Englisch im Internet. Nicht so gut ist, dass die Pausen sehr kurz sind. Bis bald!"
+    },
+    {
+      "text_id": "G8-2-T33",
+      "text": "Hallo!\nBei uns gibt es eine Sporthalle und eine große Bibliothek. Der Schultag ist von 8 bis 14.30 Uhr. Ich mag Werken, dort man macht Sachen aus Holz. Chemie ist nicht so gut, es ist schwer und langweilig. Bis bald"
+    },
+    {
+      "text_id": "G8-2-T34",
+      "text": "Hej\nich spiele fussball und ich habe ein katze. der katze ist schwarz und sehr söt. ich mag pizza. tschüss"
+    },
+    {
+      "text_id": "G8-2-T35",
+      "text": "Hi!\nWillkommen an unsere Schule! Wir fangen um 8.10 Uhr an, und nach der dritten Stunde gibt es Mittagessen. Englisch ist für mich einfacher als Deutsch, aber Deutsch ist spannender, weil alles noch neu ist. Nicht so toll ist, dass der Schulhof so klein ist. Bis bald!"
+    },
+    {
+      "text_id": "G8-2-T36",
+      "text": "Hallo!\nDie Schule ist ziemlich neu und die Klassenzimmer sind hell. Wir haben sechs Fächer am Tag und eine Pause um zehn. Die Lehrer sind nett, aber manchmal ist es sehr laut in die Klasse. Mathe ist schwerer als Englisch für mich. Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T37",
+      "text": "Hallo!\nBald bist du in unserer Klasse, super! Wir beginnen um 8.30 Uhr, dann haben wir zwei Stunden und eine Pause. Es gibt einen großen Schulhof und eine Bibliothek. Sport macht mehr Spaß als Geschichte, denn wir spielen oft Unihockey. Nicht so toll ist das Essen. Bis bald!"
+    },
+    {
+      "text_id": "G8-2-T38",
+      "text": "Hallo!\nIn die Schule wir haben Chemie und Physik. Ich finde Chemie gut, wir machen experimenten. Am montag der Schultag ist bis vier uhr, das ist lang. Tschüss"
+    },
+    {
+      "text_id": "G8-2-T39",
+      "text": "Hallo!\nIch freue mich, dass du kommst! In unserer Schule hat man jeden Tag sechs Stunden. Am besten finde ich Kunst, weil man kann dort kreativ sein. Physik ist schwieriger, und manchmal ist es sehr laut in der Klasse. Tschüss!"
+    },
+    {
+      "text_id": "G8-2-T40",
+      "text": "Hej!\nIch gehe um sieben zu Hause und die Schule beginnt um acht. Wir haben Geschichte, Mathe, Deutsch und Sport am Mittwoch. Sport ist besser als Geschichte! Das essen ist manchmal nicht gut. Tschüss"
+    },
+    {
+      "text_id": "G8-2-T41",
+      "text": "Liebe Austauschschülerin,\nunser Schultag beginnt um acht und endet um drei. Es gibt eine große Mensa, und das Essen ist gratis. Mathe ist schwerer als Bio, aber die Mathelehrerin erklärt sehr gut. Leider haben wir viel Hausaufgaben am Wochenende. Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T42",
+      "text": "Hallo\nMein Schultag ist lang. Ich aufstehe um sieben und die Schule beginnt um acht. Wir haben sechs lektionen. Ich finde Musik roligt."
+    },
+    {
+      "text_id": "G8-2-T43",
+      "text": "In meine Schule es gibt 300 schuler. Wir hat Mathe und Englisch und Deutsch. Mathe ist schwer för mich. Ich mag nicht hausaufgaben."
+    },
+    {
+      "text_id": "G8-2-T44",
+      "text": "Hallo!\nIch freue mich sehr, dass du bald in unserer Klasse bist. Ein normaler Schultag hat fünf Stunden, und man isst um elf Uhr in der Mensa. Werken ist lustiger als Textil, denn wir bauen gerade kleine Boote aus Holz. Aber die Klassenzimmer sind ziemlich alt und im Sommer zu warm. Wenn du willst, zeige ich dir am ersten Tag die Schule! Bis bald"
+    },
+    {
+      "text_id": "G8-2-T45",
+      "text": "Liebe Austauschschülerin,\nin unsere Schule gibt es viele Schüler und eine große Schulhof. Ich mag Sport mehr als Mathe, weil Sport ist mehr lustig. Die Tests sind schwer. Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T46",
+      "text": "Liebe Austauschschülerin,\nin meiner Schule beginnt man um 8.20 Uhr. Man hat vier Stunden am Vormittag und dann Mittagessen. Musik ist lustiger als Physik, finde ich. Aber wir haben viel Hausaufgaben in Physik. Bis bald!"
+    },
+    {
+      "text_id": "G8-2-T47",
+      "text": "Hallo\nIch gehe in klasse 8b. Wir hat Geschichte und Erdkunde. Es ist langweilig. Die bibliotek ist gut, ich lese dort."
+    },
+    {
+      "text_id": "G8-2-T48",
+      "text": "Hallo!\nIn meine Schule man hat iPads, man schreibt nicht so viel mit Stift. Hauswirtschaft ist toll, wir kochen Pfannkuchen und Pasta. Die Schule ist aber alt und die Toiletten sind schmutzig. Bis dann"
+    },
+    {
+      "text_id": "G8-2-T49",
+      "text": "Liebe Austauschschülerin,\nherzlich willkommen! Bei uns beginnt die Schule um acht, und es gibt zwei Pausen am Vormittag. Geschichte ist spannender als Erdkunde, weil man viel über früher lernt. Nicht so gut ist, dass wir so viele Hausaufgaben bekommen. Ein Tipp: Das Mittagessen ist kostenlos, du musst also kein Geld mitbringen. Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T50",
+      "text": "Liebe Austauschschülerin,\nwie schön, dass du zu uns kommst! Die Schule beginnt um 8.10 Uhr, und wir haben oft Doppelstunde. Englisch finde ich leichter als Deutsch, aber Deutsch ist interessanter. Das Essen ist okay, aber nicht so lecker wie Pizza! Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T51",
+      "text": "Hallo!\nWillkommen in der Klasse 8a! Jeden Tag haben wir zuerst Mathe oder Schwedisch, und nach dem Mittagessen haben wir praktische Fächer wie Kunst oder Hauswirtschaft. Hauswirtschaft ist lustiger als Mathe, weil man am Ende immer etwas essen kann. Es gibt aber ein Problem: Die Tische in der Mensa sind immer voll, deshalb muss man schnell sein. Ich hoffe, dir gefällt unsere Schule! Tschüss"
+    },
+    {
+      "text_id": "G8-2-T52",
+      "text": "Hallo!\nMeine Schule beginnt um acht Uhr und wir haben fünf oder sechs Stunden jeden Tag. Ich finde Englisch leichter als Deutsch. Die lehrer sind nett aber wir hat viel hausaufgaben. Tschüss!"
+    },
+    {
+      "text_id": "G8-2-T53",
+      "text": "Hallo!\nich schule gehen. lehrer nett ja. fiel test. nicht gut. Bis dann"
+    },
+    {
+      "text_id": "G8-2-T54",
+      "text": "Hallo und willkommen!\nIch erzähle dir ein bisschen über unsere Schule. Man bekommt einen eigenen Laptop, deshalb schreiben wir fast nie mit der Hand. Sport ist mein Lieblingsfach, denn es ist viel lockerer als Mathe oder Chemie. Leider sind die Schultage am Montag und Dienstag sehr lang, bis 16 Uhr. Wenn du Hilfe brauchst, kannst du mich immer fragen! Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T55",
+      "text": "Hallo!\nMein Schultag beginnt um 8 Uhr und endet um 15 Uhr. Wir haben jeden Tag Mathe und Schwedisch. Ich finde Bio interessanter als Mathe. Das Essen in der Mensa ist gut, aber die Pausen sind zu kurz. Viele Grüße"
+    },
+    {
+      "text_id": "G8-2-T56",
+      "text": "Hallo!\nWillkommen in der 8c! Jeden Morgen haben wir zuerst Mentorzeit und danach normalen Unterricht. Hauswirtschaft ist lustiger als Chemie, weil wir essen dürfen, was wir kochen. Schlecht ist, dass die Schränke so klein sind. Bis bald"
+    },
+    {
+      "text_id": "G8-2-T57",
+      "text": "Hej\nDie Schule beginn 8.15. Wir hab Mathe jeden Tag. Ich mag Werken, wir machen etwas mit holz. Die Toiletten ist nicht sauber. Tschüss"
+    },
+    {
+      "text_id": "G8-2-T58",
+      "text": "Hallo!\nMeine Shule ist gut. Mathe."
+    },
+    {
+      "text_id": "G8-2-T59",
+      "text": "Hi!\nMy school is okay. Vi har mycket läxor och det är inte kul. Deutsch ist gut. Bye!"
+    },
+    {
+      "text_id": "G8-2-T60",
+      "text": "Hej!\nDie schule ist ok. Am morgen ich habe Englisch und dann mathe. Ich findet Kunst gut, wir malen fiel. Die Pause ist kurz."
+    }
+  ],
+  "G8-3": [
+    {
+      "text_id": "G8-3-T01",
+      "text": "Ich möchte mein hund gehen jeden tag. Ich will spielen tennis auch. Ich will nicht in die Shule. Das ist schon."
+    },
+    {
+      "text_id": "G8-3-T02",
+      "text": "Im Juni will ich einen Schwimmkurs machen, weil ich endlich vom Zehnmeterturm springen möchte. Das klingt verrückt, aber ich habe es mir versprochen. Später im Sommer fahre ich mit meiner Familie in die Berge, und dort wollen wir wandern und Tiere beobachten. Ich hoffe, dass wir Elche sehen werden."
+    },
+    {
+      "text_id": "G8-3-T03",
+      "text": "Im Juni will ich im garten arbeiten und beeren pflücken. Ich möchte machen Marmelade, weil es ist lecker. Im Juli ich will mit Freunden zelten."
+    },
+    {
+      "text_id": "G8-3-T04",
+      "text": "Ich will gehen zu der Freizeitpark. Ich will fahre Achterbahn. Auch ich will grillen. Sommer ist die beste."
+    },
+    {
+      "text_id": "G8-3-T05",
+      "text": "Ich will in den Sommerferien Gitarre spielen lernen. Ich möchte jeden Tag eine Stunde üben, weil ich in eine Band spielen will. Im August wollen meine Freunde und ich zelten gehen. Das ist immer lustig."
+    },
+    {
+      "text_id": "G8-3-T06",
+      "text": "Diesen Sommer werde ich viel Zeit im Garten verbringen, denn ich möchte eigenes Gemüse anbauen. Ich will Tomaten und Erdbeeren pflanzen und jeden Morgen giessen. Im August wollen meine Freunde und ich einen kleinen Markt machen, weil wir das Gemüse verkaufen möchten. Aber zuerst muss alles wachsen!"
+    },
+    {
+      "text_id": "G8-3-T07",
+      "text": "Im Sommer möchte ich fischen gehen, weil es ist ruhig und schön. Ich will auch mit meinen Freunden Fußball spielen. Im August will ich einen Kochkurs machen. Ich mag kochen sehr."
+    },
+    {
+      "text_id": "G8-3-T08",
+      "text": "Sommer. Schwimmen, Eis, Freunde. Gut."
+    },
+    {
+      "text_id": "G8-3-T09",
+      "text": "Nächste Sommer möchte ich Deutsch üben. Ich will deutsche Filme sehen, weil ich will besser werden. Im Juli will ich mit meinem Bruder Tennis spielen."
+    },
+    {
+      "text_id": "G8-3-T10",
+      "text": "Im Sommer will ich jeden tag schwimmen gehen. Ich möchte mit meine Freunde Beachvolleyball spielen, das macht spass. Im August will ich helfen in einem Tierheim, weil ich liebe tiere."
+    },
+    {
+      "text_id": "G8-3-T11",
+      "text": "Ich vil somer fahr den se mit mein und bade kalt weil gut is. ich wollen gemacht fil."
+    },
+    {
+      "text_id": "G8-3-T12",
+      "text": "In den Sommerferien will ich jeden Morgen joggen gehen, denn im Herbst möchte ich bei einem Lauf mitmachen. Am Nachmittag werde ich meistens mit Freunden am Strand sein. Wir wollen Volleyball spielen und im Meer schwimmen, wenn es warm genug ist. Ich hoffe, dass der Sommer nicht zu schnell vorbeigeht."
+    },
+    {
+      "text_id": "G8-3-T13",
+      "text": "Im Juli will ich mit Freunde Fahrrad fahren. Wir wollen fahren zum Meer und baden. Ich will auch ein Sommerjob haben, weil ich brauche Geld. Ich freue mich!"
+    },
+    {
+      "text_id": "G8-3-T14",
+      "text": "Im Sommer will ich viel Tennis spielen, denn ich will im Herbst bei einem Turnier mitmachen. Ich werde dreimal pro Woche trainieren. Aber ich möchte auch Pause machen und mit meinen Freunden Eis essen gehen, weil Ferien nicht nur Training sind."
+    },
+    {
+      "text_id": "G8-3-T15",
+      "text": "Im Sommer will ich schwimmen in der see. Ich will auch spielen volleyball am strand. Ich möchte eis essen. Das ist gut."
+    },
+    {
+      "text_id": "G8-3-T16",
+      "text": "Mein wichtigster Plan für den Sommer ist, kochen zu lernen. Ich will jede Woche ein neues Rezept probieren, weil ich immer nur Pasta mache. Im August wollen meine Freunde und ich ein grosses Picknick im Park machen, und ich werde das Essen kochen."
+    },
+    {
+      "text_id": "G8-3-T17",
+      "text": "In Sommer ich war am Meer. Es war warm und ich habe schwimmen."
+    },
+    {
+      "text_id": "G8-3-T18",
+      "text": "In den Ferien will ich viel draußen sein. Mit meinen Freunden möchte ich Fahrrad fahren und im Meer baden. Ich will auch Pfannkuchen backen lernen, denn Pfannkuchen ist mein Lieblingsessen. Das wird ein toller Sommer."
+    },
+    {
+      "text_id": "G8-3-T19",
+      "text": "In den Sommerferien möchte ich zuerst ein paar Tage ausschlafen, weil das Schuljahr war sehr anstrengend. Danach will ich mit meinen Freunden an den See fahren und dort zelten. Wir wollen auch angeln, aber ich habe noch keine Angel. Im August werde ich hoffentlich einen Sommerjob bekommen, denn ich will Geld sparen."
+    },
+    {
+      "text_id": "G8-3-T20",
+      "text": "In den Sommerferien will ich mit meiner Familie an den See fahren. Wir wollen dort zelten und fischen. Ich möchte auch lesen viele Bücher, weil ich lesen gern. Das ist schön."
+    },
+    {
+      "text_id": "G8-3-T21",
+      "text": "Sommerferien ich will arbeiten. Ich will habe geld. Ich will auch fischen am see, das ist kul."
+    },
+    {
+      "text_id": "G8-3-T22",
+      "text": "In die Sommerferien will ich mit meiner Familie in die Berge fahren. Wir wollen wandern und Fotos machen. Ich möchte auch spielen Minigolf. Das ist lustig weil ich gewinne immer."
+    },
+    {
+      "text_id": "G8-3-T23",
+      "text": "In den Ferien möchte ich lange schlafen und Serien schauen. Aber ich will auch aktiv sein. Mit meinen Freunden will ich Tennis spielen und Kanu fahren, weil das Spaß macht. Ich hoffe, das Wetter ist gut."
+    },
+    {
+      "text_id": "G8-3-T24",
+      "text": "In die Sommerferien ich möchte fahren nach Stockholm. Ich will sehen das Museum. Dann ich will kaufen neue kleider. Es ist sehr roligt."
+    },
+    {
+      "text_id": "G8-3-T25",
+      "text": "Im Juli möchte ich ein paar Tage nach Stockholm fahren, weil ich dort ein Museum über Dinosaurier besuchen will. Ich interessiere mich schon lange für Dinosaurier. Außerdem wollen meine Freunde und ich in der Stadt Eis essen und mit den Boot fahren. Danach werde ich den Rest der Ferien zu Hause verbringen und viel lesen."
+    },
+    {
+      "text_id": "G8-3-T26",
+      "text": "In den Sommerferien will ich mit zwei Freunden einen kleinen Film drehen. Wir haben schon eine Idee, aber wir müssen noch viel planen. Im Juli wollen wir filmen, weil das Wetter dann meistens gut ist. Danach möchte ich ein paar Tage an den See fahren und mich ausruhen."
+    },
+    {
+      "text_id": "G8-3-T27",
+      "text": "Ich will in Sommer mit Freunde gehen Kino. Wir wollen sehen ein film. Und ich will skateboard fahren. Es ist kul."
+    },
+    {
+      "text_id": "G8-3-T28",
+      "text": "In den Ferien möchte ich Skateboard fahren lernen, weil es cool aussieht. Ich will jeden Tag im Park üben, aber ich muss vorsichtig sein. Im Juli will ich auch mit meiner Familie aufs Land fahren. Dort können wir Fahrrad fahren und im See baden."
+    },
+    {
+      "text_id": "G8-3-T29",
+      "text": "In the summer I want to play games och sova länge. Ich spiele."
+    },
+    {
+      "text_id": "G8-3-T30",
+      "text": "Ich will in Sommer bade."
+    },
+    {
+      "text_id": "G8-3-T31",
+      "text": "Im August möchte ich nach Stockholm fahren. Ich will ein Museum besuchen und in der Stadt shoppen. Ich fahre mit meiner Freunden, denn allein ist langweilig. Vorher will ich zu Hause malen und zeichnen."
+    },
+    {
+      "text_id": "G8-3-T32",
+      "text": "In den Sommerferien möchte ich zuerst mit meinen Freunden an den See fahren, weil wir dort jedes Jahr zelten. Wir wollen schwimmen, grillen und am abend Karten spielen. Danach werde ich im Juli in einer Bäckerei arbeiten, denn ich möchte Geld für ein neues Fahrrad sparen. Ich freue mich schon sehr auf den Sommer!"
+    },
+    {
+      "text_id": "G8-3-T33",
+      "text": "Ich möchte in den Sommerferien Skateboard fahren lernen. Ich will üben jeden Tag im Park mit meinen Freunden. Es ist schwer, aber kul. Und ich will viel Eis essen!"
+    },
+    {
+      "text_id": "G8-3-T34",
+      "text": "Im Sommer möchte ich viel Zeit mit meinem Hund verbringen, weil ich in der Schulzeit oft keine Zeit für ihn habe. Wir wollen lange Spaziergänge im Wald machen und im See schwimmen. Im August will ich außerdem mit Freunden in einen Freizeitpark fahren, denn dort gibt es eine neue Achterbahn. Das wird bestimmt der beste Tag der Ferien!"
+    },
+    {
+      "text_id": "G8-3-T35",
+      "text": "Sommerferien gut. schlafen."
+    },
+    {
+      "text_id": "G8-3-T36",
+      "text": "In den Sommerferien will ich ein Sommerjob in einem Café haben. Ich will Geld verdienen, weil ich möchte ein neues Handy kaufen. Am Wochenende möchte ich mit Freunden ins Kino gehen oder schwimmen."
+    },
+    {
+      "text_id": "G8-3-T37",
+      "text": "Im Juli will ich mit meiner Familie aufs Land fahren. Dort möchte ich im Wald wandern und Blaubeeren pflücken. Ich will auch Fotos von Tieren machen, weil ich Fotografie mag. Es ist so schön ohne Handy."
+    },
+    {
+      "text_id": "G8-3-T38",
+      "text": "Im Juli will ich mit meiner Familie in die Berge fahren. Dort möchten wir jeden Tag wandern, weil die Natur so schön ist. Ich will auch viele Fotos machen, denn ich interessiere mich für Fotografie. Danach werde ich zu Hause bleiben und mit Freunde schwimmen gehen."
+    },
+    {
+      "text_id": "G8-3-T39",
+      "text": "In den Sommerferien will ich nicht nur zu Hause sitzen, sondern etwas neues ausprobieren. Deshalb möchte ich im Juni mit meinen Freunden einen Kletterkurs machen, weil Klettern gut für Kopf und Körper ist. Im Juli werden wir dann in die Berge fahren und richtig klettern. Ich habe ein bisschen Angst, aber ich glaube, dass es toll wird."
+    },
+    {
+      "text_id": "G8-3-T40",
+      "text": "ich sommer fahrrad. und kino mit. ist schon."
+    },
+    {
+      "text_id": "G8-3-T41",
+      "text": "Ich möchte gehen in die Berge. Ich möchte wandern und zelten. Ich will auch malen bilder. Das macht spass."
+    },
+    {
+      "text_id": "G8-3-T42",
+      "text": "In den Sommerferien ich will backen Pfannkuchen. Ich will auch lesen fil bücher. Ich liebe bücher. Und ich will schwimmen."
+    },
+    {
+      "text_id": "G8-3-T43",
+      "text": "In den Sommerferien möchte ich mit meinen Freunden an den See fahren. Dort wollen wir schwimmen und grillen. Im Juli will ich auch einen Sommerjob haben, weil ich will Geld für ein neues Fahrrad sparen. Ich freue mich sehr auf den Sommer."
+    },
+    {
+      "text_id": "G8-3-T44",
+      "text": "Ich will fil schlafen in der Sommerferien. Ich will auch spielen computer. Und ich möchte fahrrad fahren. Ich finde das gut."
+    },
+    {
+      "text_id": "G8-3-T45",
+      "text": "Sommerferin ich habe will bessöka stat und kaufen maken sachen. weil is ja so und spiel ball wir"
+    },
+    {
+      "text_id": "G8-3-T46",
+      "text": "Im Juni möchte ich mit meiner Familie nach Deutschland fahren. Wir wollen eine große Stadt besuchen und viel Deutsch sprechen. Das ist gut, denn ich lerne Deutsch in der Schule. Danach will ich zu Hause ausruhen."
+    },
+    {
+      "text_id": "G8-3-T47",
+      "text": "In den Ferien will ich lange schlafen und gamen. Aber ich will auch draussen sein. Ich und meine Freunde wollen ein Fest haben im August. Es wird super."
+    },
+    {
+      "text_id": "G8-3-T48",
+      "text": "Ich will Gitarre spielen in die Sommer. Ich will lernen neue lieder. Und ich möchte kochen pasta. Pasta ist gut."
+    },
+    {
+      "text_id": "G8-3-T49",
+      "text": "In den Sommerferien möchte ich in einem Tierheim helfen, weil ich Tiere sehr gern habe. Ich will mit den Hunden spazieren gehen und die Katzen füttern. Im August wollen meine Freunde und ich ein Fahrradtour machen, aber wir wissen noch nicht wohin. Das wird bestimmt lustig."
+    },
+    {
+      "text_id": "G8-3-T50",
+      "text": "Im Juli möchte ich mit meiner Klasse in einen Freizeitpark fahren. Wir wollen Achterbahn fahren und Zuckerwatte essen. Ich will auch viel lesen, weil ich habe nicht so viel Zeit in der Schule. Ich finde Sommer ist die beste Zeit."
+    },
+    {
+      "text_id": "G8-3-T51",
+      "text": "Ich will in Sommer Tennis spielen mit mein Freunde. Tennis ist sehr kul."
+    },
+    {
+      "text_id": "G8-3-T52",
+      "text": "Im Juni werde ich zwei Wochen in ein Café arbeiten. Ich möchte das Geld für ein Konzert sparen, denn meine Lieblingsband spielt im Juli in Stockholm. Nach dem Konzert will ich mit Freunden am Strand grillen, weil wir das jeden Sommer machen."
+    },
+    {
+      "text_id": "G8-3-T53",
+      "text": "In den Sommerferien will ich mit meinen Freunden Kanu fahren. Wir wollen drei Tage auf einem See paddeln und auf ein Insel zelten. Ich freue mich sehr darauf, weil ich noch nie gezeltet habe. Danach möchte ich zu Hause bleiben und endlich mein Zimmer streichen."
+    },
+    {
+      "text_id": "G8-3-T54",
+      "text": "Jag ska åka till stranden i sommar. Ich will schwimmen och sola. It is fun."
+    },
+    {
+      "text_id": "G8-3-T55",
+      "text": "In den Ferien möchte ich mit meinen Freunden eine Fahrradtour nach Göteborg machen. Wir wollen jeden Tag ungefähr fünfzig Kilometer fahren und auf Campingplätzen schlafen. Das wird anstrengend, aber ich glaube, es wird auch sehr lustig. Nach der Tour will ich nur noch faul sein und Filme schauen, weil meine Beine bestimmt wehtun."
+    },
+    {
+      "text_id": "G8-3-T56",
+      "text": "Ich möchte in den Ferien viel schlafen, weil die Schule ist so anstrengend. Im Juni will ich mit meine Klasse nach Göteborg fahren. Wir wollen besuchen ein Museum und Eis essen."
+    },
+    {
+      "text_id": "G8-3-T57",
+      "text": "In den Ferien werde ich zwei Wochen den Nachbarn im Garten helfen, weil ich ein bisschen Geld verdienen möchte. Mit dem Geld will ich mir eine gute Kamera kaufen. Danach möchte ich mit meiner Familie ans Meer fahren und dort den Sonnenuntergang fotografieren. Ich finde, fotografieren ist das perfekte Sommerhobby."
+    },
+    {
+      "text_id": "G8-3-T58",
+      "text": "Diesen Sommer will ich endlich Schlagzeug spielen lernen. Ich werde zweimal pro Woche Unterricht nehmen, weil ich im Herbst in der Schulband spielen möchte. Außerdem wollen meine Freunde und ich im August ein Musikfestival besuchen. Das wird mein erstes Festival, deshalb bin ich schon ein bisschen aufgeregt."
+    },
+    {
+      "text_id": "G8-3-T59",
+      "text": "Diesen Sommer möchte ich besser tauchen lernen, weil ich es spannend finde. Im Juni fahre ich mit meiner Klasse ans Meer, und dort wollen wir einen Kurs machen. Aber ich will auch Zeit für mich haben. Ich werde viele Bücher lesen und lang schlafen."
+    },
+    {
+      "text_id": "G8-3-T60",
+      "text": "In Juli ich möchte Kanu fahren mit meinem Freunden. Das ist sehr lustig. Ich will auch lernen kochen. Ich möchte Pizza und Pasta machen."
+    }
+  ],
+  "G9-1": [
+    {
+      "text_id": "G9-1-T01",
+      "text": "Meine Meinung ist nein. Handys ist gut in der schule weil man kann Musik hören in die Pause. Ich liebe Musik. Ohne Musik die Pause ist langweilig."
+    },
+    {
+      "text_id": "G9-1-T02",
+      "text": "Handys sollen verboten sein, ich finde. Es gibt viel Mobbing auf Snapchat und so. Das ist nicht schön für die Schüler."
+    },
+    {
+      "text_id": "G9-1-T03",
+      "text": "In meine Schule wir haben ein Handykasten. Die Lehrer nimmt die Handys in die Morgen. Wir bekommen sie nach die Schule zurück."
+    },
+    {
+      "text_id": "G9-1-T04",
+      "text": "Ich finde ein Verbot schlecht. Wir sind fast erwachsen und wir muss lernen, wie man das Handy richtig benutzt. Wenn die Schule alles verbietet, lernen wir das nie. Außerdem kann man mit dem Handy ein Foto von die Hausaufgaben machen."
+    },
+    {
+      "text_id": "G9-1-T05",
+      "text": "Ich denke, dass Handys erlaubt sein sollen. Mit dem Handy kann man schnell etwas nachschauen, wenn man etwas nicht weiß. Es gibt auch gute Apps für Sprachen, zum Beispiel für Deutsch. Ich lerne viel mit diese Apps."
+    },
+    {
+      "text_id": "G9-1-T06",
+      "text": "Ich finde nicht, dass man Handys verbieten soll. Viele Schüler haben einen lange Weg nach Hause und sie brauchen das Handy für den Bus. Es ist auch gut, dass man seine Familie anrufen kann, wenn man krank ist. Handys sind heute wichtig."
+    },
+    {
+      "text_id": "G9-1-T07",
+      "text": "Ich habe ein Handy. Mein Handy ist schwarz und ich spiele viel. Ich habe das Handy seit zwei Jahre."
+    },
+    {
+      "text_id": "G9-1-T08",
+      "text": "ich handy ja. schule handy schlecht lernen. lehrer arg. nicht gut nicht schlecht."
+    },
+    {
+      "text_id": "G9-1-T09",
+      "text": "Ich bin für ein Handyverbot in der Schule. Ein Grund ist Cybermobbing, weil viele gemeine Nachrichten während der Schultag geschickt werden. Ein anderer Grund ist, dass wir zu viel Zeit vor dem Bildschirm verbringen. Deshalb finde ich, dass die Schule eine handyfreie Zone sein soll."
+    },
+    {
+      "text_id": "G9-1-T10",
+      "text": "Ich finde ja, Handys soll verboten sein. Weil in die Test man kann schummeln mit Handy. Das ist nicht fair."
+    },
+    {
+      "text_id": "G9-1-T11",
+      "text": "Ich finde, dass Handys erlaubt sein sollen. Man kann schnell Wörter übersetzen, wenn man etwas nicht versteht. Und in der Pause ist es langweilig ohne Handy, weil wir haben nicht viel zu machen. Ein Verbot ist nicht gut."
+    },
+    {
+      "text_id": "G9-1-T12",
+      "text": "Handys ist verbieten schule weil das ist nich lernen gut ich ist tyck nein. den handy macht dich mit ist schlecht fur."
+    },
+    {
+      "text_id": "G9-1-T13",
+      "text": "Ich finde, dass Handys in der Schule verboten sein sollten. Viele Jugendliche verbringen schon zu Hause mehrere Stunden am Handy, und deshalb ist eine Pause in der Schule gesund. Außerdem fühlt man sich gestresst, wenn ständig neue Nachrichten kommt. Natürlich ist das Handy praktisch, aber in der Schule sollten wir uns auf das Lernen konzentrieren."
+    },
+    {
+      "text_id": "G9-1-T14",
+      "text": "Ich denke das Handy ist gut für lernen. Wir kann Wörter suchen auf Google. Und wir kann Bilder machen von der Tafel. Nein, nicht verboten!"
+    },
+    {
+      "text_id": "G9-1-T15",
+      "text": "Ich finde nicht, dass Handys verboten sein sollen. Erstens benutzen wir das Handy oft im Unterricht, zum Beispiel für Quiz oder um Wörter zu suchen. Zweitens es ist wichtig, dass man die Familie erreichen kann, wenn etwas passiert. Es stimmt, dass manche zu viel spielen, aber das ist ein Problem von den Schülern und nicht vom Handy."
+    },
+    {
+      "text_id": "G9-1-T16",
+      "text": "Handys sollen nicht verboten sein, finde ich. Viele Schüler fahren mit dem Bus nach Hause und sie müssen sehen, wann der Bus fährt. Man kann auch die Familie anrufen, wenn etwas passiert. Das ist wichtig für die Sicherheit."
+    },
+    {
+      "text_id": "G9-1-T17",
+      "text": "Ich finde, dass Handys verboten sein sollen, weil man schläft zu wenig. Viele Jugendliche sitzen jeden Abend lange mit dem Handy und in der Schule sie sind müde. Ohne Handy in der Schule man macht eine Pause von Handy. Das ist gesund."
+    },
+    {
+      "text_id": "G9-1-T18",
+      "text": "Meiner Meinung nach wäre ein Verbot ein Fehler. Mit dem Handy können wir schnell Wörter nachschlagen, Videos zum Thema ansehen oder Fotos von der Tafel machen. Außerdem gibt es gute Apps, mit denen man Vokabeln üben kann. Es stimmt zwar, dass einige im Unterricht chatten, aber die Lehrer können ja klare Regeln aufstellen. So lernen wir, das Handy sinnvoll zu benutzen."
+    },
+    {
+      "text_id": "G9-1-T19",
+      "text": "Meiner Meinung nach sollen Handys nicht verboten sein. Wir brauchen sie oft in Unterricht, weil wir damit Wörter suchen und Filme sehen. Ich finde auch, dass Musik in der Pause entspannend ist. Man hat dann mehr Energie für den nächste Stunde."
+    },
+    {
+      "text_id": "G9-1-T20",
+      "text": "Ich finde, man sollte Handys nicht verbieten, sondern klare Regeln haben. Das Handy ist ein wichtiges Werkzeug, weil wir damit Informationen für Projekte suchen und Texte übersetzen können. Andererseits ist es bei Prüfungen leicht zu schummeln. Deshalb sollten alle ihr Handy vor einem Test in eine Kiste legen, damit es fair bleibt."
+    },
+    {
+      "text_id": "G9-1-T21",
+      "text": "Ich finden handy nich verbot weil sie ist han mit ich shule. Es gut fur kompis och mit spil de rast wen ist."
+    },
+    {
+      "text_id": "G9-1-T22",
+      "text": "Ich denke, Handys sind nicht gut in der Schule. Wenn man ein Handy hat, will man immer die Nachrichten lesen. Man spricht auch weniger mit seine Freunde in der Pause, weil alle nur spielen. Ich bin für ein Verbot."
+    },
+    {
+      "text_id": "G9-1-T23",
+      "text": "Ich finde, dass Handys in der Schule verboten sein sollen. Viele Schüler können sich nicht konzentrieren, weil sie immer auf ihre Handy schauen. Außerdem gibt es viel Mobbing in die sozialen Medien. Ich glaube, dass ein Verbot uns hilft."
+    },
+    {
+      "text_id": "G9-1-T24",
+      "text": "Ich finde, dass Handys nicht verboten sein sollen, aber man darf sie nicht im Unterricht benutzen. In der Pause ist es schön, wenn man Musik hören oder mit Freunde chatten kann. Und man braucht das Handy für den Schulplan, weil alles in einer App steht."
+    },
+    {
+      "text_id": "G9-1-T25",
+      "text": "Ich finde att mobiler inte ska vara förbjudna. Because we need them for music and to chatta med kompisar. Sehr gut."
+    },
+    {
+      "text_id": "G9-1-T26",
+      "text": "Meiner Meinung nach Handys sind nicht gut im Klassenzimmer. Man macht nur Snapchat und TikTok und lernt nichts. Es gibt auch viel Stress, weil man immer die Nachrichten lesen will. Ich finde ein Verbot ist gut."
+    },
+    {
+      "text_id": "G9-1-T27",
+      "text": "Meiner Meinung nach sollten Handys im Unterricht verboten sein, aber nicht in den Pausen. Im Unterricht lenkt das Handy zu sehr ab, weil man ständig Nachrichten bekommt. In der Pause dagegen möchten viele Musik hören oder sich kurz ausruhen, und das finde ich okay. Deshalb ist ein totales Verbot zu streng, aber klare Regeln sind wichtig."
+    },
+    {
+      "text_id": "G9-1-T28",
+      "text": "Ich will mein Handy haben in der Schule. Wenn es gibt ein Problem ich kann meine Familie anrufen. Das ist sehr wichtig. Handy verboten ist nicht gut."
+    },
+    {
+      "text_id": "G9-1-T29",
+      "text": "Ich glaube, dass Handys im Klassenzimmer stören. Es ist sehr laut, wenn ein Handy klingelt und alle lachen. Die Lehrer müssen dann warten und wir verlieren viel Zeit. Und viele Schüler schläft schlecht, weil sie spät am Abend chatten."
+    },
+    {
+      "text_id": "G9-1-T30",
+      "text": "handy ist gut. ich will handy in schule"
+    },
+    {
+      "text_id": "G9-1-T31",
+      "text": "Meiner Meinung nach sollten Handys im Unterricht verboten sein. Wenn das Handy auf dem Tisch liegt, kann man sich nicht richtig konzentrieren. Außerdem gibt es in der Klasse oft Streit wegen die Fotos und Nachrichten. Natürlich braucht man manchmal das Handy, aber es kann in der Tasche bleiben. Deshalb ich bin für ein Verbot."
+    },
+    {
+      "text_id": "G9-1-T32",
+      "text": "Ich bin für ein Handyverbot, vor allem in den Pausen. Früher haben alle nur auf ihre Bildschirme gestarrt, aber seit dem Verbot spielen wir wieder Tischtennis und reden mehr miteinander. Bewegung ist außerdem gut für den Kopf, weil man danach besser lernen kann. Deshalb glaube ich, dass die Schule ohne Handys ein besserer Ort ist."
+    },
+    {
+      "text_id": "G9-1-T33",
+      "text": "Ich denke Handys soll nicht verboten sein. Ich brauche mein Handy für die bus. Ich sehe wann die bus kommt. Das ist wichtig für mich."
+    },
+    {
+      "text_id": "G9-1-T34",
+      "text": "Ich finde, dass Handys in der Schule verboten sein sollen. Erstens man kann sich nicht konzentrieren, weil das Handy immer piept. Zweitens viele Schüler spielen in der Pause und reden nicht zusammen. Deshalb ich finde ein Verbot gut."
+    },
+    {
+      "text_id": "G9-1-T35",
+      "text": "Ich finde, dass Handys nicht verboten sein sollen, weil sie für viele Sachen nützlich sind. Man kann zum Beispiel Fotos von der Tafel machen oder einen Timer fur die Arbeit benutzen. Außerdem fühlen sich viele sicherer, wenn sie ihr Handy dabei haben. Aber man muss es im Unterricht auf lautlos machen."
+    },
+    {
+      "text_id": "G9-1-T36",
+      "text": "Meiner Meinung nach sollen Handys in der Pause verboten sein. Die Schüler sollen lieber draußen Fußball oder Basketball spielen, weil Bewegung gesund ist. Wenn alle nur am Handy sitzen, ist die Pause sehr ruhig und langweilig. Ich finde, dass wir mehr zusammen machen sollen."
+    },
+    {
+      "text_id": "G9-1-T37",
+      "text": "Ich finde ein Verbot doof. Man kann mit dem Handy Mathe rechnen und im Internet Informationen suchen für Projekte. Und wenn man in der Pause Musik hört, man ist nicht so gestresst. Die Schule soll uns vertrauen."
+    },
+    {
+      "text_id": "G9-1-T38",
+      "text": "Ich bin gegen ein Verbot, weil Handys heute ein wichtiges Werkzeug sind. Man kann damit schnell Informationen finden und Aufgaben in Gruppen machen. Außerdem wir lernen nicht, das Handy vernünftig zu benutzen, wenn es immer verboten ist. Es gibt natürlich Probleme wie Mobbing, aber die kann man anders lösen."
+    },
+    {
+      "text_id": "G9-1-T39",
+      "text": "Ich bin für ein Handyverbot, weil man beim Test schummeln kann. Manche Schüler suchen die Antworten im Internet und das ist nicht fair. Ein andere Grund ist, dass man zu viel Zeit am Handy verbringt. Wir sitzen schon zu Hause genug."
+    },
+    {
+      "text_id": "G9-1-T40",
+      "text": "Meiner Meinung nach ist es besser ohne Handys in der Schule. Seit wir einen Handyschrank in die Klasse haben, spielen mehr Schüler draußen in der Pause. Ich habe auch bessere Noten bekommen, weil ich kann mich besser konzentrieren. Am Anfang war ich dagegen, aber jetzt finde ich das Verbot gut."
+    },
+    {
+      "text_id": "G9-1-T41",
+      "text": "Nein. Verboten ist dumm"
+    },
+    {
+      "text_id": "G9-1-T42",
+      "text": "Ich denke nicht, dass Handys verboten sein sollen. Mit dem Handy kann man ein Foto von der Tafel machen, dann man muss nicht alles schreiben. Aber man soll nicht spielen im Unterricht, das ist klar. Vielleicht nur in der Pause erlaubt?"
+    },
+    {
+      "text_id": "G9-1-T43",
+      "text": "Meiner Meinung nach darf man Handys in der Schule haben, aber nur in der Pause. In der Pause kann man Musik hören und sich entspannen, weil der Schultag ist lang. Im Unterricht soll das Handy aber in der Tasche sein, denn sonst stört es alle. So hat man beide Vorteile."
+    },
+    {
+      "text_id": "G9-1-T44",
+      "text": "Ich finde, dass Handys in der Schule verboten sein sollen. Das wichtigste Grund ist, dass man beim Lernen ständig gestört wird. Außerdem gibt es weniger Streit, wenn niemand heimlich Fotos machen kann. Man sagt oft, dass Handys praktisch sind, aber für die Schule haben wir ja Computer."
+    },
+    {
+      "text_id": "G9-1-T45",
+      "text": "Ich denke Handys sind nicht gut für Schule. Man ist müde weil man spielt Handy in die Nacht und dann in die Schule auch. Ich finde verboten ist ok."
+    },
+    {
+      "text_id": "G9-1-T46",
+      "text": "Ich bin für ein Verbot. Wenn man das Handy hat, man denkt nur an das Handy und nicht an die Schule. Und es gibt Mobbing, weil manche Leute machen Fotos von anderen. Das ist gemein."
+    },
+    {
+      "text_id": "G9-1-T47",
+      "text": "Handy in der Schule, no! Man kan inte koncentrera sig och det finns mycket mobbning på nätet. Ich finde schlecht."
+    },
+    {
+      "text_id": "G9-1-T48",
+      "text": "Ich denke, dass ein Handyverbot eine gute Idee ist. Viele Jugendliche sind heute süchtig nach ihre Handys, und in der Schule können sie eine Pause davon machen. Ohne Handys reden die Schüler auch mehr miteinander. Manche sagen, dass man das Handy für Notfälle braucht, aber man kann ja im Sekretariat anrufen."
+    },
+    {
+      "text_id": "G9-1-T49",
+      "text": "Handy. Schule. Nein verboten. Musik, spielen, freunde. gut."
+    },
+    {
+      "text_id": "G9-1-T50",
+      "text": "Ich denke nicht, dass man Handys verbieten muss. Viele Schüler haben einen langen Schulweg und brauchen das Handy, um die Busse zu checken. Außerdem kann das Handy im Unterricht helfen, zum Beispiel als Taschenrechner oder Wörterbuch. Ein Verbot finde ich deshalb zu streng, aber die Lehrer soll klare Regeln machen."
+    },
+    {
+      "text_id": "G9-1-T51",
+      "text": "Ich denke Handys soll nicht verboten sein, weil wir brauchen sie für die Hausaufgaben. Wir haben alle Bücher digital. Auch ich höre gern Musik, wenn ich arbeite. Das hilft mir mit Konzentration."
+    },
+    {
+      "text_id": "G9-1-T52",
+      "text": "Nein, ich finde nicht dass Handys soll verboten sein. Wir ist 15 Jahre und nicht Kinder. Wir kann selbst entscheiden."
+    },
+    {
+      "text_id": "G9-1-T53",
+      "text": "Ich finde, dass Handys in der Schule nicht verboten sein sollten. Wir sind fast erwachsen und müssen lernen, selbst Verantwortung zu nehmen. Außerdem benutzen wir das Handy oft als Kalender, damit wir keine Hausaufgaben vergessen. Man könnte zwar sagen, dass Handys ablenken, aber wer nicht lernen will, findet immer etwas anderes."
+    },
+    {
+      "text_id": "G9-1-T54",
+      "text": "Ich denke nicht, dass man Handys ganz verbieten sollte. Nach einer langen Stunde tut es gut, in der Pause Musik zu hören und ein bisschen abzuschalten. Viele wohnen auch weit weg und müssen auf dem Handy nachsehen, ob der Bus pünktlich ist. Trotzdem finde ich, dass Handys im Unterricht in der Tasche bleiben müssen."
+    },
+    {
+      "text_id": "G9-1-T55",
+      "text": "Ich finde Handys soll verboten in der Schule sein. Weil man kann nicht lernen mit Handy. Viele spielen spiele in die Lektion. Das ist nicht gut."
+    },
+    {
+      "text_id": "G9-1-T56",
+      "text": "Ich bin gegen ein Handyverbot, weil das Handy für die Sicherheit wichtig ist. Wenn zum Beispiel auf dem Schulweg etwas passiert, kann man sofort Hilfe holen oder die Familie anrufen. Außerdem stehen der Stundenplan und die Hausaufgaben in einer App, die wir jeden Tag brauchen. Ich verstehe aber, dass Handys im Unterricht stören können, deshalb sollten sie dort ausgeschaltet sein."
+    },
+    {
+      "text_id": "G9-1-T57",
+      "text": "Ich denke, dass ein Handyverbot gut ist, weil die Schüler mehr draußen spielen dann. In meiner Schule wir haben ein Handykasten und das funktioniert gut. Wir reden mehr zusammen und die Lehrer sind glücklich."
+    },
+    {
+      "text_id": "G9-1-T58",
+      "text": "Ich finde Handys ist schlecht in Schule. Man redet nicht mit Freunde in die Pause, alle sehen nur auf die Handy. Das ist traurig. Ja, verboten."
+    },
+    {
+      "text_id": "G9-1-T59",
+      "text": "Meiner Meinung nach haben Handys im Klassenzimmer nichts zu suchen. Wenn ein Handy klingelt oder vibriert, verlieren alle die Konzentration, und die Lehrer müssen die Stunde unterbrechen. Ich merke auch selbst, dass ich viel mehr schaffe, wenn mein Handy im Schrank liegt. Deshalb unterstütze ich ein Verbot, auch wenn es am Anfang schwer ist."
+    },
+    {
+      "text_id": "G9-1-T60",
+      "text": "Meiner Meinung nach ist ein Handyverbot eine gute Idee. Leider machen manche heimlich Fotos von anderen und stellen sie ins Internet, und das kann sehr wehtun. Außerdem ist es bei Tests viel zu leicht zu schummeln, wenn alle ihr Handy dabeihaben. Einige meinen, dass man das Handy für Notfälle braucht, aber dafür gibt es ja das Telefon im Sekretariat."
+    }
+  ],
+  "G9-2": [
+    {
+      "text_id": "G9-2-T01",
+      "text": "Hej Lukas!\nDu måste sova mer och inte spela så mycket dator. You should also do your homework.\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T02",
+      "text": "Hi Lukas!\nDas ist echt blöd, aber du schaffst das. Leg dein Handy in der Nacht weg, weil sonst du schaust immer nur Videos. Und du solltest vor einem Test die wichtigsten Sachen zusammenfassen, das hilft mir sehr.\nBis bald!"
+    },
+    {
+      "text_id": "G9-2-T03",
+      "text": "Hi Lukas,\ndu kannst jeden Tag eine Stunde lernen, nicht nur vor dem Test. Ich mache das auch und meine Noten sind besser jetzt. Du musst auch essen Frühstück, das gibt Energie.\nBis bald!"
+    },
+    {
+      "text_id": "G9-2-T04",
+      "text": "Hallo Lukas,\nmüde sein ist wirklich blöd. Du kannst zum Beispiel einen Plan für die Woche schreiben. Dann weißt du, wann du lernen musst. Du solltest auch nicht so viele Energy Drinks trinken.\nLiebe Grüße"
+    },
+    {
+      "text_id": "G9-2-T05",
+      "text": "Hallo Lukas!\nDu solltest früher ins Bett gehen, vielleicht um zehn Uhr. Und du musst nicht so viel spielen mit dem Handy am Abend. Dann du bist nicht so müde in der Schule.\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T06",
+      "text": "Hallo Lukas,\ndu musst mehr Wasser trinken, weil der Körper braucht Wasser. Und du solltest jeden Tag ein bisschen spazieren gehen. Frische Luft ist gut gegen Müdigkeit.\nTschüss!"
+    },
+    {
+      "text_id": "G9-2-T07",
+      "text": "Hallo Lukas\nIch bin auch müde manchmal. Du kann gehen raus und spazieren, frische Luft ist gut. Du bist dann mehr pigg."
+    },
+    {
+      "text_id": "G9-2-T08",
+      "text": "Hej Lukas\nich weis nicht. tschüss"
+    },
+    {
+      "text_id": "G9-2-T09",
+      "text": "Hallo Lukas!\nMach die Hausaufgaben nicht so spät. Du machst die Hausaufgaben nach Schule, dann du hast Zeit für schlafen. Ich machen das auch.\nTschüss"
+    },
+    {
+      "text_id": "G9-2-T10",
+      "text": "Hi Lukas!\nDu muss nicht trinken Energy Drinks. Die ist nicht gut und du schlafen nicht. Ich trinke nur Wasser."
+    },
+    {
+      "text_id": "G9-2-T11",
+      "text": "Hallo Lukas,\ndas klingt nicht gut. Du solltest in der Nacht dein Handy in ein anderes Zimmer legen. Und du musst im Unterricht mehr Fragen stellen, wenn du etwas nicht verstehst.\nMach's gut"
+    },
+    {
+      "text_id": "G9-2-T12",
+      "text": "Hey Lukas,\nmach dir keine Sorgen, du bist nicht allein! Du könntest morgens ein richtiges Frühstück essen, denn ohne Essen kann man sich nicht konzentrieren. Wenn du im Unterricht etwas nicht verstehst, schreib dir die Frage auf und frag danach. So hast du vor dem Test keine Lücken mehr.\nBis bald!"
+    },
+    {
+      "text_id": "G9-2-T13",
+      "text": "Hallo Lukas,\nich hoffe, es geht dir bald besser. Du kannst morgens zehn Minuten spazieren gehen, dann bist du wacher in der Schule. Außerdem solltest du dein Zimmer aufräumen, weil an einem ordentlichen Schreibtisch kann man besser lernen.\nLiebe Grüße"
+    },
+    {
+      "text_id": "G9-2-T14",
+      "text": "Hallo Lukas!\nDu solltest jeden Abend zur gleichen Zeit ins Bett gehen. Außerdem kannst du am Morgen ein gutes Frühstück essen. Dann hast du mehr Energie in der Schule.\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T15",
+      "text": "Hallo Lukas\nDu soll gehen in Bett früher. Ich gehe in Bett um zehn och ich bin nicht müde. Das ist gut."
+    },
+    {
+      "text_id": "G9-2-T16",
+      "text": "Hallo Lukas\nDas ist nicht so gut. Du sollst frage die Lehrer wenn du nicht verstehen. Die Lehrer helfen dich.\nViele Grusse"
+    },
+    {
+      "text_id": "G9-2-T17",
+      "text": "Hi Lukas!\nIch habe zwei Tipps. Du solltest am Wochenende nicht so lange aufbleiben, sonst bist du am Montag müde. Du sollst auch eine Lerngruppe mit Klassenkameraden machen.\nTschüss"
+    },
+    {
+      "text_id": "G9-2-T18",
+      "text": "Hallo Lukas!\nDu kannst nach dem Unterricht eine kurze Pause machen und dann lernen. Schreib die wichtigen Wörter auf kleine Zettel. So lernst du Vokabeln schneller. Du solltest auch acht Stunden schlafen.\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T19",
+      "text": "Hallo Lukas,\nschlechte Noten sind nicht das Ende der Welt! Du solltest mehr Sport treiben, weil Bewegung gibt dir Energie. Und wenn du lernst, mach alle zwanzig Minuten eine kurze Pause. So kannst du dir mehr merken.\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T20",
+      "text": "Lukas, du muss lernen mehr für die Tests. Ich lerne zwei Stunde vor ein Test und dann ich habe gute Noten. Es ist langweilig aber gut."
+    },
+    {
+      "text_id": "G9-2-T21",
+      "text": "Hallo Lukas! müde nicht gut."
+    },
+    {
+      "text_id": "G9-2-T22",
+      "text": "hallo lukas\ndu machen shlafen fil mehr kan nich muda warum. noten slekt du lernen haben ist. tchüs"
+    },
+    {
+      "text_id": "G9-2-T23",
+      "text": "Hallo Lukas!\nGeh nicht so spät ins Bett und mach am Abend den Computer aus. Du kannst auch mit einem Freund zusammen für die Tests lernen, das macht mehr Spaß. Ich hoffe, das hilft dir.\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T24",
+      "text": "Hej Lukas\nDu musst schlafen acht Stunde. Ich schlafe neun Stunde und das ist gut. Die Noten bekommen besser wenn du bist nicht müde.\nBis bald"
+    },
+    {
+      "text_id": "G9-2-T25",
+      "text": "Hallo Lukas!\nIch bin auch immer müde. Ich habe auch schlecht Noten in Mathe. Die Schule ist langweilig.\nTschüss"
+    },
+    {
+      "text_id": "G9-2-T26",
+      "text": "Hallo Lukas!\nDas kenne ich, im Winter bin ich auch oft müde. Du solltest früher schlafen gehen, weil man braucht mindestens acht Stunden Schlaf. Außerdem kannst du jeden Tag ein bisschen lernen, dann ist der Stress vor den Tests nicht so groß.\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T27",
+      "text": "Hallo Lukas\nIch dir sagen tips. Du nich telefon kvell sein ist müde ja. Und lära sich schule mit machen ist gut noten. Tschüss"
+    },
+    {
+      "text_id": "G9-2-T28",
+      "text": "Hallo Lukas\nI think you should go to bed earlier. Och ät frukost varje dag, det hjälper. Ich hoffe es geht dir gut.\nTschüss"
+    },
+    {
+      "text_id": "G9-2-T29",
+      "text": "Hallo Lukas!\nEs ist ganz normal, dass man manchmal müde ist, aber du musst etwas ändern. Geh jeden Tag mindestens eine halbe Stunde nach draußen, weil frische Luft wach macht. Und wenn du Vokabeln lernen musst, probier doch mal eine Lern-App aus. Das macht mehr Spaß als nur im Buch zu lesen.\nLiebe Grüße"
+    },
+    {
+      "text_id": "G9-2-T30",
+      "text": "Hallo Lukas,\ndu spielen zu fil Handy. Legen der Handy weg in der Nacht! Dann du bist nicht so mude.\nBis bald"
+    },
+    {
+      "text_id": "G9-2-T31",
+      "text": "Hallo Lukas!\nIch bin auch manchmal müde. Du solltest am Wochenende nicht so lange schlafen, weil dann du kannst nicht schlafen am Abend. Du kannst auch Karteikarten machen für Vokabeln.\nMach's gut!"
+    },
+    {
+      "text_id": "G9-2-T32",
+      "text": "Hallo Lukas,\nschlecht Noten ist nicht schön. Du solltest ein Plan machen für die Hausaufgaben. Und geh nicht so spät schlafen, weil dann bist du müde.\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T33",
+      "text": "Hallo Lukas,\nes tut mir leid, dass du so müde bist. Mach am Abend dein Handy aus, denn das Licht vom Bildschirm macht dich wach. Wenn du Probleme in Mathe hast, kannst du deinen Lehrer fragen, weil er hilft dir bestimmt.\nBis bald!"
+    },
+    {
+      "text_id": "G9-2-T34",
+      "text": "Hallo Lukas,\nich verstehe dich total, die Schule ist gerade echt stressig. Du solltest versuchen, am Abend nicht so viel Zeit am Handy zu verbringen, denn dann schläfst du besser. Ein zweiter Tipp: Frag deine Mitschüler, ob sie mit dir lernen wollen. Zusammen ist es einfacher und du bekommst bestimmt bald bessere Noten.\nTschüss!"
+    },
+    {
+      "text_id": "G9-2-T35",
+      "text": "Hallo Lukas,\nich habe ein paar Tipps für dich. Du musst nicht alles am letzten Tag lernen. Lern lieber jeden Tag ein bisschen, zum Beispiel zwanzig Minuten. Und du kannst deinen Lehrer um Hilfe fragen.\nBis bald!"
+    },
+    {
+      "text_id": "G9-2-T36",
+      "text": "Hallo Lukas!\nMüde - Bett früh. Noten schlecht - Hausaufgaben, Lehrer. Wasser!\nBis bald"
+    },
+    {
+      "text_id": "G9-2-T37",
+      "text": "Hallo Lukas\nDu sollst nicht Computer spielen bis Mitternacht. Du kannst lieber ein Buch lesen im Bett, dann du schläfst schneller. Und du musst die Hausaufgaben früher machen.\nBis bald"
+    },
+    {
+      "text_id": "G9-2-T38",
+      "text": "Hallo Lukas!\nOh nein, das klingt stressig. Ich denke, du solltest gesünder essen, zum Beispiel Obst statt Chips. Du kannst auch mit Freunden eine Lerngruppe machen, weil zusammen ist das Lernen nicht so langweilig.\nBis bald"
+    },
+    {
+      "text_id": "G9-2-T39",
+      "text": "Hallo Lukas,\nich glaube, du hast zu viel Stress. Du solltest nicht so viele Hobbys neben der Schule haben, wenn du immer müde bist. Du kannst auch mit deiner Klassenlehrerin reden, sie kann dir bestimmt Tipps geben, wie du kannst besser lernen.\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T40",
+      "text": "Hej Lukas!\nIch denke du musst essen Frühstuck jeden morgen. Frühstuck ist wichtig for dich. Ich esse jeden Tag Brot und Joghurt."
+    },
+    {
+      "text_id": "G9-2-T41",
+      "text": "Hey Lukas!\nIch glaube, du solltest deine Hausaufgaben direkt nach der Schule machen. Dann hast du am Abend frei und kannst früher schlafen. Du kannst auch in der Pause etwas essen, nicht nur Süßigkeiten.\nBis bald"
+    },
+    {
+      "text_id": "G9-2-T42",
+      "text": "Hallo Lukas,\nvielleicht du musst mehr Obst und Gemüse essen, nicht nur Pommes. Und du solltest dein Handy ausmachen um neun Uhr. Dann hast du bessere Noten, glaube ich.\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T43",
+      "text": "Hey Lukas,\nich hatte letztes Jahr das gleiche Problem. Trink nicht so viel Cola am Abend, weil Koffein macht, dass man nicht schlafen kann. Du solltest auch deine Hausaufgaben gleich nach der Schule machen, dann hast du später mehr Freizeit.\nTschüss!"
+    },
+    {
+      "text_id": "G9-2-T44",
+      "text": "Hi Lukas!\nIch kann gut verstehen, dass du gestresst bist. Mein Tipp: Treib mehr Sport, zum Beispiel Joggen oder Radfahren, weil Bewegung gegen Müdigkeit hilft. Du solltest auch deine Lehrer fragen, was du für bessere Noten machen kannst. Die meisten helfen gern, wenn man fragt.\nTschüss und viel Glück!"
+    },
+    {
+      "text_id": "G9-2-T45",
+      "text": "Hi Lukas!\nDu kannst in der Bibliothek lernen, da ist es ruhig. Du musst auch mehr fragen in der Klasse. Dann die Lehrer wissen, dass du willst lernen.\nTschüss"
+    },
+    {
+      "text_id": "G9-2-T46",
+      "text": "Hallo Lukas!\nDu bist bestimmt müde, weil du zu wenig schläfst. Deshalb solltest du jeden Tag zur gleichen Zeit aufstehen, auch am Wochenende. Wenn du etwas im Unterricht nicht verstehen, frag einfach nach.\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T47",
+      "text": "Hallo Lukas!\nOh je, das klingt anstrengend. Ich glaube, du bist müde, weil du zu spät schlafen gehst. Mach deshalb eine Stunde vor dem Schlafen den Bildschirm aus und lies lieber ein Buch. Und lern nicht alles am Abend vor dem Test, sondern jeden Tag ein bisschen.\nMach's gut!"
+    },
+    {
+      "text_id": "G9-2-T48",
+      "text": "Hallo Lukas\nIch habe zwei Tipps für dich. Erstens du sollst Sport machen, zum Beispiel joggen oder schwimmen. Zweitens du kannst mit Freunden zusammen lernen, das ist mehr lustig.\nTschüss"
+    },
+    {
+      "text_id": "G9-2-T49",
+      "text": "Hallo Lukas,\nschlechte Noten sind frustrierend, aber das kann man ändern. Wenn du immer müde bist, solltest du vielleicht weniger Energy Drinks trinken und mehr Wasser. Außerdem kannst du mit Klassenkameraden zusammen lernen, weil man sich gegenseitig Sachen erklären kann. Ich bin sicher, dass es bald besser wird!\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T50",
+      "text": "Hallo Lukas,\nkeine Sorge, das passiert vielen in der neunten Klasse. Leg dein Handy am Abend in die Küche, denn sonst schaust du bestimmt noch stundenlang Videos. Und wenn du Hausaufgaben machst, dann mach alle halbe Stunde eine kurze Pause. So bleibst du konzentriert und lernst mehr.\nLiebe Grüße"
+    },
+    {
+      "text_id": "G9-2-T51",
+      "text": "Hi Lukas!\nIch verstehe dich gut, die neunte Klasse ist echt anstrengend. Du musst nicht jeden Abend bis Mitternacht Videos schauen. Geh lieber früher ins Bett, dann kannst du dich in der Schule besser konzentrieren. Du kannst auch einen Lernplan machen.\nLiebe Grüße"
+    },
+    {
+      "text_id": "G9-2-T52",
+      "text": "Hallo Lukas!\nDu musst mehr Wasser trinken und nicht so viel Cola. Frag auch deine Lehrer wenn du etwas nicht verstehst. Die Lehrer kann dir helfen.\nLiebe Grüße"
+    },
+    {
+      "text_id": "G9-2-T53",
+      "text": "Hey Lukas!\nDu kannst eine kleine Pause machen wenn du lernst, zum Beispiel zehn Minuten. Du musst auch mehr raus gehen und frische Luft haben. Ich glaube das hilft.\nTschüss"
+    },
+    {
+      "text_id": "G9-2-T54",
+      "text": "Hallo Lukas\nwarum bist du müde? Was fur Noten hast du? Ich habe gut Noten in Englisch.\nBis bald"
+    },
+    {
+      "text_id": "G9-2-T55",
+      "text": "Hallo Lukas,\nich hatte im Frühling genau das gleiche Problem. Damals hat mir geholfen, dass ich jeden Tag zur gleichen Zeit aufgestanden bin. Du solltest das auch probieren, weil dein Körper dann einen Rhythmus bekommt. Außerdem kannst du deine Hausaufgaben in der Bibliothek machen, da gibt es keine Ablenkung.\nViele Grüße"
+    },
+    {
+      "text_id": "G9-2-T56",
+      "text": "Hallo Lukas\nschlafen. handy nein. lernen. sport gut\nTschüss"
+    },
+    {
+      "text_id": "G9-2-T57",
+      "text": "Hi Lukas!\nDu solltest weniger Zeit am Handy verbringen, besonders am Abend. Du kannst auch Sport machen, zum Beispiel Radfahren oder Schwimmen. Sport ist gut für den Kopf und man schläft besser.\nTschüss"
+    },
+    {
+      "text_id": "G9-2-T58",
+      "text": "Hallo Lukas!\nDas tut mir echt leid, das kenne ich auch. Du solltest jeden Abend spätestens um zehn Uhr ins Bett gehen, weil dein Körper genug Schlaf braucht. Wenn du morgens fit bist, kannst du im Unterricht besser aufpassen. Außerdem würde ich an deiner Stelle einen Lernplan für die Woche machen.\nViele Grüße und bis bald!"
+    },
+    {
+      "text_id": "G9-2-T59",
+      "text": "Hallo!\nDu kannst Sport machen. Sport ist gut fur die Körper und du bist nicht mude. Ich spiele Basketball jede Woche."
+    },
+    {
+      "text_id": "G9-2-T60",
+      "text": "Hi Lukas,\ndas tut mir leid, dass es gerade so schwer ist. Vielleicht spielst du am Abend zu lange am Computer? Dann solltest du dir eine feste Zeit setzen, zum Beispiel bis neun Uhr. Außerdem hilft es, wenn du vor Tests Karteikarten schreibst, weil du beim Schreiben schon lernst.\nViel Erfolg und bis bald!"
+    }
+  ],
+  "G9-3": [
+    {
+      "text_id": "G9-3-T01",
+      "text": "Vor den Sommerferien ist unsere Klasse in einen Freizeitpark gefahren. Wir sind mit vielen Achterbahnen gefahren. In der Wildwasserbahn bin ich ganz nass geworden. Später hatten wir Hunger und haben Pommes gekauft. Der Tag war super, aber zu kurz."
+    },
+    {
+      "text_id": "G9-3-T02",
+      "text": "Letzten Herbst haben wir einen Ausflug in den Wald gemacht, weil wir in Biologie über Pilze gesprochen haben. Zuerst haben wir Pilze gesammelt, dann haben wir ein Feuer gemacht und Brot gebacken. Plötzlich hat es angefangen zu hageln, und wir sind unter die Bäume gelaufen. Obwohl wir nass geworden sind, war es ein lustiger Tag, denn alle haben zusammen gelacht."
+    },
+    {
+      "text_id": "G9-3-T03",
+      "text": "Wir war am Meer mit die Klasse. Wir haben geschwimmt aber das Wasser war sehr kalt. Ich habe nicht lange in Wasser."
+    },
+    {
+      "text_id": "G9-3-T04",
+      "text": "Im Herbst ist unsere Klasse nach Uppsala gefahren. Zuerst wir haben ein altes Schloss besucht. Danach haben wir in einem Park gegessen und Fußball gespielt. Es war ein schöner Tag, aber die Busfahrt war zu lang."
+    },
+    {
+      "text_id": "G9-3-T05",
+      "text": "Unsere Klasse ist in ein Kunstmuseum gegangen. Zuerst hat eine Führerin uns die Bilder gezeigt. Später durften wir selbst malen. Ich habe ein Bild von einem Pferd gemalen. Der Ausflug war interessanter als ich gedacht habe."
+    },
+    {
+      "text_id": "G9-3-T06",
+      "text": "Letzten Frühling ist meine Klasse in den Wald gewandert. Wir haben ein Feuer gemacht und Pfannkuchen gebratet. Plötzlich ist ein Elch gekommen! Es war ein bisschen gefährlich aber auch spannend."
+    },
+    {
+      "text_id": "G9-3-T07",
+      "text": "Vi åkte till ett museum i Stockholm med klassen. Ich habe alte Schiffe. It was really cool och vi åt glass efteråt."
+    },
+    {
+      "text_id": "G9-3-T08",
+      "text": "Wir war in Zoo. Gut."
+    },
+    {
+      "text_id": "G9-3-T09",
+      "text": "Letztes Jahr sind wir in den Kletterpark gegangen. Am Anfang ich hatte Angst, weil die Bäume war sehr hoch. Dann habe ich es probiert und es hat viel Spaß gemacht. Ich finde Kletterpark ist super."
+    },
+    {
+      "text_id": "G9-3-T10",
+      "text": "Die Klasse ist in die Berge gefahren. Wir haben gewandert fünf Stunden. Mein Füße war müde und es regnet viel."
+    },
+    {
+      "text_id": "G9-3-T11",
+      "text": "Letzten Mai sind wir nach Göteborg gefahren und haben ein Aquarium besucht. Ich habe zum ersten Mal einen Hai von nah gesehen. Nach dem Mittagessen sind wir in einen Park gegangen, wo wir Frisbee gespielt haben. Der Ausflug hat mir gefallen, aber ich denke dass die Zugfahrt war zu lang."
+    },
+    {
+      "text_id": "G9-3-T12",
+      "text": "Im Sommer wir sind nach Göteborg gefahren. Wir haben ein Aquarium besucht und viele Fische und Haie gesehen. Am Nachmittag haben wir in der Stadt gebummelt. Ich habe den Tag toll gefunden weil ich liebe Fische."
+    },
+    {
+      "text_id": "G9-3-T13",
+      "text": "Im Winter waren wir mit der Klasse in einem Skigebiet. Ich bin zum ersten Mal Ski gefahren und bin oft hingefallen. Danach haben wir in einer Hütte Suppe gegessen. Es war anstrengend, aber sehr lustig."
+    },
+    {
+      "text_id": "G9-3-T14",
+      "text": "Ausflug Wald. wir laufen, laufen viel. essen Brot. dann müde, nach hause Bus."
+    },
+    {
+      "text_id": "G9-3-T15",
+      "text": "Vor einem Monat hat unsere Klasse einen Ausflug in ein Technikmuseum gemacht. Dort haben wir ausprobiert, wie ein Flugzeug fliegt, und wir haben in einem alten Zug gesessen. Am besten hat mir der Flugsimulator gefallen, obwohl mir danach ein bisschen schwindlig war. Auf der Rückfahrt haben wir im Bus gesingt. Ich würde gern wieder hinfahren, weil es dort noch viel mehr zu sehen gibt."
+    },
+    {
+      "text_id": "G9-3-T16",
+      "text": "Letzten Frühling ist unsere Klasse in die Berge gefahren, und wir sind zwei Tage gewandert. In der ersten Nacht haben wir in Zelten geschlafen, aber es war so kalt, dass niemand richtig schlafen konnte. Am nächsten Morgen haben wir einen wunderschönen Sonnenaufgang gesehen. Ich fand die Reise anstrengend, aber ich bin froh, dass ich mitgekommen bin, weil ich so etwas noch nie erlebt habe."
+    },
+    {
+      "text_id": "G9-3-T17",
+      "text": "unsre klass ist gefaren mit schif nah ein insel und da wir hat fögel sen und est brot auf ein stein, der vind war kalt so mir frier und wir wol nach haus schnel"
+    },
+    {
+      "text_id": "G9-3-T18",
+      "text": "Wir sind in die Berge gefahren. Die Berge sind sehr hoch und schön. Im Winter gibt es viel Schnee dort."
+    },
+    {
+      "text_id": "G9-3-T19",
+      "text": "Wir sind in ein Planetarium gegangen. Zuerst haben wir ein Film über die Sterne gesehen. Dann hat eine Frau erklärt über die Planeten. Ich fand es sehr intressant aber manchmal schwer zu verstehen."
+    },
+    {
+      "text_id": "G9-3-T20",
+      "text": "Im Oktober waren wir mit der Klasse in einem Tierpark mit nordischen Tieren. Als wir angekommen sind, haben wir sofort die Wölfe gesehen, weil sie gerade ihr Futter bekommen haben. Später haben wir zwei kleine Bären beobachtet, und das war das Highlight des Tages. Leider hat es am Nachmittag stark geregnet. Trotzdem fand ich den Ausflug super, weil ich die Tiere so nah gesehen habe."
+    },
+    {
+      "text_id": "G9-3-T21",
+      "text": "Im April waren wir in einer Schokoladenfabrik. Wir haben gesehen wie man Schokolade macht und wir haben viel probiert. Danach war mir ein bisschen schlecht. Aber es war sehr intressant und lecker."
+    },
+    {
+      "text_id": "G9-3-T22",
+      "text": "Vor zwei Wochen sind wir zu einem Bauernhof gefahren. Dort haben wir Kühe gemelkt und Eier gesammelt. Es hat den ganzen Tag geregnet, deshalb wir waren sehr nass. Trotzdem war es gut."
+    },
+    {
+      "text_id": "G9-3-T23",
+      "text": "Wir sind mit Schiff zu ein Insel gefahren. Auf die Insel wir habe Fußball gespielt. Dann jemand hat sein Handy in Wasser gefallen."
+    },
+    {
+      "text_id": "G9-3-T24",
+      "text": "Letzte Woche war unsere Klasse im Zoo. Zuerst haben wir die Löwen gesehen, sie haben nur geschlafen. Danach sind wir zu den Pinguinen gegangen und haben die Fütterung gesehen. Das war am besten. Insgesamt war es ein schöne Tag."
+    },
+    {
+      "text_id": "G9-3-T25",
+      "text": "Unsere Klasse hat in Wald gegangen. Wir haben ein Zelt gebaut und in Zelt geschlafen. Es war kalt in der Nacht und ich nicht schlafen."
+    },
+    {
+      "text_id": "G9-3-T26",
+      "text": "Unsere Klasse war in einem Museum über Technik. Wir haben viele Experimente gemacht und ein Roboter gebaut. Nachher sind wir mit die U-Bahn nach Hause gefahren. Es war sehr kul und ich will wieder hingehen."
+    },
+    {
+      "text_id": "G9-3-T27",
+      "text": "Unsere Klasse hat einen Ausflug an den See gemacht. Wir haben Kanu gefahren und ein Kanu ist umgekippt! Danach wir haben Brot und Obst gegessen am Strand. Es war der beste Tag in diesem Jahr."
+    },
+    {
+      "text_id": "G9-3-T28",
+      "text": "Vor einem Monat sind wir nach Stockholm gefahren. Wir haben das Rathaus besucht und viele Fotos gemacht. Am Nachmittag sind wir mit einem Boot gefahren. Das Wetter war schlecht aber der Ausflug hat mir gut gefallen."
+    },
+    {
+      "text_id": "G9-3-T29",
+      "text": "Im August hat unsere Klasse eine Kanutour auf einem Fluss gemacht. Am Anfang war es schwierig, weil wir immer im Kreis gepaddelt sind. Nach einer Weile haben wir den Rhythmus gefunden und sind viel schneller geworden. Mittags haben wir auf einer kleinen Insel Pause gemacht und belegte Brote gegessen. Ich fand die Tour großartig, weil man gut zusammenarbeiten musste."
+    },
+    {
+      "text_id": "G9-3-T30",
+      "text": "Im September haben wir mit der Klasse eine Stadtrallye in Göteborg gemacht. In kleinen Gruppen mussten wir Fragen beantworten und verschiedene Orte finden. Unsere Gruppe hat sich zuerst verlaufen, aber dann haben wir den Weg mit einer Karte gefunden. Als wir endlich am Ziel angekommen sind, waren wir die Letzten. Trotzdem hat mir der Tag gefallen, weil wir die Stadt auf eine neue Art kennengelernt haben."
+    },
+    {
+      "text_id": "G9-3-T31",
+      "text": "Im Mai wir fahren nach Göteborg mit Zug. Da wir haben in ein Freizeitpark gewesen. Ich habe Achterbahn gefahrt, das war sehr roligt."
+    },
+    {
+      "text_id": "G9-3-T32",
+      "text": "Unsere Klasse hat im Herbst ein altes Schloss besucht. Ein Führer hat uns erzählt, dass es dort Geister gibt. Später sind wir in den Keller gegangen und plötzlich ist das Licht ausgegangen. Alle haben geschreit, aber es war nur ein Witz. Der Ausflug war spannend, weil der Führer so gut erzählen konnte."
+    },
+    {
+      "text_id": "G9-3-T33",
+      "text": "Letzten Herbst haben wir einen Ausflug in den Nationalpark gemacht. Wir sind drei Stunden gewandert und haben Pilze gesammelt. Dann haben wir uns verlaufen, weil die Karte war falsch. Zum Glück hat unser Lehrer den Weg gefunden. Es war ein spannender Tag."
+    },
+    {
+      "text_id": "G9-3-T34",
+      "text": "Klasse Ausflug. Bus. See. schwimmen, Wasser kalt. gut Tag."
+    },
+    {
+      "text_id": "G9-3-T35",
+      "text": "Im Oktober ist unsere Klasse für zwei Tage an die Westküste gefahren. Am ersten Tag haben wir eine Bootstour gemacht und Robben gesehen. Am Abend haben wir in einer Jugendherberge gegessen und Spiele gespielt. Mir hat der Ausflug gut gefallen, weil wir hatten viel Zeit zusammen."
+    },
+    {
+      "text_id": "G9-3-T36",
+      "text": "Wir gehen in die Schwimmhalle mit der Klasse letzte Freitag. Wir sind gerutscht auf die große Rutsche. Es hat Spaß gemacht."
+    },
+    {
+      "text_id": "G9-3-T37",
+      "text": "Im Februar ist unsere Klasse für drei Tage in eine Hütte in den Bergen gefahren. Am Tag sind wir Langlauf gefahren und am Abend haben wir Karten gespielt. Einmal hat jemand die Tür offen gelassen und alles war voll mit Schnee. Ich fand die Reise toll, weil wir haben so viel gelacht."
+    },
+    {
+      "text_id": "G9-3-T38",
+      "text": "wir habe fahr in wald und da hat wir mach feur. regen kom und alle ist nass war. nich shon aber auch shon"
+    },
+    {
+      "text_id": "G9-3-T39",
+      "text": "Im September ist unsere Klasse in einen Kletterpark gefahren. Am Anfang war ich unsicher, weil die Wege so hoch waren. Nach einer Stunde habe ich mich getraut und bin sogar die schwerste Strecke geklettert. Es war ein toller Tag, obwohl ich danach Muskelkater gehabt."
+    },
+    {
+      "text_id": "G9-3-T40",
+      "text": "Wir sind mit dem Zug nach Stockholm gefahren und haben ein Schiffsmuseum besucht. Das Schiff war sehr alt und groß. Nach dem Museum wir haben Pommes gegessen. Ich fand den Ausflug interessant aber ein bisschen langweilig auch."
+    },
+    {
+      "text_id": "G9-3-T41",
+      "text": "Im September sind wir mit der Klasse in die Berge gefahren. Am ersten Tag sind wir auf ein hoher Berg gestiegen. Oben hatten wir eine tolle Aussicht und haben unser Essen gegessen. Am Abend waren alle sehr müde. Ich fand den Ausflug super, aber meine Beine haben weh getan."
+    },
+    {
+      "text_id": "G9-3-T42",
+      "text": "Im Frühling ist unsere Klasse mit dem Zug nach Stockholm gefahren und hat ein Museum über Schiffe besucht. Zuerst haben wir eine Führung bekommen und erfahren, dass das Schiff schon bei seiner ersten Fahrt gesunken ist. Danach durften wir selbst herumgehen und Fotos machen. Als wir wieder am Bahnhof waren, hatte der Zug leider eine Stunde Verspätung. Trotzdem fand ich den Ausflug gelungen, weil ich viel über Geschichte gelernt habe."
+    },
+    {
+      "text_id": "G9-3-T43",
+      "text": "Klassenausflug nach Göteborg. sehr kul"
+    },
+    {
+      "text_id": "G9-3-T44",
+      "text": "Wir war im Theater in Stockholm. Die Theater war lang und ich bin eingeschlaft. Aber das Ende war gut."
+    },
+    {
+      "text_id": "G9-3-T45",
+      "text": "Im Mai sind wir mit dem Bus an die Küste gefahren. Wir haben am Strand Muscheln gesucht und ein Picknick gemacht. Dann ist ein starker Wind gekommen und unsere Servietten sind weggeflogen. Es war ein lustiger Tag, aber ich habe ein bisschen gefroren."
+    },
+    {
+      "text_id": "G9-3-T46",
+      "text": "Vor zwei Wochen haben wir einen Ausflug in den Zoo gemacht. Zuerst haben wir die Elefanten angeschaut, danach sind wir ins Affenhaus gegangen. Ein Affe hat die Mütze von einem Klassenkamerad gestohlen, das war sehr lustig. Ich fand den Ausflug gut, weil man viel über Tiere lernt, aber es war zu kalt."
+    },
+    {
+      "text_id": "G9-3-T47",
+      "text": "Im Juni sind wir mit Fahrrädern zu einem See gefahren. Als wir angekommen sind, sind alle sofort ins Wasser gesprungen. Danach haben wir gegrillt und Volleyball gespielt. Auf dem Heimweg hat es angefangen zu regnen, also wir waren alle nass. Trotzdem war es einer der schönsten Tage in diesem Jahr."
+    },
+    {
+      "text_id": "G9-3-T48",
+      "text": "Im Winter war unsere Klasse in der Eishalle. Wir sind Schlittschuh gelaufen und ich bin viele Male gefallt. Später haben wir heiße Schokolade getrunken. Es war kalt aber lustig."
+    },
+    {
+      "text_id": "G9-3-T49",
+      "text": "Wir haben nach Stockholm gefahren mit der Bus. Wir habe ein Museum gesehen und es war viele alte Sachen. Dann wir haben Pizza gegessen. Es war gut."
+    },
+    {
+      "text_id": "G9-3-T50",
+      "text": "Ich mag Ausflüge mit der Klasse. Nächstes Jahr wir wollen nach Berlin fahren. Ich denke es wird toll."
+    },
+    {
+      "text_id": "G9-3-T51",
+      "text": "Im Juni sind wir mit der Klasse für eine Nacht auf eine kleine Insel gefahren. Am Nachmittag sind wir geschwommen und haben am Strand Volleyball gespielt. Als es dunkel wurde, haben wir die Sterne angeschaut, und niemand wollte schlafen gehen. Am nächsten Morgen waren alle müde, aber glücklich. Für mich war das der beste Ausflug, weil wir einmal ohne Handys Zeit zusammen hatten."
+    },
+    {
+      "text_id": "G9-3-T52",
+      "text": "Unsere Klasse hat eine Radtour aufs Land gemacht. Wir sind zwanzig Kilometer gefahren und dann haben wir an einem See Pause gemacht. Leider ist mein Fahrrad kaputt gegangen. Ich finde Radtouren anstrengend, aber es war trotzdem schön."
+    },
+    {
+      "text_id": "G9-3-T53",
+      "text": "Letzte Woche war unsere Klasse auf einem Bauernhof mit Kühen und Ziegen. Zuerst haben wir die Tiere gefüttert, und danach haben wir gesehen, wie man Käse macht. Am Ende durften wir verschiedene Sorten probieren. Ich fand den Ausflug interessant, weil ich nicht gewusst habe, dass Käse so viel Arbeit ist. Nur der Geruch im Stall war ein bisschen schlimm."
+    },
+    {
+      "text_id": "G9-3-T54",
+      "text": "Im Frühling ist unsere Deutschgruppe nach Deutschland gefahren. Wir haben eine Schule besucht und mit deutsche Jugendlichen gesprochen. Am Anfang war ich nervös, aber dann hat es Spaß gemacht. Ich fand die Reise toll, denn ich habe gemerkt, dass ich viel verstehe."
+    },
+    {
+      "text_id": "G9-3-T55",
+      "text": "Our class went to a Kletterpark. Vi klättrade högt i träden och jag var lite rädd. Es war gut."
+    },
+    {
+      "text_id": "G9-3-T56",
+      "text": "Letzte Woche waren wir im Wissenschaftszentrum. Zuerst haben wir ein Experiment mit Strom gemacht, und danach sind wir in einen dunklen Raum gegangen. Am besten war der Raum mit den Schlangen, obwohl ich Schlangen eigentlich nicht mag. Ich finde, dass solche Ausflüge besser als normale Unterricht sind."
+    },
+    {
+      "text_id": "G9-3-T57",
+      "text": "Im Dezember war unsere Klasse im Theater in der Stadt. Wir haben ein Stück über ein Schiffsunglück gesehen. Die Schauspieler waren sehr gut und die Musik war laut und dramatisch. Ich fand das Stück spannend, aber manchmal habe ich nicht verstanden was sie gesagt haben."
+    },
+    {
+      "text_id": "G9-3-T58",
+      "text": "Wir haben ein Ausflug zu ein Bauernhof gemacht. Da war Kühe und Schweine und ein kleine Pferd. Ich habe die Pferd gestreichelt. Es riecht nicht so gut."
+    },
+    {
+      "text_id": "G9-3-T59",
+      "text": "Im Februar sind wir mit der Klasse zum Eisangeln an einen See gefahren. Zuerst haben wir Löcher ins Eis gebohrt, und das war ziemlich schwer. Dann haben wir lange gewartet, aber nur zwei kleine Fische gefangen. Als wir schon nach Hause gehen wollten, hat plötzlich jemand einen großen Barsch gefangen. Obwohl es sehr kalt war, hat mir der Tag gefallen, weil die Stimmung so gut war."
+    },
+    {
+      "text_id": "G9-3-T60",
+      "text": "Letzte Woche meine Klasse ist in den Zoo gefahrt. Ich habe sehen Affen und ein Elefant. Die Affen war sehr lustig. Wir hat Eis gegessen."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "assignment_id": "G8-3",
+  "texts": [
+    {
+      "n": 1,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Ich will in Sommer bade.",
+      "rationale": "Only one fragment with a single plan; no second plan, no when/with whom, no reason. Verb form wrong (bade)."
+    },
+    {
+      "n": 2,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Sommerferien gut. schlafen.",
+      "rationale": "Two fragments with no complete sentence and no modal verb; content points essentially missing."
+    },
+    {
+      "n": 3,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Ich will in Sommer Tennis spielen mit mein Freunde. Tennis ist sehr kul.",
+      "rationale": "Only one plan is mentioned, so the E requirement of at least two plans is not met. Swedish 'kul', article/case error (mit mein Freunde)."
+    },
+    {
+      "n": 4,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "In Sommer ich war am Meer. Es war warm und ich habe schwimmen.",
+      "rationale": "Misses the task: describes last summer in the past instead of future plans; no modal verbs. Word order and participle errors (ich habe schwimmen)."
+    },
+    {
+      "n": 5,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Ich vil somer fahr den se mit mein und bade kalt weil gut is. ich wollen gemacht fil.",
+      "rationale": "Heavy spelling and grammar errors make the text largely incomprehensible even with goodwill; plans cannot be reliably identified."
+    },
+    {
+      "n": 6,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Sommerferin ich habe will bessöka stat und kaufen maken sachen. weil is ja so und spiel ball wir",
+      "rationale": "Mix of garbled verb forms and Swedish-based words (bessöka, stat); the meaning is unclear and no plan is communicated intelligibly."
+    },
+    {
+      "n": 7,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Jag ska åka till stranden i sommar. Ich will schwimmen och sola. It is fun.",
+      "rationale": "Most of the text is in Swedish and English; only one short German clause. Not enough German to meet E."
+    },
+    {
+      "n": 8,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "In the summer I want to play games och sova länge. Ich spiele.",
+      "rationale": "Written almost entirely in English and Swedish; the only German is a two-word sentence unrelated to plans."
+    },
+    {
+      "n": 9,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Sommer. Schwimmen, Eis, Freunde. Gut.",
+      "rationale": "Single words strung together; no sentences or modal verbs, so plans are only guessed at. Below E."
+    },
+    {
+      "n": 10,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "ich sommer fahrrad. und kino mit. ist schon.",
+      "rationale": "A genuine attempt but only word fragments without verbs; plans are not expressed as sentences and text is barely understandable."
+    },
+    {
+      "n": 11,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Im Sommer will ich schwimmen in der see. Ich will auch spielen volleyball am strand. Ich möchte eis essen. Das ist gut.",
+      "rationale": "Several plans with modal verbs, but infinitive often misplaced (will ... schwimmen in der see); no when/with whom and no real reason. Nouns not capitalised, very simple vocabulary."
+    },
+    {
+      "n": 12,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "In die Sommerferien ich möchte fahren nach Stockholm. Ich will sehen das Museum. Dann ich will kaufen neue kleider. Es ist sehr roligt.",
+      "rationale": "Two or three plans are understandable, but infinitives are not placed last and word order after adverbials is wrong. Swedish transfer (roligt), no real reason or companion."
+    },
+    {
+      "n": 13,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich will fil schlafen in der Sommerferien. Ich will auch spielen computer. Und ich möchte fahrrad fahren. Ich finde das gut.",
+      "rationale": "Three plans with modal verbs, but infinitive position mostly wrong; no when/with whom, only a vague evaluation. Spelling by ear (fil), lowercase nouns."
+    },
+    {
+      "n": 14,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Sommerferien ich will arbeiten. Ich will habe geld. Ich will auch fischen am see, das ist kul.",
+      "rationale": "Two plans (work, fishing) and a rudimentary reason, but modal verb constructions are faulty (will habe) and word order wrong in the first sentence. Swedish 'kul', simple vocabulary."
+    },
+    {
+      "n": 15,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich möchte gehen in die Berge. Ich möchte wandern und zelten. Ich will auch malen bilder. Das macht spass.",
+      "rationale": "Plans are clear with goodwill, but infinitives frequently misplaced; no when/with whom and repetitive sentence pattern. Lowercase nouns, ss for ß."
+    },
+    {
+      "n": 16,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "In den Sommerferien ich will backen Pfannkuchen. Ich will auch lesen fil bücher. Ich liebe bücher. Und ich will schwimmen.",
+      "rationale": "At least two plans with modal verbs, but the infinitive is not placed last and V2 is broken once. No companion or time beyond 'Sommerferien'; very simple, repetitive vocabulary."
+    },
+    {
+      "n": 17,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich will in Sommer mit Freunde gehen Kino. Wir wollen sehen ein film. Und ich will skateboard fahren. Es ist kul.",
+      "rationale": "Two plans and a companion are mentioned, but modal constructions are mostly incorrect (gehen Kino, sehen ein film) and there are several case and spelling errors. Understandable only with goodwill."
+    },
+    {
+      "n": 18,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich möchte mein hund gehen jeden tag. Ich will spielen tennis auch. Ich will nicht in die Shule. Das ist schon.",
+      "rationale": "Two plans (walking the dog, tennis) are recognisable; infinitives misplaced and the first sentence is awkward. Missing umlaut (schon), spelling (Shule), no real reason."
+    },
+    {
+      "n": 19,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich will gehen zu der Freizeitpark. Ich will fahre Achterbahn. Auch ich will grillen. Sommer ist die beste.",
+      "rationale": "Plans are understandable, but modal verb + infinitive errors (will fahre), article errors (zu der Freizeitpark) and wrong word order. No when/with whom, no real reason."
+    },
+    {
+      "n": 20,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich will Gitarre spielen in die Sommer. Ich will lernen neue lieder. Und ich möchte kochen pasta. Pasta ist gut.",
+      "rationale": "Two to three plans; infinitive placement often wrong, article errors (in die Sommer). Only a minimal evaluation instead of a reason; simple repetitive structure."
+    },
+    {
+      "n": 21,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "In den Sommerferien will ich mit meiner Familie an den See fahren. Wir wollen dort zelten und fischen. Ich möchte auch lesen viele Bücher, weil ich lesen gern. Das ist schön.",
+      "rationale": "Plans, with whom and a simple reason are present; modal verbs mostly correct but one misplaced infinitive and a weil-clause error (weil ich lesen gern). Vocabulary still fairly basic."
+    },
+    {
+      "n": 22,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Im Juli will ich mit Freunde Fahrrad fahren. Wir wollen fahren zum Meer und baden. Ich will auch ein Sommerjob haben, weil ich brauche Geld. Ich freue mich!",
+      "rationale": "When, with whom and a reason are given; about half the modal constructions correct. Case/article errors (mit Freunde, ein Sommerjob) and main-clause order in weil clause."
+    },
+    {
+      "n": 23,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich möchte in den Ferien viel schlafen, weil die Schule ist so anstrengend. Im Juni will ich mit meine Klasse nach Göteborg fahren. Wir wollen besuchen ein Museum und Eis essen.",
+      "rationale": "Plans with time, company and a reason; modal verbs partly correct, one infinitive misplaced. Case error (mit meine Klasse) and weil word order; not yet consistently clear."
+    },
+    {
+      "n": 24,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "In Juli ich möchte Kanu fahren mit meinem Freunden. Das ist sehr lustig. Ich will auch lernen kochen. Ich möchte Pizza und Pasta machen.",
+      "rationale": "When and with whom are present and plans are clear, but the reason is thin and word order/infinitive position is wrong in two sentences. Some vocabulary variation."
+    },
+    {
+      "n": 25,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Im Sommer will ich jeden tag schwimmen gehen. Ich möchte mit meine Freunde Beachvolleyball spielen, das macht spass. Im August will ich helfen in einem Tierheim, weil ich liebe tiere.",
+      "rationale": "Several plans with time, company and reasons; modal verbs mostly correct but one misplaced infinitive. Recurrent errors (lowercase nouns, mit meine Freunde, weil ich liebe)."
+    },
+    {
+      "n": 26,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "In die Sommerferien will ich mit meiner Familie in die Berge fahren. Wir wollen wandern und Fotos machen. Ich möchte auch spielen Minigolf. Das ist lustig weil ich gewinne immer.",
+      "rationale": "C content points largely covered; modal verbs mostly correct with one misplaced infinitive. Article error (In die Sommerferien) and weil clause with main-clause order."
+    },
+    {
+      "n": 27,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Nächste Sommer möchte ich Deutsch üben. Ich will deutsche Filme sehen, weil ich will besser werden. Im Juli will ich mit meinem Bruder Tennis spielen.",
+      "rationale": "Two plans, time, company and a reason are given; modal verbs placed correctly in main clauses but weil clause wrong. Short and somewhat list-like, adjective ending error (Nächste Sommer)."
+    },
+    {
+      "n": 28,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "In den Ferien will ich lange schlafen und gamen. Aber ich will auch draussen sein. Ich und meine Freunde wollen ein Fest haben im August. Es wird super.",
+      "rationale": "Plans with when and with whom; reason is implicit. Modal verbs mostly correct, one infinitive misplaced; Swedish/English transfer (gamen), ss for ß."
+    },
+    {
+      "n": 29,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Im Juni will ich im garten arbeiten und beeren pflücken. Ich möchte machen Marmelade, weil es ist lecker. Im Juli ich will mit Freunden zelten.",
+      "rationale": "Plans with time, company and a simple reason; half the modal constructions correct. Lowercase nouns, weil clause order, V2 error in the last sentence."
+    },
+    {
+      "n": 30,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich möchte in den Sommerferien Skateboard fahren lernen. Ich will üben jeden Tag im Park mit meinen Freunden. Es ist schwer, aber kul. Und ich will viel Eis essen!",
+      "rationale": "Plans with company and a simple evaluation; modal verbs mostly correct except one misplaced infinitive. Swedish 'kul', reason weak, simple structure."
+    },
+    {
+      "n": 31,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "In den Sommerferien möchte ich mit meinen Freunden an den See fahren. Dort wollen wir schwimmen und grillen. Im Juli will ich auch einen Sommerjob haben, weil ich will Geld für ein neues Fahrrad sparen. Ich freue mich sehr auf den Sommer.",
+      "rationale": "Several plans, when and with whom, and a clear reason; modal verbs with infinitive last used correctly in main clauses. Weil clause keeps main-clause order; limited linking otherwise."
+    },
+    {
+      "n": 32,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Im Juni möchte ich mit meiner Familie nach Deutschland fahren. Wir wollen eine große Stadt besuchen und viel Deutsch sprechen. Das ist gut, denn ich lerne Deutsch in der Schule. Danach will ich zu Hause ausruhen.",
+      "rationale": "All C content points; modal verbs correct and text relatively clear. Reason simple (denn), vocabulary somewhat varied, but the parts are only loosely connected."
+    },
+    {
+      "n": 33,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich will in den Sommerferien Gitarre spielen lernen. Ich möchte jeden Tag eine Stunde üben, weil ich in eine Band spielen will. Im August wollen meine Freunde und ich zelten gehen. Das ist immer lustig.",
+      "rationale": "Plans, time, company and a reason are present; modal verbs correct. Case error (in eine Band); the two halves are not really connected, so A is not met."
+    },
+    {
+      "n": 34,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Im Juli möchte ich mit meiner Klasse in einen Freizeitpark fahren. Wir wollen Achterbahn fahren und Zuckerwatte essen. Ich will auch viel lesen, weil ich habe nicht so viel Zeit in der Schule. Ich finde Sommer ist die beste Zeit.",
+      "rationale": "Content points met, modal verbs mostly correct and vocabulary somewhat varied. Weil clause with main-clause order and a slightly awkward final sentence."
+    },
+    {
+      "n": 35,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "In den Ferien will ich viel draußen sein. Mit meinen Freunden möchte ich Fahrrad fahren und im Meer baden. Ich will auch Pfannkuchen backen lernen, denn Pfannkuchen ist mein Lieblingsessen. Das wird ein toller Sommer.",
+      "rationale": "Several plans, with whom and a simple reason; modal verbs correct. Minor agreement slip; text relatively clear but mostly a list of plans."
+    },
+    {
+      "n": 36,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Im Sommer möchte ich fischen gehen, weil es ist ruhig und schön. Ich will auch mit meinen Freunden Fußball spielen. Im August will ich einen Kochkurs machen. Ich mag kochen sehr.",
+      "rationale": "Plans with time, company and reason; modal verbs correct. Weil clause order wrong, noun not capitalised (kochen) and sentences largely unconnected."
+    },
+    {
+      "n": 37,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "In den Sommerferien will ich ein Sommerjob in einem Café haben. Ich will Geld verdienen, weil ich möchte ein neues Handy kaufen. Am Wochenende möchte ich mit Freunden ins Kino gehen oder schwimmen.",
+      "rationale": "Plans, time, company and reason present; modal verbs correct in main clauses. Article error (ein Sommerjob) and weil clause order; vocabulary somewhat varied."
+    },
+    {
+      "n": 38,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Im Juli will ich mit meiner Familie aufs Land fahren. Dort möchte ich im Wald wandern und Blaubeeren pflücken. Ich will auch Fotos von Tieren machen, weil ich Fotografie mag. Es ist so schön ohne Handy.",
+      "rationale": "All C points with correct modal verbs and a correct weil clause; relatively clear. Linking beyond 'dort' is limited and structures are fairly uniform."
+    },
+    {
+      "n": 39,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "In den Ferien möchte ich lange schlafen und Serien schauen. Aber ich will auch aktiv sein. Mit meinen Freunden will ich Tennis spielen und Kanu fahren, weil das Spaß macht. Ich hoffe, das Wetter ist gut.",
+      "rationale": "Several plans with company and a simple reason; modal verbs correct. No time expression beyond 'in den Ferien'; reasoning is thin, keeping it at C."
+    },
+    {
+      "n": 40,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Im August möchte ich nach Stockholm fahren. Ich will ein Museum besuchen und in der Stadt shoppen. Ich fahre mit meiner Freunden, denn allein ist langweilig. Vorher will ich zu Hause malen und zeichnen.",
+      "rationale": "Plans, time, company and a reason; modal verbs correct. Case error (mit meiner Freunden), English transfer (shoppen), limited cohesion."
+    },
+    {
+      "n": 41,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "In den Sommerferien möchte ich zuerst ein paar Tage ausschlafen, weil das Schuljahr war sehr anstrengend. Danach will ich mit meinen Freunden an den See fahren und dort zelten. Wir wollen auch angeln, aber ich habe noch keine Angel. Im August werde ich hoffentlich einen Sommerjob bekommen, denn ich will Geld sparen.",
+      "rationale": "Coherent text with connectors (weil, danach, aber, denn), time and company, and werden + infinitive. Mostly correct, but the weil clause keeps main-clause order."
+    },
+    {
+      "n": 42,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Im Juli will ich mit meiner Familie in die Berge fahren. Dort möchten wir jeden Tag wandern, weil die Natur so schön ist. Ich will auch viele Fotos machen, denn ich interessiere mich für Fotografie. Danach werde ich zu Hause bleiben und mit Freunde schwimmen gehen.",
+      "rationale": "Connected plans with reasons and werden; weil clause correct. One case error (mit Freunde); vocabulary relatively varied but somewhat formulaic."
+    },
+    {
+      "n": 43,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Diesen Sommer möchte ich besser tauchen lernen, weil ich es spannend finde. Im Juni fahre ich mit meiner Klasse ans Meer, und dort wollen wir einen Kurs machen. Aber ich will auch Zeit für mich haben. Ich werde viele Bücher lesen und lang schlafen.",
+      "rationale": "Clear, linked plans with time, company and reasons; modal verbs and weil clause correct, werden used. Slight slip (lang for lange) and the last part is a little list-like."
+    },
+    {
+      "n": 44,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "In den Sommerferien möchte ich in einem Tierheim helfen, weil ich Tiere sehr gern habe. Ich will mit den Hunden spazieren gehen und die Katzen füttern. Im August wollen meine Freunde und ich ein Fahrradtour machen, aber wir wissen noch nicht wohin. Das wird bestimmt lustig.",
+      "rationale": "Well-motivated, connected plans with correct weil order and modal verbs. Article error (ein Fahrradtour); A mostly but not fully met."
+    },
+    {
+      "n": 45,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Im Juni werde ich zwei Wochen in ein Café arbeiten. Ich möchte das Geld für ein Konzert sparen, denn meine Lieblingsband spielt im Juli in Stockholm. Nach dem Konzert will ich mit Freunden am Strand grillen, weil wir das jeden Sommer machen.",
+      "rationale": "Coherent plans with werden, time, company and reasons; weil order correct. Case error (in ein Café); only three sentences, so development is slightly limited."
+    },
+    {
+      "n": 46,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "In den Ferien möchte ich Skateboard fahren lernen, weil es cool aussieht. Ich will jeden Tag im Park üben, aber ich muss vorsichtig sein. Im Juli will ich auch mit meiner Familie aufs Land fahren. Dort können wir Fahrrad fahren und im See baden.",
+      "rationale": "Connected text with weil, aber, dort; modal verbs and weil order correct. Relatively varied, but the second half is less motivated and English transfer (cool)."
+    },
+    {
+      "n": 47,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein wichtigster Plan für den Sommer ist, kochen zu lernen. Ich will jede Woche ein neues Rezept probieren, weil ich immer nur Pasta mache. Im August wollen meine Freunde und ich ein grosses Picknick im Park machen, und ich werde das Essen kochen.",
+      "rationale": "Well-structured and motivated, with correct weil order and werden. Minor slips (kochen lowercase, grosses with ss); three sentences keep it slightly less developed than A."
+    },
+    {
+      "n": 48,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Im Sommer will ich viel Tennis spielen, denn ich will im Herbst bei einem Turnier mitmachen. Ich werde dreimal pro Woche trainieren. Aber ich möchte auch Pause machen und mit meinen Freunden Eis essen gehen, weil Ferien nicht nur Training sind.",
+      "rationale": "Plans motivated and linked (denn, aber, weil), werden used, weil clause correct. Small article omission (Pause machen) and repetition of 'will'."
+    },
+    {
+      "n": 49,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "In den Sommerferien will ich mit meinen Freunden Kanu fahren. Wir wollen drei Tage auf einem See paddeln und auf ein Insel zelten. Ich freue mich sehr darauf, weil ich noch nie gezeltet habe. Danach möchte ich zu Hause bleiben und endlich mein Zimmer streichen.",
+      "rationale": "Coherent, well-motivated plans with correct weil order and varied vocabulary. Case/article error (auf ein Insel); time reference is vague."
+    },
+    {
+      "n": 50,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "In den Sommerferien will ich mit zwei Freunden einen kleinen Film drehen. Wir haben schon eine Idee, aber wir müssen noch viel planen. Im Juli wollen wir filmen, weil das Wetter dann meistens gut ist. Danach möchte ich ein paar Tage an den See fahren und mich ausruhen.",
+      "rationale": "Linked, motivated plans with time and company; modal verbs and weil order correct. No werden and a slightly repetitive structure keep it just below A."
+    },
+    {
+      "n": 51,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "In den Sommerferien möchte ich zuerst mit meinen Freunden an den See fahren, weil wir dort jedes Jahr zelten. Wir wollen schwimmen, grillen und am abend Karten spielen. Danach werde ich im Juli in einer Bäckerei arbeiten, denn ich möchte Geld für ein neues Fahrrad sparen. Ich freue mich schon sehr auf den Sommer!",
+      "rationale": "Coherent, well-motivated plans with time and company; correct weil order, werden + infinitive and varied vocabulary. One minor slip (abend lowercase)."
+    },
+    {
+      "n": 52,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Im Juni will ich einen Schwimmkurs machen, weil ich endlich vom Zehnmeterturm springen möchte. Das klingt verrückt, aber ich habe es mir versprochen. Später im Sommer fahre ich mit meiner Familie in die Berge, und dort wollen wir wandern und Tiere beobachten. Ich hoffe, dass wir Elche sehen werden.",
+      "rationale": "Clear, connected text with time, company and reasons; weil and dass clauses correct, werden + infinitive. Relatively varied vocabulary, no significant errors."
+    },
+    {
+      "n": 53,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Diesen Sommer werde ich viel Zeit im Garten verbringen, denn ich möchte eigenes Gemüse anbauen. Ich will Tomaten und Erdbeeren pflanzen und jeden Morgen giessen. Im August wollen meine Freunde und ich einen kleinen Markt machen, weil wir das Gemüse verkaufen möchten. Aber zuerst muss alles wachsen!",
+      "rationale": "Well-linked plans with time, company and reasons; werden, modal verbs and weil order correct. One minor spelling slip (giessen)."
+    },
+    {
+      "n": 54,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "In den Ferien möchte ich mit meinen Freunden eine Fahrradtour nach Göteborg machen. Wir wollen jeden Tag ungefähr fünfzig Kilometer fahren und auf Campingplätzen schlafen. Das wird anstrengend, aber ich glaube, es wird auch sehr lustig. Nach der Tour will ich nur noch faul sein und Filme schauen, weil meine Beine bestimmt wehtun.",
+      "rationale": "Relatively coherent and varied text with company, plans and reasons; weil clause correct, werden used naturally. No notable errors."
+    },
+    {
+      "n": 55,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Im Juli möchte ich ein paar Tage nach Stockholm fahren, weil ich dort ein Museum über Dinosaurier besuchen will. Ich interessiere mich schon lange für Dinosaurier. Außerdem wollen meine Freunde und ich in der Stadt Eis essen und mit den Boot fahren. Danach werde ich den Rest der Ferien zu Hause verbringen und viel lesen.",
+      "rationale": "Plans with time, company and reasons are linked (weil, außerdem, danach); modal verbs, weil order and werden correct. One case slip (mit den Boot)."
+    },
+    {
+      "n": 56,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "In den Sommerferien will ich jeden Morgen joggen gehen, denn im Herbst möchte ich bei einem Lauf mitmachen. Am Nachmittag werde ich meistens mit Freunden am Strand sein. Wir wollen Volleyball spielen und im Meer schwimmen, wenn es warm genug ist. Ich hoffe, dass der Sommer nicht zu schnell vorbeigeht.",
+      "rationale": "Coherent, motivated plans with time and company; subordinate clauses (wenn, dass) correct, werden used. Relatively varied vocabulary and no significant errors."
+    },
+    {
+      "n": 57,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Diesen Sommer will ich endlich Schlagzeug spielen lernen. Ich werde zweimal pro Woche Unterricht nehmen, weil ich im Herbst in der Schulband spielen möchte. Außerdem wollen meine Freunde und ich im August ein Musikfestival besuchen. Das wird mein erstes Festival, deshalb bin ich schon ein bisschen aufgeregt.",
+      "rationale": "Well-connected text (weil, außerdem, deshalb) with time, company and reasons; modal verbs, werden and weil order correct. Relatively varied vocabulary."
+    },
+    {
+      "n": 58,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "In den Ferien werde ich zwei Wochen den Nachbarn im Garten helfen, weil ich ein bisschen Geld verdienen möchte. Mit dem Geld will ich mir eine gute Kamera kaufen. Danach möchte ich mit meiner Familie ans Meer fahren und dort den Sonnenuntergang fotografieren. Ich finde, fotografieren ist das perfekte Sommerhobby.",
+      "rationale": "Plans are clearly linked and motivated, with company and sequence; werden and weil clause correct. One minor slip (fotografieren lowercase as noun)."
+    },
+    {
+      "n": 59,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Im Sommer möchte ich viel Zeit mit meinem Hund verbringen, weil ich in der Schulzeit oft keine Zeit für ihn habe. Wir wollen lange Spaziergänge im Wald machen und im See schwimmen. Im August will ich außerdem mit Freunden in einen Freizeitpark fahren, denn dort gibt es eine neue Achterbahn. Das wird bestimmt der beste Tag der Ferien!",
+      "rationale": "Coherent, motivated plans with time and company; weil order and modal verbs correct, relatively varied vocabulary. No notable errors."
+    },
+    {
+      "n": 60,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "In den Sommerferien will ich nicht nur zu Hause sitzen, sondern etwas neues ausprobieren. Deshalb möchte ich im Juni mit meinen Freunden einen Kletterkurs machen, weil Klettern gut für Kopf und Körper ist. Im Juli werden wir dann in die Berge fahren und richtig klettern. Ich habe ein bisschen Angst, aber ich glaube, dass es toll wird.",
+      "rationale": "Relatively coherent text with clear sequence and reasons (deshalb, weil, dann, aber); werden and subordinate clause order correct. One minor slip (etwas neues)."
+    }
+  ]
+}

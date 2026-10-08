@@ -1,0 +1,425 @@
+{
+  "assignment_id": "G7-1",
+  "texts": [
+    {
+      "n": 1,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "ich aufstehe sieben. shule",
+      "rationale": "Two fragments; one clock time but no understandable description of the day. Separable verb unsplit, lowercase noun, spelling by ear (shule)."
+    },
+    {
+      "n": 2,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Um acht Uhr Schule. Mathe.",
+      "rationale": "Only two verbless fragments; no description of activities across the day. E criteria not met."
+    },
+    {
+      "n": 3,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Am Wochenende ich spiele Fußball. Ich habe ein Katze, sie ist schwarz. Sie ist klein und sehr lieb.",
+      "rationale": "Misses the task: writes about the weekend and a pet, not a school day, and gives no clock time. Word-order and article errors."
+    },
+    {
+      "n": 4,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "In die Schule ich habe Mathe und Englisch. Mathe ist langweilig. Ich mag Sport und Musik.",
+      "rationale": "Covers only the school part; no morning, no afternoon/evening and no clock time. Simple, understandable sentences with case and word-order errors."
+    },
+    {
+      "n": 5,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "ich morgen stehen sibben uhr und dan ich gehe skola bus. ich ist shule mit fil lesen unt dann hause ich sein spiele",
+      "rationale": "Heavy errors in conjugation, spelling and vocabulary (skola, fil, sein spiele); most of it is very hard to understand. E criteria not met."
+    },
+    {
+      "n": 6,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Uhr sieben ich aufsteh. Frustuck brot ess habe. Dan schule ist aht bis drei gemacht haus haben Fernseh.",
+      "rationale": "Scrambled word order and wrong verb forms make the sequence of the day largely incomprehensible, despite recognisable words."
+    },
+    {
+      "n": 7,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Ich stehe upp klockan sju. Then I go to school and have matte och engelska. Efter skolan jag spelar datorspel.",
+      "rationale": "Mostly Swedish and English; only a few German words. The content is there, but not in German, so E is not met."
+    },
+    {
+      "n": 8,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Um sieben Uhr ich äter frukost. Sen jag går till skolan med bussen. På kvällen ich schaue TV.",
+      "rationale": "Large parts in Swedish with only a few German fragments (Um sieben Uhr, ich schaue TV). E not met."
+    },
+    {
+      "n": 9,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Morgen. Sieben Uhr. Frühstück, Brot. Schule, Mathe, Deutsch. Abend Fernseher.",
+      "rationale": "A genuine attempt with the right content order and a clock time, but only single words strung together with no sentences or verbs."
+    },
+    {
+      "n": 10,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "ich Schule. acht Uhr. Mittag essen Pizza. dann Hause spielen. Hund.",
+      "rationale": "Fragments without conjugated verbs; the day is only hinted at. Falls below the E level of simple understandable sentences."
+    },
+    {
+      "n": 11,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich aufstehe um sieben Uhr und ich esse Brot. Dann ich gehe zu Schule mit meine Fahrrad. In die Schule wir haben Deutsch und Sport, Sport ist kul. Dann ich gehe nach Hause und spiele Computer.",
+      "rationale": "Several activities, one clock time, understandable. Unsplit separable verb, missing inversion after Dann, case errors, Swedish 'kul', repetitive dann."
+    },
+    {
+      "n": 12,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Am Morgen ich stehe um halb sieben auf. Ich trinke Milch und esse Müsli. Dann ich habe Schule bis drei Uhr. Dann ich mache Hausaufgabe und ich fernsehe.",
+      "rationale": "Simple, understandable day with two clock times. Word order after time expressions often wrong, 'ich fernsehe' unsplit, repeated dann; limited vocabulary."
+    },
+    {
+      "n": 13,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Um sieben Uhr ich dusche. Dann ich fahre mit Bus. Die Schule beginnt um acht Uhr, ich habe Mathe und Musik. Nach die Schule ich spiele Gitarre. Am Abend ich schlafe.",
+      "rationale": "Activities through the day with two clock times; understandable. Inversion missing in almost every sentence, article/case errors, short repetitive sentences."
+    },
+    {
+      "n": 14,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich aufwache um sechs Uhr. Ich esse ein Toast und dann ich gehe zu Fuss. In der Schule ist Englisch und Bild, ich mag Bild. Dann ich esse Pasta und ich sehe fern.",
+      "rationale": "Understandable description with one clock time. Separable verb error, missing inversion, Swedish transfer 'Bild' for art, very basic vocabulary."
+    },
+    {
+      "n": 15,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich habe Schule um acht Uhr. Vorher ich esse Frühstück und ich putze Zähne. In Schule ich habe Deutsch, Mathe und Idrott. Nach Schule ich gehe zu schwimmen. Am Abend ich spiele mit meine Katze.",
+      "rationale": "Morning, school and evening covered with one clock time. Missing inversion throughout, missing articles, Swedish 'Idrott', repetitive ich-pattern."
+    },
+    {
+      "n": 16,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Um sieben Uhr ich aufstehe. Dann ich esse und dann ich gehe Schule. Ich habe Lunch um elf Uhr, es gibt Pasta. Dann ich habe Englisch und Geschichte. Dann ich gehe hause.",
+      "rationale": "Simple chronological day with two clock times, understandable. Heavy dann repetition, unsplit separable verb, missing inversion and prepositions, English 'Lunch'."
+    },
+    {
+      "n": 17,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich stehe auf um halb acht, das ist spät! Ich fahre mit Fahrrad zu Schule. In Schule ich lerne Mathe och Biologie. Am Nachmittag ich treffe Freunde und wir spielen Basketball.",
+      "rationale": "Several activities and one clock time; understandable. Separable verb wrongly placed, missing articles and inversion, Swedish 'och'."
+    },
+    {
+      "n": 18,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein Schultag ist lang. Ich aufstehe um sechs Uhr dreissig. Dann Schule, ich habe Deutsch und Kunst. Um vier Uhr ich gehe mit dem Hund spazieren. Dann ich lesen ein Buch.",
+      "rationale": "Two clock times and some activities, understandable. Verbless fragment, unsplit separable verb, missing inversion, wrong conjugation 'ich lesen'."
+    },
+    {
+      "n": 19,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Am Morgen ich esse Joghurt und ich trinke Tee. Die Schule anfangt um Viertel nach acht. Wir haben Musik und Schwedisch. Dann ich spiele Klavier und ich esse Suppe.",
+      "rationale": "Understandable with one clock time; order of the day is loose. Separable verb unsplit and misspelled, missing inversion, repetitive 'und ich'."
+    },
+    {
+      "n": 20,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich stehe um sieben auf und dusche. Dann ich gehe zu die Bushaltestelle. Die Schule ist fertig um zwei Uhr. Dann ich habe Handball Training und dann ich esse und schlafe.",
+      "rationale": "Two clock times, simple understandable sentences. Missing inversion after Dann, case error, Swedish-like 'ist fertig', heavy dann repetition."
+    },
+    {
+      "n": 21,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Um sieben Uhr stehe ich auf. Dann ich esse Frühstück und fahre mit dem Bus zur Schule. Die Schule beginnt um acht Uhr, wir haben Mathe und Englisch. Um drei Uhr ich komme nach Hause und mache Hausaufgaben. Am Abend ich spiele Computerspiele.",
+      "rationale": "Chronological with three clock times; clear. One correct separable verb and inversion, but inversion missing in several sentences; vocabulary still repetitive."
+    },
+    {
+      "n": 22,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich aufstehe um halb sieben und ich dusche. Um halb acht gehe ich zu Schule, es ist nicht weit. In der Pause ich spiele Fussball mit Freunde. Nach der Schule ich gehe zum Schwimmen um fünf Uhr.",
+      "rationale": "Three clock times in order, clear. Inversion correct once, separable verb unsplit, missing inversion, dative plural error."
+    },
+    {
+      "n": 23,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Morgen stehe ich um sechs Uhr auf, das ist sehr früh. Ich esse Brot mit Käse und trinke Saft. Um acht Uhr habe ich Deutsch, das mag ich. Nach die Schule ich gehe nach Hause und ich fernsehe. Ich schlafe um zehn Uhr.",
+      "rationale": "Clear chronological day with four clock times and some correct inversion, but case error, missing inversion and unsplit 'fernsehe' in the afternoon part."
+    },
+    {
+      "n": 24,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Um Viertel vor sieben mein Wecker klingelt. Ich stehe auf und esse Müsli. Dann ich fahre mit Fahrrad zu Schule, die Schule beginnt um acht. Wir essen Mittag um elf Uhr dreißig, heute gibt es Pizza. Am Nachmittag ich habe Kunst, das ist kul.",
+      "rationale": "Three clock times, clear order, somewhat varied content. Inversion often missing, missing articles, Swedish 'kul'."
+    },
+    {
+      "n": 25,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich wache um sieben Uhr auf aber ich aufstehe um Viertel nach sieben. Ich esse eine Banane und gehe zur Bushaltestelle. In der Schule haben wir Mathe, Sport und Werken. Um zwei Uhr ist die Schule aus und ich spiele Unihockey.",
+      "rationale": "Three clock times, clear sequence. Separable verbs inconsistent (aufwachen right, aufstehen wrong), missing comma; otherwise mostly correct but little on the evening."
+    },
+    {
+      "n": 26,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Tag beginnt um sechs Uhr dreißig. Dann ich duschen und esse Frühstück. Um acht Uhr bis zwei Uhr bin ich in der Schule. Danach ich gehe zu meine Freunde und wir spielen Videospiele. Am Abend ich lese und schlafe um halb zehn.",
+      "rationale": "Four clock times, chronological and clear with some time words. Conjugation error 'ich duschen', missing inversion after Dann/Danach/Am Abend, case error."
+    },
+    {
+      "n": 27,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Um sieben Uhr ich aufstehe und ziehe mich an. Ich frühstücke schnell und dann gehe ich zu Fuß zur Schule. Die erste Stunde ist Geschichte um acht Uhr, sie ist ein bisschen langweilig. Um vier Uhr habe ich Klavierunterricht und am Abend esse ich Pasta.",
+      "rationale": "Three clock times, clear order, several correct inversions. The first sentence has an unsplit separable verb and wrong order; vocabulary fairly varied."
+    },
+    {
+      "n": 28,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich stehe um sechs Uhr auf und gehe mit der Hund raus. Dann ich esse Toast mit Marmelade. Um Viertel nach acht fängt die Schule an. Wir haben heute Bio und Englisch. Um drei Uhr ich gehe nach Hause und mache mein Hausaufgaben.",
+      "rationale": "Three clock times, clear sequence, one correctly split separable verb. Gender/case errors, inversion missing twice, possessive ending error."
+    },
+    {
+      "n": 29,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Um halb sieben klingelt der Wecker, aber ich bin müde. Ich aufstehe um sieben Uhr und dusche. In der Schule wir haben Mathe und Chemie, Chemie ist schwer. Nach die Schule um drei Uhr ich gehe zum Klettern.",
+      "rationale": "Three clock times and a clear order; first sentence correct. Unsplit separable verb, inversion missing twice, case error; the evening is not covered."
+    },
+    {
+      "n": 30,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Morgen um sieben Uhr ich esse Frühstück, Eier und Brot. Dann fahre ich mit dem Bus, es dauert zwanzig Minuten. Die Schule ist von acht bis halb drei. Am Abend ich sehe fern und ich spiele Schach mit meine Familie.",
+      "rationale": "Three clock times, chronological and clear, some correct forms (fahre ich, sehe fern). Inversion missing twice, case error, repeated 'und ich'."
+    },
+    {
+      "n": 31,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Um sieben Uhr stehe ich auf und dusche. Dann esse ich Frühstück, meistens Müsli mit Milch. Die Schule fängt um acht Uhr an. Wir haben Mathe, Deutsch und Sport. Um halb vier ich komme nach Hause und dann spiele ich Gitarre.",
+      "rationale": "Chronological with three clock times; separable verbs and inversion mostly correct, one inversion slip. Time words limited to dann."
+    },
+    {
+      "n": 32,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich stehe um Viertel nach sechs auf. Um sieben Uhr fahre ich mit dem Bus zur Schule. In der Schule habe ich heute Englisch und Musik, Musik ist mein Lieblingsfach. Nach der Schule gehe ich zum Fussballtraining. Um neun Uhr gehe ich ins Bett.",
+      "rationale": "Clear chronological day with three clock times, correct verbs and inversion. Sentences fairly simple and list-like, little variation of time expressions."
+    },
+    {
+      "n": 33,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Wecker klingelt um halb sieben. Dann stehe ich auf und esse ein Brot mit Käse. Die Schule beginnt um acht Uhr und endet um drei Uhr. Dann ich gehe mit dem Hund spazieren und mache Hausaufgaben.",
+      "rationale": "Four clock times in order; clear. Separable verb and inversion mostly right, one inversion slip; dann repeated, evening only implied."
+    },
+    {
+      "n": 34,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Um sieben Uhr wache ich auf, aber ich stehe um zehn nach sieben auf. Ich fahre mit dem Fahrrad zur Schule, das dauert zehn Minuten. Um elf Uhr essen wir Mittag in der Kantine, oft gibt es Suppe. Am Nachmittag ich habe Sport und dann fahre ich nach Hause. Am Abend sehe ich fern.",
+      "rationale": "Three clock times, clear sequence, correct separable verbs, somewhat varied vocabulary. One inversion error; loosely connected."
+    },
+    {
+      "n": 35,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich stehe um sechs Uhr dreißig auf und ziehe mich an. Um sieben Uhr frühstücke ich, ich esse Pfannkuchen oder Brot. Dann gehe ich zu Fuß zur Schule. In der Schule haben wir Werken und Mathe, Werken macht Spaß. Um vier Uhr ich treffe meine Freunde im Park.",
+      "rationale": "Three clock times in order, mostly correct verbs and separable verbs. One inversion slip; little on the evening, limited connectors."
+    },
+    {
+      "n": 36,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Um Viertel vor acht fahre ich mit dem Bus. Die Schule beginnt um halb neun, das ist gut, ich kann lange schlafen. Heute haben wir Geschichte und Biologie. Um zwei Uhr ist die Schule aus und dann ich gehe zum Schwimmen. Am Abend esse ich Pasta und lese ein Buch.",
+      "rationale": "Three clock times, clear order from morning to evening. Verbs mostly correct, one inversion error; comma-spliced sentence, few connectors."
+    },
+    {
+      "n": 37,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich aufstehe um sieben Uhr und dusche schnell. Dann esse ich Joghurt und trinke Kakao. Die erste Stunde beginnt um acht Uhr, wir haben Deutsch. Nach der Schule spiele ich Basketball von vier bis fünf Uhr. Dann mache ich Hausaufgaben und gehe ins Bett.",
+      "rationale": "Four clock times, clear chronological day, inversion correct. One unsplit separable verb; time words mostly dann."
+    },
+    {
+      "n": 38,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Am Morgen stehe ich um halb sieben auf. Ich frühstücke mit meiner Familie und dann fahre ich mit dem Fahrrad. Um Viertel nach acht haben wir Mathe, das finde ich schwer. Nach der Schule zeichne ich oder spiele Computer. Um zehn Uhr schlafe ich.",
+      "rationale": "Three clock times, clear and correct separable verb and inversion. Simple sentences with limited variation; 'spiele Computer' is a small slip."
+    },
+    {
+      "n": 39,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Um sieben Uhr klingelt mein Wecker. Ich stehe auf und esse ein Toast. Die Schule fängt um acht an und wir haben Englisch, Musik und Chemie. In der Mittagspause spiele ich Tischtennis mit Freunden. Um halb vier gehe ich nach Hause und sehe fern.",
+      "rationale": "Three clock times, clear sequence, separable verbs correct. Minor article slip (ein Toast); structure repetitive, no varied connectors."
+    },
+    {
+      "n": 40,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich stehe um sechs Uhr auf, weil ich habe Training. Um halb sieben gehe ich joggen. Dann esse ich Frühstück und gehe zur Schule um acht Uhr. In der Schule ist es heute langweilig, wir haben nur Mathe und Schwedisch. Am Abend höre ich Musik und chatte mit Freunden.",
+      "rationale": "Four clock times, clear chronological day, inversion mostly right. Main-clause order in weil clause, time phrase placement slightly off; connectors limited."
+    },
+    {
+      "n": 41,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Um halb sieben klingelt mein Wecker und ich stehe sofort auf. Zuerst dusche ich und danach ich esse Müsli mit Banane. Um acht Uhr fängt die Schule an, heute haben wir Mathe und Englisch. Nach der Schule gehe ich zum Handballtraining. Am Abend mache ich meine Hausaufgaben und um zehn Uhr schlafe ich.",
+      "rationale": "Detailed chronological day with three clock times and varied time words (zuerst, danach, am Abend). Separable verbs correct; one inversion slip after danach."
+    },
+    {
+      "n": 42,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich stehe jeden Tag um sieben Uhr auf. Zuerst ziehe ich mich an und dann frühstücke ich, meistens Brot mit Käse. Um halb acht fahre ich mit der Fahrrad zur Schule. Die Schule ist um drei Uhr aus, danach ich treffe Freunde in der Stadt. Am Abend lese ich oder höre Musik.",
+      "rationale": "Varied time expressions, four clock times, mostly correct reflexive and separable verbs. Gender error and one inversion slip; coherence good but not quite A."
+    },
+    {
+      "n": 43,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Schultag beginnt früh, um sechs Uhr fünfundvierzig. Zuerst gehe ich ins Bad, dann esse ich Joghurt und trinke Tee. Um Viertel vor acht nehme ich den Bus zur Schule. Wir haben heute Sport und Geschichte, Sport gefällt mir sehr. Nach der Schule ich spiele Volleyball und am Abend sehe ich bis neun Uhr fern.",
+      "rationale": "Clear, fairly connected day with varied time words and three clock times. One missing inversion; otherwise correct and fairly varied vocabulary."
+    },
+    {
+      "n": 44,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Um sieben Uhr stehe ich auf und putze meine Zähne. Danach frühstücke ich schnell, weil ich spät bin. Die erste Stunde beginnt um acht Uhr, wir haben Deutsch. In der Mittagspause um elf Uhr essen wir Pasta in der Kantine. Am Nachmittag habe ich Musik und am Abend übe ich Klavier.",
+      "rationale": "Detailed day with four clock times and varied time words; correct inversion and a weil clause. Lexical slip 'spät' for 'zu spät'; ending slightly list-like."
+    },
+    {
+      "n": 45,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Am Morgen wache ich um halb sieben auf und höre ein bisschen Radio. Dann stehe ich auf und esse Pfannkuchen, das ist mein Lieblingsfrühstück. Um acht Uhr beginnt die Schule. Nach der Schule um drei Uhr fahre ich nach Hause und spiele mit meiner Katze. Später ich sehe fern und gehe um zehn ins Bett.",
+      "rationale": "Four clock times, varied time words (am Morgen, dann, später), correct separable verbs. One inversion error after 'Später'; school part thin."
+    },
+    {
+      "n": 46,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich stehe um Viertel nach sechs auf, weil der Bus um sieben Uhr kommt. Im Bus höre ich Musik und schlafe ein bisschen. Die Schule dauert von acht bis zwei Uhr, am Montag haben wir Mathe und Werken. Danach gehe ich schwimmen und am Abend ich esse mit meiner Familie.",
+      "rationale": "Correct weil clause, four clock times, fairly connected. One inversion slip in the last sentence; time variation good but evening brief."
+    },
+    {
+      "n": 47,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Wecker klingelt um sieben Uhr. Ich stehe auf, ziehe mich an und esse ein Brot. Um halb acht gehe ich los, die Schule ist nah. In der Schule haben wir heute Biologie und Englisch, es ist interessant. Nach der Schule um vier Uhr ich gehe zum Klettern, das mache ich gern.",
+      "rationale": "Three clock times, correct separable and reflexive verbs, clear and fairly varied. One inversion error; few explicit connectors like zuerst/danach."
+    },
+    {
+      "n": 48,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Um sechs Uhr steht ich auf, das ist früh! Danach dusche ich und frühstücke, ich esse Eier und trinke Saft. Um acht Uhr beginnt die erste Stunde, heute Kunst. Am Nachmittag spiele ich Schach im Club und um sieben Uhr esse ich Abendessen.",
+      "rationale": "Four clock times, varied time words, inversion consistently correct. Conjugation slip 'steht ich' and slightly awkward 'esse Abendessen'."
+    },
+    {
+      "n": 49,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Tag fängt um halb sieben an. Zuerst dusche ich, dann frühstücke ich. Um Viertel vor acht fahre ich mit dem Bus zur Schule und treffe meine Freunde. Wir haben heute Mathe, Chemie und Sport. Nach der Schule mache ich Hausaufgaben und am Abend ich spiele Videospiele bis neun Uhr.",
+      "rationale": "Well-ordered day with zuerst/dann/nach der Schule/am Abend and three clock times. One inversion slip; school sentence plain."
+    },
+    {
+      "n": 50,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Um sieben Uhr stehe ich auf, aber ich bin noch sehr müde. Danach frühstücke ich, meistens Toast mit Marmelade. Die Schule fängt um acht Uhr an und hört um halb drei auf. Nach der Schule gehe ich joggen oder ich backe ein Kuchen. Am Abend sehe ich fern und gehe um halb zehn ins Bett.",
+      "rationale": "Detailed and fairly connected, four clock times, two separable verbs correctly split. Minor case slip 'ein Kuchen'; time-word variety slightly limited."
+    },
+    {
+      "n": 51,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "An einem normalen Schultag stehe ich um halb sieben auf. Zuerst dusche ich, dann frühstücke ich schnell, meistens Müsli mit Joghurt. Um halb acht fahre ich mit dem Fahrrad zur Schule, und um acht Uhr beginnt die erste Stunde. Nach der Schule gehe ich zum Fußballtraining, weil ich Fußball sehr gern spiele. Am Abend mache ich meine Hausaufgaben und um zehn Uhr gehe ich ins Bett.",
+      "rationale": "Detailed, connected day with four clock times and varied time words; separable verbs, inversion and weil clause correct. No errors."
+    },
+    {
+      "n": 52,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Wecker klingelt jeden Morgen um Viertel nach sechs, aber ich stehe erst um halb sieben auf. Danach ziehe ich mich an und esse ein Brot mit Käse. Um halb acht nehme ich den Bus, und in der Schule haben wir heute Englisch, Mathe und Musik. In der Mittagspause um elf Uhr esse ich mit meinen Freunden in der Kantine. Am Nachmittag treffe ich Freunde im Jugendzentrum, und am Abend lese ich noch ein bisschen.",
+      "rationale": "Four clock times, varied time expressions, correct separable/reflexive verbs and inversion; coherent. Small repetition of 'Freunde'."
+    },
+    {
+      "n": 53,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Um sieben Uhr stehe ich auf und gehe zuerst mit unserem Hund spazieren. Danach frühstücke ich, meistens Toast und einen Apfel. Die Schule fängt um Viertel nach acht an, und am Dienstag haben wir zuerst Deutsch und dann Sport. Um drei Uhr komme ich nach Hause und ruhe mich ein bisschen aus. Am Abend sehe ich fern oder spiele Karten mit meiner Familie.",
+      "rationale": "Coherent, detailed day with three clock times and varied time words; separable and reflexive verbs correct throughout."
+    },
+    {
+      "n": 54,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Um sechs Uhr stehe ich auf, denn ich gehe vor der Schule schwimmen. Danach fahre ich mit dem Bus zur Schule, und um acht Uhr fängt der Unterricht an. In der Pause reden wir oft oder spielen Basketball, das macht viel Spaß. Am Nachmittag habe ich Biologie, mein Lieblingsfach. Um halb neun esse ich noch etwas und dann gehe ich schlafen.",
+      "rationale": "Three clock times, connected with denn/danach/am Nachmittag, correct word order and separable verbs; fairly varied vocabulary for A1.2."
+    },
+    {
+      "n": 55,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ein normaler Schultag beginnt für mich um sieben Uhr. Zuerst stehe ich auf, dusche und ziehe mich an, dann esse ich Pfannkuchen oder Brot. Um Viertel vor acht gehe ich zu Fuß zur Schule, das dauert nur zehn Minuten. Nach der Schule um halb drei gehe ich zum Chor. Am Abend koche ich manchmal Pasta und danach sehe ich einen Film.",
+      "rationale": "Detailed chronological account with four clock times and varied time words; all verbs and word order correct; coherent."
+    },
+    {
+      "n": 56,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Um halb sieben klingelt mein Wecker, aber ich bin immer sehr müde. Deshalb bleibe ich noch zehn Minuten im Bett und stehe erst um zwanzig vor sieben auf. Zuerst frühstücke ich, dann fahre ich mit dem Fahrrad zur Schule. Von acht bis drei Uhr habe ich Unterricht, heute Mathe, Werken und Geschichte. Am Abend spiele ich Computerspiele und um halb zehn gehe ich ins Bett.",
+      "rationale": "Five clock times, connectors deshalb/zuerst/dann, correct inversion and separable verbs throughout; relatively coherent."
+    },
+    {
+      "n": 57,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Jeden Morgen stehe ich um Viertel vor sieben auf und trinke zuerst ein Glas Wasser. Danach esse ich Haferbrei mit Beeren. Die Schule beginnt um halb neun, deshalb habe ich morgens viel Zeit. Nach dem Unterricht gehe ich zum Volleyballtraining, das um vier Uhr anfängt. Am Abend lese ich im Bett, bis ich müde bin.",
+      "rationale": "Three clock times, varied time words and simple correct subordinate clauses; coherent and accurate. Relative clause within A1.2 range."
+    },
+    {
+      "n": 58,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Schultag fängt früh an, denn ich stehe schon um sechs Uhr auf. Zuerst füttere ich meine Katze, dann dusche ich und esse ein Brot. Um sieben Uhr fahre ich mit dem Bus, und die Fahrt dauert eine halbe Stunde. In der Schule haben wir heute Englisch und Kunst, Kunst finde ich toll. Nach der Schule mache ich schnell meine Hausaufgaben, danach treffe ich Freunde, und um zehn Uhr schlafe ich.",
+      "rationale": "Three clock times, zuerst/dann/danach, correct separable verbs and inversion, coherent account; varied vocabulary for the level."
+    },
+    {
+      "n": 59,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Um sieben Uhr stehe ich auf und ziehe mich schnell an. Danach frühstücke ich mit meiner Familie, meistens gibt es Brot und Obst. Um halb acht gehe ich los, weil die Schule um acht Uhr anfängt. Am Nachmittag haben wir Musik, und nach der Schule übe ich zu Hause Schlagzeug. Später sehe ich fern und um zehn Uhr gehe ich ins Bett.",
+      "rationale": "Four clock times, correct weil clause with separable verb at the end, varied time words; accurate and coherent."
+    },
+    {
+      "n": 60,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Normalerweise stehe ich um zwanzig nach sieben auf, weil ich nicht weit von der Schule wohne. Zuerst esse ich ein Brot, dann gehe ich zu Fuß zur Schule. Um acht Uhr beginnt der Unterricht, und in der Mittagspause spielen wir Fussball auf dem Schulhof. Um drei Uhr ist die Schule aus, danach lerne ich in der Bibliothek für den Mathetest. Am Abend esse ich mit meiner Familie und sehe fern.",
+      "rationale": "Three clock times, weil clause and varied time words, correct word order; coherent. Only slip is 'ss' for 'ß'."
+    }
+  ]
+}

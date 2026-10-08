@@ -1,0 +1,425 @@
+{
+  "assignment_id": "G7-3",
+  "texts": [
+    {
+      "n": 1,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Sommer ist bra. warm",
+      "rationale": "Only a fragment naming the season plus one weather word; Swedish 'bra'. No full sentence, no activity; E not met."
+    },
+    {
+      "n": 2,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Winter. Ich liebe.",
+      "rationale": "Two fragments; names the season but nothing about weather or activity, incomplete verb phrase. E not met."
+    },
+    {
+      "n": 3,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Ich habe eine katze und sie ist schwarz. Ich mag katze.",
+      "rationale": "Misses the task: writes about a pet instead of a season. No season, weather or activity. E not met."
+    },
+    {
+      "n": 4,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Frühling. Frühling ist mein lieblingsjahreszeit. Ich mag frühling fil.",
+      "rationale": "Only names the season, repeated three times; no weather or activity. Spelling by ear ('fil'), lowercase nouns. E not met."
+    },
+    {
+      "n": 5,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Herbst ich bin regen machen und gehen shule ja bläter fallt gut mir",
+      "rationale": "Word salad; a season and some words are recognisable but the sentence cannot be understood even with goodwill. E not met."
+    },
+    {
+      "n": 6,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Sommer ich ist baden hat sonne das mir gut spielt see sehr fiel",
+      "rationale": "Heavy errors throughout: no clear subject-verb structure, random word order. Not understandable as a sentence. E not met."
+    },
+    {
+      "n": 7,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Min favorit årstid är sommar. Es ist warm och jag badar i sjön. It is very fun.",
+      "rationale": "Mostly Swedish and English; only 'Es ist warm' is German. Content points present but not in German. E not met."
+    },
+    {
+      "n": 8,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "My favourite season is winter because snow. Ich fahre skidor och åker pulka. Kalt.",
+      "rationale": "Largely English and Swedish with a few German words ('Ich fahre', 'Kalt'). Not a German text; E not met."
+    },
+    {
+      "n": 9,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Winter. Kalt. Schnee. Ski. gut.",
+      "rationale": "Genuine attempt but only single words strung together; no sentences. E requires simple understandable sentences."
+    },
+    {
+      "n": 10,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Herbst regen. ich fussball. blätter gelb rot. mag",
+      "rationale": "Fragments without verbs or with missing objects; the ideas can be guessed but there are no functioning sentences. Below E."
+    },
+    {
+      "n": 11,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Meine lieblings jahreszeit ist Sommer. Es ist warm und sonne. Ich mag sommer fil.",
+      "rationale": "Names the season and the weather (E met). No activity, no real reason; lowercase nouns, 'fil' for viel, 'und sonne' without verb. C clearly not met."
+    },
+    {
+      "n": 12,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich mag Winter. Im winter ich fahre ski. Ich spiele mit freunde im schnee.",
+      "rationale": "Season and activity (E met). No weather, no reason. V2 error ('Im winter ich fahre'), lowercase nouns, missing dative ending."
+    },
+    {
+      "n": 13,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein lieblingsjahreszeit ist Herbst. Es regnet fil und es ist kalt. Die bläter ist rot und gelb.",
+      "rationale": "Season and weather (E met); no activity or reason. Article gender, 'fil', subject-verb agreement ('bläter ist')."
+    },
+    {
+      "n": 14,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Frühling ist mein lieblingsjahreszeit. Ich spiele fussball draussen. Ich spiele mit mein freunde. Es ist gut.",
+      "rationale": "Season and activity (E met), repetitive 'Ich spiele'. No weather; 'Es ist gut' is not a real reason. Article/case errors, lowercase nouns."
+    },
+    {
+      "n": 15,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich mag Sommer. Die sonne scheinen och es ist heiss. Ich esse eis. Ich esse eis jeden tag.",
+      "rationale": "Season, weather and an activity, but no reason and very repetitive; Swedish 'och', verb agreement error ('die sonne scheinen'). Understandable with goodwill; C not met."
+    },
+    {
+      "n": 16,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Winter ist meine lieblingsjahreszeit. Es ist kalt und es schneit. Ich habe kalt.",
+      "rationale": "Season and weather (E met). No activity, no reason. Transfer error 'Ich habe kalt'. Very simple vocabulary."
+    },
+    {
+      "n": 17,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich liebe herbst. In herbst ich gehe in wald. Ich finde pilze und es ist kul.",
+      "rationale": "Season and activity (E met), no weather. Word order error, missing articles, Swedish 'kul'. The reason is only 'kul'; C not met."
+    },
+    {
+      "n": 18,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Meine lieblingjahreszeit ist Frühling. Die blumen kommt und die vögel singen. Es ist nicht kalt.",
+      "rationale": "Season and simple weather (E met). No activity, no reason. Agreement error ('blumen kommt'), lowercase nouns."
+    },
+    {
+      "n": 19,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Sommer ist bäst. Ich spielen tennis und ich bade. Wir hat ferien.",
+      "rationale": "Season and activities (E met). No weather; Swedish 'bäst', verb conjugation errors ('ich spielen', 'wir hat'). Understandable with goodwill."
+    },
+    {
+      "n": 20,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein lieblings jahreszeit ist winter. Ich fahre schlittschu auf der see. Es ist sehr kalt men ok.",
+      "rationale": "Season, activity and weather at a very basic level; no real reason. Swedish 'men', misspelling, article/gender ('der see'). C not met."
+    },
+    {
+      "n": 21,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist der Sommer. Im Sommer ist es warm und die sonne scheint. Ich schwimme im meer und spiele volleyball. Es ist sehr kul.",
+      "rationale": "Season, weather and activity all present and clear. Reason is only 'sehr kul' (Swedish), so the motivation is weak; some lowercase nouns. C mostly met."
+    },
+    {
+      "n": 22,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich mag Winter. Im Winter es schneit viel und es ist kalt. Ich fahre ski in die Berge. Ich mag Winter weil es ist schön.",
+      "rationale": "All four points, but word order errors in main and subordinate clause, reason very general. Vocabulary basic and repetitive ('Ich mag Winter'). C mostly met."
+    },
+    {
+      "n": 23,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist Herbst. Es regnet oft und es ist windig. Ich lesen bücher und trinke tee zu hause. Das ist gemütlich.",
+      "rationale": "Season, weather and activity clear; brief reason ('gemütlich'). Verb error ('ich lesen') and lowercase nouns. Close to C but not quite."
+    },
+    {
+      "n": 24,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Frühling ist mein Lieblingsjahreszeit. Es ist nicht so kalt und die sonne scheint mehr. Ich fahre mit dem Fahrrad zu die Schule. Ich mag das.",
+      "rationale": "All content except a real reason ('Ich mag das' is vague). Article/case errors ('mein Lieblingsjahreszeit', 'zu die Schule'). C mostly met."
+    },
+    {
+      "n": 25,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Lieblingsjahreszeit ist Sommer, denn wir haben Sommerferien. Es ist warm. Ich spiele fussball und ich gehe schwimmen mit meine freunde.",
+      "rationale": "All points including a simple 'denn' reason. Weather is minimal, several case/capitalisation errors. C mostly but not fully met."
+    },
+    {
+      "n": 26,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich finde Winter am besten. Es ist kalt und weiss. Ich spielen eishockey und ich mache schneeballschlacht. Das macht spass.",
+      "rationale": "All points, simple reason. Verb conjugation error ('ich spielen'), missing article, lowercase nouns. Understandable but not yet relatively clear throughout."
+    },
+    {
+      "n": 27,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist der Herbst. Es ist kühl und es gibt viel wind. Ich habe herbstferien und ich spiele computerspiele. Die Bäume ist so schön.",
+      "rationale": "Season, weather and activity; reason implied by 'Die Bäume ist so schön'. Agreement error, lowercase nouns, 'und ich' repetition. C mostly met."
+    },
+    {
+      "n": 28,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich mag Frühling. Im Frühling es ist wärmer und die Blumen kommen. Ich gehe in den Park und spiele Basketball. Ich mag Frühling weil alles ist grün.",
+      "rationale": "All points present with a simple reason. Word order errors after 'Im Frühling' and in the 'weil' clause, repetitive opening. C mostly met."
+    },
+    {
+      "n": 29,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist Sommer. Es ist heiss und manchmal es regnet. Ich fahre aufs Land und ich angeln im See. Es ist ruhig und schön.",
+      "rationale": "All points with a short reason. V2 error ('manchmal es regnet'), conjugation error ('ich angeln'). Slightly varied vocabulary. C mostly met."
+    },
+    {
+      "n": 30,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Winter ist meine Lieblingsjahreszeit. Es ist dunkel und kalt aber es schneit. Ich fahre schlitten mit meine Freunde. Ich liebe schnee.",
+      "rationale": "Season, weather, activity and a simple reason. Case error ('mit meine Freunde'), lowercase nouns, missing comma. C mostly met."
+    },
+    {
+      "n": 31,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist der Sommer. Im Sommer ist es warm und die Sonne scheint oft. Ich gehe schwimmen und esse viel Eis. Ich mag den Sommer, weil wir haben Ferien.",
+      "rationale": "All four points with a simple reason. Weather expressions and verbs correct; only error is main-clause order in the 'weil' clause. No real linking beyond that; A not met."
+    },
+    {
+      "n": 32,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich mag den Winter am liebsten. Es ist kalt und es schneit viel. Im Winter fahre ich Ski und gehe Schlittschuh laufen. Ich mag Winter denn Schnee ist so schön.",
+      "rationale": "All points, simple 'denn' reason. Mostly correct; missing article and comma. Sentences are separate rather than connected; A not met."
+    },
+    {
+      "n": 33,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist Herbst. Es ist oft windig und es regnet manchmal. Ich gehe mit meine Hund im Wald spazieren. Ich mag Herbst, weil die Blätter so bunt sind.",
+      "rationale": "All points, correct weather expressions, simple reason. One case error ('mit meine Hund'). Vocabulary somewhat varied. A not met: little cohesion, no 'man kann'."
+    },
+    {
+      "n": 34,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Der Frühling ist meine Lieblingsjahreszeit. Es wird wärmer und die Sonne scheint mehr. Ich spiele Fussball draussen nach der Schule. Ich finde Frühling toll, denn die Vögel singen.",
+      "rationale": "All points and a simple reason, relatively clear. Slightly Swedish-like word order ('Fussball draussen'). A not met: points mostly listed."
+    },
+    {
+      "n": 35,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich liebe den Sommer. Das Wetter ist schön und warm. Ich fahre oft Fahrrad und im Juli fahren wir ans Meer. Das ist toll, weil ich mag baden.",
+      "rationale": "All points; simple reason with main-clause order in the 'weil' clause. Otherwise correct verbs and weather. Limited linking; A not met."
+    },
+    {
+      "n": 36,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist Winter. Im Winter ist es kalt und es schneit. Ich baue einen Schneemann und am Abend trinke ich heiße Schokolade. Ich mag Winter, weil es ist gemütlich.",
+      "rationale": "All points with a simple reason. Correct weather expressions and verbs; word order error in 'weil' clause. Somewhat varied vocabulary."
+    },
+    {
+      "n": 37,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich mag den Herbst. Im Herbst ist es kühl und oft grau. Ich sammle Äpfel und backe Apfelkuchen. Herbst ist toll, denn es ist nicht so heiss wie im Sommer.",
+      "rationale": "All points, simple reason with 'denn'. Essentially correct, vocabulary somewhat varied. A not met: no 'man kann', little connection between points."
+    },
+    {
+      "n": 38,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist Frühling. Im April und Mai scheint die Sonne mehr und es ist nicht so kalt. Ich fahre Skateboard und treffe meine Freunde. Ich mag Frühling, weil die Tage lang sind.",
+      "rationale": "All points with a correct 'weil' reason. Relatively clear, few errors (missing article). Sentences are listed rather than linked."
+    },
+    {
+      "n": 39,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Sommer ist meine Lieblingsjahreszeit. Es ist heiß und sonnig. Ich spiele Tennis und ich gehe an den See. Ich mag Sommer, denn ich habe keine Schule.",
+      "rationale": "All points and a simple reason. Correct verbs and weather, but simple and a bit repetitive ('und ich'). A not met."
+    },
+    {
+      "n": 40,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich finde den Winter am besten. Es ist kalt und manchmal gibt es viel Schnee. In den Winterferien fahren wir in die Berge und ich fahre Snowboard. Das macht sehr Spaß.",
+      "rationale": "All points, simple reason. Mostly correct; transfer error 'sehr Spaß'. Somewhat varied vocabulary but little linking; A not met."
+    },
+    {
+      "n": 41,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist der Sommer, denn dann haben wir lange Ferien. Das Wetter ist meistens warm und die Sonne scheint bis spät am Abend. Man kann schwimmen, Eis essen und draussen schlafen. Manchmal regnet es aber, und dann spiele ich Karten mit meine Familie.",
+      "rationale": "All points, linked with 'denn' and 'aber', correct 'man kann'. One case error ('mit meine Familie'). Mostly coherent; A mostly met."
+    },
+    {
+      "n": 42,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich mag den Winter am liebsten. Es ist kalt und es schneit oft, aber ich finde das schön. Im Winter kann man Ski fahren und Schlittschu laufen. Ich fahre auch gern Schlitten mit meinen Freunden, denn es macht viel Spaß.",
+      "rationale": "All points connected with 'aber', 'auch', 'denn'; 'man kann' correct. One spelling slip. Vocabulary fairly varied, reason fairly simple; A mostly met."
+    },
+    {
+      "n": 43,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist der Herbst. Es ist oft windig und es regnet viel, aber die Bäume sind rot und gelb. Man kann im Wald Pilze sammeln und das mache ich gern. Ich mag den Herbst auch, denn es ist gemütlich zu Hause mit Kerzen.",
+      "rationale": "All points with connectors, correct 'man kann'. Largely correct; slightly awkward phrasing at the end. A mostly met."
+    },
+    {
+      "n": 44,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Der Frühling ist meine Lieblingsjahreszeit, denn alles wird wieder grün. Es ist nicht mehr so kalt und die Sonne scheint öfter. Man kann wieder draußen Fahrrad fahren und Fussball spielen. Ich finde auch die Vögel schön, sie singen jeden Morgen.",
+      "rationale": "All points, linked with 'denn' and 'auch'; 'man kann' correct. Comma splice in last sentence. A mostly met, cohesion slightly uneven."
+    },
+    {
+      "n": 45,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich liebe den Sommer. Im Sommer ist es warm und sonnig, aber manchmal gibt es Gewitter. Wir fahren oft an den See und dort kann man baden und angeln. Ich mag den Sommer, denn ich kann lange schlafen.",
+      "rationale": "All points with 'aber', 'denn', 'man kann'. Correct and relatively clear; reason simple, repeats 'Sommer'. A mostly met."
+    },
+    {
+      "n": 46,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist Winter, denn ich liebe Schnee. Im Januar ist es sehr kalt, manchmal minus zwanzig Grad. Man kann Schneemänner bauen oder Eishockey auf dem See spielen. Es ist aber auch sehr dunkel, und das mag ich nicht so.",
+      "rationale": "All points, contrast with 'aber', 'man kann' correct. Missing article ('ist Winter'), otherwise correct. Fairly varied; A mostly met."
+    },
+    {
+      "n": 47,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich mag den Herbst, denn es ist nicht zu warm und nicht zu kalt. Die Blätter fallen und der Wind ist stark. In den Herbstferien gehe ich oft ins Kino oder ich lese ein Buch. Man kann auch Drachen steigen lassen, das ist lustig.",
+      "rationale": "All points linked with 'denn', 'auch'; 'man kann' correct. Slight comma splice, otherwise correct. A mostly met."
+    },
+    {
+      "n": 48,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist der Frühling. Das Wetter ist oft schön, aber manchmal regnet es noch. Nach der Schule spiele ich Basketball mit meinen Freunden im Park. Ich mag Frühling, denn die Tage werden länger und man kann lange draussen sein.",
+      "rationale": "All points connected with 'aber' and 'denn'; 'man kann' correct. Missing article in last sentence. A mostly met."
+    },
+    {
+      "n": 49,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Sommer ist meine Lieblingsjahreszeit. Es ist heiß und die Sonne scheint fast jeden Tag. Man kann am Strand liegen, Volleyball spielen oder Pommes essen. Ich mag den Sommer, denn ich habe viel Zeit für mein Hobbys.",
+      "rationale": "All points, 'man kann' and 'denn' correct. One ending error ('mein Hobbys'). Varied vocabulary, but limited linking between weather and activities; A mostly met."
+    },
+    {
+      "n": 50,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Im Winter ist es kalt und es schneit viel, aber ich mag das. Winter ist meine Lieblingsjahreszeit, denn man kann Ski fahren. Wir fahren im Februar in die Berge. Abends trinke ich Tee und schaue Filme, das ist sehr gemütlich.",
+      "rationale": "All points with connectors and correct 'man kann'. Order of ideas slightly jumpy (season named second), otherwise correct. A mostly met."
+    },
+    {
+      "n": 51,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist der Sommer, denn dann ist es warm und hell. Die Sonne scheint oft bis zehn Uhr am abend, aber manchmal regnet es auch. Im Sommer kann man im See schwimmen, Fahrrad fahren und draußen grillen. Ich mag den Sommer auch, weil ich dann viel Zeit für meine Freunde habe.",
+      "rationale": "All points connected with 'denn', 'aber', 'auch', 'weil'; 'man kann' correct; varied vocabulary. One slip ('am abend'). Relatively clear and coherent."
+    },
+    {
+      "n": 52,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Der Winter ist meine Lieblingsjahreszeit. Es ist kalt und dunkel, aber der Schnee ist weiß und schön. Im Winter kann man Ski fahren, Schlittschuh laufen oder einen Schneemann bauen. Am liebsten fahre ich Schlitten mit meinen Freunden, denn das macht total Spaß. Danach trinken wir heißen Kakao.",
+      "rationale": "All points, linked with 'aber' and 'denn'; correct 'man kann' and verb forms; relatively varied vocabulary for A1.2. Coherent sequence."
+    },
+    {
+      "n": 53,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich mag den Herbst am liebsten, denn die Bäume sind dann rot, gelb und orange. Das Wetter ist oft kühl und windig, und manchmal regnet es den ganzen Tag. Man kann im Wald spazieren gehen und Pilze oder Beeren sammeln. Ich finde den Herbst auch gemütlich, denn ich kann drinnen mit einer Decke sitzen und lesen.",
+      "rationale": "All points tied together with 'denn', 'und', 'auch'; modal constructions correct; varied vocabulary. No errors."
+    },
+    {
+      "n": 54,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist der Frühling. Nach dem langen Winter wird es endlich wärmer, und die Sonne scheint wieder mehr. Man kann draußen Fussball spielen oder mit dem Fahrrad zur Schule fahren. Ich mag den Frühling, denn die Blumen kommen und die Vögel singen, aber manchmal ist es noch ein bisschen kalt.",
+      "rationale": "All points, reason and contrast connected ('denn', 'aber'); 'man kann' correct; relatively varied vocabulary. Coherent; no real errors."
+    },
+    {
+      "n": 55,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Der Sommer ist meine Lieblingsjahreszeit, denn ich liebe die Wärme. Normalerweise ist es sonnig, aber es gibt auch manchmal Gewitter. Im Juli fahren wir oft aufs Land, und dort kann man angeln oder Kanu fahren. Abends spielen wir draußen Karten, das finde ich super.",
+      "rationale": "All points connected with 'denn', 'aber', 'auch'; correct 'man kann' and verbs; varied vocabulary. Coherent and relatively clear."
+    },
+    {
+      "n": 56,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist der Winter, denn ich liebe Schnee und Eis. Oft ist es minus zehn Grad, aber die Sonne scheint auch manchmal und dann glitzert der Schnee. Man kann auf dem See Schlittschuh laufen oder Eishockey spielen. In den Winterferien fahren wir auch in die Berge, und dort lerne ich Snowboard fahren.",
+      "rationale": "All points linked with 'denn', 'aber', 'auch'; weather, verb forms and 'man kann' correct; relatively varied ('glitzert'). Coherent."
+    },
+    {
+      "n": 57,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist der Herbst. Es ist oft grau und es regnet viel, aber ich mag das Geräusch vom Regen. Im Herbst kann man Äpfel pflücken und Kuchen backen. Ich spiele auch Handball in eine Mannschaft, denn im Herbst beginnt die Saison wieder.",
+      "rationale": "All points with connectors and reasons; 'man kann' correct; varied vocabulary. One case slip ('in eine Mannschaft')."
+    },
+    {
+      "n": 58,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich mag den Frühling am meisten, denn alles wird wieder grün und bunt. Das Wetter ist oft schön, aber es kann auch windig sein. Am Wochenende gehe ich gern joggen, und man kann auch wieder im Garten sitzen und draußen essen. Das finde ich toll, weil der Winter so lang und dunkel ist.",
+      "rationale": "All points linked with 'denn', 'aber', 'auch', 'weil'; modal constructions and word order correct; relatively varied. Coherent."
+    },
+    {
+      "n": 59,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Sommer ist meine Lieblingsjahreszeit, denn die Tage sind lang und warm. Meistens scheint die Sonne, aber am Meer ist es manchmal windig. Man kann dort schwimmen, Muscheln sammeln und Beachvolleyball spielen. Ich mag den Sommer auch, weil ich morgens nicht früh aufstehen muss.",
+      "rationale": "All points with 'denn', 'aber', 'auch', 'weil'; correct 'man kann' and separable verb; varied vocabulary. Missing article at start is a minor slip."
+    },
+    {
+      "n": 60,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Meine Lieblingsjahreszeit ist der Winter. Draußen ist es kalt und es schneit oft, aber drinnen ist es warm und gemütlich. Man kann im Schnee spielen und danach Brettspiele spielen oder Tee trinken. Ich mag den Winter auch, denn ich fahre gern Langlauf im Wald, und das ist ein guter Sport.",
+      "rationale": "All points connected with 'aber', 'auch', 'denn'; 'man kann' and verbs correct; relatively varied. Slight repetition of 'spielen'."
+    }
+  ]
+}

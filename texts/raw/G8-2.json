@@ -1,0 +1,425 @@
+{
+  "assignment_id": "G8-2",
+  "texts": [
+    {
+      "n": 1,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "hallo\nich schule 8 uhr. tschüs",
+      "rationale": "Only one fragment about the start time; no evaluation of anything good or bad, too little to meet E."
+    },
+    {
+      "n": 2,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Hallo!\nMeine Shule ist gut. Mathe.",
+      "rationale": "One very short statement plus a single word; no description of the school day, far too little for E. Spelling by ear (Shule)."
+    },
+    {
+      "n": 3,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Hallo!\nIch habe Mathe, Englisch, Deutsch, Sport und Bild. Und Musik och Bio.",
+      "rationale": "Only lists subjects; nothing good or less good is mentioned and no real description of the day. Swedish 'och', 'Bild' for Kunst."
+    },
+    {
+      "n": 4,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Hej\nich spiele fussball und ich habe ein katze. der katze ist schwarz und sehr söt. ich mag pizza. tschüss",
+      "rationale": "Misses the task: writes about free time and a pet instead of the school. Gender/case errors, lowercase nouns, Swedish 'söt'."
+    },
+    {
+      "n": 5,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "hallo\nmein schule ist sie gros und wir habe den leran fiel. ich finde is nich gut der mat weil ich bin langst. schule ist geht zu ende tree uhr och das ist lang",
+      "rationale": "Heavy errors in form and vocabulary (leran, mat, langst, tree) make most of the text hard to understand; the reader can only guess at the content."
+    },
+    {
+      "n": 6,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Hej!\nIn meine shula wir haben lekse fil und den lerare sind snell spreken. es gibts matsal essen gut nich. ich tycker Sport besser als.",
+      "rationale": "Mixed Swedish-German forms (lekse, lerare, matsal, tycker) and broken syntax; the message is largely incomprehensible to a German reader."
+    },
+    {
+      "n": 7,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Hallo!\nMin skola är ganska stor. We start at eight o'clock and we have lunch at eleven. Ich finde Sport gut aber matte är tråkigt. Hej då!",
+      "rationale": "Most of the text is in Swedish or English; only one short German clause. E requires the content to be expressed in German."
+    },
+    {
+      "n": 8,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Hi!\nMy school is okay. Vi har mycket läxor och det är inte kul. Deutsch ist gut. Bye!",
+      "rationale": "Written mainly in English and Swedish; the only German sentence is 'Deutsch ist gut'. Does not meet E."
+    },
+    {
+      "n": 9,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Hallo\nSchule acht uhr, Mathe, Englisch. Essen gut, Sport gut. Hausaufgaben nein. tschüss",
+      "rationale": "Genuine attempt but only isolated words strung together without verbs; no sentences that describe the school, below E."
+    },
+    {
+      "n": 10,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Hallo!\nich schule gehen. lehrer nett ja. fiel test. nicht gut. Bis dann",
+      "rationale": "Attempt with fragments and infinitive-only verbs; some meaning comes through but there are no complete simple statements, so E is not met."
+    },
+    {
+      "n": 11,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo\nMeine schule ist gross. Die schule anfangen um acht uhr und ende um drei. Ich mag Sport, es ist kul. Das essen ist gut.",
+      "rationale": "Simple facts about the day and something good; understandable. Frequent errors (unsplit/unconjugated verbs, lowercase nouns, 'kul'), only positives, no closing, no comparative."
+    },
+    {
+      "n": 12,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "In meine Schule es gibt 300 schuler. Wir hat Mathe und Englisch und Deutsch. Mathe ist schwer för mich. Ich mag nicht hausaufgaben.",
+      "rationale": "Some simple facts and something less good; comprehensible. No mail form, wrong verb forms (wir hat), word order and case errors, Swedish 'för', very basic vocabulary."
+    },
+    {
+      "n": 13,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo!\nIch bin in der klasse 8. Wir haben lunch um halv zwölf. Das essen ist nicht so gut, es ist immer suppe. Die lehrer ist nett. Tschüss",
+      "rationale": "Mentions a meal time, something bad and something good; understandable. Transfer (lunch, halv), agreement error (die lehrer ist), lowercase nouns, very simple repetitive structure."
+    },
+    {
+      "n": 14,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hej!\nDie schule ist ok. Am morgen ich habe Englisch und dann mathe. Ich findet Kunst gut, wir malen fiel. Die Pause ist kurz.",
+      "rationale": "A few simple facts, one good and one less good point, but the language is basic with word-order and conjugation errors (ich habe, ich findet) and spelling (fiel); no closing."
+    },
+    {
+      "n": 15,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo\nMein Schultag ist lang. Ich aufstehe um sieben und die Schule beginnt um acht. Wir haben sechs lektionen. Ich finde Musik roligt.",
+      "rationale": "Describes the day simply and names one thing liked; understandable. Unsplit separable verb, Swedish 'roligt', 'lektionen', no comparison, no closing."
+    },
+    {
+      "n": 16,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo!\nUnsere schule hat ein großes Sporthall. Ich spiele Basketball in die Pause. Wir haben viel test und das ist nicht gut. Bis bald",
+      "rationale": "Simple facts and one negative point; comprehensible. Gender/case errors (ein Sporthall, in die Pause), plural missing (viel test), little variation; C not met."
+    },
+    {
+      "n": 17,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Die Schule ist neu und schön. Wir haben Computer, alle schuler hat eine. Deutsch ist ganz ok aber die Grammatik ist svår. Das essen wir in Mensa um elf.",
+      "rationale": "Some facts and a mild evaluation; understandable. No mail form, agreement errors (alle schuler hat eine), Swedish 'svår', garbled last sentence."
+    },
+    {
+      "n": 18,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo!\nIn die Schule wir haben Chemie und Physik. Ich finde Chemie gut, wir machen experimenten. Am montag der Schultag ist bis vier uhr, das ist lang. Tschüss",
+      "rationale": "Simple facts, one good and one less good point; understandable. Repeated word-order errors (In die Schule wir haben, der Schultag ist), wrong plural, lowercase nouns; vocabulary narrow."
+    },
+    {
+      "n": 19,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hallo\nIch gehe in klasse 8b. Wir hat Geschichte und Erdkunde. Es ist langweilig. Die bibliotek ist gut, ich lese dort.",
+      "rationale": "Short simple facts plus one good and one bad evaluation; understandable. Conjugation (wir hat), Swedish spelling 'bibliotek', no closing, no linking beyond commas."
+    },
+    {
+      "n": 20,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Hej\nDie Schule beginn 8.15. Wir hab Mathe jeden Tag. Ich mag Werken, wir machen etwas mit holz. Die Toiletten ist nicht sauber. Tschüss",
+      "rationale": "Basic facts, something good and something bad; understandable. Missing verb endings (beginn, hab), agreement error (Die Toiletten ist), no comparison, simple vocabulary."
+    },
+    {
+      "n": 21,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nMeine Schule beginnt um acht Uhr und wir haben fünf oder sechs Stunden jeden Tag. Ich finde Englisch leichter als Deutsch. Die lehrer sind nett aber wir hat viel hausaufgaben. Tschüss!",
+      "rationale": "E fully met with day, good and bad, greeting and closing, and a correct comparative. Still several errors (wir hat, lowercase nouns) and limited vocabulary, so C is not fully met."
+    },
+    {
+      "n": 22,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nDer Schultag beginnt um 8.30 und endet um 15 Uhr. Zu Mittag wir essen in der Mensa, das Essen ist gratis. Das ist gut. Nicht so gut ist die Pausen, sie sind zu kurz. Bis bald",
+      "rationale": "Day, good and bad points with mail form; relatively understandable. Word-order and agreement errors (wir essen, ist die Pausen), no comparative or man-construction, so C only mostly met."
+    },
+    {
+      "n": 23,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Liebe Austauschschülerin,\nin unsere Schule gibt es viele Schüler und eine große Schulhof. Ich mag Sport mehr als Mathe, weil Sport ist mehr lustig. Die Tests sind schwer. Viele Grüße",
+      "rationale": "Good and bad points, mail form, attempted comparative and weil. Swedish-style 'mehr lustig', main-clause order after weil, case/gender errors; little about the school day itself."
+    },
+    {
+      "n": 24,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nJeden Morgen ich fahre mit dem Rad zur Schule. Wir haben Mathe, Schwedisch, Bio und so weiter. Bio ist interessanter als Physik. Aber die Schultag ist zu lang, am Dienstag bis 16 Uhr.",
+      "rationale": "Describes the day, a comparison and a negative point; fairly clear. Missing closing, V3 order (Jeden Morgen ich fahre), article error (die Schultag); C mostly but not fully met."
+    },
+    {
+      "n": 25,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hi!\nMan hat in meine Schule viele Fächer. Ich finde Musik gut, wir singen und spielen Gitarre. Chemie ist schwerer. Es ist kalt in der Klassenzimmer im Winter, das ist nicht gut. Tschüss",
+      "rationale": "Good and bad points, man-construction and comparative attempted (incomplete 'schwerer'). Case errors (in meine Schule, in der Klassenzimmer); school day only vaguely described."
+    },
+    {
+      "n": 26,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nDie Schule ist nicht so groß, wir sind 22 in meine Klasse. Wir beginnen um 8.10 Uhr. Die Lehrerin in Englisch ist sehr gut und nett. Mathe ist langweilig und schwer för mich. Bis bald",
+      "rationale": "All basic content with mail form and relatively clear. No comparative or man-construction, case error (in meine Klasse), Swedish 'för'; vocabulary fairly repetitive."
+    },
+    {
+      "n": 27,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nUnser Schultag hat viele Lektionen und eine lange Mittagspause. In die Pause wir spielen Fußball oder sitzen in der Aula. Das beste ist Kunst, das schlechteste ist Chemie weil es ist schwer. Viele Grüße",
+      "rationale": "Day, good and bad with mail form; attempted superlatives. Case and word-order errors (In die Pause wir spielen, weil es ist), 'Lektionen' transfer; C mostly met."
+    },
+    {
+      "n": 28,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nWir haben Hausaufgaben jeden Tag, das ist nicht so gut. Aber die Schule hat eine gute Bibliothek mit fiel Bücher. Deutsch ist lustig, aber Englisch ist leichter für mich. Tschüss",
+      "rationale": "Good and bad points, comparative, mail form, relatively clear. Barely describes the school day; spelling (fiel) and case (mit viel Bücher) errors."
+    },
+    {
+      "n": 29,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hej!\nIch gehe um sieben zu Hause und die Schule beginnt um acht. Wir haben Geschichte, Mathe, Deutsch und Sport am Mittwoch. Sport ist besser als Geschichte! Das essen ist manchmal nicht gut. Tschüss",
+      "rationale": "Covers day, comparison and a negative point with mail form. Preposition error (zu Hause for von zu Hause), lowercase noun, list-like and simple; C nearly met."
+    },
+    {
+      "n": 30,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Hallo!\nIn meine Schule man hat iPads, man schreibt nicht so viel mit Stift. Hauswirtschaft ist toll, wir kochen Pfannkuchen und Pasta. Die Schule ist aber alt und die Toiletten sind schmutzig. Bis dann",
+      "rationale": "Good and bad points, man-constructions, mail form; fairly clear. Word order and case (In meine Schule man hat), the school day itself is hardly described."
+    },
+    {
+      "n": 31,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nMein Schultag beginnt um 8 Uhr und endet um 15 Uhr. Wir haben jeden Tag Mathe und Schwedisch. Ich finde Bio interessanter als Mathe. Das Essen in der Mensa ist gut, aber die Pausen sind zu kurz. Viele Grüße",
+      "rationale": "Day, good and bad, greeting and closing, correct comparative, present tense correct; relatively clear. No adaptation to the recipient and little linking beyond 'aber', so A is not met."
+    },
+    {
+      "n": 32,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nUnsere Schule ist groß und es gibt viele Klassen. Am Morgen haben wir oft Englisch oder Deutsch und nach dem Mittagessen haben wir Sport oder Kunst. Sport ist mein Lieblingsfach. Nicht so gut ist, dass wir haben so viele Tests. Tschüss!",
+      "rationale": "Describes the day, good and bad points, mail form, es gibt; relatively clear. Subordinate-clause word-order error (dass wir haben), no comparative, no address to the recipient."
+    },
+    {
+      "n": 33,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Liebe Austauschschülerin,\nin meiner Schule beginnt man um 8.20 Uhr. Man hat vier Stunden am Vormittag und dann Mittagessen. Musik ist lustiger als Physik, finde ich. Aber wir haben viel Hausaufgaben in Physik. Bis bald!",
+      "rationale": "All C elements: day, good/bad via comparison, man and comparative, mail form. Minor slip (viel Hausaufgaben); limited linking and no welcome or tip."
+    },
+    {
+      "n": 34,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nDie Schule ist ziemlich neu und die Klassenzimmer sind hell. Wir haben sechs Fächer am Tag und eine Pause um zehn. Die Lehrer sind nett, aber manchmal ist es sehr laut in die Klasse. Mathe ist schwerer als Englisch für mich. Viele Grüße",
+      "rationale": "Day, good and bad points, comparative, mail form; relatively clear with somewhat varied vocabulary. Case error (in die Klasse), no adaptation to the recipient."
+    },
+    {
+      "n": 35,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hi!\nJeden Tag fahre ich mit dem Bus zur Schule, der Unterricht beginnt um halb neun. In der Pause spielen wir Tischtennis, das finde ich besser als Fußball. Nicht so gut ist das WLAN, es funktioniert oft nicht. Tschüss",
+      "rationale": "Clear description of the day, a comparison, something good and something bad, mail form. Accurate present tense; but no welcome/tip and few connectors, so A clearly not met."
+    },
+    {
+      "n": 36,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nBei uns gibt es eine Sporthalle und eine große Bibliothek. Der Schultag ist von 8 bis 14.30 Uhr. Ich mag Werken, dort man macht Sachen aus Holz. Chemie ist nicht so gut, es ist schwer und langweilig. Bis bald",
+      "rationale": "Day, good and bad, es gibt and man attempted, mail form; relatively clear. Word order error after dort (dort man macht), no comparative, no recipient adaptation."
+    },
+    {
+      "n": 37,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nMeine Klasse hat 25 Schüler und wir sind meistens in den gleichen Raum. Am Freitag haben wir nur vier Stunden, das ist super. Geschichte ist interessant, aber Erdkunde ist langweiliger. Das Essen ist leider nicht so lecker. Viele Grüße",
+      "rationale": "Day, good and bad, comparative, mail form; relatively clear and somewhat varied. Case slip (in den gleichen Raum); no welcome or tip, linking mostly by 'aber'."
+    },
+    {
+      "n": 38,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nDie Schule beginnt früh, schon um 8 Uhr, und ich bin oft müde. Wir haben viele Fächer, zum Beispiel Kunst, Musik und Textil. Textil ist leichter als Werken. Gut ist, dass die Lehrer helfen viel. Tschüss!",
+      "rationale": "Day, bad (early start) and good points, comparative, mail form; relatively clear. Word-order error in dass-clause, no adaptation to the recipient."
+    },
+    {
+      "n": 39,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nIn unserer Schule man bekommt ein Laptop. Am Montag haben wir Deutsch, Mathe, Sport und Bio. Sport ist am besten, weil wir oft draußen sind. Die Hausaufgaben in Mathe sind zu viel. Viele Grüße",
+      "rationale": "Day, good and bad, man and superlative, weil used; relatively clear. Errors (man bekommt after adverbial, ein Laptop, sind zu viel), no welcome or tip."
+    },
+    {
+      "n": 40,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Hallo!\nDer Schultag ist lang, wir haben Unterricht bis 15.40 Uhr. Das Mittagessen ist kostenlos und es gibt immer Salat. Englisch ist einfacher als Deutsch, aber Deutsch macht mehr Spaß. Es gibt nicht viel Platz in der Schulhof. Bis bald!",
+      "rationale": "Day, good and bad, comparatives and es gibt, mail form; relatively clear. Case error (in der Schulhof), no adaptation to the recipient, limited cohesion."
+    },
+    {
+      "n": 41,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nSchön dass du kommst in unsere Klasse! Der Schultag beginnt um 8.15 Uhr und wir haben meistens fünf Stunden. Ich finde Englisch leichter als Deutsch, denn ich höre viel Englisch im Internet. Nicht so gut ist, dass die Pausen sehr kurz sind. Bis bald!",
+      "rationale": "All content points, welcome, comparative, denn; relatively clear and coherent. Word order error in the welcome sentence, no es gibt/man, so A is mostly but not fully met."
+    },
+    {
+      "n": 42,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Liebe Austauschschülerin,\nunser Schultag beginnt um acht und endet um drei. Es gibt eine große Mensa, und das Essen ist gratis. Mathe ist schwerer als Bio, aber die Mathelehrerin erklärt sehr gut. Leider haben wir viel Hausaufgaben am Wochenende. Viele Grüße",
+      "rationale": "All points covered, es gibt and comparative correct, coherent with aber/leider. No welcome or tip for the recipient; minor slip (viel Hausaufgaben)."
+    },
+    {
+      "n": 43,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nIch freue mich, dass du kommst! In unserer Schule hat man jeden Tag sechs Stunden. Am besten finde ich Kunst, weil man kann dort kreativ sein. Physik ist schwieriger, und manchmal ist es sehr laut in der Klasse. Tschüss!",
+      "rationale": "Welcome, man-constructions, comparatives, all points; relatively coherent. Verb-final error in the weil clause and comparison left incomplete; A mostly met."
+    },
+    {
+      "n": 44,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nBald bist du in unserer Klasse, super! Wir beginnen um 8.30 Uhr, dann haben wir zwei Stunden und eine Pause. Es gibt einen großen Schulhof und eine Bibliothek. Sport macht mehr Spaß als Geschichte, denn wir spielen oft Unihockey. Nicht so toll ist das Essen. Bis bald!",
+      "rationale": "Addresses the recipient, describes the day, es gibt, comparative, denn; clear and correct. The negative point is thin and unexplained and vocabulary fairly simple, so A is not fully met."
+    },
+    {
+      "n": 45,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hi!\nHier ist ein bisschen Info über unsere Schule. Man hat Mathe fast jeden Tag, und es ist schwerer als in der siebten Klasse. Der Unterricht endet meistens um drei, dann kann man nach Hause gehen. Die Lehrer sind freundlich, aber die Schule ist alt und im Winter kalt. Viele Grüße",
+      "rationale": "All points, man and comparative used well, relatively coherent. Only weak adaptation to the recipient (no welcome or tip); otherwise close to A."
+    },
+    {
+      "n": 46,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nWillkommen in der 8c! Jeden Morgen haben wir zuerst Mentorzeit und danach normalen Unterricht. Hauswirtschaft ist lustiger als Chemie, weil wir essen dürfen, was wir kochen. Schlecht ist, dass die Schränke so klein sind. Bis bald",
+      "rationale": "Welcome, day, comparative, good and bad; relatively coherent. Word-order error in the weil clause, no es gibt or man, vocabulary moderately varied."
+    },
+    {
+      "n": 47,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nIn unserer Schule gibt es ungefähr 400 Schüler und viele nette Lehrer. Der Tag beginnt um 8 Uhr und wir essen um halb zwölf. Ich mag Musik lieber als Mathe, denn in Musik können wir Instrumente spielen. Aber es gibt manchmal zu viele Tests in einer Woche. Tschüss!",
+      "rationale": "All content points, es gibt, comparative, denn/aber; clear and coherent, nearly error-free. Lacks any adaptation to the recipient (welcome or tip), so A not fully met."
+    },
+    {
+      "n": 48,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Liebe Austauschschülerin,\nwie schön, dass du zu uns kommst! Die Schule beginnt um 8.10 Uhr, und wir haben oft Doppelstunde. Englisch finde ich leichter als Deutsch, aber Deutsch ist interessanter. Das Essen ist okay, aber nicht so lecker wie Pizza! Viele Grüße",
+      "rationale": "Welcome, day, comparatives (including so...wie), good and less good; relatively clear. Plural slip (Doppelstunde), no es gibt/man, linking only with aber."
+    },
+    {
+      "n": 49,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nDer Schultag bei uns ist nicht so lang, wir sind meistens um zwei fertig. Man kann in der Pause in die Bibliothek gehen oder Basketball spielen. Bio ist interessanter als Chemie, weil wir mit Tiere arbeiten. Nicht gut ist, dass der Bus immer voll ist am Morgen. Bis bald!",
+      "rationale": "All points, man, comparative, weil; relatively coherent. Case error (mit Tiere), word order slip at the end, no direct adaptation to the recipient."
+    },
+    {
+      "n": 50,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Hallo!\nIch schreibe dir über unsere Schule. Wir haben jeden Tag fünf oder sechs Stunden und die Pausen sind kurz. Es gibt ein Café, dort kann man Brot und Saft kaufen. Sport ist mein Lieblingsfach, denn ich bewege mich gern, aber Mathe ist schwieriger für mich. Tschüss!",
+      "rationale": "All points, es gibt, man, comparative, denn/aber; clear and coherent. Adaptation to the recipient is minimal (no welcome or tip), so A is mostly met."
+    },
+    {
+      "n": 51,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo!\nHerzlich willkommen in unserer Klasse! Der Schultag beginnt um 8.15 Uhr und endet meistens um 15 Uhr, und es gibt eine lange Mittagspause. Ich finde Bio interessanter als Physik, weil wir oft draußen arbeiten. Leider haben wir viele Tests, aber die Lehrer helfen uns gern. Mein Tipp: Nimm eine warme Jacke mit, denn im Winter ist es kalt auf dem Schulhof! Viele Grüße",
+      "rationale": "All points, welcome and a practical tip; coherent with weil, aber, denn; es gibt and comparative correct. Varied vocabulary, no errors, still A2-level structures."
+    },
+    {
+      "n": 52,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Liebe Austauschschülerin,\nwir freuen uns schon, dass du bald kommst! Bei uns hat man jeden Tag fünf oder sechs Stunden, und am Freitag ist man schon um eins fertig. Mathe ist schwerer als Englisch, aber unser Mathelehrer erklärt alles sehr gut. Nicht so gut ist das Essen in der Mensa, denn es gibt oft Suppe. Mach dir keine Sorgen, du findest hier schnell Freunde! Bis bald",
+      "rationale": "All points with a welcome and reassurance for the recipient; man, es gibt and comparative used correctly; connected with aber and denn. Relatively varied vocabulary, error-free."
+    },
+    {
+      "n": 53,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo!\nSchön, dass du in unsere Klasse kommst! Unser Tag beginnt um 8.30 Uhr, und wir haben Unterricht bis drei. In der Schule gibt es eine große Bibliothek, dort kann man in Ruhe lernen. Kunst macht mir mehr Spaß als Musik, weil ich lieber male als singe. Das einzige Problem ist, dass es in den Pausen sehr laut ist. Tschüss und bis bald!",
+      "rationale": "All points and adapted to the recipient; es gibt, man, comparatives and correct verb-final subordinate clauses. Coherent and varied for A2."
+    },
+    {
+      "n": 54,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo und willkommen!\nIch erzähle dir ein bisschen über unsere Schule. Man bekommt einen eigenen Laptop, deshalb schreiben wir fast nie mit der Hand. Sport ist mein Lieblingsfach, denn es ist viel lockerer als Mathe oder Chemie. Leider sind die Schultage am Montag und Dienstag sehr lang, bis 16 Uhr. Wenn du Hilfe brauchst, kannst du mich immer fragen! Viele Grüße",
+      "rationale": "Welcome and offer of help, good and bad points, comparison, man; coherent with deshalb, denn, leider. Varied vocabulary; the day description is brief but present. No errors."
+    },
+    {
+      "n": 55,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Liebe Austauschschülerin,\nherzlich willkommen! Bei uns beginnt die Schule um acht, und es gibt zwei Pausen am Vormittag. Geschichte ist spannender als Erdkunde, weil man viel über früher lernt. Nicht so gut ist, dass wir so viele Hausaufgaben bekommen. Ein Tipp: Das Mittagessen ist kostenlos, du musst also kein Geld mitbringen. Viele Grüße",
+      "rationale": "All points, welcome and a tip; es gibt, man, comparative and correct subordinate clauses; coherent and relatively varied. Error-free A2 text."
+    },
+    {
+      "n": 56,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo!\nIch freue mich sehr, dass du bald in unserer Klasse bist. Ein normaler Schultag hat fünf Stunden, und man isst um elf Uhr in der Mensa. Werken ist lustiger als Textil, denn wir bauen gerade kleine Boote aus Holz. Aber die Klassenzimmer sind ziemlich alt und im Sommer zu warm. Wenn du willst, zeige ich dir am ersten Tag die Schule! Bis bald",
+      "rationale": "All points with a warm offer to the recipient; man, comparative, denn/aber/wenn used correctly; relatively coherent and varied vocabulary."
+    },
+    {
+      "n": 57,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hi!\nWillkommen an unsere Schule! Wir fangen um 8.10 Uhr an, und nach der dritten Stunde gibt es Mittagessen. Englisch ist für mich einfacher als Deutsch, aber Deutsch ist spannender, weil alles noch neu ist. Nicht so toll ist, dass der Schulhof so klein ist. Bis bald!",
+      "rationale": "Welcome, day, comparatives, es gibt, aber/weil, good and bad; coherent. One minor slip (an unsere Schule), correctly split separable verb."
+    },
+    {
+      "n": 58,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo!\nToll, dass du zu uns kommst! Bei uns gibt es viele Fächer, aber am meisten mag ich Musik, weil wir oft zusammen in einer Band spielen. Chemie finde ich schwieriger als Physik, denn man muss so viel auswendig lernen. Ein Schultag dauert von 8 bis 15 Uhr, und manchmal ist das ein bisschen zu lang. Nimm am besten Sportsachen mit, wir haben am Montag Sport! Liebe Grüße",
+      "rationale": "All points, welcome and a practical tip; es gibt, man, comparative and connectors (aber, weil, denn) used correctly; relatively coherent and varied."
+    },
+    {
+      "n": 59,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Liebe Austauschschülerin,\nschön, dass du bald hier bist! Unsere Schule ist nicht sehr groß, deshalb kennt man fast alle. Der Unterricht beginnt um 8.20 Uhr, und in der Mittagspause kann man draußen Basketball spielen oder in der Bibliothek lesen. Mathe ist schwerer als die anderen Fächer, aber die Lehrerin ist sehr geduldig. Das Schlechteste sind die Stühle, denn sie sind total unbequem! Viele Grüße",
+      "rationale": "Welcome, day, good and bad, comparative, man, deshalb/aber/denn; coherent and varied. No errors; suitably A2 in complexity."
+    },
+    {
+      "n": 60,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Hallo!\nWillkommen in der Klasse 8a! Jeden Tag haben wir zuerst Mathe oder Schwedisch, und nach dem Mittagessen haben wir praktische Fächer wie Kunst oder Hauswirtschaft. Hauswirtschaft ist lustiger als Mathe, weil man am Ende immer etwas essen kann. Es gibt aber ein Problem: Die Tische in der Mensa sind immer voll, deshalb muss man schnell sein. Ich hoffe, dir gefällt unsere Schule! Tschüss",
+      "rationale": "All points and adapted to the recipient; comparative, es gibt, man, weil/deshalb used correctly. Coherent and relatively varied vocabulary."
+    }
+  ]
+}

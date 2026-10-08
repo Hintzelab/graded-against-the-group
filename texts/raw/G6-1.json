@@ -1,0 +1,425 @@
+{
+  "assignment_id": "G6-1",
+  "texts": [
+    {
+      "n": 1,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Hund. brun",
+      "rationale": "Single fragment naming the animal plus a Swedish colour word; far too short, no sentences, only one point clearly covered."
+    },
+    {
+      "n": 2,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Ich habe ein tiger",
+      "rationale": "One incomplete sentence naming an animal; no appearance or behaviour, article/capitalisation errors."
+    },
+    {
+      "n": 3,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Mein Lieblingstier ist ein Pferd. Ich mag Pferd. Pferd ist gut.",
+      "rationale": "Only states which animal and liking it; no appearance and nothing about what it does or eats, so E needs two of three points."
+    },
+    {
+      "n": 4,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Ich spiele fotboll und ich bin zwölf jahre. Ich mag pizza und mein tier.",
+      "rationale": "Misses the task: writes about self and hobbies, no animal is named or described; Swedish transfer (fotboll)."
+    },
+    {
+      "n": 5,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Main tir is kaz. es is swats und hat esen fis mag.",
+      "rationale": "Attempts all points but spelling by ear and broken syntax make it largely incomprehensible even with generous reading."
+    },
+    {
+      "n": 6,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Ich lieblings tir sein fogel is gron und flig bum hoch esse korn in das.",
+      "rationale": "Run-on string with no sentence structure, phonetic spelling and random words; meaning barely recoverable."
+    },
+    {
+      "n": 7,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Mitt favoritdjur är en panda. It is black and white. Er isst bambu.",
+      "rationale": "Mostly Swedish and English; only the last short clause is German, so it does not show E-level German."
+    },
+    {
+      "n": 8,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Ich habe en kanin. Den är vit och liten och den äter morötter.",
+      "rationale": "Starts in German but switches to Swedish for almost everything; content is there but not in German."
+    },
+    {
+      "n": 9,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Delfin blau, gross. wasser schwimmen fisch.",
+      "rationale": "Single words strung together without sentences or verbs in finite form; below the 'enkla fraser och korta meningar' threshold."
+    },
+    {
+      "n": 10,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Ich tier maus klein grau käse ich mag.",
+      "rationale": "Genuine attempt but just a word list in one pseudo-sentence with no working verb structure; not understandable as sentences."
+    },
+    {
+      "n": 11,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein lieblingstier ist ein hund. Der hund ist groß und brun. Er spielen mit ein boll.",
+      "rationale": "Names the animal, appearance and activity in simple sentences; verb conjugation wrong (spielen), Swedish words (brun, boll), nouns not capitalised, very limited vocabulary."
+    },
+    {
+      "n": 12,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich mag Katze. Die katze ist svart und klein. Die katze essen fisch.",
+      "rationale": "Covers animal, looks and food in very simple repetitive sentences; wrong verb form (essen), Swedish colour word, missing article/capitals."
+    },
+    {
+      "n": 13,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein lieblingstier ist die Elefant. Er ist gros und grau. Er hat ein lang nase.",
+      "rationale": "Only two points (animal, appearance); article and adjective endings wrong, missing ß and capitals, but understandable."
+    },
+    {
+      "n": 14,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein Tier ist ein Hamster. Er ist klein und braun. Er essen morötter och er schlafen fil.",
+      "rationale": "Three points but verbs not conjugated, Swedish words (morötter, och), spelling by ear (fil); requires generous reading."
+    },
+    {
+      "n": 15,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich finde Pinguin ist gut. Pinguin ist schwarz und weis. Er schwimmen im wasser und esst fisch.",
+      "rationale": "All points in simple sentences; frequent verb errors (schwimmen, esst), missing articles and umlaut/ß, repetitive wording."
+    },
+    {
+      "n": 16,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein lieblingstier ist ein Pferd. Das pferd ist weiß. Es laufen snabb. Ich mag das pferd.",
+      "rationale": "Three points at a very basic level; verb error, Swedish word (snabb), only one adjective, repetitive."
+    },
+    {
+      "n": 17,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein lieblings tier ist Giraffe. Die Giraffe ist gelb und braun. Sie hat eine lang hals. Sie ist sehr groß.",
+      "rationale": "Only animal and appearance covered; nothing about behaviour or food; adjective endings and capitalisation errors, understandable."
+    },
+    {
+      "n": 18,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich habe ein Meerschweinchen. Es ist klein und weiss und braun. Es essen gurka und salat. Es ist süß.",
+      "rationale": "Animal, looks and food covered simply; verb error (essen), Swedish word (gurka), ss for ß, limited vocabulary."
+    },
+    {
+      "n": 19,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein lieblingstier ist ein Frosch. Der Frosch ist grun. Er springen und er essen fligen.",
+      "rationale": "Three points in very short sentences; verbs unconjugated, missing umlaut, invented spelling (fligen); understandable with goodwill."
+    },
+    {
+      "n": 20,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein lieblingstier ist Löwe. Er ist gelb und stark. Er ist die king. Er essen fleisch.",
+      "rationale": "Covers the points simply; English word (king), wrong article, verb error, no capitals on nouns."
+    },
+    {
+      "n": 21,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Tiger. Der Tiger ist orange und schwarz. Er ist groß und stark. Er frisst fleisch und er schlaft viel.",
+      "rationale": "All three points in full sentences, several adjectives, most verbs right; missing umlaut (schlaft), one uncapitalised noun, repetitive structure keeps it below C."
+    },
+    {
+      "n": 22,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist eine Katze. Sie ist grau und hat grüne augen. Sie spielt gern mit ein Ball. Sie isst fisch und milch.",
+      "rationale": "All points covered and verbs correct, but case error (mit ein Ball), several nouns not capitalised and simple sentence pattern repeated."
+    },
+    {
+      "n": 23,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist ein Kaninchen. Das Kaninchen ist weiß und klein. Es hat lange ohren. Es isst Karotten und springt im garten.",
+      "rationale": "All three points, correct verbs, some adjective variety; capitalisation slips and very uniform sentences."
+    },
+    {
+      "n": 24,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich mag Delfine. Ein Delfin ist grau und sehr schlau. Er hat ein lange Nase. Er schwimmt schnell im Meer und isst fisch.",
+      "rationale": "All points, verbs correct, some variety; adjective/article error (ein lange Nase) and lowercase noun; nearly C."
+    },
+    {
+      "n": 25,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist ein Panda. Der Panda ist schwarz und weiss. Er ist dick und süss. Er essen Bambus den ganzen Tag.",
+      "rationale": "All points and several adjectives, but main content verb wrong (essen) and ss for ß; mostly relatively clear."
+    },
+    {
+      "n": 26,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein lieblingstier ist ein Pferd. Es ist braun und hat eine schwarze schwanz. Es läuft schnell. Es frisst Gras und Äpfel.",
+      "rationale": "All points with correct verbs; gender error (eine Schwanz), capitalisation slips; simple but clear."
+    },
+    {
+      "n": 27,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Affe. Der Affe ist braun und lustig. Er klettern auf Bäume. Er isst Bananen.",
+      "rationale": "All three points, mostly correct; one verb conjugation error, limited adjectives and repetitive openings."
+    },
+    {
+      "n": 28,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist ein Wellensittich. Er ist blau und gelb und sehr klein. Er singt und fliegt in die Zimmer. Er isst Körner.",
+      "rationale": "All points and verbs correct, but article/case error (in die Zimmer) and heavy und-chaining; almost C."
+    },
+    {
+      "n": 29,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist die Schildkröte. Sie ist grün und langsam. Sie hat ein harter Panzer. Sie esst Salat.",
+      "rationale": "All points covered clearly; adjective ending and verb form (esst) errors; vocabulary a bit varied."
+    },
+    {
+      "n": 30,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist ein Fuchs. Der Fuchs ist rot und weiß. Er wohnt im wald. Er fresst Mäuse.",
+      "rationale": "All three points; wrong verb form (fresst) and lowercase noun; short, uniform sentences."
+    },
+    {
+      "n": 31,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Hund. Ein Hund ist oft braun oder schwarz. Er hat vier Beine und einen langen Schwanz. Er spielt gern und frisst Fleisch.",
+      "rationale": "All points in correct full sentences, varied adjectives and correct verbs; no personal opinion or added detail, so A is not reached."
+    },
+    {
+      "n": 32,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist die Eule. Die Eule ist braun und weiß. Sie hat große gelbe Augen. In der Nacht fliegt sie und frisst Mäuse.",
+      "rationale": "All points, verbs and word order correct, some variety; purely descriptive with no own comment."
+    },
+    {
+      "n": 33,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist ein Hamster. Er ist klein, rund und hellbraun. Er hat kurze Beine. In der Nacht läuft er im Rad und er frisst Körner.",
+      "rationale": "Clear and correct, varied adjectives; list-like with no opinion or linking beyond und."
+    },
+    {
+      "n": 34,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist das Zebra. Das Zebra ist schwarz und weiß. Es ist groß und schnell. Es lebt auf der Savanne und frisst Gras.",
+      "rationale": "All points in correct sentences, several adjectives; no own detail or opinion, repetitive structure."
+    },
+    {
+      "n": 35,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Elch. Der Elch ist sehr groß und braun. Er hat lange Beine und große Ohren. Er wohnt im Wald und frisst Blätter.",
+      "rationale": "Relatively clear, verbs correct, varied adjectives; purely factual, no opinion or connectors like aber/auch."
+    },
+    {
+      "n": 36,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist die Katze. Meine Katze ist weiß und hat blaue Augen. Sie ist klein und weich. Sie schlaft viel und spielt mit einem Ball.",
+      "rationale": "All points, mostly correct; one umlaut error (schlaft); no evaluative comment or linking beyond und."
+    },
+    {
+      "n": 37,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist ein Pinguin. Der Pinguin ist schwarz, weiß und ein bisschen gelb. Er ist klein und dick. Er schwimmt sehr gut und frisst Fisch.",
+      "rationale": "All points with correct verbs and several adjectives; no opinion or own detail, so A criteria not met."
+    },
+    {
+      "n": 38,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist das Schwein. Das Schwein ist rosa und dick. Es hat kleine Augen und eine große Nase. Es isst fast alles.",
+      "rationale": "Clear, correct and somewhat varied; descriptive only, no connectors beyond und."
+    },
+    {
+      "n": 39,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist ein Hai. Der Hai ist grau und sehr groß. Er hat viele Zähne. Er schwimmt im Meer und frisst Fische.",
+      "rationale": "All points correct and clear; short uniform sentences and no personal comment."
+    },
+    {
+      "n": 40,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Igel. Er ist klein und braun. Er hat viele Stacheln. Er schläft am Tag und frisst gern Würmer.",
+      "rationale": "All three points, correct verbs, some variety; no opinion or added detail beyond the points."
+    },
+    {
+      "n": 41,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist die Giraffe. Sie ist sehr groß und hat einen langen Hals. Sie ist gelb mit braunen Flecken. Sie frisst Blätter von hohen Bäume. Ich finde Giraffen schön.",
+      "rationale": "All points plus an opinion, varied vocabulary; one case error (Bäume) and no linking words, so cohesion is only partly there."
+    },
+    {
+      "n": 42,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist das Meerschweinchen. Es ist klein und hat weiches Fell. Mein Meerschweinchen ist braun und weiß. Es frisst Gurke und Salat. Ich finde es sehr süß.",
+      "rationale": "All points plus opinion, correct and varied; sentences are listed without connectors beyond und, so not quite A."
+    },
+    {
+      "n": 43,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Wolf. Der Wolf ist grau und stark. Er hat gelbe Augen und große Zahne. Er lebt im Wald und frisst Fleisch. Ich finde Wölfe cool.",
+      "rationale": "Opinion added and vocabulary fairly varied; missing umlaut (Zahne), repetitive Der Wolf/Er openings, little cohesion."
+    },
+    {
+      "n": 44,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist ein Papagei. Er ist rot, grün und blau. Er kann sprechen und er fliegt viel. Er isst Nüsse und Obst. Papageien sind sehr lustig!",
+      "rationale": "All points and a comment; correct verbs including modal; linking limited to und, repetitive Er-sentences."
+    },
+    {
+      "n": 45,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist die Kuh. Die Kuh ist schwarz und weiß und sehr groß. Sie steht auf dem Feld und frisst Gras. Sie gibt uns Milch. Ich mag Kühe, sie sind ruhig.",
+      "rationale": "Own detail and opinion, mostly correct; comma splice and heavy und-chaining make it less connected than A."
+    },
+    {
+      "n": 46,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Otter. Er ist braun und hat ein kleinen Kopf. Er schwimmt im Fluss und spielt mit Steinen. Er frisst Fisch. Ich finde Otter sehr süß.",
+      "rationale": "All points plus opinion, varied verbs; article ending error (ein kleinen Kopf) and no aber/auch linking."
+    },
+    {
+      "n": 47,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Bär. Der Bär ist braun und sehr stark. Im Winter schläft er lange. Er isst Beeren, Fisch und Honig. Ich finde Bären toll, aber sie sind gefährlich.",
+      "rationale": "Own detail and opinion with aber, correct inversion; slightly repetitive and a bit list-like, close to A."
+    },
+    {
+      "n": 48,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist eine Maus. Die Maus ist grau und sehr klein. Sie hat einen langen Schwanz und kleine Ohren. Sie frisst Käse und Brot. Ich finde Mäuse süß und lustig.",
+      "rationale": "All points plus opinion, correct and varied; no connectors beyond und, predictable structure."
+    },
+    {
+      "n": 49,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Koala. Der Koala ist grau und hat große, runde Ohren. Er schläft sehr viel auf einem Baum. Er frisst nur Blätter. Ich mag Koalas, weil sie sind so ruhig.",
+      "rationale": "Opinion with reason and varied vocabulary; typical word-order error in weil-clause keeps it just below A."
+    },
+    {
+      "n": 50,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist das Lama. Es ist weiß und hat ein langer Hals. Es hat auch weiches Fell. Das Lama frisst Gras und Heu. Manchmal spuckt es!",
+      "rationale": "Own detail added and auch used; adjective ending error (ein langer Hals) and somewhat disconnected sentences."
+    },
+    {
+      "n": 51,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist die Katze. Katzen sind klein und weich, und sie haben lange Schnurrhaare. Meine Katze ist schwarz mit weiße Pfoten. Sie schläft viel, aber in der Nacht spielt sie gern. Ich finde Katzen sehr süß.",
+      "rationale": "All points plus own detail and opinion, linked with und/aber, correct inversion; one minor slip (mit weiße Pfoten)."
+    },
+    {
+      "n": 52,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Hund. Hunde sind freundlich und lustig. Unser Hund ist groß und hat braunes Fell und kurze Ohren. Er läuft gern im Wald und frisst Fleisch. Er ist auch mein bester Freund!",
+      "rationale": "Relatively varied and coherent, correct verbs and adjective endings, own comment with auch; simple A1 structures."
+    },
+    {
+      "n": 53,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Elefant. Er ist sehr groß und grau, und er hat große Ohren und einen langen Rüssel. Mit dem Rüssel trinkt er Wasser. Er frisst Gras, Blätter und auch Obst. Ich finde Elefanten klug und ein bisschen lustig.",
+      "rationale": "All points plus extra detail and opinion, cohesive with und/auch and inversion; essentially error-free for the level."
+    },
+    {
+      "n": 54,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Pinguin. Pinguine sind schwarz und weiß und haben orange Füße. Sie können nicht fliegen, aber sie schwimmen sehr schnell. Sie fressen Fisch. Ich finde Pinguine lustig, denn sie laufen so komisch.",
+      "rationale": "Clear and connected (aber, denn), correct plural verbs and modal, own opinion with reason."
+    },
+    {
+      "n": 55,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist das Kaninchen. Es ist klein und hat weiches, graues Fell und lange Ohren. Es springt gern im Garten herum. Es frisst Heu, Salat und Karotten. Kaninchen sind auch sehr neugierig.",
+      "rationale": "All points plus own observation with auch, varied adjectives with correct endings, correct separable verb."
+    },
+    {
+      "n": 56,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Tiger. Er ist orange mit schwarzen Streifen und sehr stark. Am Tag schläft er oft, aber in der Nacht jagt er. Er frisst Fleisch. Ich finde Tiger schön, aber auch ein bisschen gefährlich.",
+      "rationale": "Coherent text with aber/auch, correct inversion and verbs, varied vocabulary and a nuanced opinion."
+    },
+    {
+      "n": 57,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist die Schildkröte. Sie ist klein und grün und hat einen harten Panzer. Sie ist sehr langsam, aber sie lebt lange. Sie frisst Salat und Löwenzahn. Ich finde Schildkröten süß und ruhig.",
+      "rationale": "All points plus extra fact and opinion, linked with aber, correct accusative ending; no errors of note."
+    },
+    {
+      "n": 58,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Affe. Affen sind braun und haben lange Arme. Sie klettern auf Bäume und springen von Ast zu Ast. Sie fressen Bananen und Blätter. Ich finde Affen lustig, weil sie wie Menschen spielen.",
+      "rationale": "Varied verbs and vocabulary, correct plural conjugation, opinion with a correct weil-clause; relatively connected."
+    },
+    {
+      "n": 59,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Fuchs. Er ist rot und hat einen buschigen Schwanz und spitze Ohren. Er wohnt im Wald und ist sehr schlau. Er frisst Mäuse und auch Beeren. Ich finde Füchse schön, aber ich sehe sie nicht oft.",
+      "rationale": "All points plus personal comment, linked with und/auch/aber, correct endings and verbs; relatively varied vocabulary."
+    },
+    {
+      "n": 60,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Lieblingstier ist der Hamster. Mein Hamster ist klein und rund und hat goldbraunes Fell. Am Tag schläft er, aber am Abend läuft er im Rad. Er frisst Körner und ein bisschen Gemüse. Ich finde ihn sehr süß.",
+      "rationale": "All points plus own detail and opinion, correct inversion and pronoun, aber for contrast; minor und-repetition only."
+    }
+  ]
+}

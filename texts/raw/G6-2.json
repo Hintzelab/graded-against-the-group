@@ -1,0 +1,425 @@
+{
+  "assignment_id": "G6-2",
+  "texts": [
+    {
+      "n": 1,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Bett. Tisch blau.",
+      "rationale": "Two fragments only; far too little to meet E even though one object and one colour appear."
+    },
+    {
+      "n": 2,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "mein simmer. ich mag",
+      "rationale": "A single unfinished fragment with a spelling-by-ear error (simmer); no objects or colours named."
+    },
+    {
+      "n": 3,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Ich habe ein Bett, ein Tisch und ein Stuhl. Ich habe ein Lampe.",
+      "rationale": "Names objects only; colours and what the writer likes are missing, so fewer than two of the three content points are covered. Article errors (ein Tisch, ein Lampe)."
+    },
+    {
+      "n": 4,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Ich mag Fussball. Ich spiele Fussball mit freunde. Es ist toll.",
+      "rationale": "Off task: writes about a hobby instead of the room, so no content points are met. Lowercase noun, ss for ß."
+    },
+    {
+      "n": 5,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Ich bin zimer har bed grun unt ich lik stul es is.",
+      "rationale": "Largely incomprehensible mix of German, Swedish (har) and English-like spellings (bed, lik, is); no clear statement about the room can be recovered."
+    },
+    {
+      "n": 6,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Mine simer is en blo und fenster ich gerne bet ist mit.",
+      "rationale": "Word salad with invented spellings (simer, blo, bet) and no working sentence structure; meaning is not understandable."
+    },
+    {
+      "n": 7,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Mitt rum är blått. Ich habe ein bed and a desk. I like my rum.",
+      "rationale": "Mostly Swedish and English; only 'Ich habe ein' is German, so the text does not show E-level German."
+    },
+    {
+      "n": 8,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "In my room there is a Bett. Det är grönt och fint. Ich mag.",
+      "rationale": "Main content is in English and Swedish; the German is limited to one noun and an unfinished 'Ich mag'."
+    },
+    {
+      "n": 9,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Zimmer: Bett, Tisch, Stuhl. blau, weis, gut.",
+      "rationale": "Genuine attempt but only isolated words strung together with no sentences; below the E requirement of a simple understandable text."
+    },
+    {
+      "n": 10,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "ich zimmer bett. Lampe gelb gelb. mag ja.",
+      "rationale": "Attempts objects, a colour and liking, but with no verbs or sentence structure the text is not a comprehensible description; below E."
+    },
+    {
+      "n": 11,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich habe ein bett und ein tish in mein Zimmer. Die bett ist blau. Ich mag mein Zimmer, es ist schon.",
+      "rationale": "Objects, a colour and a liking are named in very simple sentences, so E is met. Frequent errors (lowercase nouns, tish, die bett, mein Zimmer, schon for schön) and minimal vocabulary keep it clearly below C."
+    },
+    {
+      "n": 12,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "In mein zimmer es gibt ein Schrank und ein Stuhl. Der Schrank is weiss. Ich mag die Stuhl.",
+      "rationale": "Covers objects, colour and liking in understandable form. Word order after 'In mein zimmer' is wrong (es gibt), 'is', ss for ß and article errors show C is not reached."
+    },
+    {
+      "n": 13,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein Zimmer ist klein. Ich habe ein Sofa und ein Fernseher. Das sofa ist grün och grau.",
+      "rationale": "Two of three points (objects, colours); nothing about what the writer likes. Swedish 'och', lowercase noun and article error; simple but understandable."
+    },
+    {
+      "n": 14,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich habe ein Computer in mein zimmer. Ich mag die Computer, ich spiele. Es gibt ein lampe. Die lampe ist gelb.",
+      "rationale": "All three points appear but in choppy, repetitive sentences with frequent article errors and lowercase nouns; understandable but not relatively clear, so E."
+    },
+    {
+      "n": 15,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein Zimmer habe ein Fenster und ein Teppich. Teppich is rot. Ich mag die Teppich sehr.",
+      "rationale": "Objects, colour and liking present in a very simple way. Verb error (Zimmer habe), 'is', missing article and article errors; vocabulary very limited."
+    },
+    {
+      "n": 16,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Es gibt ein Bett, ein Tisch und fil Bucher. Ich mag lesen in mein bett. Die wand ist grau.",
+      "rationale": "Covers the three points in understandable sentences, but spelling by ear (fil), missing umlaut (Bucher), Swedish-style word order (Ich mag lesen) and lowercase nouns keep it at E."
+    },
+    {
+      "n": 17,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich habe ein Regal und ein Pflanze. Die Pflanze is grun. Ich mag mein Pflanze.",
+      "rationale": "Short but understandable; objects, colour and liking are there. Repetitive structure, article errors (ein/mein Pflanze), 'is', missing umlaut."
+    },
+    {
+      "n": 18,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Mein Zimmer ist gelb und weiss. Ich habe ein Gitarre und ein Stuhl. Ich spiel Gitarre in mein zimmer.",
+      "rationale": "Colours and objects are covered; liking is only implied by an activity, so two of three points. Verb ending missing (spiel), article errors, ss for ß."
+    },
+    {
+      "n": 19,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "In mein Zimmer ist ein Aquarium. Die Fische ist orange. Ich mag die Fische. Und ein Bett.",
+      "rationale": "Names objects, a colour and what is liked, but with agreement error (Fische ist), a fragment tacked on at the end and very simple structures; understandable, E level."
+    },
+    {
+      "n": 20,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich habe ein Sitzsack, es ist schwarz. Ich mag Sitzsack, es ist gut. Mein Zimmer habe auch ein Schrank.",
+      "rationale": "All three points in a basic way; missing article, verb error (Zimmer habe) and article errors; repetitive 'es ist', so clearly below C."
+    },
+    {
+      "n": 21,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "In mein Zimmer gibt es ein Bett und ein Schreibtisch. Das Bett ist blau und der Schreibtisch ist weiss. Ich mag mein bett, es ist gross. Ich habe auch ein lampe.",
+      "rationale": "All three points in full sentences and 'gibt es' works, so C is mostly met. Still several lowercase nouns, article errors and ss for ß; vocabulary only slightly varied."
+    },
+    {
+      "n": 22,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich habe ein Sofa, ein Fernseher und ein Teppich in mein Zimmer. Die Wände ist hellgrün. Ich mag die Sofa, ich sitze und gucke Filme.",
+      "rationale": "Covers objects, colours and liking with a short reason; mostly clear. Agreement error (Wände ist) and several article errors keep it below full C."
+    },
+    {
+      "n": 23,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Zimmer ist nicht gross. Es gibt ein Schrank, ein Bett und ein Spiegel. Der Schrank ist braun und die Bett ist weiss. Ich mag die Spiegel, er ist rund.",
+      "rationale": "All points in full sentences with a working 'Es gibt'; relatively clear. Recurrent article errors (die Bett, die Spiegel) and ss for ß; mostly C."
+    },
+    {
+      "n": 24,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich habe ein Regal mit fiele Bücher. Das Regal ist grau. Es gibt auch ein Pflanze am Fenster. Ich mag mein Bücher, ich lese gern.",
+      "rationale": "Three points covered and 'Es gibt'/'Ich habe' work; some variety (am Fenster). Spelling by ear (fiele), case and article errors keep it at D."
+    },
+    {
+      "n": 25,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "In mein Zimmer gibt es ein Uhr, ein Bett und ein Tisch. Die Uhr ist rot und die Tisch ist schwarz. Ich mag die Uhr, sie ist kul.",
+      "rationale": "All three points in full sentences; relatively clear. Swedish transfer 'kul' and repeated article errors; vocabulary fairly basic."
+    },
+    {
+      "n": 26,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich habe ein Aquarium und ein Stuhl. Die Fische sind gelb und blau. Die Stuhl ist lila. Ich mag die Fische sehr, sie ist schön.",
+      "rationale": "Covers all points with mostly correct verbs (sind); pronoun/verb agreement slip (sie ist) and article errors mean C is only mostly met."
+    },
+    {
+      "n": 27,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Zimmer ist blau und weiss. Ich habe ein Computer und ein Kissen. Ich mag mein computer, ich spielt Spiele.",
+      "rationale": "All three points present in full sentences, but conjugation error (ich spielt), lowercase noun and limited vocabulary; mostly C."
+    },
+    {
+      "n": 28,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Es gibt ein Bett, ein Sitzsack und ein Poster in mein Zimmer. Der Sitzsack ist orange. Ich mag die Poster, es ist ein Hund.",
+      "rationale": "Objects, colour and liking all present; 'Es gibt' works. Awkward 'es ist ein Hund' (poster of a dog), case and article errors; relatively clear overall but not full C."
+    },
+    {
+      "n": 29,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Ich habe ein Gitarre, sie ist rot. In mein Zimmer ist auch ein Bett und ein Schrank. Ich mag spielen Gitarre in mein Zimmer.",
+      "rationale": "All points covered and understandable. Swedish word order (Ich mag spielen Gitarre), agreement (ist ... und) and article errors; C mostly met."
+    },
+    {
+      "n": 30,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Mein Zimmer hat ein grosses Fenster. Der Teppich ist grün und das Bett ist grau. Ich mag die Fenster, ich sehe die Bäume.",
+      "rationale": "Covers all three points with a small reason; fairly varied words (Fenster, Bäume). Article error (die Fenster), ss for ß and only three short sentences keep it at D."
+    },
+    {
+      "n": 31,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "In mein Zimmer gibt es ein Bett, ein Tisch und zwei Stühle. Das Bett ist grün und die Stühle sind weiß. Ich mag mein Bett, es ist sehr bequem. Ich habe auch eine Lampe.",
+      "rationale": "All three points in clear full sentences; verbs correct including plural. Article/case errors (in mein Zimmer, ein Tisch) do not hinder understanding. Little elaboration, so not A."
+    },
+    {
+      "n": 32,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Zimmer ist klein aber schön. Ich habe ein Schreibtisch und ein Computer. Die Wände sind hellblau. Ich mag den Computer, ich spiele gern Spiele.",
+      "rationale": "Covers all points relatively clearly with correct verbs and some variety (hellblau, gern). Accusative errors (ein Schreibtisch) and missing comma; limited detail."
+    },
+    {
+      "n": 33,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich habe ein Sofa und ein Fernseher in meinem Zimmer. Das Sofa ist grau und der Teppich ist rot. Ich mag das Sofa, es ist weich. Ich sehe Filme dort.",
+      "rationale": "All three points, verbs correct, 'Ich habe' works; one accusative error (ein Fernseher). Simple added-on sentences rather than connected description."
+    },
+    {
+      "n": 34,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Es gibt ein großes Regal in mein Zimmer. Das Regal ist weiß und hat viele Bücher. Ich habe auch ein Bett und eine Lampe. Ich mag die Bücher, ich lese jeden Abend.",
+      "rationale": "Relatively clear, all points covered, verbs correct and vocabulary somewhat varied. Case error (in mein Zimmer); still fairly list-like, so C."
+    },
+    {
+      "n": 35,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "In meinem Zimmer gibt es ein Aquarium. Die Fische sind orange und gelb. Ich habe auch ein Bett und ein Schrank, sie sind braun. Ich mag die Fische, sie sind lustig.",
+      "rationale": "All points in full, correct-verb sentences. Accusative error (ein Schrank) does not affect understanding; little description of position or detail beyond basics."
+    },
+    {
+      "n": 36,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Zimmer ist gelb. Ich habe ein Bett, ein Stuhl und ein Spiegel. Der Stuhl ist schwarz. Ich mag den Spiegel, er ist groß und rund.",
+      "rationale": "Covers all three points clearly; verbs and pronoun (er) correct. Accusative errors (ein Stuhl, ein Spiegel); short sentences without much connection."
+    },
+    {
+      "n": 37,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich habe eine Gitarre in meinem Zimmer. Sie ist blau. Es gibt auch ein Bett und ein Poster mit ein Katze. Ich mag die Gitarre, ich spiele jeden Tag.",
+      "rationale": "Relatively clear with all points and correct verbs; somewhat varied vocabulary. Dative/article error (mit ein Katze); simple structure keeps it at C."
+    },
+    {
+      "n": 38,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "In meinem Zimmer gibt es viele Pflanzen. Sie sind grün, natürlich. Ich habe auch ein Sitzsack, der ist lila. Ich mag die Pflanzen, sie sind schön.",
+      "rationale": "All points, verbs correct, some variety (natürlich, der ist lila). One accusative error (ein Sitzsack); reason for liking is minimal."
+    },
+    {
+      "n": 39,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Mein Zimmer hat ein Bett, ein Schrank und ein Teppich. Der Teppich ist blau und weiß. Ich mag mein Bett, ich schlafe gern. Das Fenster ist auch groß.",
+      "rationale": "Covers all three points clearly with correct verbs. Repeated accusative errors (ein Schrank, ein Teppich) do not hinder understanding; loosely connected sentences."
+    },
+    {
+      "n": 40,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Ich habe eine Uhr, ein Tisch und ein Kissen in meinem Zimmer. Das Kissen ist rot und die Uhr ist schwarz. Ich mag das Kissen, es ist weich.",
+      "rationale": "All three points in clear sentences with correct verbs; accusative error (ein Tisch). Short and without further elaboration, so C."
+    },
+    {
+      "n": 41,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "In meinem Zimmer gibt es ein Bett, einen Schreibtisch und ein Regal. Das Bett steht am Fenster und ist blau. Der Schreibtisch ist weiß, aber der Stuhl ist schwarz. Ich mag mein Bett, weil es ist sehr bequem.",
+      "rationale": "All points with some detail (position, contrast with aber); ein/einen used correctly. Main-clause word order after 'weil' is the typical slip; A mostly met."
+    },
+    {
+      "n": 42,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Zimmer ist nicht groß, aber es ist schön. Ich habe ein Sofa und einen Fernseher. Das Sofa ist grün und die Wände sind grau. Ich mag das Sofa, denn ich sehe dort Filme mit meine Freunde.",
+      "rationale": "Clear and fairly connected (aber, und, denn) with a reason for liking; accusative correct. Dative error (mit meine Freunde) and little positional detail; A mostly met."
+    },
+    {
+      "n": 43,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich habe einen großen Schrank und eine Lampe in meinem Zimmer. Die Lampe steht auf den Tisch und ist gelb. Ich mag die Lampe, sie ist hell und schön. Mein Teppich ist auch gelb.",
+      "rationale": "Good control of einen/eine and adjective, detail on position and reason. Case error (auf den Tisch); somewhat loosely connected ending."
+    },
+    {
+      "n": 44,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Es gibt ein Aquarium in meinem Zimmer. Es steht neben das Bett. Die Fische sind rot und orange. Ich mag die Fische sehr, sie schwimmen immer und sind lustig.",
+      "rationale": "Describes position and gives a reason; verbs correct throughout. Case error (neben das Bett) and only two named objects keep it just short of A."
+    },
+    {
+      "n": 45,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "In meinem Zimmer habe ich einen Computer und einen Sitzsack. Der Sitzsack ist grau und sehr weich. Ich mag meinen Computer, aber ich spiele nicht so viel. Das Fenster ist groß und ich sehe den Wald.",
+      "rationale": "Correct inversion and accusative forms, connectors (aber, und) and some detail. Minor mismatch in the liking statement and fairly list-like description; A mostly met."
+    },
+    {
+      "n": 46,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Zimmer hat grüne Wände und einen weißen Teppich. Ich habe ein Bett, ein Regal und ein Gitarre. Die Gitarre steht in die Ecke. Ich mag sie, denn ich spiele gern Musik.",
+      "rationale": "Relatively varied vocabulary with adjective endings, position and reason given. Article slip (ein Gitarre) and case error (in die Ecke)."
+    },
+    {
+      "n": 47,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich habe viele Pflanzen im Zimmer. Sie stehen am Fenster und sind grün. Es gibt auch ein Bett und einen Stuhl, sie sind braun. Ich mag die Pflanzen am meisten, sie sind so schön.",
+      "rationale": "Clear and fairly connected with position and preference (am meisten); verbs and einen correct. Reason is thin and sentences somewhat repetitive (sie sind)."
+    },
+    {
+      "n": 48,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "In meinem Zimmer gibt es ein Bett, einen Tisch und eine Uhr. Die Uhr hängt an der Wand, sie ist blau. Ich mag mein Zimmer, es ist ruhig und gemütlich. Aber die Stuhl ist alt.",
+      "rationale": "Correct ein/einen/eine, position detail and varied adjectives (ruhig, gemütlich). Article error (die Stuhl) and abrupt last sentence reduce coherence."
+    },
+    {
+      "n": 49,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Mein Zimmer ist hell. Es gibt einen Schrank, ein Bett und einen Spiegel. Der Spiegel hängt an die Tür und ist rund. Ich mag das Bett, es hat viele Kissen, rot und weiß.",
+      "rationale": "All points with some detail; accusative forms correct. Case error (an die Tür) and colours tacked on; A mostly but not fully met."
+    },
+    {
+      "n": 50,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Ich habe einen Schreibtisch unter dem Fenster. Er ist schwarz und ich mache dort Hausaufgaben. Es gibt auch ein Regal mit Spiele. Mein Lieblingsding ist mein Kissen, es ist gelb wie die Sonne.",
+      "rationale": "Position, use and a vivid comparison show some elaboration; verbs correct. Dative plural error (mit Spiele) and only a thin reason for liking."
+    },
+    {
+      "n": 51,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "In meinem Zimmer gibt es ein Bett, einen Schreibtisch und einen Schrank. Das Bett steht an der Wand und ist dunkelblau. Der Schreibtisch ist weiß, und dort mache ich meine Hausaufgaben. Ich mag mein Bett am meisten, denn es ist groß und sehr bequem.",
+      "rationale": "All points described in some detail (position, use, reason) with und/denn; ein/einen and verb placement correct. Simple A1 structures, no errors."
+    },
+    {
+      "n": 52,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Zimmer ist klein, aber ich finde es gemütlich. Ich habe ein Sofa, einen Teppich und eine Lampe. Das Sofa ist grau und der Teppich ist orange. Neben dem Sofa steht die Lampe. Ich mag das Sofa, denn da lese ich gern Comics.",
+      "rationale": "Relatively clear and connected, with position (neben dem Sofa) and reason; correct inversion and articles. Varied vocabulary for the level."
+    },
+    {
+      "n": 53,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich habe ein Aquarium in meinem Zimmer, und es steht auf einem Regal. Im Aquarium schwimmen fünf kleine Fische, sie sind rot und silber. Es gibt auch ein Bett und einen Stuhl. Ich mag das Aquarium sehr, aber es ist viel Arbeit.",
+      "rationale": "Detailed and coherent (und, auch, aber) with position and a nuanced opinion; correct inversion and einen. One minor slip (silber for silbern)."
+    },
+    {
+      "n": 54,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "In meinem Zimmer sind die Wände hellgrün und die Tür ist weiß. Ich habe einen Schreibtisch, einen Computer und eine Lampe. Der Computer steht auf dem Schreibtisch. Ich mag meinen Computer, denn ich spiele gern und höre auch Musik.",
+      "rationale": "All points with position and reason; secure accusative (meinen, einen) and verb forms. Connected with denn/und/auch; appropriate A1 range."
+    },
+    {
+      "n": 55,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Zimmer hat ein großes Fenster, und am Fenster stehen drei Pflanzen. Die Pflanzen sind grün und die Vorhänge sind gelb. Ich habe auch ein Bett und ein Regal mit vielen Büchern. Ich mag das Fenster, denn ich sehe den Himmel und die Bäume.",
+      "rationale": "Coherent description with position and reason, correct dative plural (mit vielen Büchern) and inversion. Relatively varied vocabulary; no errors."
+    },
+    {
+      "n": 56,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Es gibt einen Sitzsack, ein Bett und einen Fernseher in meinem Zimmer. Der Sitzsack ist rot und liegt vor dem Fernseher. Das Bett ist schwarz und weiß. Ich mag den Sitzsack sehr, er ist weich und ich sitze dort jeden Abend.",
+      "rationale": "All points with position and reason; correct einen/den and pronoun er. Connected with und; clear throughout."
+    },
+    {
+      "n": 57,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich habe eine Gitarre, einen Stuhl und ein Poster in meinem Zimmer. Die Gitarre ist braun und steht neben dem Bett. Auf dem Poster ist eine Katze, sie ist lustig. Ich mag die Gitarre am meisten, aber ich spiele noch nicht so gut.",
+      "rationale": "Detailed and fairly connected (und, aber) with position and a personal comment; articles and verbs correct. One slightly awkward comma splice only."
+    },
+    {
+      "n": 58,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Mein Zimmer ist nicht groß, aber es ist hell und schön. Es gibt ein Bett, einen Spiegel und eine Uhr. Die Uhr hängt über dem Bett und ist grün. Ich mag auch meinen Teppich, er ist blau und weich.",
+      "rationale": "All points with position and reason; correct accusative and verb forms, connectors aber/und/auch. Clear and coherent for A1."
+    },
+    {
+      "n": 59,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "In meinem Zimmer habe ich einen Schrank, ein Bett und einen kleinen Tisch. Alles ist weiß, aber die Kissen sind lila und gelb. Auf dem Tisch steht eine Lampe. Ich mag die Kissen, denn sie sind bunt und sehr weich.",
+      "rationale": "Coherent with contrast (aber), position and reason; correct inversion and adjective ending (einen kleinen Tisch). Varied vocabulary (alles, bunt)."
+    },
+    {
+      "n": 60,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Ich habe einen großen Schreibtisch und einen Stuhl in meinem Zimmer. Der Stuhl ist blau und dreht sich. Es gibt auch ein Regal mit Spiele und Büchern. Ich mag mein Zimmer, weil es ruhig ist.",
+      "rationale": "All points with detail and a reason using correct verb-final 'weil'; accusative forms secure. One minor slip (mit Spiele)."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "assignment_id": "G9-3",
+  "texts": [
+    {
+      "n": 1,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Wir war in Zoo. Gut.",
+      "rationale": "Too short: names a destination and a one-word judgement but no event; 'wir war' and missing article show basic errors."
+    },
+    {
+      "n": 2,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Klassenausflug nach Göteborg. sehr kul",
+      "rationale": "Two fragments only: destination named, no event, no past tense; Swedish 'kul' transferred."
+    },
+    {
+      "n": 3,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Wir sind in die Berge gefahren. Die Berge sind sehr hoch und schön. Im Winter gibt es viel Schnee dort.",
+      "rationale": "Only the destination is covered; the rest describes the mountains in the present and nothing that happened on the trip is told, so the E requirement of at least one event is not met."
+    },
+    {
+      "n": 4,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Ich mag Ausflüge mit der Klasse. Nächstes Jahr wir wollen nach Berlin fahren. Ich denke es wird toll.",
+      "rationale": "Misses the task: writes about a planned future trip instead of a past one, no event and no past tense; word-order error 'Nächstes Jahr wir wollen'."
+    },
+    {
+      "n": 5,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "wir habe fahr in wald und da hat wir mach feur. regen kom und alle ist nass war. nich shon aber auch shon",
+      "rationale": "Destination and event are only guessable; verb forms are broken throughout ('habe fahr', 'hat wir mach', 'ist nass war') and spelling by ear ('feur', 'kom', 'shon') makes the text largely incomprehensible."
+    },
+    {
+      "n": 6,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "unsre klass ist gefaren mit schif nah ein insel und da wir hat fögel sen und est brot auf ein stein, der vind war kalt so mir frier und wir wol nach haus schnel",
+      "rationale": "One run-on sentence with heavy spelling and grammar errors ('fögel sen', 'est', 'mir frier', 'wol'); meaning can only be partly reconstructed, so the text is not understandable even with a generous reading."
+    },
+    {
+      "n": 7,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Vi åkte till ett museum i Stockholm med klassen. Ich habe alte Schiffe. It was really cool och vi åt glass efteråt.",
+      "rationale": "Mostly Swedish and English; the only German sentence lacks a verb. Content points are present but not expressed in German."
+    },
+    {
+      "n": 8,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Our class went to a Kletterpark. Vi klättrade högt i träden och jag var lite rädd. Es war gut.",
+      "rationale": "Destination and event are told in English and Swedish; only the final judgement 'Es war gut' is German, so E criteria are not met in the target language."
+    },
+    {
+      "n": 9,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Klasse Ausflug. Bus. See. schwimmen, Wasser kalt. gut Tag.",
+      "rationale": "Genuine attempt but only single words strung together: a lake, swimming and a judgement can be guessed, yet there are no sentences and no past tense."
+    },
+    {
+      "n": 10,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Ausflug Wald. wir laufen, laufen viel. essen Brot. dann müde, nach hause Bus.",
+      "rationale": "Fragments in the present tense with no attempt at Perfekt or Präteritum; the forest trip is guessable but not told in understandable sentences."
+    },
+    {
+      "n": 11,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Wir haben nach Stockholm gefahren mit der Bus. Wir habe ein Museum gesehen und es war viele alte Sachen. Dann wir haben Pizza gegessen. Es war gut.",
+      "rationale": "Destination and events given, simple judgement; Perfekt attempted but wrong auxiliary ('haben gefahren'), 'mit der Bus', 'es war viele', V2 error after 'Dann'. Understandable with goodwill, very simple vocabulary."
+    },
+    {
+      "n": 12,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Letzte Woche meine Klasse ist in den Zoo gefahrt. Ich habe sehen Affen und ein Elefant. Die Affen war sehr lustig. Wir hat Eis gegessen.",
+      "rationale": "Destination and events present; frequent errors in participles ('gefahrt', 'habe sehen'), agreement ('Affen war', 'wir hat') and word order after 'Letzte Woche'. Simple but comprehensible."
+    },
+    {
+      "n": 13,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Wir war am Meer mit die Klasse. Wir haben geschwimmt aber das Wasser war sehr kalt. Ich habe nicht lange in Wasser.",
+      "rationale": "Destination and one event (swimming) given; 'wir war', 'mit die Klasse', 'geschwimmt' with haben, and a missing participle in the last sentence. Simple, understandable with goodwill; no time words."
+    },
+    {
+      "n": 14,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Die Klasse ist in die Berge gefahren. Wir haben gewandert fünf Stunden. Mein Füße war müde und es regnet viel.",
+      "rationale": "Where and what are stated; errors in auxiliary ('haben gewandert'), word order, 'Mein Füße war' and a slip into present tense. No real judgement and no connectives, so C is clearly not met."
+    },
+    {
+      "n": 15,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Im Mai wir fahren nach Göteborg mit Zug. Da wir haben in ein Freizeitpark gewesen. Ich habe Achterbahn gefahrt, das war sehr roligt.",
+      "rationale": "Destination and event given; tense mixing (present 'wir fahren'), wrong auxiliary with 'gewesen', 'gefahrt', V2 errors and Swedish 'roligt'. Comprehensible with goodwill."
+    },
+    {
+      "n": 16,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Wir haben ein Ausflug zu ein Bauernhof gemacht. Da war Kühe und Schweine und ein kleine Pferd. Ich habe die Pferd gestreichelt. Es riecht nicht so gut.",
+      "rationale": "Destination and one event told; article/case errors ('ein Ausflug', 'zu ein', 'die Pferd'), 'da war Kühe', tense slip in the last sentence. Simple listing vocabulary."
+    },
+    {
+      "n": 17,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Unsere Klasse hat in Wald gegangen. Wir haben ein Zelt gebaut und in Zelt geschlafen. Es war kalt in der Nacht und ich nicht schlafen.",
+      "rationale": "Where and what are clear; wrong auxiliary ('hat gegangen'), missing articles, and a verbless final clause ('ich nicht schlafen'). Understandable but simple and error-prone."
+    },
+    {
+      "n": 18,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Wir sind mit Schiff zu ein Insel gefahren. Auf die Insel wir habe Fußball gespielt. Dann jemand hat sein Handy in Wasser gefallen.",
+      "rationale": "Destination and two events; Perfekt partly right but 'wir habe', V2 errors, case errors and a confused final construction. No judgement; understandable with goodwill."
+    },
+    {
+      "n": 19,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Wir war im Theater in Stockholm. Die Theater war lang und ich bin eingeschlaft. Aber das Ende war gut.",
+      "rationale": "Where, one event and a brief evaluation; 'wir war', 'die Theater', 'eingeschlaft' show frequent form errors. Very simple vocabulary, short sentences."
+    },
+    {
+      "n": 20,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Wir gehen in die Schwimmhalle mit der Klasse letzte Freitag. Wir sind gerutscht auf die große Rutsche. Es hat Spaß gemacht.",
+      "rationale": "Destination and one event; the first sentence is in the present, word order is Swedish-like and 'letzte Freitag' is wrong, though 'sind gerutscht' and 'hat Spaß gemacht' work. Clearly below C."
+    },
+    {
+      "n": 21,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Im Herbst ist unsere Klasse nach Uppsala gefahren. Zuerst wir haben ein altes Schloss besucht. Danach haben wir in einem Park gegessen und Fußball gespielt. Es war ein schöner Tag, aber die Busfahrt war zu lang.",
+      "rationale": "All three content points with time words; Perfekt mostly correct, but a V2 error after 'Zuerst'. Relatively clear, slightly varied vocabulary; mostly meets C."
+    },
+    {
+      "n": 22,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Letztes Jahr sind wir in den Kletterpark gegangen. Am Anfang ich hatte Angst, weil die Bäume war sehr hoch. Dann habe ich es probiert und es hat viel Spaß gemacht. Ich finde Kletterpark ist super.",
+      "rationale": "Destination, events and judgement present; uses 'hatte' and a weil-clause but with V2 error, subordinate word order and 'Bäume war'. Mostly meets C."
+    },
+    {
+      "n": 23,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Wir sind mit dem Zug nach Stockholm gefahren und haben ein Schiffsmuseum besucht. Das Schiff war sehr alt und groß. Nach dem Museum wir haben Pommes gegessen. Ich fand den Ausflug interessant aber ein bisschen langweilig auch.",
+      "rationale": "All content points covered with correct Perfekt in the first sentence; V2 error after a fronted phrase and Swedish-like placement of 'auch'. Coherence relies on few time words."
+    },
+    {
+      "n": 24,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Im Winter war unsere Klasse in der Eishalle. Wir sind Schlittschuh gelaufen und ich bin viele Male gefallt. Später haben wir heiße Schokolade getrunken. Es war kalt aber lustig.",
+      "rationale": "Place, events, judgement and time words present; mostly correct Perfekt but participle error 'gefallt'. Simple judgement without reasons; mostly meets C."
+    },
+    {
+      "n": 25,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Unsere Klasse hat einen Ausflug an den See gemacht. Wir haben Kanu gefahren und ein Kanu ist umgekippt! Danach wir haben Brot und Obst gegessen am Strand. Es war der beste Tag in diesem Jahr.",
+      "rationale": "Content points complete and one time word; auxiliary error ('haben Kanu gefahren'), V2 error and Swedish-like word order after 'Danach'. Somewhat varied vocabulary ('umgekippt')."
+    },
+    {
+      "n": 26,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Vor zwei Wochen sind wir zu einem Bauernhof gefahren. Dort haben wir Kühe gemelkt und Eier gesammelt. Es hat den ganzen Tag geregnet, deshalb wir waren sehr nass. Trotzdem war es gut.",
+      "rationale": "All points covered with connectors ('deshalb', 'trotzdem'); participle error 'gemelkt' and word-order error after 'deshalb'. Mostly meets C; judgement is brief."
+    },
+    {
+      "n": 27,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Wir sind in ein Planetarium gegangen. Zuerst haben wir ein Film über die Sterne gesehen. Dann hat eine Frau erklärt über die Planeten. Ich fand es sehr intressant aber manchmal schwer zu verstehen.",
+      "rationale": "Clear sequence with 'zuerst/dann' and a judgement; errors in case ('ein Film'), Swedish-like word order ('erklärt über') and spelling ('intressant'). Mostly meets C."
+    },
+    {
+      "n": 28,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Letzten Frühling ist meine Klasse in den Wald gewandert. Wir haben ein Feuer gemacht und Pfannkuchen gebratet. Plötzlich ist ein Elch gekommen! Es war ein bisschen gefährlich aber auch spannend.",
+      "rationale": "All points with a small narrative and a judgement; Perfekt mostly correct with a participle error ('gebratet'). Vocabulary somewhat varied, but connection is basic; mostly meets C."
+    },
+    {
+      "n": 29,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Im Sommer wir sind nach Göteborg gefahren. Wir haben ein Aquarium besucht und viele Fische und Haie gesehen. Am Nachmittag haben wir in der Stadt gebummelt. Ich habe den Tag toll gefunden weil ich liebe Fische.",
+      "rationale": "Destination, events and a reasoned judgement; V2 error in the first sentence and main-clause order in the weil-clause, missing comma. Perfekt otherwise correct; mostly meets C."
+    },
+    {
+      "n": 30,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Unsere Klasse war in einem Museum über Technik. Wir haben viele Experimente gemacht und ein Roboter gebaut. Nachher sind wir mit die U-Bahn nach Hause gefahren. Es war sehr kul und ich will wieder hingehen.",
+      "rationale": "All content points and a time word; case errors ('ein Roboter' as object, 'mit die U-Bahn') and Swedish 'kul'. Perfekt with haben and sein correct; mostly meets C."
+    },
+    {
+      "n": 31,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Im September sind wir mit der Klasse in die Berge gefahren. Am ersten Tag sind wir auf ein hoher Berg gestiegen. Oben hatten wir eine tolle Aussicht und haben unser Essen gegessen. Am Abend waren alle sehr müde. Ich fand den Ausflug super, aber meine Beine haben weh getan.",
+      "rationale": "Where, what and judgement; time words structure the text; Perfekt with sein/haben and 'hatten/waren' correct. One case error ('auf ein hoher Berg'); no subordinate clause, judgement not really motivated."
+    },
+    {
+      "n": 32,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Letzte Woche war unsere Klasse im Zoo. Zuerst haben wir die Löwen gesehen, sie haben nur geschlafen. Danach sind wir zu den Pinguinen gegangen und haben die Fütterung gesehen. Das war am besten. Insgesamt war es ein schöne Tag.",
+      "rationale": "All three points; relatively clear with 'zuerst/danach/insgesamt'; Perfekt and 'war' correct. Adjective ending error ('ein schöne Tag'), no subordinate clause, judgement without reasons."
+    },
+    {
+      "n": 33,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Im Mai sind wir mit dem Bus an die Küste gefahren. Wir haben am Strand Muscheln gesucht und ein Picknick gemacht. Dann ist ein starker Wind gekommen und unsere Servietten sind weggeflogen. Es war ein lustiger Tag, aber ich habe ein bisschen gefroren.",
+      "rationale": "Clear account with time words and a short evaluation; Perfekt with haben and sein used correctly, somewhat varied vocabulary. No subordinate clause and the judgement is not motivated, so A is not met."
+    },
+    {
+      "n": 34,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Unsere Klasse hat eine Radtour aufs Land gemacht. Wir sind zwanzig Kilometer gefahren und dann haben wir an einem See Pause gemacht. Leider ist mein Fahrrad kaputt gegangen. Ich finde Radtouren anstrengend, aber es war trotzdem schön.",
+      "rationale": "All points covered; Perfekt correct, connectors 'dann', 'leider', 'trotzdem'. Some tense mixing in the judgement; no subordinate clause and limited sequence, so A clearly not met."
+    },
+    {
+      "n": 35,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Vor einem Monat sind wir nach Stockholm gefahren. Wir haben das Rathaus besucht und viele Fotos gemacht. Am Nachmittag sind wir mit einem Boot gefahren. Das Wetter war schlecht aber der Ausflug hat mir gut gefallen.",
+      "rationale": "Where, events in order, judgement; Perfekt and 'war' correct, missing comma before 'aber'. Relatively clear but simple structure without subordinate clauses."
+    },
+    {
+      "n": 36,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Im Winter waren wir mit der Klasse in einem Skigebiet. Ich bin zum ersten Mal Ski gefahren und bin oft hingefallen. Danach haben wir in einer Hütte Suppe gegessen. Es war anstrengend, aber sehr lustig.",
+      "rationale": "Complete content with correct Perfekt (sein/haben) and 'waren'; somewhat varied vocabulary. Short, unmotivated judgement and no subordinate clause."
+    },
+    {
+      "n": 37,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Unsere Klasse ist in ein Kunstmuseum gegangen. Zuerst hat eine Führerin uns die Bilder gezeigt. Später durften wir selbst malen. Ich habe ein Bild von einem Pferd gemalen. Der Ausflug war interessanter als ich gedacht habe.",
+      "rationale": "Clear sequence with time words and a judgement; Perfekt mostly correct but participle error 'gemalen' and slightly odd word order. No weil/als/dass clause; C met, A clearly not."
+    },
+    {
+      "n": 38,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Letzten Herbst haben wir einen Ausflug in den Nationalpark gemacht. Wir sind drei Stunden gewandert und haben Pilze gesammelt. Dann haben wir uns verlaufen, weil die Karte war falsch. Zum Glück hat unser Lehrer den Weg gefunden. Es war ein spannender Tag.",
+      "rationale": "All points in order with time words; Perfekt correct including the reflexive 'uns verlaufen'. The weil-clause has main-clause word order and the judgement is brief, so A is clearly not met."
+    },
+    {
+      "n": 39,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Vor den Sommerferien ist unsere Klasse in einen Freizeitpark gefahren. Wir sind mit vielen Achterbahnen gefahren. In der Wildwasserbahn bin ich ganz nass geworden. Später hatten wir Hunger und haben Pommes gekauft. Der Tag war super, aber zu kurz.",
+      "rationale": "Where, what and judgement; correct Perfekt with sein, 'hatten' and time words. Some repetition ('gefahren' twice), no subordinate clause, judgement not reasoned."
+    },
+    {
+      "n": 40,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Im April waren wir in einer Schokoladenfabrik. Wir haben gesehen wie man Schokolade macht und wir haben viel probiert. Danach war mir ein bisschen schlecht. Aber es war sehr intressant und lecker.",
+      "rationale": "Content points present; Perfekt and 'war' correct, an embedded 'wie'-clause without comma. Spelling slip 'intressant'; simple judgement, no weil/als/dass clause."
+    },
+    {
+      "n": 41,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Im Oktober ist unsere Klasse für zwei Tage an die Westküste gefahren. Am ersten Tag haben wir eine Bootstour gemacht und Robben gesehen. Am Abend haben wir in einer Jugendherberge gegessen und Spiele gespielt. Mir hat der Ausflug gut gefallen, weil wir hatten viel Zeit zusammen.",
+      "rationale": "Clear chronological account with a motivated judgement and varied vocabulary; Perfekt correct. The weil-clause keeps main-clause word order, so A is mostly but not fully met."
+    },
+    {
+      "n": 42,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Im Frühling ist unsere Deutschgruppe nach Deutschland gefahren. Wir haben eine Schule besucht und mit deutsche Jugendlichen gesprochen. Am Anfang war ich nervös, aber dann hat es Spaß gemacht. Ich fand die Reise toll, denn ich habe gemerkt, dass ich viel verstehe.",
+      "rationale": "Coherent and clear with a reasoned judgement and a correct dass-clause; Perfekt and 'war' correct. Adjective ending error ('mit deutsche Jugendlichen') and events are only briefly described."
+    },
+    {
+      "n": 43,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Letzte Woche waren wir im Wissenschaftszentrum. Zuerst haben wir ein Experiment mit Strom gemacht, und danach sind wir in einen dunklen Raum gegangen. Am besten war der Raum mit den Schlangen, obwohl ich Schlangen eigentlich nicht mag. Ich finde, dass solche Ausflüge besser als normale Unterricht sind.",
+      "rationale": "Ordered events, varied vocabulary, correct obwohl- and dass-clauses and a motivated judgement. Minor case/ending error ('normale Unterricht'); overall close to A but slightly less developed narrative."
+    },
+    {
+      "n": 44,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Im Juni sind wir mit Fahrrädern zu einem See gefahren. Als wir angekommen sind, sind alle sofort ins Wasser gesprungen. Danach haben wir gegrillt und Volleyball gespielt. Auf dem Heimweg hat es angefangen zu regnen, also wir waren alle nass. Trotzdem war es einer der schönsten Tage in diesem Jahr.",
+      "rationale": "Relatively coherent narrative with a correct als-clause and good time words; Perfekt correct. Swedish transfer 'also wir waren' (V2 error) and the judgement is emphatic rather than motivated."
+    },
+    {
+      "n": 45,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Unsere Klasse hat im Herbst ein altes Schloss besucht. Ein Führer hat uns erzählt, dass es dort Geister gibt. Später sind wir in den Keller gegangen und plötzlich ist das Licht ausgegangen. Alle haben geschreit, aber es war nur ein Witz. Der Ausflug war spannend, weil der Führer so gut erzählen konnte.",
+      "rationale": "Clear sequence, correct dass- and weil-clauses, motivated judgement and varied vocabulary. Participle error 'geschreit' and slightly repetitive wording keep it just below A."
+    },
+    {
+      "n": 46,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Im Februar ist unsere Klasse für drei Tage in eine Hütte in den Bergen gefahren. Am Tag sind wir Langlauf gefahren und am Abend haben wir Karten gespielt. Einmal hat jemand die Tür offen gelassen und alles war voll mit Schnee. Ich fand die Reise toll, weil wir haben so viel gelacht.",
+      "rationale": "Well-structured with time expressions, correct Perfekt and 'war', a motivated judgement. The weil-clause has main-clause word order; otherwise nearly A level."
+    },
+    {
+      "n": 47,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Vor zwei Wochen haben wir einen Ausflug in den Zoo gemacht. Zuerst haben wir die Elefanten angeschaut, danach sind wir ins Affenhaus gegangen. Ein Affe hat die Mütze von einem Klassenkamerad gestohlen, das war sehr lustig. Ich fand den Ausflug gut, weil man viel über Tiere lernt, aber es war zu kalt.",
+      "rationale": "Clear order, correct separable participle 'angeschaut', correct weil-clause and a reasoned judgement. Minor n-declension slip ('Klassenkamerad') and comma-spliced sentences make it slightly less cohesive than A."
+    },
+    {
+      "n": 48,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Letzten Mai sind wir nach Göteborg gefahren und haben ein Aquarium besucht. Ich habe zum ersten Mal einen Hai von nah gesehen. Nach dem Mittagessen sind wir in einen Park gegangen, wo wir Frisbee gespielt haben. Der Ausflug hat mir gefallen, aber ich denke dass die Zugfahrt war zu lang.",
+      "rationale": "Ordered events with a correct wo-clause and varied vocabulary; Perfekt correct. The dass-clause has main-clause order and a missing comma, and the judgement is only partly motivated."
+    },
+    {
+      "n": 49,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Im September ist unsere Klasse in einen Kletterpark gefahren. Am Anfang war ich unsicher, weil die Wege so hoch waren. Nach einer Stunde habe ich mich getraut und bin sogar die schwerste Strecke geklettert. Es war ein toller Tag, obwohl ich danach Muskelkater gehabt.",
+      "rationale": "Clear development with a correct weil-clause, reflexive Perfekt and varied vocabulary. The obwohl-clause lacks its auxiliary ('gehabt' without 'habe'), a slip that keeps it just short of A."
+    },
+    {
+      "n": 50,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Im Dezember war unsere Klasse im Theater in der Stadt. Wir haben ein Stück über ein Schiffsunglück gesehen. Die Schauspieler waren sehr gut und die Musik war laut und dramatisch. Ich fand das Stück spannend, aber manchmal habe ich nicht verstanden was sie gesagt haben.",
+      "rationale": "Relatively clear and coherent, varied vocabulary ('Schiffsunglück', 'dramatisch'), correct Perfekt and 'waren'. Only an indirect question clause (missing comma), and the events are more described than narrated."
+    },
+    {
+      "n": 51,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Im Frühling ist unsere Klasse mit dem Zug nach Stockholm gefahren und hat ein Museum über Schiffe besucht. Zuerst haben wir eine Führung bekommen und erfahren, dass das Schiff schon bei seiner ersten Fahrt gesunken ist. Danach durften wir selbst herumgehen und Fotos machen. Als wir wieder am Bahnhof waren, hatte der Zug leider eine Stunde Verspätung. Trotzdem fand ich den Ausflug gelungen, weil ich viel über Geschichte gelernt habe.",
+      "rationale": "Clear chronological order, correct dass-, als- and weil-clauses, 'hatte' and Perfekt with haben/sein, varied vocabulary and a motivated judgement. No noticeable errors."
+    },
+    {
+      "n": 52,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Letzten Herbst haben wir einen Ausflug in den Wald gemacht, weil wir in Biologie über Pilze gesprochen haben. Zuerst haben wir Pilze gesammelt, dann haben wir ein Feuer gemacht und Brot gebacken. Plötzlich hat es angefangen zu hageln, und wir sind unter die Bäume gelaufen. Obwohl wir nass geworden sind, war es ein lustiger Tag, denn alle haben zusammen gelacht.",
+      "rationale": "Relatively coherent narrative with time words, correct weil- and obwohl-clauses, Perfekt with haben and sein, and a motivated judgement. Varied vocabulary ('hageln', 'gebacken')."
+    },
+    {
+      "n": 53,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Im Juni sind wir mit der Klasse für eine Nacht auf eine kleine Insel gefahren. Am Nachmittag sind wir geschwommen und haben am Strand Volleyball gespielt. Als es dunkel wurde, haben wir die Sterne angeschaut, und niemand wollte schlafen gehen. Am nächsten Morgen waren alle müde, aber glücklich. Für mich war das der beste Ausflug, weil wir einmal ohne Handys Zeit zusammen hatten.",
+      "rationale": "Well-ordered story with time expressions, correct als- and weil-clauses, 'waren/hatten' and Perfekt; judgement clearly motivated. Varied, natural vocabulary with no real errors."
+    },
+    {
+      "n": 54,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Letzte Woche war unsere Klasse auf einem Bauernhof mit Kühen und Ziegen. Zuerst haben wir die Tiere gefüttert, und danach haben wir gesehen, wie man Käse macht. Am Ende durften wir verschiedene Sorten probieren. Ich fand den Ausflug interessant, weil ich nicht gewusst habe, dass Käse so viel Arbeit ist. Nur der Geruch im Stall war ein bisschen schlimm.",
+      "rationale": "Clear order, several correct subordinate clauses (wie, weil, dass), varied vocabulary and a nuanced, motivated judgement. Perfekt and 'war' correct."
+    },
+    {
+      "n": 55,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Im Februar sind wir mit der Klasse zum Eisangeln an einen See gefahren. Zuerst haben wir Löcher ins Eis gebohrt, und das war ziemlich schwer. Dann haben wir lange gewartet, aber nur zwei kleine Fische gefangen. Als wir schon nach Hause gehen wollten, hat plötzlich jemand einen großen Barsch gefangen. Obwohl es sehr kalt war, hat mir der Tag gefallen, weil die Stimmung so gut war.",
+      "rationale": "Coherent chronological narrative with a small climax, correct als-, obwohl- and weil-clauses, correct Perfekt and 'war'; motivated judgement and varied vocabulary."
+    },
+    {
+      "n": 56,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Vor einem Monat hat unsere Klasse einen Ausflug in ein Technikmuseum gemacht. Dort haben wir ausprobiert, wie ein Flugzeug fliegt, und wir haben in einem alten Zug gesessen. Am besten hat mir der Flugsimulator gefallen, obwohl mir danach ein bisschen schwindlig war. Auf der Rückfahrt haben wir im Bus gesingt. Ich würde gern wieder hinfahren, weil es dort noch viel mehr zu sehen gibt.",
+      "rationale": "Relatively coherent with correct wie-, obwohl- and weil-clauses, varied vocabulary and a motivated judgement. One minor slip ('gesingt' for 'gesungen')."
+    },
+    {
+      "n": 57,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Im September haben wir mit der Klasse eine Stadtrallye in Göteborg gemacht. In kleinen Gruppen mussten wir Fragen beantworten und verschiedene Orte finden. Unsere Gruppe hat sich zuerst verlaufen, aber dann haben wir den Weg mit einer Karte gefunden. Als wir endlich am Ziel angekommen sind, waren wir die Letzten. Trotzdem hat mir der Tag gefallen, weil wir die Stadt auf eine neue Art kennengelernt haben.",
+      "rationale": "Events in clear order, correct als- and weil-clauses, reflexive and separable Perfekt forms correct; varied vocabulary and a motivated judgement."
+    },
+    {
+      "n": 58,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Letzten Frühling ist unsere Klasse in die Berge gefahren, und wir sind zwei Tage gewandert. In der ersten Nacht haben wir in Zelten geschlafen, aber es war so kalt, dass niemand richtig schlafen konnte. Am nächsten Morgen haben wir einen wunderschönen Sonnenaufgang gesehen. Ich fand die Reise anstrengend, aber ich bin froh, dass ich mitgekommen bin, weil ich so etwas noch nie erlebt habe.",
+      "rationale": "Clear sequence with time expressions, correct so...dass, dass- and weil-clauses, Perfekt with haben and sein; nuanced, motivated judgement and varied vocabulary."
+    },
+    {
+      "n": 59,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Im Oktober waren wir mit der Klasse in einem Tierpark mit nordischen Tieren. Als wir angekommen sind, haben wir sofort die Wölfe gesehen, weil sie gerade ihr Futter bekommen haben. Später haben wir zwei kleine Bären beobachtet, und das war das Highlight des Tages. Leider hat es am Nachmittag stark geregnet. Trotzdem fand ich den Ausflug super, weil ich die Tiere so nah gesehen habe.",
+      "rationale": "Relatively coherent, ordered narrative with correct als- and weil-clauses, correct Perfekt and 'waren'; motivated judgement. Slight repetition of 'gesehen' but no real errors."
+    },
+    {
+      "n": 60,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Im August hat unsere Klasse eine Kanutour auf einem Fluss gemacht. Am Anfang war es schwierig, weil wir immer im Kreis gepaddelt sind. Nach einer Weile haben wir den Rhythmus gefunden und sind viel schneller geworden. Mittags haben wir auf einer kleinen Insel Pause gemacht und belegte Brote gegessen. Ich fand die Tour großartig, weil man gut zusammenarbeiten musste.",
+      "rationale": "Clear chronological order with time words, correct weil-clauses with sein-Perfekt inside, varied vocabulary ('Rhythmus', 'gepaddelt') and a motivated judgement. No noticeable errors."
+    }
+  ]
+}

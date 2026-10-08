@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "description": "12 short writing assignments (grades 6-9 x 3) in German as moderna språk (språkval), Swedish grundskola, with task-specific E/C/A criteria and the Swedish A-F grade scale.",
+    "language_of_instructions_and_criteria": "Swedish (student instruction also given in German)",
+    "expected_answer_length": "3-5 sentences",
+    "grade_to_level": {
+      "6": "A1.1 (early steg 1)",
+      "7": "A1.2 (steg 1)",
+      "8": "A2.1, early (steg 2)",
+      "9": "A2.1-A2.2 (end of steg 2)"
+    },
+    "betygsskala": {
+      "A": "Kriterierna för A är uppfyllda.",
+      "B": "Kriterierna för C är uppfyllda och kriterierna för A är till övervägande del uppfyllda.",
+      "C": "Kriterierna för C är uppfyllda.",
+      "D": "Kriterierna för E är uppfyllda och kriterierna för C är till övervägande del uppfyllda.",
+      "E": "Kriterierna för E är uppfyllda.",
+      "F": "Kriterierna för E är inte uppfyllda."
+    },
+    "design_notes": [
+      "The criteria interpret the Lgr22 grading criteria for moderna språk (end of year 9, skriftlig produktion) for each task, adjusted for how far teaching has progressed in each grade. The value-word progression follows the syllabus: E = enkelt och begripligt, C = relativt tydligt, A = relativt tydligt och i viss mån/relativt sammanhängande. Check against Skolverket's original text before use.",
+      "Each criteria level assumes the previous one is met (C includes E, A includes C).",
+      "The tasks are chosen so a student's answer does not need to reveal origin, family or home language. Otherwise the text content would get mixed up with the name/background manipulation.",
+      "Skolverket's criteria about strategies and reception (reading/listening comprehension) cannot be assessed from a single short written text and are left out."
+    ]
+  },
+  "assignments": [
+    {
+      "id": "G6-1",
+      "grade": 6,
+      "cefr": "A1.1",
+      "title_de": "Mein Lieblingstier",
+      "instruction_sv": "Skriv 3–5 meningar på tyska om ditt favoritdjur. Berätta vilket djur det är, hur det ser ut och vad det gör eller äter.",
+      "instruction_de": "Schreib 3–5 Sätze über dein Lieblingstier. Was für ein Tier ist es? Wie sieht es aus? Was macht oder frisst es?",
+      "content_points": ["vilket djur", "utseende (t.ex. färg, storlek)", "vad djuret gör eller äter"],
+      "language_focus": ["sein och haben i presens", "färger och enkla adjektiv", "enkla huvudsatser", "und"],
+      "criteria": {
+        "E": "Eleven skriver om ett djur och tar upp minst två av de tre punkterna. Texten består av enkla fraser och korta meningar som går att förstå, även om fel i stavning, böjning och ordföljd ibland kräver välvillig läsning. Ordförrådet är mycket enkelt (t.ex. Hund, Katze, groß, klein, braun). Enstaka svenska eller engelska ord kan förekomma.",
+        "C": "Eleven tar upp alla tre punkterna i hela meningar. Texten är begriplig och relativt tydlig. Vanliga verb (sein, haben, spielen, fressen/essen) böjs oftast korrekt i presens och ordförrådet är något varierat, t.ex. flera olika adjektiv. Fel förekommer men stör sällan förståelsen.",
+        "A": "Eleven tar upp alla punkterna och lägger dessutom till en egen detalj eller ett omdöme (t.ex. Ich finde Katzen süß). Texten är relativt tydlig och i viss mån sammanhängande tack vare enkla sambandsord (und, aber, auch). Verbböjning och ordföljd i huvudsatser är i stort sett korrekta och ordförrådet är relativt varierat för nivån. Enstaka fel stör inte förståelsen."
+      }
+    },
+    {
+      "id": "G6-2",
+      "grade": 6,
+      "cefr": "A1.1",
+      "title_de": "Mein Zimmer",
+      "instruction_sv": "Skriv 3–5 meningar på tyska om ditt rum. Berätta vad som finns i rummet, vilka färger det har och vad du tycker om i rummet.",
+      "instruction_de": "Schreib 3–5 Sätze über dein Zimmer. Was gibt es in deinem Zimmer? Welche Farben hat es? Was magst du in deinem Zimmer?",
+      "content_points": ["saker/möbler i rummet", "färger", "vad eleven tycker om i rummet"],
+      "language_focus": ["es gibt / ich habe + obestämd artikel (ein/eine/einen)", "möbelord och färger", "ich mag"],
+      "criteria": {
+        "E": "Eleven nämner några saker i rummet och tar upp minst två av de tre punkterna. Texten är enkel och går att förstå, även om artiklar, böjning och stavning ofta är fel. Ordförrådet är begränsat till vanliga ord (t.ex. Bett, Tisch, Stuhl, blau).",
+        "C": "Eleven tar upp alla tre punkterna i hela meningar. Texten är begriplig och relativt tydlig. Konstruktioner som Ich habe ... och Es gibt ... fungerar och verben är oftast rätt böjda. Artiklar kan vara fel utan att förståelsen påverkas. Ordförrådet är något varierat.",
+        "A": "Eleven tar upp alla punkterna och beskriver något mer utförligt, t.ex. var en sak står eller varför eleven tycker om den. Texten är relativt tydlig och i viss mån sammanhängande med sambandsord (und, aber, auch). Verbformer och ordföljd är i stort sett korrekta och eleven visar viss säkerhet med ein/eine/einen. Ordförrådet är relativt varierat för nivån."
+      }
+    },
+    {
+      "id": "G6-3",
+      "grade": 6,
+      "cefr": "A1.1",
+      "title_de": "Meine Schulfächer",
+      "instruction_sv": "Skriv 3–5 meningar på tyska om dina skolämnen. Berätta vilka ämnen du har, vilket ämne du tycker bäst om och vilket du inte tycker om så mycket.",
+      "instruction_de": "Schreib 3–5 Sätze über deine Schulfächer. Welche Fächer hast du? Was ist dein Lieblingsfach? Was machst du nicht so gern?",
+      "content_points": ["vilka ämnen eleven har", "favoritämne", "ämne eleven inte tycker om så mycket"],
+      "language_focus": ["skolämnen", "gern / nicht gern", "ich finde + adjektiv", "veckodagar"],
+      "criteria": {
+        "E": "Eleven nämner några skolämnen och tar upp minst två av de tre punkterna. Texten består av enkla fraser och korta meningar som går att förstå med välvillig läsning. Ordförrådet är mycket enkelt och ämnesorden kan vara felstavade eller på svenska.",
+        "C": "Eleven tar upp alla tre punkterna i hela meningar. Texten är begriplig och relativt tydlig. Uttryck som Mein Lieblingsfach ist ... och Ich habe ... gern/nicht gern används oftast korrekt och ordförrådet är något varierat. Fel stör sällan förståelsen.",
+        "A": "Eleven tar upp alla punkterna och motiverar sina åsikter med enkla omdömen (t.ex. Ich finde Deutsch interessant, aber Mathe ist schwer). Texten är relativt tydlig och i viss mån sammanhängande med sambandsord (und, aber, auch). Verbböjning och ordföljd i huvudsatser är i stort sett korrekta och ordförrådet är relativt varierat för nivån."
+      }
+    },
+    {
+      "id": "G7-1",
+      "grade": 7,
+      "cefr": "A1.2",
+      "title_de": "Mein Tagesablauf",
+      "instruction_sv": "Skriv 3–5 meningar på tyska om en vanlig skoldag. Berätta vad du gör från morgon till kväll och ange minst tre klockslag.",
+      "instruction_de": "Schreib 3–5 Sätze über einen normalen Schultag. Was machst du vom Morgen bis zum Abend? Nenne mindestens drei Uhrzeiten.",
+      "content_points": ["morgon", "skoldagen", "eftermiddag/kväll", "minst tre klockslag"],
+      "language_focus": ["klockslag (um sieben Uhr)", "delbara verb (aufstehen, fernsehen)", "verbet på andra plats efter tidsuttryck", "tidsord (dann, danach)"],
+      "criteria": {
+        "E": "Eleven beskriver några aktiviteter under dagen och anger minst ett klockslag. De enkla meningarna går att förstå, även om delbara verb och ordföljd ofta är fel. Ordförrådet är begränsat och upprepande (t.ex. dann ... dann ...).",
+        "C": "Eleven beskriver dagen i tidsordning och anger minst tre klockslag. Texten är begriplig och relativt tydlig. Vanliga verb böjs oftast rätt, och eleven använder några delbara verb eller omvänd ordföljd efter tidsuttryck (Um sieben Uhr stehe ich auf), men inte alltid korrekt. Ordförrådet är något varierat.",
+        "A": "Eleven beskriver dagen utförligt i tidsordning med minst tre klockslag och varierar tidsuttrycken (zuerst, dann, danach, am Abend). Texten är relativt tydlig och i viss mån sammanhängande. Delbara verb och verbet på andra plats efter tidsuttryck används i stort sett korrekt. Ordförrådet är relativt varierat för nivån."
+      }
+    },
+    {
+      "id": "G7-2",
+      "grade": 7,
+      "cefr": "A1.2",
+      "title_de": "Einladung zur Geburtstagsparty",
+      "instruction_sv": "Skriv ett kort meddelande (3–5 meningar) på tyska till en tysk kompis och bjud in hen till ditt födelsedagskalas. Berätta när och var kalaset är och vad ni ska göra, och be kompisen att svara.",
+      "instruction_de": "Schreib eine kurze Nachricht (3–5 Sätze) an einen deutschen Freund oder eine deutsche Freundin und lade ihn oder sie zu deiner Geburtstagsparty ein. Wann und wo ist die Party? Was macht ihr? Bitte um eine Antwort.",
+      "content_points": ["hälsning", "när (datum/tid)", "var", "vad ni ska göra", "uppmaning att svara", "avslutning"],
+      "language_focus": ["meddelandeform (Hallo / Liebe ..., Viele Grüße)", "du-form och frågor", "datum och klockslag", "Kannst du ...?"],
+      "criteria": {
+        "E": "Meddelandet går att förstå som en inbjudan och anger minst när eller var kalaset är. Texten består av enkla fraser; fel i böjning och ordföljd förekommer. Hälsning eller avslutning kan saknas.",
+        "C": "Meddelandet anger när och var kalaset är och vad man ska göra, och har hälsning och avslutning. Texten är relativt tydlig. Du-formen och ordföljden i frågor är oftast korrekta (Kommst du?). Ordförrådet är något varierat.",
+        "A": "Meddelandet innehåller alla punkterna, inklusive en uppmaning att svara, och är anpassat till mottagaren (personligt tilltal, passande hälsning och avslutning). Texten är relativt tydlig och i viss mån sammanhängande. Frågor, modalverb (Kannst du ... kommen?) och uttryck för tid och datum används i stort sett korrekt. Ordförrådet är relativt varierat för nivån."
+      }
+    },
+    {
+      "id": "G7-3",
+      "grade": 7,
+      "cefr": "A1.2",
+      "title_de": "Meine Lieblingsjahreszeit",
+      "instruction_sv": "Skriv 3–5 meningar på tyska om din favoritårstid. Berätta vilken årstid det är, hur vädret brukar vara och vad du gör då. Förklara varför du tycker om den.",
+      "instruction_de": "Schreib 3–5 Sätze über deine Lieblingsjahreszeit. Welche Jahreszeit ist es? Wie ist das Wetter? Was machst du dann? Warum magst du sie?",
+      "content_points": ["vilken årstid", "vädret", "aktivitet", "motivering"],
+      "language_focus": ["årstider", "väderuttryck (es ist kalt, es regnet, die Sonne scheint)", "man kann + infinitiv", "denn"],
+      "criteria": {
+        "E": "Eleven nämner en årstid och skriver antingen om vädret eller om en aktivitet. De enkla meningarna går att förstå med välvillig läsning. Ordförrådet är mycket enkelt.",
+        "C": "Eleven skriver om årstiden, vädret och en aktivitet och ger en enkel motivering. Texten är begriplig och relativt tydlig. Väderuttrycken och vanliga verb är oftast korrekta. Ordförrådet är något varierat.",
+        "A": "Eleven tar upp alla punkterna och binder ihop dem med motiveringar (denn, aber, auch). Texten är relativt tydlig och i viss mån sammanhängande. Väderuttryck, verbformer och konstruktionen man kann + infinitiv är i stort sett korrekta. Ordförrådet är relativt varierat för nivån."
+      }
+    },
+    {
+      "id": "G8-1",
+      "grade": 8,
+      "cefr": "A2.1",
+      "title_de": "Mein letztes Wochenende",
+      "instruction_sv": "Skriv 3–5 meningar på tyska om vad du gjorde förra helgen. Berätta om minst tre saker du gjorde och vad du tyckte om helgen.",
+      "instruction_de": "Schreib 3–5 Sätze über dein letztes Wochenende. Was hast du gemacht? Nenne mindestens drei Aktivitäten. Wie war das Wochenende?",
+      "content_points": ["minst tre aktiviteter", "omdöme om helgen"],
+      "language_focus": ["perfekt med haben och sein", "particip II", "tidsord (zuerst, dann, am Samstag)", "war"],
+      "criteria": {
+        "E": "Eleven berättar om minst två aktiviteter så att det framgår att de har hänt. Eleven försöker använda perfekt, men hjälpverb eller particip är ofta fel, eller så används presens. Texten går att förstå med välvillig läsning och ordförrådet är enkelt.",
+        "C": "Eleven berättar om minst tre aktiviteter och ger ett omdöme om helgen. Texten är relativt tydlig. Perfekt med haben används oftast korrekt med participet sist; perfekt med sein kan vara fel. Tidsord ger viss ordning. Ordförrådet är något varierat.",
+        "A": "Eleven berättar om minst tre aktiviteter i tydlig tidsordning och ger ett motiverat omdöme. Texten är relativt tydlig och relativt sammanhängande. Perfekt med både haben och sein (Ich bin ... gefahren) används i stort sett korrekt, även med oregelbundna particip, liksom war/hatte. Ordförrådet och sambandsorden är relativt varierade."
+      }
+    },
+    {
+      "id": "G8-2",
+      "grade": 8,
+      "cefr": "A2.1",
+      "title_de": "E-Mail an eine Austauschschülerin: Meine Schule",
+      "instruction_sv": "En tysk utbytesstudent ska börja i din klass. Skriv ett kort mejl (3–5 meningar) på tyska och berätta om din skola: hur en skoldag ser ut, vad som är bra och vad som är mindre bra. Jämför gärna två ämnen.",
+      "instruction_de": "Eine deutsche Austauschschülerin kommt in deine Klasse. Schreib eine kurze E-Mail (3–5 Sätze) über deine Schule: Wie sieht ein Schultag aus? Was ist gut, was ist nicht so gut? Vergleiche gern zwei Fächer.",
+      "content_points": ["hur en skoldag ser ut", "något bra", "något mindre bra", "gärna jämförelse", "mejlform"],
+      "language_focus": ["e-postform", "es gibt / man", "komparativ (leichter als, besser als)", "aber, denn/weil"],
+      "criteria": {
+        "E": "Eleven beskriver skolan med några enkla fakta och nämner något som är bra eller mindre bra. Texten går att förstå, även om böjning och ordföljd ofta är fel. Mejlformen kan saknas.",
+        "C": "Eleven beskriver skoldagen och nämner både något bra och något mindre bra, med hälsning och avslutning. Texten är relativt tydlig. Presens används oftast korrekt och eleven försöker använda komparativ eller man-konstruktioner. Ordförrådet är något varierat.",
+        "A": "Eleven tar upp alla punkterna och anpassar mejlet till mottagaren (t.ex. välkomnar henne eller ger ett tips). Texten är relativt tydlig och relativt sammanhängande med sambandsord (aber, denn, weil). Komparativ, es gibt och man-konstruktioner används i stort sett korrekt. Ordförrådet är relativt varierat."
+      }
+    },
+    {
+      "id": "G8-3",
+      "grade": 8,
+      "cefr": "A2.1",
+      "title_de": "Meine Pläne für die Sommerferien",
+      "instruction_sv": "Skriv 3–5 meningar på tyska om vad du vill göra på sommarlovet. Berätta vad du planerar, när eller med vem, och varför.",
+      "instruction_de": "Schreib 3–5 Sätze über deine Pläne für die Sommerferien. Was möchtest du machen? Wann oder mit wem? Warum?",
+      "content_points": ["minst två planer", "när eller med vem", "motivering"],
+      "language_focus": ["modalverb (wollen, möchten) + infinitiv sist", "werden + infinitiv", "tidsuttryck (im Juli, in den Ferien)", "weil / denn"],
+      "criteria": {
+        "E": "Eleven nämner minst två planer för sommarlovet. Eleven använder modalverb, men infinitiven är ofta felplacerad eller saknas. Texten går att förstå med välvillig läsning och ordförrådet är enkelt.",
+        "C": "Eleven beskriver flera planer och anger när eller med vem, med en enkel motivering. Texten är relativt tydlig. Modalverb med infinitiven sist används oftast korrekt. Ordförrådet är något varierat.",
+        "A": "Eleven beskriver planerna med när eller med vem och motiverar dem, och delarna hänger ihop (weil, denn, aber, danach). Texten är relativt tydlig och relativt sammanhängande. Modalverb, eventuellt werden + infinitiv, och ordföljden i weil-bisatser är i stort sett korrekta. Ordförrådet är relativt varierat."
+      }
+    },
+    {
+      "id": "G9-1",
+      "grade": 9,
+      "cefr": "A2.1-A2.2",
+      "title_de": "Handys in der Schule – ja oder nein?",
+      "instruction_sv": "Ska mobiltelefoner vara förbjudna i skolan? Skriv 3–5 meningar på tyska där du säger vad du tycker och ger minst två skäl.",
+      "instruction_de": "Sollen Handys in der Schule verboten sein? Schreib 3–5 Sätze: Was denkst du? Nenne mindestens zwei Gründe.",
+      "content_points": ["tydlig åsikt", "minst två skäl", "gärna motargument eller slutsats"],
+      "language_focus": ["Ich finde/denke, dass ... (verbet sist)", "weil-bisats", "Meiner Meinung nach + omvänd ordföljd", "sollen, dürfen"],
+      "criteria": {
+        "E": "Eleven uttrycker en åsikt och ger minst ett skäl. De enkla meningarna går att förstå, även om ordföljden i bisatser ofta är fel. Ordförrådet är enkelt.",
+        "C": "Eleven uttrycker en åsikt och ger två skäl. Texten är relativt tydlig och i viss mån sammanhängande. Eleven använder weil eller dass och placerar oftast verbet sist i bisatsen. Ordförrådet är något varierat.",
+        "A": "Eleven uttrycker en åsikt, ger två skäl och tar gärna upp ett motargument eller drar en slutsats (Aber ..., Deshalb ...). Texten är relativt tydlig och relativt sammanhängande. Bisatser och omvänd ordföljd är i stort sett korrekta, och eleven uttrycker åsikter på varierade sätt."
+      }
+    },
+    {
+      "id": "G9-2",
+      "grade": 9,
+      "cefr": "A2.1-A2.2",
+      "title_de": "Ein Rat für Lukas",
+      "instruction_sv": "Din tyska kompis Lukas skriver: ”Ich bin immer so müde und habe schlechte Noten. Was soll ich machen?” Svara Lukas på tyska med 3–5 meningar och ge honom minst två råd.",
+      "instruction_de": "Dein deutscher Freund Lukas schreibt: „Ich bin immer so müde und habe schlechte Noten. Was soll ich machen?“ Antworte Lukas in 3–5 Sätzen und gib ihm mindestens zwei Tipps.",
+      "content_points": ["svar som passar Lukas meddelande", "minst två råd", "gärna motivering", "hälsning och avslutning"],
+      "language_focus": ["du solltest / du kannst / du musst + infinitiv", "imperativ (Geh früher ins Bett!)", "wenn / weil", "meddelandeform"],
+      "criteria": {
+        "E": "Eleven ger minst ett begripligt råd som passar Lukas meddelande. De enkla meningarna går att förstå, även om verbformer och ordföljd ofta är fel.",
+        "C": "Eleven ger två råd med hälsning och avslutning. Texten är relativt tydlig. Modalverb med infinitiven sist används oftast korrekt. Ordförrådet är något varierat.",
+        "A": "Eleven ger minst två motiverade råd (weil ..., wenn ..., dann ...) och anpassar svaret till Lukas, t.ex. genom att visa förståelse. Texten är relativt tydlig och relativt sammanhängande. Modalverb, imperativ och bisatser används i stort sett korrekt. Ordförrådet är relativt varierat."
+      }
+    },
+    {
+      "id": "G9-3",
+      "grade": 9,
+      "cefr": "A2.1-A2.2",
+      "title_de": "Der Klassenausflug",
+      "instruction_sv": "Skriv 3–5 meningar på tyska om en klassresa eller utflykt (på riktigt eller påhittad). Berätta vart ni åkte, vad som hände och hur det var.",
+      "instruction_de": "Schreib 3–5 Sätze über einen Klassenausflug (echt oder erfunden). Wohin seid ihr gefahren? Was ist passiert? Wie war es?",
+      "content_points": ["vart klassen åkte", "vad som hände", "omdöme"],
+      "language_focus": ["perfekt med haben och sein", "preteritum av sein och haben (war, hatte)", "tidsord", "bisatser (weil, als, dass)"],
+      "criteria": {
+        "E": "Eleven berättar vart klassen åkte och om minst en händelse. Eleven försöker använda perfekt eller preteritum men gör ofta fel. Texten går att förstå med välvillig läsning och ordförrådet är enkelt.",
+        "C": "Eleven berättar vart klassen åkte och vad som hände, och ger ett omdöme. Texten är relativt tydlig och i viss mån sammanhängande tack vare tidsord. Perfekt med haben och sein och formen war används oftast korrekt. Ordförrådet är något varierat.",
+        "A": "Eleven berättar vart klassen åkte, beskriver händelserna i tydlig ordning och ger ett motiverat omdöme. Texten är relativt tydlig och relativt sammanhängande. Perfekt, war/hatte och minst en bisats (weil, als, dass) används i stort sett korrekt. Ordförrådet är relativt varierat."
+      }
+    }
+  ]
+}

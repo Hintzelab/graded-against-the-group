@@ -1,0 +1,425 @@
+{
+  "assignment_id": "G8-1",
+  "texts": [
+    {
+      "n": 1,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Wochenende war gut. Ich kino.",
+      "rationale": "Only two fragments; one activity hinted without a verb or past reference. E criteria (two activities that clearly happened) not met."
+    },
+    {
+      "n": 2,
+      "intended_grade": "F",
+      "f_type": "too_short",
+      "text": "Ich habe schlafen lange. Das ist bra.",
+      "rationale": "One activity and a judgment partly in Swedish ('bra'); far too short and only one activity. Below E."
+    },
+    {
+      "n": 3,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Am Samstag ich spiele Handball mit mein Mannschaft. Wir haben gewinnt. Handball ist mein lieblings sport, ich spiele seit fünf jahre.",
+      "rationale": "Only one activity; the rest drifts into general information about the sport, so the task is only partly addressed. Present tense, wrong participle, article/case errors."
+    },
+    {
+      "n": 4,
+      "intended_grade": "F",
+      "f_type": "one_point",
+      "text": "Mein Wochenende war langweilig. Es regnet die ganze zeit und ich war müde. Ich mag nicht regen.",
+      "rationale": "Gives a judgment and talks about the weather but names no activities at all; misses the core of the task."
+    },
+    {
+      "n": 5,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "Wokende ich gehabt in stad und kaufe mit Fround viel kleder, dann Pizze hat es. Sontag isch nur schlaffen haben war schöne gemacht.",
+      "rationale": "Some activities can be guessed (shopping, pizza, sleeping) but spelling, verb forms and syntax are so broken that the text is not understandable even with goodwill."
+    },
+    {
+      "n": 6,
+      "intended_grade": "F",
+      "f_type": "incomprehensible",
+      "text": "In Samstag war ich gegangt schwimen hale und dan wir ist Kuken bakke. Sontag ich lese Buk sie war nich lange er gut ist.",
+      "rationale": "Heavy spelling by ear, invented verb forms and Swedish-based words (hale, bakke, Buk); meaning of most of the text cannot be recovered reliably."
+    },
+    {
+      "n": 7,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "På lördagen jag var på bio med kompisar. Sen vi äter pizza. Sunday I played video games the whole day. Es war gut.",
+      "rationale": "Activities are described almost entirely in Swedish and English; only the final judgment is German. E criteria not met in German."
+    },
+    {
+      "n": 8,
+      "intended_grade": "F",
+      "f_type": "swedish_english",
+      "text": "Am Samstag ich habe... I don't know how to say. Jag åkte till sjön och badade med mina kompisar och det var kul. Das Wochenende war sehr gut.",
+      "rationale": "Starts in German but gives up; the actual content is in English and Swedish. Only a judgment in German."
+    },
+    {
+      "n": 9,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Wochenende. Samstag fussball, Sonntag Hund spazieren. Gut.",
+      "rationale": "A genuine attempt but only single words strung together; no verbs, no past tense, no sentences. Activities hinted but not told."
+    },
+    {
+      "n": 10,
+      "intended_grade": "F",
+      "f_type": "below_e_attempt",
+      "text": "Ich Samstag Kino, Popcorn. Sonntag ich Hausaufgaben. Mathe schwer. Nicht gut.",
+      "rationale": "Word lists without verbs; the reader can guess cinema and homework but nothing is told as having happened. Below E."
+    },
+    {
+      "n": 11,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Am Samstag habe ich mit Freunde fussball spielen. Es war kalt aber roligt. Am Sonntag ich habe lange schlafen und dann Hausaufgabe machen.",
+      "rationale": "Two-three activities understandable with goodwill; Perfekt attempted but participles are infinitives, Swedish 'roligt', no judgment of the weekend. E met, C not."
+    },
+    {
+      "n": 12,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Am Wochenende ich bin in die Stadt gehen. Ich kaufe eine neue Jacke, sie ist blau. Am Sonntag habe ich ein Kuchen gebackt. Das Wochenende war gut.",
+      "rationale": "Activities (town, shopping, baking) are clear; Perfekt forms wrong (bin gehen, gebackt), present tense mixed in, article error. Simple vocabulary."
+    },
+    {
+      "n": 13,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Am Samstag ich spiele Computerspiele den ganzen Tag. Am Sonntag ich gehe mit der Hund in Wald. Es ist schön wetter. Wochenende war ok.",
+      "rationale": "Two activities, told only in present tense; word order and article errors, very simple vocabulary. Understandable with goodwill."
+    },
+    {
+      "n": 14,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Freitag abend habe ich ein film sehen. Samstag ich habe schwimmen in die Schwimmhalle. Das war sehr gut. Sonntag ich habe nichts machen.",
+      "rationale": "Two activities (film, swimming); habe + infinitive instead of participles throughout, lowercase nouns, word order errors. Meets E only."
+    },
+    {
+      "n": 15,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Am Samstag habe ich mit mein Freunde Basketball gespielt. Dann wir sind nach Hause gegangen und habe Pommes essen. Am Sonntag ist ich müde und schlafe. Es war ein gut Wochenende.",
+      "rationale": "Activities understandable, one Perfekt correct but others wrong (habe essen, ist ich), case and adjective errors, very basic judgment. C not reached."
+    },
+    {
+      "n": 16,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Ich habe am Samstag Gitarre spielt. Am Sonntag ich fahre Fahrrad zu der See mit Freunde. Das Wasser war sehr kalt. Ich finde das Wochenende gut.",
+      "rationale": "Two activities; wrong participle (spielt), present tense for the second, article/gender errors (der See). Simple and understandable."
+    },
+    {
+      "n": 17,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Am Wochenende ich habe mein zimmer aufraumen. Das ist langweilig. Dann ich spiele Tennis mit Freunde. Am Abend ich sehe eine Serie.",
+      "rationale": "Three activities but told in present or with infinitive; no judgment of the weekend overall, missing umlaut, lowercase noun, word order errors."
+    },
+    {
+      "n": 18,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Samstag ich bin in der Bibliotek gehen und habe ein Buch leihen. Ich lese das Buch im Bett. Sonntag habe ich Mathe lernen fur ein Test. Wochenende war nicht so gut, zu viel Schule.",
+      "rationale": "Activities clear (library, reading, studying), but Perfekt formed with infinitives, missing umlauts and article errors. Simple language; E level."
+    },
+    {
+      "n": 19,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Am Samstag habe ich Bowling spielen mit meine Klasse. Ich habe gewinnt! Am Sonntag ich bin zu hause und esse Eis und sehe fern. Das war super.",
+      "rationale": "Activities understandable; wrong participles (spielen, gewinnt), present tense on Sunday, 'und' chaining. Vocabulary simple."
+    },
+    {
+      "n": 20,
+      "intended_grade": "E",
+      "f_type": null,
+      "text": "Am Samstag ich habe mit Freunde in den Park gehen und wir spielen Frisbee. Am Sonntag habe ich Brot backen. Es war lecker. Das Wochenende war schon.",
+      "rationale": "Two to three activities; Perfekt attempted but only with infinitives, missing umlaut (schon), case error. Understandable with goodwill."
+    },
+    {
+      "n": 21,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Samstag habe ich Handball gespielt. Wir haben verloren, das war nicht so gut. Danach ich bin nach Hause gegangen und habe Pasta gekocht. Am Sonntag habe ich mit Freunde ins Kino gehen. Das Wochenende war gut aber ich war sehr müde.",
+      "rationale": "Three activities and a judgment; several correct haben-Perfekt forms and one sein form, but word order after 'Danach' and 'habe ... gehen' wrong. C mostly met."
+    },
+    {
+      "n": 22,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Freitag war ich auf eine Party bei ein Freund. Wir haben getanzt und viel Pizza gegessen. Am Samstag ich habe lange geschlaft. Am Sonntag habe ich meine Hausaufgaben gemacht, das war langweilig. Das Wochenende war schön.",
+      "rationale": "Three+ activities with days as time markers and a judgment; Perfekt mostly right but 'geschlaft', case errors (auf eine Party, bei ein Freund), one V2 slip."
+    },
+    {
+      "n": 23,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Samstag bin ich mit dem Zug nach Stockholm gefahrt. Dort habe ich ein Museum besuchen, es war interessant. Dann ich habe Eis gegessen. Am Sonntag war ich zu Hause und lese. Das Wochenende war toll.",
+      "rationale": "Three activities and a judgment; sein-Perfekt chosen correctly but participle wrong (gefahrt), 'habe besuchen', present tense slip, V2 error after 'Dann'."
+    },
+    {
+      "n": 24,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Samstag bin ich mit meine Hund in den Wald gegeht. Dann habe ich Fussball im Fernsehen gesehen. Am Sonntag habe ich mein Fahrrad repariert und habe zu ein Freund gefahren. Es war ein gutes Wochenende weil es war sonnig.",
+      "rationale": "Three activities, simple motivated judgment; regular haben-Perfekt correct, sein/irregular forms wrong (gegeht, habe gefahren), main-clause order after 'weil'."
+    },
+    {
+      "n": 25,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Zuerst habe ich am Samstag Klavier geübt. Dann habe ich mit Freunde Minigolf spielen, das hat viel Spass gemacht. Am Sonntag ich habe Kuchen gebacken aber er war nicht so gut. Das Wochenende war okay.",
+      "rationale": "Three activities with zuerst/dann and a judgment; mix of correct and wrong Perfekt (spielen), case error, V2 slip. C criteria largely but not fully met."
+    },
+    {
+      "n": 26,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Samstag habe ich Unihockey Training gehabt. Nach dem Training wir haben Burger gegessen. Am Sonntag habe ich geschlafen bis zwölf Uhr und dann ein Film gesehen. Es war ein schön Wochenende.",
+      "rationale": "Three activities and a judgment; haben-Perfekt mostly correct but participle not always last, V2 slip, article and adjective ending errors."
+    },
+    {
+      "n": 27,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Wochenende ich bin mit meine Familie an den See gefahren. Wir haben geangelt aber wir haben keine Fische bekommen. Am Abend haben wir Karten gespielt. Das war lustig. Ich finde das Wochenende sehr gut.",
+      "rationale": "Three activities in order and a judgment; Perfekt largely correct including 'bin gefahren', but V2 error, case error, unvaried sentence patterns."
+    },
+    {
+      "n": 28,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Samstag habe ich im Garten gearbeitet. Es war viel Arbeit. Dann bin ich joggen gegangen. Am Sonntag ich habe eine Serie gesehen und Popcorn essen. Das Wochenende war gut aber ein bisschen kurz.",
+      "rationale": "Three activities and a judgment; several correct Perfekt forms but 'Popcorn essen' and V2 error; vocabulary fairly simple."
+    },
+    {
+      "n": 29,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Samstag habe ich mit Freunde in der Stadt gewesen. Wir haben Schuhe gekauft und Kakao getrinkt. Am Sonntag habe ich Schach gespielt mit meine Nachbar. Das Wochenende war lustig weil ich hatte viel Zeit mit meine Freunde.",
+      "rationale": "Three activities and a motivated judgment; haben used for sein, wrong irregular participle (getrinkt), case errors and weil with main-clause order."
+    },
+    {
+      "n": 30,
+      "intended_grade": "D",
+      "f_type": null,
+      "text": "Am Freitag habe ich ein Konzert in der Schule gesehen. Am Samstag habe ich Schlittschuh gelauft auf dem Eis. Am Sonntag habe ich nur zu Hause gebleiben und Musik gehört. Es war ein ruhig Wochenende und ich mag das.",
+      "rationale": "Three activities with days and a judgment; haben-Perfekt with regular verbs right, irregular/sein forms wrong (gelauft, habe gebleiben), adjective ending missing."
+    },
+    {
+      "n": 31,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Am Samstag habe ich mit meinen Freunden Basketball gespielt. Danach haben wir in ein Café Kuchen gegessen. Am Sonntag habe ich zuerst meine Hausaufgaben gemacht und dann habe ich ein Buch gelesen. Das Wochenende war sehr schön und entspannt.",
+      "rationale": "Three+ activities with time words and a judgment; haben-Perfekt correct with participle last, one case error (in ein Café). No sein-Perfekt or reasons, so not A-level."
+    },
+    {
+      "n": 32,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Am Samstag habe ich nach Göteborg gefahren. Dort habe ich den Freizeitpark besucht und bin Achterbahn gefahren. Es war sehr spannend. Am Sonntag habe ich nur geschlafen und Musik gehört. Das Wochenende war super, aber am Sonntag war ich sehr müde.",
+      "rationale": "Three activities and a judgment, relatively clear; haben-Perfekt correct, sein used inconsistently (habe nach Göteborg gefahren). Somewhat varied vocabulary."
+    },
+    {
+      "n": 33,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Zuerst habe ich am Samstag mein Zimmer aufgeräumt. Dann habe ich mit dem Hund einen langen Spaziergang gemacht. Am Abend habe ich Pfannkuchen gekocht, sie waren lecker. Am Sonntag habe ich schwimmen gegangen. Das war ein gutes Wochenende.",
+      "rationale": "Four activities in order (zuerst, dann, am Abend) and a judgment; haben-Perfekt correct, sein wrong (habe gegangen). Judgment not motivated."
+    },
+    {
+      "n": 34,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Am Freitag habe ich mit Freunden einen Film im Kino gesehen. Am Samstag hatte ich ein Fussballspiel und wir haben 3:1 gewonnen. Am Sonntag habe ich ein bisschen Gitarre gespielt und Mathe gelernt. Ich fand das Wochenende toll, aber zu kurz.",
+      "rationale": "Three+ activities with day markers and a judgment; Perfekt with haben and 'hatte' correct, no sein-Perfekt, little linking. Solid C."
+    },
+    {
+      "n": 35,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Am Samstag bin ich mit dem Fahrrad zum See gefahrt. Ich habe dort gebadet, aber das Wasser war kalt. Am Nachmittag habe ich Eis gegessen. Am Sonntag habe ich ein Brettspiel mit meiner Familie gespielt. Das Wochenende war schön und lustig.",
+      "rationale": "Three+ activities and a judgment; haben-Perfekt correct, sein chosen but participle wrong (gefahrt). Relatively clear, limited connectors."
+    },
+    {
+      "n": 36,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Am Samstag habe ich in der Stadt eine neue Hose gekauft. Dann habe ich einen Freund getroffen und wir haben Pommes gegessen. Am Sonntag habe ich Tennis gespielt. Das Wochenende war gut, aber das Wetter war nicht so schön.",
+      "rationale": "Three activities, time words, judgment with a contrast; haben-Perfekt consistently correct including irregular 'getroffen', but short and no sein forms. C."
+    },
+    {
+      "n": 37,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Am Samstag habe ich Klettern gemacht in einer Halle. Danach habe ich Pizza mit Freunden gegessen. Am Sonntag habe ich ein Kuchen gebacken und ein Film gesehen. Das war ein tolles Wochenende, weil ich hatte viel Spass.",
+      "rationale": "Three+ activities and a motivated judgment; haben-Perfekt correct but participle not last in first sentence, accusative errors (ein Kuchen, ein Film), weil + main-clause order."
+    },
+    {
+      "n": 38,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Am Samstag habe ich lange geschlafen, bis elf Uhr. Dann habe ich mit meinen Freunden Computerspiele gespielt. Am Sonntag sind wir ins Museum gegangen und haben alte Autos gesehen. Das Wochenende war interessant und ich war glücklich.",
+      "rationale": "Three activities in order with a judgment; haben- and sein-Perfekt correct, but judgment not really motivated and sentences simple. C."
+    },
+    {
+      "n": 39,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Am Samstag habe ich im Wald Pilze gesucht. Wir haben viele gefunden! Am Abend habe ich Pasta mit Pilzen gekocht. Am Sonntag habe ich zu Hause gebleibt und Fotos bearbeitet. Das Wochenende war ruhig aber gut.",
+      "rationale": "Three+ activities with time words and a judgment; haben-Perfekt correct incl. 'gefunden', but sein wrong (habe gebleibt). Somewhat varied vocabulary."
+    },
+    {
+      "n": 40,
+      "intended_grade": "C",
+      "f_type": null,
+      "text": "Am Samstag habe ich Handball gespielt, und danach habe ich mit meinem Team Burger gegessen. Am Sonntag bin ich joggen und habe ein Podcast gehört. Am Abend habe ich meine Tasche für die Schule gepackt. Das Wochenende war okay, nicht super.",
+      "rationale": "Four activities with time markers and a judgment; haben-Perfekt correct, sein incomplete (bin joggen), article error (ein Podcast). Clear but not A-level."
+    },
+    {
+      "n": 41,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Am Samstagmorgen bin ich früh aufgestanden, weil ich hatte ein Fussballspiel. Leider haben wir 1:2 verloren. Danach bin ich mit ein paar Freunden in die Stadt gegangen und wir haben Pizza gegessen. Am Sonntag habe ich nur gelesen und mich ausgeruht. Das Wochenende war trotzdem gut, weil ich viel Zeit mit meinen Freunden hatte.",
+      "rationale": "Clear time order, motivated judgment, haben and sein-Perfekt correct incl. separable 'aufgestanden'; one weil-clause with main-clause order and 'ss' spelling keep it just below A."
+    },
+    {
+      "n": 42,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Am Freitagabend sind wir an einen See gefahren und haben dort gezeltet. Am Samstag bin ich zuerst geschwommen, obwohl das Wasser sehr kalt war. Danach haben wir Holz gesammelt und über das Feuer Stockbrot gebacken. Am Sonntag sind wir nach Hause gefahren und ich habe den ganzen Nachmittag geschlafen. Es war ein tolles Wochenende, aber das Zelt war ein bisschen zu klein fur uns.",
+      "rationale": "Relatively coherent chronological account with sein and haben Perfekt used correctly; judgment given but only loosely motivated, small case and umlaut errors (über das Feuer, fur)."
+    },
+    {
+      "n": 43,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Am Samstag habe ich zuerst meinem Nachbar im Garten geholfen und dafür hundert Kronen bekommen. Danach bin ich mit dem Fahrrad in die Stadt gefahren und habe mir ein neues Spiel gekauft. Am Sonntag habe ich das Spiel mit Freunden gespielt, bis es dunkel war. Das Wochenende hat mir gut gefallen, weil ich mein eigenes Geld verdient habe.",
+      "rationale": "Clear sequence, motivated judgment, correct haben/sein Perfekt and subordinate clauses; minor noun-ending slip (Nachbar) and fairly repetitive 'habe ... ' structures keep it at B."
+    },
+    {
+      "n": 44,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Am Samstag war ich auf einer Geburtstagsparty. Wir haben Karaoke gesingt und viel gelacht. Am Sonntag bin ich spater aufgestanden und habe mit dem Hund einen langen Spaziergang gemacht. Danach habe ich meine Hausaufgaben für Deutsch gemacht, das war nicht so lustig. Insgesamt war es ein schönes Wochenende, weil die Party so toll war.",
+      "rationale": "Three+ activities in order with a motivated judgment; mostly correct Perfekt incl. sein, but wrong irregular participle (gesingt) and missing umlaut (spater)."
+    },
+    {
+      "n": 45,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Am Samstag habe ich mit meinem Handballteam ein Turnier gespielt. Wir sind am Morgen mit dem Bus nach eine andere Stadt gefahren. Wir haben drei Spiele gewonnen und nur eins verloren! Am Sonntag war ich total kaputt, deshalb habe ich nur ferngesehen. Das Wochenende war anstrengend aber sehr schön.",
+      "rationale": "Relatively coherent with haben/sein Perfekt and separable 'ferngesehen' correct, 'deshalb' linking; judgment implied rather than clearly motivated, preposition/case error (nach eine andere Stadt)."
+    },
+    {
+      "n": 46,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Am Samstagvormittag bin ich in die Bibliothek gegangen und habe zwei Bücher ausgeleiht. Am Nachmittag habe ich Muffins gebacken, weil wir Besuch bekommen haben. Am Sonntag bin ich mit dem Fahrrad um den See gefahren, das waren fast zwanzig Kilometer. Das Wochenende war gut, aber meine Beine tun heute noch weh.",
+      "rationale": "Clear chronology, varied vocabulary and correct sein-Perfekt; one irregular participle wrong (ausgeleiht), judgment only partly motivated. A criteria mostly met."
+    },
+    {
+      "n": 47,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Am Samstag hat es viel geschneit, deshalb habe ich mit den Nachbarskindern einen großen Schneeman gebaut. Danach sind wir Schlitten gefahren, bis wir ganz nass waren. Am Sonntag habe ich warmen Kakao getrunken und ein spannendes Buch zu Ende gelesen. Es war ein gemütliches Wochenende, weil ich viel draussen war und mich danach ausruhen konnte.",
+      "rationale": "Coherent and chronological with correct haben/sein Perfekt, irregular participles and a motivated judgment; small spelling slips (Schneeman, draussen). Modal in subclause slightly ambitious; near A but a little uneven."
+    },
+    {
+      "n": 48,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Am Freitag bin ich mit Freunden auf ein Konzert in der Stadt gegangen. Die Band hat sehr laut gespielt und wir haben die ganze Zeit getanzt. Deshalb habe ich am Samstag bis Mittag geschlafen. Am Nachmittag habe ich dann Klavier geübt, weil ich am Montag habe eine Prüfung. Das Wochenende war super, aber ich hatte zu wenig Zeit für die Hausaufgaben.",
+      "rationale": "Clear sequence with deshalb/dann, correct haben/sein Perfekt, 'hatte'; judgment given with contrast; one weil-clause word order error."
+    },
+    {
+      "n": 49,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Am Samstag habe ich für meine Familie gekocht. Zuerst bin ich in den Supermarkt gegangen und habe Gemüse und Nudeln gekauft. Dann habe ich eine Gemüselasagne gemacht, sie war sehr lecker, nur ein bisschen zu salzig. Am Sonntag habe ich Unihockey gespielt und bin danach mit dem Bus nach Hause gefahrt. Das Wochenende war gut, weil alle mein Essen gemocht haben.",
+      "rationale": "Clear order (zuerst, dann, danach), motivated judgment, mostly correct Perfekt; one wrong sein participle (gefahrt) and a run-on sentence keep it below A."
+    },
+    {
+      "n": 50,
+      "intended_grade": "B",
+      "f_type": null,
+      "text": "Am Samstag hat es den ganzen Tag geregnet. Deshalb bin ich mit einem Freund ins Technikmuseum gegangen, und wir haben dort kleine Roboter programmiert. Am Abend haben wir Pizza bestellt und einen Horrorfilm gesehen. Am Sonntag bin ich joggen gegangen, weil das Wetter besser war. Das Wochenende war lustig, aber der Film war ein bisschen zu gruselig fur mich.",
+      "rationale": "Coherent account with correct haben/sein Perfekt and linking; judgment given but reasoning is thin, minor umlaut slip (fur). Mostly A criteria."
+    },
+    {
+      "n": 51,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Am Samstag bin ich früh aufgestanden und mit dem Fahrrad zum Sportplatz gefahren, weil wir ein wichtiges Fußballspiel hatten. Wir haben 2:0 gewonnen, und ich habe sogar ein Tor geschossen! Danach sind wir alle zusammen Eis essen gegangen. Am Sonntag habe ich lange geschlafen und dann für den Englischtest gelernt. Es war ein tolles Wochenende, weil wir endlich gewonnen haben.",
+      "rationale": "Clear chronology, motivated judgment, correct haben and sein Perfekt with irregular participles (geschossen, gegangen), 'hatten', correct subordinate word order. Relatively coherent and varied."
+    },
+    {
+      "n": 52,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Am Samstag bin ich mit Freunden im Wald gewandert. Zuerst sind wir zu einem kleinen See gegangen, wo wir unsere Brote gegessen haben. Danach haben wir ein Reh gesehen, das war echt spannend. Am Sonntag war ich so müde, dass ich fast den ganzen Tag im Bett gelegen habe. Trotzdem fand ich das Wochenende super, weil ich viel draussen war.",
+      "rationale": "Chronological, coherent account with correct sein/haben Perfekt, varied connectors (zuerst, danach, trotzdem) and a motivated judgment; one minor slip (draussen)."
+    },
+    {
+      "n": 53,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Am Freitagabend haben wir zu Hause einen Spieleabend gemacht, und ich habe zweimal gewonnen. Am Samstag bin ich in die Stadt gefahren und habe ein Geschenk für einen Freund gekauft, weil er Geburtstag hatte. Am Abend war ich dann auf seiner Party, wo wir viel getanzt und gesungen haben. Am Sonntag habe ich mich ausgeruht und ein Buch gelesen. Das Wochenende war anstrengend, aber sehr lustig, weil ich so viel erlebt habe.",
+      "rationale": "Four activities in clear order, correct Perfekt with haben and sein incl. irregular participles, war/hatte, varied linking and a motivated judgment. No real errors."
+    },
+    {
+      "n": 54,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Am Samstag bin ich mit dem Zug nach Göteborg gefahren, um das Aquarium zu besuchen. Dort habe ich Haie und bunte Fische gesehen und viele Fotos gemacht. Danach habe ich in einem kleinem Restaurant Pasta gegessen. Am Sonntag bin ich zu Hause geblieben, weil es geregnet hat. Ich fand das Wochenende sehr schön, weil ich etwas Neues gesehen habe.",
+      "rationale": "Clear sequence, correct sein-Perfekt (gefahren, geblieben) and irregular participles, subordinate clauses correct, motivated judgment; one adjective-ending slip (kleinem)."
+    },
+    {
+      "n": 55,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Letztes Wochenende hat es fast die ganze Zeit geregnet. Am Samstag bin ich deshalb mit zwei Freunden ins Kino gegangen, und wir haben einen lustigen Film gesehen. Danach haben wir bei mir Pfannkuchen gebacken, aber der erste ist leider verbrannt. Am Sonntag habe ich mein Zimmer aufgeräumt und Musik gehört. Obwohl das Wetter schlecht war, hatte ich ein schönes Wochenende.",
+      "rationale": "Coherent, chronological text with correct haben/sein Perfekt (incl. 'ist verbrannt'), deshalb/obwohl linking and a motivated judgment. Relatively varied vocabulary."
+    },
+    {
+      "n": 56,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Am Samstagmorgen bin ich ins Schwimmbad gegangen und einen Kilometer geschwommen. Am Nachmittag haben zwei Freunde bei mir übernachtet. Wir haben Pizza gemacht und bis Mitternacht Karten gespielt. Am Sonntag waren wir alle sehr müde, deshalb haben wir nur gefrühstückt und ferngesehen. Das war das beste Wochenende seit langem, weil wir so viel gelacht haben.",
+      "rationale": "Clear time order, correct sein/haben Perfekt incl. irregular and separable participles, 'waren', deshalb/weil linking, motivated judgment. Minor logic quirk (übernachtet in the afternoon) only."
+    },
+    {
+      "n": 57,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Am Samstag habe ich mit Freunden auf einem Flohmarkt alte Spiele und Bücher verkauft. Wir haben fast dreihundert Kronen verdient! Danach sind wir in ein Café gegangen und haben heiße Schokolade getrunken. Am Sonntag bin ich mit dem Hund an den See gegangen und habe Fotos vom Sonnenuntergang gemacht. Ich war sehr zufrieden mit dem Wochenende, weil alles so gut geklappt hat.",
+      "rationale": "Chronological and coherent, correct Perfekt with haben and sein and irregular participles (getrunken), varied vocabulary, motivated judgment. Essentially error-free."
+    },
+    {
+      "n": 58,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Am Samstag habe ich zuerst Unihockey trainiert, und danach bin ich mit dem Bus zu einem Freund gefahren. Wir haben zusammen ein kurzes Video für den Englischunterricht gedreht, und das hat viel Spass gemacht. Am Sonntag bin ich spazieren gegangen und habe danach Pfannkuchen gebacken. Das Wochenende war gut, aber ein bisschen zu kurz, denn ich hatte keine Zeit zum Lesen.",
+      "rationale": "Clear sequence (zuerst, danach), correct haben/sein Perfekt, 'hatte', denn-clause giving a reason; one spelling slip (Spass)."
+    },
+    {
+      "n": 59,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Am Samstag habe ich mein Fahrrad geputzt und repariert, weil die Bremsen kaputt waren. Danach bin ich damit zum Sportplatz gefahren und habe mit ein paar Leuten Basketball gespielt. Am Abend haben wir draußen gegessen, weil es noch so warm war. Am Sonntag habe ich eine neue Serie angefangen und gleich fünf Folgen gesehen. Das Wochenende war entspannt und sonnig, also genau richtig für mich.",
+      "rationale": "Coherent chronological account, correct haben/sein Perfekt incl. separable 'angefangen', correct subordinate clauses, motivated judgment and varied vocabulary."
+    },
+    {
+      "n": 60,
+      "intended_grade": "A",
+      "f_type": null,
+      "text": "Am Samstag hatte unsere Schulband ein Konzert in der Bibliothek, und ich habe Schlagzeug gespielt. Vorher war ich sehr nervös, aber am Ende ist alles gut gegangen. Nach dem Konzert sind wir zusammen Burger essen gegangen. Am Sonntag habe ich lange geschlafen und dann mit dem Hund gespielt. Es war ein aufregendes Wochenende, und ich bin stolz, dass wir so gut gespielt haben.",
+      "rationale": "Clear order (vorher, nach dem Konzert, am Sonntag), correct haben/sein Perfekt, war/hatte, dass-clause, and a motivated judgment. Relatively coherent and varied."
+    }
+  ]
+}
