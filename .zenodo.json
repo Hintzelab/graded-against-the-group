@@ -1,0 +1,12 @@
+{
+  "title": "Data, code and analysis for: One student at a time: large language models do not grade students independently when they share a context",
+  "upload_type": "dataset",
+  "description": "<p>Tasks and grading criteria, 720 AI-generated student texts in German as a foreign language with their intended grades, expert ratings, every model request and answer (two local and two commercial large language models; alone, batch and chat grading workflows), the experiment runners, and the Jupyter notebook that produces all figures and tables of the paper.</p><p>Data (assignments.json, texts/, ratings/, results/) are licensed under CC BY 4.0; code (*.py, *.sh, analysis.ipynb) under the MIT License.</p>",
+  "creators": [
+    {"name": "Hintze, Leonie", "affiliation": "Independent researcher, Sweden"},
+    {"name": "Hintze, Arend", "affiliation": "Dalarna University; BEACON Center for the Study of Evolution in Action, Michigan State University"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["large language models", "automated grading", "independent assessment", "contrast effect", "criterion-referenced grading"],
+  "language": "eng"
+}

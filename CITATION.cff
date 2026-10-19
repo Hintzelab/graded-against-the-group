@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite them as below."
+title: "Data, code and analysis for: One student at a time: large language models do not grade students independently when they share a context"
+type: dataset
+authors:
+  - family-names: Hintze
+    given-names: Leonie
+    affiliation: "Independent researcher, Sweden"
+  - family-names: Hintze
+    given-names: Arend
+    affiliation: "Dalarna University, Sweden; BEACON Center for the Study of Evolution in Action, Michigan State University, USA"
+    email: ahz@du.se
+repository-code: "https://github.com/Hintzelab/graded-against-the-group"
+license: [CC-BY-4.0, MIT]
+keywords: [large language models, automated grading, independent assessment, contrast effect, criterion-referenced grading]
