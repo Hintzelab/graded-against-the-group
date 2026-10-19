@@ -1,8 +1,7 @@
 The data in this repository (assignments.json, texts/, ratings/ and results/) are licensed under the
 Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-Copyright (c) 2026 The authors of "Graded against the group: language models make a student's grade depend on the
-classmates"
+Copyright (c) 2026 The authors of "One student at a time: large language models do not grade students independently when they share a context"
 
 You are free to share and adapt the data for any purpose, including commercially, as long as you give appropriate
 credit, provide a link to the license, and indicate if changes were made.

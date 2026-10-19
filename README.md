@@ -1,7 +1,6 @@
-# Graded against the group
+# One student at a time
 
-Data, code and analysis for the paper *Graded against the group: language models make a student's grade depend on
-the classmates* (PNAS Nexus, submitted).
+Data, code and analysis for the paper *One student at a time: large language models do not grade students independently when they share a context* (PNAS Nexus, submitted).
 
 Large language models graded 720 synthetic student texts (German as a foreign language, Swedish school years 6–9)
 alone, in one prompt with the whole group (batch), and one student after another in the same conversation (chat).
